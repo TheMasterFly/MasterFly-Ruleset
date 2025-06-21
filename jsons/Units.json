@@ -3,7 +3,7 @@
 		"name": "Haha",
 		"unitType": "Ranged",
 		"uniqueTo": "name",
-		"replaces": "Machine Gun",
+		"replaces": "Warrior",
 		"movement": 2,
 		"strength": 255,
 		"rangedStrength": 255,
