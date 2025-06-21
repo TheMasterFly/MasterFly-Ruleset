@@ -1,17 +1,17 @@
 [
 	{
-		"name": "Phasers",
+		"name": "Haha",
 		"unitType": "Ranged",
-		"uniqueTo": "Aliens",
+		"uniqueTo": "name",
 		"replaces": "Machine Gun",
 		"movement": 2,
-		"strength": 90,
-		"rangedStrength": 36,
-		"range": 2,
-		"cost": 500,
-		"requiredTech": "Ballistics",
-		"requiredResource": "Uranium",
-		"promotions": ["Logistics","Accuracy I"],
+		"strength": 255,
+		"rangedStrength": 255,
+		"range": 10,
+		"cost": 5,
+		"requiredTech": "Pottery",
+		"requiredResource": "None",
+		"promotions": ["Logistics","Indirect Fire"],
 		"attackSound": "phasers"
 	}
 ]
