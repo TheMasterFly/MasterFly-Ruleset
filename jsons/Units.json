@@ -10,7 +10,6 @@
 		"range": 10,
 		"cost": 5,
 		"requiredTech": "Pottery",
-		"requiredResource": "None",
 		"promotions": ["Logistics","Indirect Fire"],
 		"attackSound": "phasers"
 	}
