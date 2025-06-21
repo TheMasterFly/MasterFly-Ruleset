@@ -1,6 +1,6 @@
 {
   "name": "Global uniques", 
     "uniques": ["[+3 Science, +69 Gold, +1 Culture] <if [Palace] is constructed>",
-    "[+800 Faith] from every [Palace] <starting from the [Ancient era]>",
+    "Gain [+900] [Faith] <upon founding a city>",
     ]
 }
