@@ -32,8 +32,8 @@
 
 	"uniqueName": "Test Religion",
 	"uniqueText": "religion spread test",
-	"uniques": ["[-1000000]% Spread Religion Strength <in foreign cities>",
-		"[+100000]% Spread Religion Strength <in your cities> <in cities following our religion>"],
+	"uniques": ["[-1000000]% Spread Religion Strength <in foreign cities, Foreign>",
+		"[+100000]% Spread Religion Strength <in your cities, Your> <in cities following our religion>"],
 		
 		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
 			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
