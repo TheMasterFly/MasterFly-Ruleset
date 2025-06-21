@@ -32,7 +32,7 @@
 
 	"uniqueName": "Test Religion",
 	"uniqueText": "Gain a lot of faith",
-	"uniques": ["Gain enough Faith for [1000]% of a Great Prophet"],
+	"uniques": ["Gain [10000] [Faith] <upon founding a city>"],
 		
 		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
 			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
