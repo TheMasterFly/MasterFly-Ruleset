@@ -1,18 +1,18 @@
 [
 	{
-		"name": "name",
-		"leaderName": "Iron Man",
-		"adjective": ["iron men"],
-		"startBias": ["Banana"],
-		"preferredVictoryType": "Scientific",
+		"name": "Mamluks",
+		"leaderName": "Abu'l-Qasim Ahmad al-Mustansir",
+		"adjective": ["Mamluks"],
+		"startBias": ["Avoid [Snow]", "Flood Plains"],
+		"preferredVictoryType": "Domination",
 		
-		"startIntroPart1": "First intro text",
-		"startIntroPart2": "Startintropart2",
+		"startIntroPart1": "Marhaba, great al-Mustansir, of the emergent Mamluk Sultanate!",
+		"startIntroPart2": "Show them who rules the desert!",
 		
-		"declaringWar": "Preparing rectum for insertion",
-		"attacked": "Attacked: LEAGUE OF DRAAAVEN",
-		"defeated": "No, I'm Iron Man",
-		"introduction": "Introduction text",
+		"declaringWar": "God wills it",
+		"attacked": "May God have mercy on you, for I will not",
+		"defeated": "I'll see you in the afterlife",
+		"introduction": "Greetings!",
 		
 		"neutralHello": "How are you doing?",
 		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
@@ -24,16 +24,15 @@
 		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
 		"hateYes": ["That is fine.","That is good enough.","Very well..."],
 		
-		"afterPeace": "Very well, all that fighting was getting boring anyway.",
+		"afterPeace": "Very well.",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 
 		"outerColor": [16,16,16],
 		"innerColor": [255,200,200],
 
-	"uniqueName": "Test Religion",
-	"uniqueText": "religion spread test",
-	"uniques": ["[-1000000]% Spread Religion Strength [{in foreign cities} {Foreign}]",
-		"[+100000]% Spread Religion Strength [{in your cities} {Your} {in cities following our religion}]"],
+	"uniqueName": "Nile Supremacy",
+	"uniqueText": "nile supremacy",
+	"uniques": ["[+1 Production] from [River] tiles [in your cities]"],
 		
 		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
 			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
