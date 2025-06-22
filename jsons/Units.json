@@ -1,16 +1,16 @@
 [
 	{
-		"name": "Haha",
+		"name": "Mamluk Cavalry Archer",
 		"unitType": "Ranged",
-		"uniqueTo": "name",
-		"replaces": "Warrior",
-		"movement": 2,
-		"strength": 255,
-		"rangedStrength": 255,
-		"range": 10,
-		"cost": 5,
-		"requiredTech": "Pottery",
-		"promotions": ["Logistics","Indirect Fire"],
-		"attackSound": "phasers"
+		"uniqueTo": "Mamluks",
+		"replaces": "Composite Bowman",
+		"movement": 3,
+		"strength": 8,
+		"rangedStrength": 13,
+		"range": 2,
+		"cost": 65,
+		"requiredTech": "Construction",
+		"promotions": ["Accuracy I"],
+		"attackSound": "arrow.mp3"
 	}
 ]
