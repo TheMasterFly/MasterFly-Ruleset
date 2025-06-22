@@ -42,7 +42,7 @@
 		"culture": 2,
 		"faith": 2,
 		"science": 1,
-		"uniques": ["[+1 Culture, +1 Faith] from [Wine] tiles [in this city]", "[+1 Culture, +1 Faith] from [Incense] tiles [in this city]",
+		"uniques": ["[+1 Culture, +1 Faith] from [Wine] tiles [in this city]", "[+1 Culture, +1 Faith] from [Incense] tiles [in this city]"],
 		"requiredBuilding": "Temple",
 	},
 	{
