@@ -1,25 +1,15 @@
 [
 	{
-		"name": "Building Thing",
-		"replaces": "Monument",
-		"uniqueTo": "name",
-		"cost": 5,
-		"hurryCostModifier": 100,
-		"happiness": 12,
-		"culture": 12,
-		"science": 12,
-		"maintenance": 0,
-		"isNationalWonder": false,
-		"requiredTech": "Pottery"
-	},
-	{
-		"name": "Breeders",
-		"replaces": "Aqueduct",
-		"uniqueTo": "name",
-		"cost": 80,
-		"hurryCostModifier": 160,
+		"name": "Mamluk Mosque",
+		"replaces": "Mosque",
+		"uniqueTo": "Mamluks",
+		"cost": 100,
 		"happiness": 2,
-		"uniques": ["40% of food is carried over after a new citizen is born"],
-		"requiredTech": "Engineering"
-	}
+		"culture": 1,
+		"faith": 3,
+		"gold": 2,
+		"percentStatBonus": {"gold": 25},
+		"requiredBuilding": "Temple",
+		"uniques": ["Unbuildable <before adopting [Mosques]>", "Only available <when religion is enabled>"]
+	},
 ]
