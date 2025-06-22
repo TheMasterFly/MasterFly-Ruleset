@@ -12,4 +12,16 @@
 		"requiredBuilding": "Temple",
 		"uniques": ["Unbuildable <before adopting [Mosques]>", "Only available <when religion is enabled>"]
 	}
+		{
+		"name": "Byzantine Mosque",
+		"replaces": "Mosque",
+		"uniqueTo": "Byzantium",
+		"cost": 100,
+		"happiness": 2,
+		"culture": 1,
+		"faith": 3,
+		"science": 1,
+		"requiredBuilding": "Temple",
+		"uniques": ["Unbuildable <before adopting [Mosques]> except <for [Byzantium] Civilizations>", "Only available <when religion is enabled>"]
+	}
 ]
