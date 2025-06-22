@@ -3,7 +3,7 @@
 		"name": "Mamluks",
 		"leaderName": "Abu'l-Qasim Ahmad al-Mustansir",
 		"adjective": ["Mamluks"],
-		"startBias": ["Avoid [Snow]", "Avoid [Tundra]", "Flood Plains"],
+		"startBias": ["Flood plains", "Desert"],
 		"preferredVictoryType": "Domination",
 		
 		"startIntroPart1": "Marhaba, great al-Mustansir, of the emergent Mamluk Sultanate!",
@@ -26,17 +26,16 @@
 		
 		"afterPeace": "Very well.",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
-
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
-
-	"uniqueName": "Nile Supremacy",
-	"uniqueText": "nile supremacy",
-	"uniques": ["[+1 Production] from [River] tiles [in your cities]"],
 		
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+		"outerColor": [46,25,12],
+		"innerColor": [252,186,3],
+		
+		"uniqueName": "Mamluk Mercenaries",
+		"uniqueText": "Cost of purchasing units -33%, units gain +50% XP and purchased Archers gain the Accuracy I Promotion",
+		"uniques": ["[Gold] cost of purchasing units in cities [-33]%", "[+33]%", "[+50]% XP gained from combat <for [Land] units>",
+		"[Archery] units gain the [Accuracy I] promotion"],
+		
+		"cities": ["Cairo", "Alexandria", "Damietta", "Fustat", "Rosetta", "Aswan", "Damascus", "Aleppo", "Jerusalem",
+		"Gaza", "Tripoli", "Homs", "Hama","Beirut", "Safed", "Nablus", "Mecca", "Medina", "Jeddah", "Famagusta"]
 	}
 ]
