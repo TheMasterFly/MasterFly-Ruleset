@@ -21,7 +21,7 @@
 		"culture": 3,
 		"faith": 1,
 		"science": 1,
-		"uniques": ["Unbuildable", "Can be purchased with ["180" Faith] [in all cities]"],
+		"uniques": ["Unbuildable", "Can be purchased with [[180] Faith] [in all cities]"],
 		"requiredBuilding": "Temple",
 		"specialistSlots": {"Artist": 1},
 	},
