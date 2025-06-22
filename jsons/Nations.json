@@ -3,7 +3,7 @@
 		"name": "Mamluks",
 		"leaderName": "Abu'l-Qasim Ahmad al-Mustansir",
 		"adjective": ["Mamluks"],
-		"startBias": ["Flood plains", "Desert"],
+		"startBias": ["Flood Plains", "Desert"],
 		"preferredVictoryType": "Domination",
 		
 		"startIntroPart1": "Marhaba, great al-Mustansir, of the emergent Mamluk Sultanate!",
@@ -37,5 +37,43 @@
 		
 		"cities": ["Cairo", "Alexandria", "Damietta", "Fustat", "Rosetta", "Aswan", "Damascus", "Aleppo", "Jerusalem",
 		"Gaza", "Tripoli", "Homs", "Hama","Beirut", "Safed", "Nablus", "Mecca", "Medina", "Jeddah", "Famagusta"]
+	}
+	{
+		"name": "Byzantium",
+		"leaderName": "Justinian I",
+		"adjective": ["Byzantines"],
+		"startBias": ["Coast", "Avoid [Tundra]"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "Greetings, Emperor Justinian!",
+		"startIntroPart2": "Rebuild the greatest empire to ever grace the Mediterranean!",
+		
+		"declaringWar": "God wills it",
+		"attacked": "May God have mercy on you, for I will not",
+		"defeated": "I'll see you in the afterlife",
+		"introduction": "Greetings!",
+		
+		"neutralHello": "How are you doing?",
+		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
+		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
+		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+
+		"hateHello": "What do you want now?",
+		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
+		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
+		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		
+		"afterPeace": "Very well.",
+		"tradeRequest": "We bestow you the honor of this trade offer.",
+		
+		"outerColor": [37,150,190],
+		"innerColor": [255, 255, 255],
+		
+		"uniqueName": "Center of the World",
+		"uniqueText": "May buy all religious buildings without needing the religious belief for it. +1 Science from all religious buildings.",
+		"uniques": ["[Unlocks [Cathedral]] [Unlocks [Mosque]] [Unlocks [Monastery]] [Unlocks [Pagoda]] [in cities following this religion] <for [Byzantium] Civilizations>"],
+		
+		"cities": ["Constantinople", "Thessalonica", "Adrianople", "Nicomedia", "Nicaea", "Trebizond", "Ephesus", "Ravenna", "Smyrna", "Amaseia",
+		"Amastris", "Dyrrhachium", "Naissus", "Ancyra", "Iconium", "Attaleia", "Sinope", "Heraclea", "Philippopolis", "Corinth"]
 	}
 ]
