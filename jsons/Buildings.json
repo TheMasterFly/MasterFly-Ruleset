@@ -45,7 +45,7 @@
 		"culture": 2,
 		"faith": 2,
 		"science": 1,
-		"uniques": ["Unbuildable", "Can be purchased with [180 Faith] [in all cities]", [+1 Culture, +1 Faith] from [Wine] tiles [in this city]", "[+1 Culture, +1 Faith] from [Incense] tiles [in this city]"],
+		"uniques": ["Unbuildable", "Can be purchased with [180 Faith] [in all cities]", "[+1 Culture, +1 Faith] from [Wine] tiles [in this city]", "[+1 Culture, +1 Faith] from [Incense] tiles [in this city]"],
 		"requiredBuilding": "Temple",
 	},
 	{
