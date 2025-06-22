@@ -11,5 +11,5 @@
 		"percentStatBonus": {"gold": 25},
 		"requiredBuilding": "Temple",
 		"uniques": ["Unbuildable <before adopting [Mosques]>", "Only available <when religion is enabled>"]
-	},
+	}
 ]
