@@ -9,7 +9,7 @@
 		"faith": 4,
 		"gold": 2,
 		"percentStatBonus": {"gold": 25},
-		"uniques": ["Unbuildable", "Can be purchased with [313 Faith] [in all cities]"],
+		"uniques": ["Unbuildable", "Can be purchased with "313" [Faith] [in all cities]"],
 		"requiredBuilding": "Temple",
 	},
 	{
