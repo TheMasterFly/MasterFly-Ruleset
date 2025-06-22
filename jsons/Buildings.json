@@ -3,25 +3,58 @@
 		"name": "Mamluk Mosque",
 		"replaces": "Mosque",
 		"uniqueTo": "Mamluks",
-		"cost": 100,
+		"cost": 0,
 		"happiness": 2,
 		"culture": 1,
 		"faith": 3,
 		"gold": 2,
 		"percentStatBonus": {"gold": 25},
 		"requiredBuilding": "Temple",
-		"uniques": ["Unbuildable <before adopting [Mosques]>", "Only available <when religion is enabled>"]
+	}
+		{
+		"name": "Orthodox Cathedral",
+		"replaces": "Cathedral",
+		"uniqueTo": "Byzantium",
+		"cost": 0,
+		"happiness": 1,
+		"culture": 3,
+		"faith": 1,
+		"science": 1,
+		"requiredBuilding": "Temple",
+		"specialistSlots": {"Artist": 1},
 	}
 		{
 		"name": "Byzantine Mosque",
 		"replaces": "Mosque",
 		"uniqueTo": "Byzantium",
-		"cost": 100,
-		"happiness": 2,
-		"culture": 1,
+		"cost": 0,
+		"happiness": 1,
+		"culture": 2,
 		"faith": 3,
 		"science": 1,
 		"requiredBuilding": "Temple",
-		"uniques": ["Unbuildable <before adopting [Mosques]> except <for [Byzantium] Civilizations>", "Only available <when religion is enabled>"]
+	}
+		{
+		"name": "Orthodox Monastery",
+		"replaces": "Monastery",
+		"uniqueTo": "Byzantium",
+		"cost": 0,
+		"culture": 2,
+		"faith": 2,
+		"science": 1,
+		"uniques": ["[+1 Culture, +1 Faith] from [Wine] tiles [in this city]", "[+1 Culture, +1 Faith] from [Incense] tiles [in this city]",
+		"requiredBuilding": "Temple",
+	}
+	}
+		{
+		"name": "Tang Pagoda",
+		"replaces": "Pagoda",
+		"uniqueTo": "Byzantium",
+		"cost": 0,
+		"happiness": 2,
+		"culture": 2,
+		"faith": 2,
+		"science": 1,
+		"requiredBuilding": "Temple",
 	}
 ]
