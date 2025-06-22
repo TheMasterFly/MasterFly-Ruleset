@@ -27,8 +27,8 @@
 		"afterPeace": "Very well.",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 		
-		"outerColor": [46,25,12],
-		"innerColor": [252,186,3],
+		"outerColor": [37,150,190],
+		"innerColor": [255, 255, 255],
 		
 		"uniqueName": "Mamluk Mercenaries",
 		"uniqueText": "Cost of purchasing units -33%, units gain +50% XP and purchased Archers gain the Accuracy I Promotion",
