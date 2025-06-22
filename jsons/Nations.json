@@ -3,7 +3,7 @@
 		"name": "Mamluks",
 		"leaderName": "Abu'l-Qasim Ahmad al-Mustansir",
 		"adjective": ["Mamluks"],
-		"startBias": ["Avoid [Snow]", "Flood Plains"],
+		"startBias": ["Avoid [Snow]", "Avoid [Tundra]", "Flood Plains"],
 		"preferredVictoryType": "Domination",
 		
 		"startIntroPart1": "Marhaba, great al-Mustansir, of the emergent Mamluk Sultanate!",
