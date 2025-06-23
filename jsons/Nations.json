@@ -72,9 +72,9 @@
 		"uniques": ["May buy [Cathedral] buildings with [Faith] [in all cities]",
 		"May buy [Mosque] buildings with [Faith] [in all cities]",
 		"May buy [Pagoda] buildings with [Faith] [in all cities]",
-		"[+1 Science] from every [Cathedral] [in all cities]",
-    		"[+1 Science] from every [Mosque] [in all cities]",
-    		"[+1 Science] from every [Pagoda] [in all cities]"],
+		"[+1 Science] from every [Cathedral]",
+    		"[+1 Science] from every [Mosque]",
+    		"[+1 Science] from every [Pagoda]"],
 		
 		"cities": ["Constantinople", "Thessalonica", "Adrianople", "Nicomedia", "Nicaea", "Trebizond", "Ephesus", "Ravenna", "Smyrna", "Amaseia",
 		"Amastris", "Dyrrhachium", "Naissus", "Ancyra", "Iconium", "Attaleia", "Sinope", "Heraclea", "Philippopolis", "Corinth"]
