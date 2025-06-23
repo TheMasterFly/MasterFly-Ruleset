@@ -27,13 +27,12 @@
 		"afterPeace": "Very well.",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 		
-		"outerColor": [37,150,190],
-		"innerColor": [255, 255, 255],
+		"outerColor": [255, 255, 255],
+		"innerColor": [37,150,190],
 		
 		"uniqueName": "Mamluk Mercenaries",
 		"uniqueText": "Cost of purchasing land units -33%, land units gain +50% XP and ranged land units gain the Accuracy I Promotion",
-		"uniques": ["[Gold] cost of purchasing [Land] units [-33]%", "[+50]% XP gained from combat <for [Land] units>",
-		"[{Ranged}{Land}] units gain the [Accuracy I] promotion"],
+		"uniques": ["[Gold] cost of purchasing [Land] units [-33]%", "[+50]% XP gained from combat <for [Land] units>"],
 		
 		"cities": ["Cairo", "Alexandria", "Damietta", "Fustat", "Rosetta", "Aswan", "Damascus", "Aleppo", "Jerusalem",
 		"Gaza", "Tripoli", "Homs", "Hama","Beirut", "Safed", "Nablus", "Mecca", "Medina", "Jeddah", "Famagusta"]
