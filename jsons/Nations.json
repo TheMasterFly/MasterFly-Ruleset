@@ -33,7 +33,7 @@
 		"uniqueName": "Mamluk Mercenaries",
 		"uniqueText": "Cost of purchasing [units] -33%, units gain +50% XP and purchased Archers gain the Accuracy I Promotion",
 		"uniques": ["[Gold] cost of purchasing units in cities [-33]%", "[+33]%", "[+50]% XP gained from combat <for [Land] units>",
-		"[Archery] units gain the [Accuracy I] promotion"],
+		"[{Ranged}{Land}] units gain the [Accuracy I] promotion"],
 		
 		"cities": ["Cairo", "Alexandria", "Damietta", "Fustat", "Rosetta", "Aswan", "Damascus", "Aleppo", "Jerusalem",
 		"Gaza", "Tripoli", "Homs", "Hama","Beirut", "Safed", "Nablus", "Mecca", "Medina", "Jeddah", "Famagusta"]
