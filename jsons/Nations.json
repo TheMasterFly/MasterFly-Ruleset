@@ -71,7 +71,7 @@
 		
 		"uniqueName": "Center of the World",
 		"uniqueText": "May buy all religious buildings without needing the religious belief for it. +1 Science from all religious buildings.",
-		"uniques": ["May buy [Cathedral] buildings with [Faith] [in all cities] <for [Byzantium] Civilizations>"],
+		"uniques": ["May buy [Cathedral] buildings with [Faith] [in all cities] <for [Byzantium] Civilizations>", "May buy [Mosque] buildings with [Faith] [in all cities] <for [Byzantium] Civilizations>", "May buy [Monastery] buildings with [Faith] [in all cities] <for [Byzantium] Civilizations>", "May buy [Pagoda] buildings with [Faith] [in all cities] <for [Byzantium] Civilizations>"],
 		
 		"cities": ["Constantinople", "Thessalonica", "Adrianople", "Nicomedia", "Nicaea", "Trebizond", "Ephesus", "Ravenna", "Smyrna", "Amaseia",
 		"Amastris", "Dyrrhachium", "Naissus", "Ancyra", "Iconium", "Attaleia", "Sinope", "Heraclea", "Philippopolis", "Corinth"]
