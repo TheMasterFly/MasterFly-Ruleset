@@ -32,7 +32,7 @@
 		
 		"uniqueName": "Mamluk Mercenaries",
 		"uniqueText": "Cost of purchasing land units -33%, land units gain +50% XP and ranged land units gain the Accuracy I Promotion",
-		"uniques": ["[Gold] cost of purchasing [Land] units [-33]%", "[+33]%", "[+50]% XP gained from combat <for [Land] units>",
+		"uniques": ["[Gold] cost of purchasing [Land] units [-33]%", "[+50]% XP gained from combat <for [Land] units>",
 		"[{Ranged}{Land}] units gain the [Accuracy I] promotion"],
 		
 		"cities": ["Cairo", "Alexandria", "Damietta", "Fustat", "Rosetta", "Aswan", "Damascus", "Aleppo", "Jerusalem",
