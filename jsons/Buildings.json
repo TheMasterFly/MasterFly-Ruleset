@@ -9,7 +9,7 @@
 		"faith": 4,
 		"gold": 2,
 		"percentStatBonus": {"gold": 25},
-		"uniques": ["Unbuildable", "Can be purchased for [313] [Faith] [in all cities]"],
+		"uniques": ["Unbuildable", "Can be purchased for [313] [Faith] [in all cities]", "Only available <when religion is enabled>"],
 		"requiredBuilding": "Temple",
 	},
 	{
@@ -34,7 +34,7 @@
 		"culture": 2,
 		"faith": 3,
 		"science": 1,
-		"uniques": ["Unbuildable", "Can be purchased for [180] [Faith] [in all cities]"],
+		"uniques": ["Unbuildable", "Can be purchased for [180] [Faith] [in all cities]", "Only available <when religion is enabled>"],
 		"requiredBuilding": "Temple",
 	},
 	{
@@ -45,7 +45,8 @@
 		"culture": 2,
 		"faith": 2,
 		"science": 1,
-		"uniques": ["Unbuildable", "Can be purchased for [180] [Faith] [in all cities]", "[+1 Culture, +1 Faith] from [Wine] tiles [in this city]", "[+1 Culture, +1 Faith] from [Incense] tiles [in this city]"],
+		"uniques": ["Unbuildable", "Can be purchased for [180] [Faith] [in all cities]", "[+1 Culture, +1 Faith] from [Wine] tiles [in this city]",
+			"[+1 Culture, +1 Faith] from [Incense] tiles [in this city]", "Only available <when religion is enabled>"],
 		"requiredBuilding": "Temple",
 	},
 	{
@@ -57,7 +58,7 @@
 		"culture": 2,
 		"faith": 2,
 		"science": 1,
-		"uniques": ["Unbuildable", "Can be purchased for [180] [Faith] [in all cities]"],
+		"uniques": ["Unbuildable", "Can be purchased for [180] [Faith] [in all cities]", "Only available <when religion is enabled>"],
 		"requiredBuilding": "Temple",
 	}
 ]
