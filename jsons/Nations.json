@@ -71,8 +71,8 @@
 		
 		"uniqueName": "Center of the World",
 		"uniqueText": "May buy all religious buildings without needing the religious belief for it. +1 Science from all religious buildings.",
-		"uniques": ["May purchase [Pagoda] with [Faith]", "May purchase [Mosque] with [Faith]", "May purchase [Cathedral] with [Faith]",
-		"May purchase [Monastery] with [Faith]"]
+		"uniques": ["Free [Cathedrals] belief when founding a Religion", "Free [Mosques] belief when founding a Religion",
+		"Free [Monasteries] belief when founding a Religion", "Free [Pagodas] belief when founding a Religion"],
 		
 		"cities": ["Constantinople", "Thessalonica", "Adrianople", "Nicomedia", "Nicaea", "Trebizond", "Ephesus", "Ravenna", "Smyrna", "Amaseia",
 		"Amastris", "Dyrrhachium", "Naissus", "Ancyra", "Iconium", "Attaleia", "Sinope", "Heraclea", "Philippopolis", "Corinth"]
