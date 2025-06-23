@@ -1,15 +1,12 @@
 [
 	{
-		"name": "Mamluk Mosque",
-		"replaces": "Mosque",
-		"uniqueTo": "Mamluks",
+		"name": "Crusader Garrisons",
+		"replaces": "Castle",
+		"uniqueTo": "Byzantium",
 		"cost": 0,
-		"happiness": 2,
-		"culture": 1,
-		"faith": 4,
-		"gold": 2,
-		"percentStatBonus": {"gold": 25},
-		"uniques": ["Unbuildable", "Can be purchased for [313] [Faith] [in all cities]", "Only available <when religion is enabled>"],
+		"happiness": 1,
+		"gold": 1,
+		"percentStatBonus": {"faith": 25},
 		"requiredBuilding": "Temple",
 	}
 ]
