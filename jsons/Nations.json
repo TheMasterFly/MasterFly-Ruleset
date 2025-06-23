@@ -32,7 +32,7 @@
 		
 		"uniqueName": "Mamluk Mercenaries",
 		"uniqueText": "Cost of purchasing land units -33% and land units gain +50% XP",
-		
+		"unique": ["May buy [Mosque] buildings with [Faith] [in all cities]"],
 		"cities": ["Cairo", "Alexandria", "Damietta", "Fustat", "Rosetta", "Aswan", "Damascus", "Aleppo", "Jerusalem",
 		"Gaza", "Tripoli", "Homs", "Hama","Beirut", "Safed", "Nablus", "Mecca", "Medina", "Jeddah", "Famagusta"]
 	}
@@ -71,7 +71,8 @@
 		"uniqueText": "May buy all religious buildings without needing the religious belief for it. +1 Science from all religious buildings.",
 		"uniques": ["May buy [Cathedral] buildings with [Faith] [in all cities]",
 		"May buy [Mosque] buildings with [Faith] [in all cities]",
-		"May buy [Pagoda] buildings with [Faith] [in all cities]"],
+		"May buy [Pagoda] buildings with [Faith] [in all cities]",
+		"[+1 Science] from every [{Cathedral} {Mosque} {Pagoda}]"],
 		
 		"cities": ["Constantinople", "Thessalonica", "Adrianople", "Nicomedia", "Nicaea", "Trebizond", "Ephesus", "Ravenna", "Smyrna", "Amaseia",
 		"Amastris", "Dyrrhachium", "Naissus", "Ancyra", "Iconium", "Attaleia", "Sinope", "Heraclea", "Philippopolis", "Corinth"]
