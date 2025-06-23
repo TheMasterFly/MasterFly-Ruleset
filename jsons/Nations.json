@@ -32,7 +32,7 @@
 		
 		"uniqueName": "Mamluk Mercenaries",
 		"uniqueText": "Cost of purchasing land units -33% and land units gain +50% XP",
-		"unique": ["May buy [Mosque] buildings with [Faith] [in all cities]"],
+		"unique": ["May buy [Mosque] buildings with [Faith] [in all cities]", "[+2 Gold] from every [Mosque]"],
 		"cities": ["Cairo", "Alexandria", "Damietta", "Fustat", "Rosetta", "Aswan", "Damascus", "Aleppo", "Jerusalem",
 		"Gaza", "Tripoli", "Homs", "Hama","Beirut", "Safed", "Nablus", "Mecca", "Medina", "Jeddah", "Famagusta"]
 	}
@@ -68,13 +68,13 @@
         	"innerColor": [80,23,135],
 		
 		"uniqueName": "Center of the World",
-		"uniqueText": "May buy [Cathedral], [Mosque] and [Pagoda] buildings without needing their respective religious belief. +1 [Science] from [Cathedral], [Mosque] and [Pagoda].",
+		"uniqueText": "May buy [Cathedral], [Mosque] and [Pagoda] buildings without needing their respective religious belief. +1 [Science] from [Cathedral], [Mosque] and [Pagoda] from the Medieval Era.",
 		"uniques": ["May buy [Cathedral] buildings with [Faith] [in all cities]",
 		"May buy [Mosque] buildings with [Faith] [in all cities]",
 		"May buy [Pagoda] buildings with [Faith] [in all cities]",
-		"[+1 Science] from every [Cathedral]",
-    		"[+1 Science] from every [Mosque]",
-    		"[+1 Science] from every [Pagoda]"],
+		"[+1 Science] from every [Cathedral] <starting from the [Medieval era]>",
+    		"[+1 Science] from every [Mosque] <starting from the [Medieval era]>",
+    		"[+1 Science] from every [Pagoda] <starting from the [Medieval era]>"],
 		
 		"cities": ["Constantinople", "Thessalonica", "Adrianople", "Nicomedia", "Nicaea", "Trebizond", "Ephesus", "Ravenna", "Smyrna", "Amaseia",
 		"Amastris", "Dyrrhachium", "Naissus", "Ancyra", "Iconium", "Attaleia", "Sinope", "Heraclea", "Philippopolis", "Corinth"]
