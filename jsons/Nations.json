@@ -31,8 +31,8 @@
 		"innerColor": [37,150,190],
 		
 		"uniqueName": "Mamluk Mercenaries",
-		"uniqueText": "Cost of purchasing land units -33%, land units gain +50% XP and ranged land units gain the Accuracy I Promotion",
-		"uniques": ["[Gold] cost of purchasing [Land] units [+33]%", "[+50]% XP gained from combat <for [Land] units>"],
+		"uniqueText": "Cost of purchasing land units -33% and land units gain +50% XP",
+		"uniques": ["[Gold] cost of purchasing [Land] units [-33]%", "[+50]% XP gained from combat <for [Land] units>"],
 		
 		"cities": ["Cairo", "Alexandria", "Damietta", "Fustat", "Rosetta", "Aswan", "Damascus", "Aleppo", "Jerusalem",
 		"Gaza", "Tripoli", "Homs", "Hama","Beirut", "Safed", "Nablus", "Mecca", "Medina", "Jeddah", "Famagusta"]
@@ -70,7 +70,8 @@
 		
 		"uniqueName": "Center of the World",
 		"uniqueText": "May buy all religious buildings without needing the religious belief for it. +1 Science from all religious buildings.",
-		"uniques": ["May choose [1] additional belief(s) of any type when [founding] a religion"],
+		"uniques": ["May buy [Cathedral] buildings with [Faith]", "May buy [Mosque] buildings with [Faith]",
+		"May buy [Pagoda] buildings with [Faith]"],
 		
 		"cities": ["Constantinople", "Thessalonica", "Adrianople", "Nicomedia", "Nicaea", "Trebizond", "Ephesus", "Ravenna", "Smyrna", "Amaseia",
 		"Amastris", "Dyrrhachium", "Naissus", "Ancyra", "Iconium", "Attaleia", "Sinope", "Heraclea", "Philippopolis", "Corinth"]
