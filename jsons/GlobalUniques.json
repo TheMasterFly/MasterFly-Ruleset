@@ -1,5 +1,4 @@
 {
   "name": "Global uniques",
-    "Gain [+900] [Faith] <upon founding a city>"
-    ]
+  "uniques": ["Gain [+900] [Faith] <upon founding a city>"]
 }
