@@ -32,7 +32,6 @@
 		
 		"uniqueName": "Mamluk Mercenaries",
 		"uniqueText": "Cost of purchasing land units -33% and land units gain +50% XP",
-		"uniques": ["[Gold] cost of purchasing [Land] units [-33]%", "[+50]% XP gained from combat <for [Land] units>"],
 		
 		"cities": ["Cairo", "Alexandria", "Damietta", "Fustat", "Rosetta", "Aswan", "Damascus", "Aleppo", "Jerusalem",
 		"Gaza", "Tripoli", "Homs", "Hama","Beirut", "Safed", "Nablus", "Mecca", "Medina", "Jeddah", "Famagusta"]
