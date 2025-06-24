@@ -28,7 +28,7 @@
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 		
 		"outerColor": [255, 255, 255],
-		"innerColor": [37,150,190],
+		"innerColor": [230, 255, 0],
 		
 		"uniqueName": "Mamluk Mercenaries",
 		"uniqueText": "Cost of purchasing land units -33% and land units gain +50% XP",
