@@ -76,7 +76,7 @@
 		"[+1 Culture] from every [Cathedral] <starting from the [Medieval era]>",
     		"[+1 Faith] from every [Mosque] <starting from the [Medieval era]>",
     		"[+1 Food] from every [Pagoda] <starting from the [Medieval era]>",
-		"[+100]% [Science] [in this city] <with [Cathedral], [Mosque], [Pagoda]>",
+		"[+100]% [Science] [in this city] <with [[Cathedral], [Mosque], [Pagoda]]>",
 		"[-1 Gold] [in all cities] <starting from the [Medieval era]>",
 		"[-1 Gold] [in all cities] <starting from the [Industrial era]>"],
 		
