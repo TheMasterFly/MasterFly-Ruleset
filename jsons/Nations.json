@@ -33,7 +33,7 @@
 		"uniqueName": "Mamluk Mercenaries",
 		"uniqueText": "Cost of purchasing land units -33% and land units gain +50% XP",
 		"uniques": ["May buy [Mosque] buildings with [Faith] [in all cities]",
-		"[+2 Gold] from every [Mosque] [in all cities]", "+[25]% [Gold] from every [Mosque]"],
+		"[+2 Gold] from every [Mosque]", "+[25]% [Gold] from every [Mosque]"],
 		"cities": ["Cairo", "Alexandria", "Damietta", "Fustat", "Rosetta", "Aswan", "Damascus", "Aleppo", "Jerusalem",
 		"Gaza", "Tripoli", "Homs", "Hama","Beirut", "Safed", "Nablus", "Mecca", "Medina", "Jeddah", "Famagusta"]
 	},
