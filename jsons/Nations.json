@@ -69,7 +69,7 @@
         	"innerColor": [80,23,135],
 		
 		"uniqueName": "Center of the World",
-		"uniqueText": "May buy [Cathedral], [Mosque] and [Pagoda] buildings without needing their respective religious belief. +1 [Culture] from [Cathedral], +1 [Faith] from [Mosque] and +1 [Food] from [Pagoda] buildings from the Medieval Era. When a city has all three built, gain +[]15]% [Science] in that city.",
+		"uniqueText": "May buy [Cathedral], [Mosque] and [Pagoda] buildings without needing their respective religious belief. +1 [Culture] from [Cathedral], +1 [Faith] from [Mosque] and +1 [Food] from [Pagoda] buildings from the Medieval Era. When a city has all three built, gain +[15]% [Science] in that city.",
 		"uniques": ["May buy [Cathedral] buildings with [Faith] [in all cities]",
 		"May buy [Mosque] buildings with [Faith] [in all cities]",
 		"May buy [Pagoda] buildings with [Faith] [in all cities]",
