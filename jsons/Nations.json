@@ -3,7 +3,7 @@
 		"name": "Mamluks",
 		"leaderName": "Abu'l-Qasim Ahmad al-Mustansir",
 		"adjective": ["Mamluks"],
-		"startBias": ["Flood Plains", "Desert"],
+		"startBias": ["Flood plains", "Desert"],
 		"preferredVictoryType": "Domination",
 		
 		"startIntroPart1": "Marhaba, great al-Mustansir, of the emergent Mamluk Sultanate!",
@@ -38,6 +38,43 @@
 		"[+50]% XP gained from combat"],
 		"cities": ["Cairo", "Alexandria", "Damietta", "Fustat", "Rosetta", "Aswan", "Damascus", "Aleppo", "Jerusalem",
 		"Gaza", "Tripoli", "Homs", "Hama","Beirut", "Safed", "Nablus", "Mecca", "Medina", "Jeddah", "Famagusta"]
+	},
+	{
+		"name": "Crusader States",
+		"leaderName": "Baldwin I",
+		"adjective": ["Crusader States"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "Greetings, mighty Baldwin I! May you lead the 4 Crusader States into glory! The Counties of Edessa and Tripoli, Principality of Antioch and Kingdom of Jerusalem call for you to restore their former glory!",
+		"startIntroPart2": "Go forth and spread the brilliance of God before you!",
+		
+		"declaringWar": "For the Lord!",
+		"attacked": "I'll see you twice; once on the battlefield and once in Hell!",
+		"defeated": "Will I rise or fall?",
+		"introduction": "Greetings!",
+		
+		"neutralHello": "How are you doing?",
+		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
+		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
+		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+
+		"hateHello": "Speak quickly, for I have more important issues to attend to.",
+		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
+		"hateNo": ["Impossible.","I refuse.","A better deal would be offered from Satan himself."],
+		"hateYes": ["This works.","That is good enough.","Very well."],
+		
+		"afterPeace": "May this peace last.",
+		"tradeRequest": "We bestow you the honor of this trade offer.",
+		
+		"outerColor": [255, 255, 255],
+		"innerColor": [0, 0, 0],
+
+		"uniqueName": "Outremer",
+		"uniqueText": "Banana",
+		"uniques": [],
+		"cities": ["Jerusalem", "Antioch", "Edessa", "Tripoli", "Tyre", "Acre" "Beirut", "Sidon", "Jaffa", "Ascalon", "Nablus",
+		"Tiberias", "Haifa", "Gaza", "Ramla", "Tortosa", "Gibelet", "Bethlehem", "Hebron", "Nazareth"]
 	},
 	{
 		"name": "Byzantium",
