@@ -2,6 +2,7 @@
   	{
 	        "name": "Crusader Castle",
 	        "uniqueTo": "Crusader States",
+		"terrainsCanBeBuiltOn": ["Land"],
 		
 		"uniques": ["Great Improvement",
 		"[+2 Food] from [Grassland] tiles",
