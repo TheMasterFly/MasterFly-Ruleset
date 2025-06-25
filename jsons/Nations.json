@@ -72,7 +72,7 @@
 		
 		"uniqueName": "Outremer",
 		"uniques": ["May buy [Military] units with [Faith] for [2] times their normal Production cost <before discovering [Classical era]>",
-		"May buy [Military] units with [Faith] for [1.5] times their normal Production cost <starting from the [Classical era]> <before discovering [Medieval era]>",
+		"May buy [Military] units with [Faith] for [3] times their normal Production cost <starting from the [Classical era]> <before discovering [Medieval era]>",
 		"May buy [Military] units with [Faith] for [1] times their normal Production cost <starting from the [Medieval era]>"],
 		"cities": ["Jerusalem", "Antioch", "Edessa", "Tripoli", "Tyre", "Acre", "Beirut", "Sidon", "Jaffa", "Ascalon", "Nablus",
 		"Tiberias", "Haifa", "Gaza", "Ramla", "Tortosa", "Gibelet", "Bethlehem", "Hebron", "Nazareth"]
