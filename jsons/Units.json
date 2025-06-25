@@ -22,5 +22,6 @@
         "Can instantly construct a [Crusader Castle] improvement <by consuming this unit>",
         "Is part of Great Person group [General]",
 	"Great Person - [War]", "Unbuildable", "Uncapturable"]
+	"movement": 2
 	}
 ]
