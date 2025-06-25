@@ -12,6 +12,7 @@
 		"[+1 Food] from [Desert] tiles",
 		"[+1 Faith] from [Desert] tiles",
 		"[+2 Food] from [Tundra] tiles",
+		"[+1 Culture] <after discovering [Flight]>",
 		"Gives a defensive bonus of [150]%",
 		"Adjacent enemy units ending their turn take [40] damage",
 		"Can be built just outside your borders",
