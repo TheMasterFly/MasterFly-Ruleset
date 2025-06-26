@@ -34,7 +34,7 @@
 		"obsoleteTech": "Military Science",
 		"upgradesTo": "Cavalry",
 		"requiredResource": "Horses",
-		"uniques": ["No defensive terrain bonus", "Never appears as a Barbarian unit", "Can Spread Religion <for [1] movement> <[1] times>", "Can be purchased with [Faith] [in all cities]"],
+		"uniques": ["No defensive terrain bonus", "Never appears as a Barbarian unit", "Can Spread Religion <for [2] movement> <[1] times>", "Can be purchased with [Faith] [in all cities]"],
 		"attackSound": "horse"
 	}
 ]
