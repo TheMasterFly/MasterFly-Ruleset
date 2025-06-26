@@ -24,13 +24,14 @@
 	},
 	{
 		"name": "Templar Knight",
+	        "replaces": "Knight",
 	        "uniqueTo": "Crusader States",
 		
 		"unitType": "Mounted",
 		"movement": 4,
 		"strength": 22,
 		"cost": 120,
-		"requiredTech": "Pottery",
+		"requiredTech": "Chivalry",
 		"obsoleteTech": "Military Science",
 		"upgradesTo": "Cavalry",
 		"requiredResource": "Horses",
