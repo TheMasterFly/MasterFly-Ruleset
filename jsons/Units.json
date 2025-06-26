@@ -21,5 +21,18 @@
 	        "uniques": ["Can instantly construct a [Crusader Castle] improvement <by consuming this unit>",
 	        "Is part of Great Person group [General]", "Great Person - [War]", "Unbuildable", "Can be earned through combat"],
 		"movement": 2
+	},
+	{
+		"name": "Templar Knight",
+		"unitType": "Mounted",
+		"movement": 4,
+		"strength": 26,
+		"cost": 120,
+		"requiredTech": "Pottery",
+		"obsoleteTech": "Military Science",
+		"upgradesTo": "Cavalry",
+		"requiredResource": "Horses",
+		"uniques": ["No defensive terrain bonus", "Never appears as a Barbarian unit", "Can Spread Religion <for [1] movement> <[1] times>", "Can be purchased for [200] [Faith] [in all cities]"],
+		"attackSound": "horse"
 	}
 ]
