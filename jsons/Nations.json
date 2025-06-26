@@ -72,8 +72,8 @@
 		
 		"uniqueName": "Outremer/Crusades",
 		"uniqueText": "Free Swordsman and Settler appears upon discovering Mathematics \nFree Knight and Settler appears upon discovering Chivalry \nLand units +15% strength and +100% maintenance costs",
-		"uniques": ["[Land] units gain the [Valiantise] promotion <hidden from users>",
-		"[+100]% maintenance costs <for [Land] units>",
+		"uniques": ["[{Military} {Land}] units gain the [Valiantise] promotion <hidden from users>",
+		"[+100]% maintenance costs <for [{Military} {Land}] units>",
 		"Free [Settler] appears <upon discovering [Mathematics] technology>",
 		"Free [Swordsman] appears <upon discovering [Mathematics] technology>",
 		"Free [Settler] appears <upon discovering [Chivalry] technology>",
