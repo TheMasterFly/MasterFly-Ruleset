@@ -2,7 +2,6 @@
       {
         "name": "Valiantise",
         "uniques": ["[+10]% Strength <when attacking>",
-        "[+10]% Strength <when defending>",
-        "[Great General] is earned [100]% faster"]
+        "[+10]% Strength <when defending>"]
     }
 ]
