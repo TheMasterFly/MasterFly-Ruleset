@@ -19,7 +19,7 @@
 	        "uniqueTo": "Crusader States",
 	        "unitType": "Civilian",
 	        "uniques": ["Can instantly construct a [Crusader Castle] improvement <by consuming this unit>",
-	        "Is part of Great Person group [General]", "Great Person - [War]", "Unbuildable"],
+	        "Is part of Great Person group [General]", "Great Person - [War]", "Unbuildable", "Can be earned through combat"],
 		"movement": 2
 	}
 ]
