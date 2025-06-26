@@ -14,14 +14,14 @@
 		"attackSound": "arrow.mp3"
 	},
 	{
-	        "name": "Crusader Castle Engineer",
+	        "name": "Crusader Castle Builder",
 	        "replaces": "Great General",
 	        "uniqueTo": "Crusader States",
 	        "unitType": "Civilian",
 	        "uniques": ["Can be earned through combat",
 	        "Can instantly construct a [Crusader Castle] improvement <by consuming this unit>",
 	        "Is part of Great Person group [General]",
-		"Great Person - [War]", "Unbuildable", "Uncapturable"],
+		"Great Person - [War]", "Unbuildable"],
 		"movement": 2
 	}
 ]
