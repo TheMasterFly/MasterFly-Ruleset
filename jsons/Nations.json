@@ -71,6 +71,7 @@
 		"innerColor": [0, 0, 0],
 		
 		"uniqueName": "Outremer/Crusades",
+		"uniqueText": "Free Swordsman and Settler appears upon discovering Mathematics, \nFree Knight and Settler appears upon discovering Chivalry, \nLand units +15% strength and +100% maintenance costs.",
 		"uniques": ["May buy [Military] units with [Faith] for [2] times their normal Production cost <before discovering [Classical era]>",
 		"May buy [Military] units with [Faith] for [3] times their normal Production cost <starting from the [Classical era]> <before discovering [Medieval era]>",
 		"May buy [Military] units with [Faith] for [1] times their normal Production cost <starting from the [Medieval era]>",
