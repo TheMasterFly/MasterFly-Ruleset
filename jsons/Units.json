@@ -24,6 +24,8 @@
 	},
 	{
 		"name": "Templar Knight",
+	        "uniqueTo": "Crusader States",
+		
 		"unitType": "Mounted",
 		"movement": 4,
 		"strength": 26,
