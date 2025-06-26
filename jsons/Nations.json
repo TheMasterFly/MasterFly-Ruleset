@@ -81,7 +81,7 @@
 		"Free [Swordsman] appears <upon discovering [Mathematics] technology>",
 		"Free [Settler] appears <upon discovering [Chivalry] technology>",
 		"Free [Knight] appears <upon discovering [Chivalry] technology>",
-		"May buy [Great General] units for [10] [Gold] [in this city]"],
+		"May buy [Great General] units for [50] [Gold] [in this city]"],
 		
 		"cities": ["Jerusalem", "Antioch", "Edessa", "Tripoli", "Tyre", "Acre", "Beirut", "Sidon", "Jaffa", "Ascalon", "Nablus",
 		"Tiberias", "Haifa", "Gaza", "Ramla", "Tortosa", "Gibelet", "Bethlehem", "Hebron", "Nazareth"]
