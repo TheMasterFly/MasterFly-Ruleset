@@ -46,8 +46,8 @@
 		"startBias": ["Coast"],
 		"preferredVictoryType": "Domination",
 		
-		"startIntroPart1": "Greetings, mighty Baldwin I! May you lead the 4 Crusader States into glory! The Counties of Edessa and Tripoli, Principality of Antioch and Kingdom of Jerusalem call for you to restore their former glory!",
-		"startIntroPart2": "Go forth and spread the brilliance of God before you!",
+		"startIntroPart1": "Greetings, mighty Baldwin I! The Counties of Edessa and Tripoli, Principality of Antioch and Kingdom of Jerusalem call await your command.",
+		"startIntroPart2": "May you lead the 4 Crusader States into glory!",
 		
 		"declaringWar": "For the Lord!",
 		"attacked": "I'll see you twice; once on the battlefield and once in Hell!",
@@ -71,14 +71,14 @@
 		"innerColor": [0, 0, 0],
 		
 		"uniqueName": "Outremer/Crusades",
-		"uniqueText": "Free Swordsman and Settler appears upon discovering Mathematics, \nFree Knight and Settler appears upon discovering Chivalry, \nLand units +15% strength and +100% maintenance costs.",
+		"uniqueText": "Free Swordsman and Settler appears upon discovering Mathematics \nFree Knight and Settler appears upon discovering Chivalry \nLand units +15% strength and +100% maintenance costs",
 		"uniques": ["[Land] units gain the [Valiantise] promotion <hidden from users>",
 		"[+100]% maintenance costs <for [Land] units>",
 		"Free [Settler] appears <upon discovering [Mathematics] technology>",
 		"Free [Swordsman] appears <upon discovering [Mathematics] technology>",
 		"Free [Settler] appears <upon discovering [Chivalry] technology>",
 		"Free [Knight] appears <upon discovering [Chivalry] technology>",
-		"May buy [Great General] units for [50] [Faith] [in all cities]"],
+		"May buy [Great General] units for [350] [Faith] [in all cities] at an increasing price ([150])"],
 		
 		"cities": ["Jerusalem", "Antioch", "Edessa", "Tripoli", "Tyre", "Acre", "Beirut", "Sidon", "Jaffa", "Ascalon", "Nablus",
 		"Tiberias", "Haifa", "Gaza", "Ramla", "Tortosa", "Gibelet", "Bethlehem", "Hebron", "Nazareth"]
