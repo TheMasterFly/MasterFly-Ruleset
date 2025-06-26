@@ -28,7 +28,7 @@
 		
 		"unitType": "Mounted",
 		"movement": 4,
-		"strength": 26,
+		"strength": 22,
 		"cost": 120,
 		"requiredTech": "Pottery",
 		"obsoleteTech": "Military Science",
