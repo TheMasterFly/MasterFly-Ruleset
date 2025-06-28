@@ -1,5 +1,14 @@
 [
 	{
+		"name": "Settler",
+		"unitType": "Civilian",
+		"movement": 2,
+		"cost": 35,
+		"uniques": ["Founds a new city <by consuming this unit>", "Excess Food converted to Production when under construction", "All tiles cost 1 movement <if [Palace] is not constructed>",
+			"Requires at least [2] population", "Cost increases by [18] when built"],
+		"hurryCostModifier": 15
+	},
+	{
 		"name": "Mamluk Cavalry Archer",
 		"unitType": "Ranged",
 		"uniqueTo": "Mamluks",
