@@ -1,5 +1,6 @@
 [
   {
+  "nationsToRemove": ["Byzantium"],
   "uniques":
     [
       "Allow City States to spawn with additional units",
@@ -14,9 +15,6 @@
       "maxXPfromBarbarians": 45,
       "ancientRuinCountMultiplier": 0.045,
       "unitUpgradeCost":{"base":20,"perProduction":0.5,"eraMultiplier":0.334,"exponent":1,"roundTo":5}
-    },
-    "name": "MasterFly-Test",
-    "path": "MasterFly-Test",
-    "dependencies": {"RekMOD","The-Great-Unciv-Rework"}
+    }
   }
 ]
