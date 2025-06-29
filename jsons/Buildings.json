@@ -12,5 +12,20 @@
 		"cityHealth": 100,
 		"cost": 1,
 		"uniques": ["Indicates the capital city", "[+1 Faith] <starting from the [Classical era]>"]
+	},
+	{
+		"name": "Via Publica",
+		"replaces": "Road",
+		"uniqueTo": "Rome",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"turnsToBuild": 3,
+		"techRequired": "The Wheel",
+		"uniques": ["Can be built outside your borders", "Costs [1] [Gold] per turn"],
+		"shortcutKey": "R",
+        "civilopediaText": [
+            {"text":"Reduces movement cost to ⅓ if the other tile also has a Road or Railroad"},
+            {"text":"Reduces movement cost to ¼ with Machinery", "link":"Technology/Machinery"},
+            {"text":"Requires Engineering to bridge rivers", "link":"Technology/Engineering"}
+        ]
 	}
 ]
