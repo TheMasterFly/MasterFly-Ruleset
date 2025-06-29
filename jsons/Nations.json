@@ -1,13 +1,13 @@
 [
 	{
-		"name": "Mamluks",
-		"leaderName": "Abu'l-Qasim Ahmad al-Mustansir",
-		"adjective": ["Mamluks"],
-		"startBias": ["Flood plains", "Desert"],
+		"name": "Byzantium",
+		"leaderName": "Justinian I",
+		"adjective": ["Byzantines"],
+		"startBias": ["Coast", "Avoid [Tundra]"],
 		"preferredVictoryType": "Domination",
 		
-		"startIntroPart1": "Marhaba, great al-Mustansir, of the emergent Mamluk Sultanate!",
-		"startIntroPart2": "Show them who rules the desert!",
+		"startIntroPart1": "Greetings, Emperor Justinian!",
+		"startIntroPart2": "Rebuild the greatest empire to ever grace the Mediterranean!",
 		
 		"declaringWar": "God wills it",
 		"attacked": "May God have mercy on you, for I will not",
@@ -27,17 +27,23 @@
 		"afterPeace": "Very well.",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 		
-		"outerColor": [239, 207, 1],
-		"innerColor": [255, 255, 255],
+	        "outerColor": [88,145,228],
+        	"innerColor": [80,23,135],
 		
-		"uniqueName": "Mamluk Mercenaries",
-		"uniqueText": "Cost of purchasing land units -33% and all units gain +50% XP, may buy [Mosque] buildings with [Faith] without the religious belief, [+2 Gold] from every [Mosque], [+25]% [Gold] from every [Mosque].",
-		"uniques": ["May buy [Mosque] buildings with [Faith] [in all cities]",
-		"[+2 Gold] from every [Mosque]", "[+25]% [Gold] from every [Mosque]",
-		"[Gold] cost of purchasing [Land] units [-33]%",
-		"[+50]% XP gained from combat"],
-		"cities": ["Cairo", "Alexandria", "Damietta", "Fustat", "Rosetta", "Aswan", "Damascus", "Aleppo", "Jerusalem",
-		"Gaza", "Tripoli", "Homs", "Hama","Beirut", "Safed", "Nablus", "Mecca", "Medina", "Jeddah", "Famagusta"]
+		"uniqueName": "Center of the World",
+		"uniqueText": "May buy [Cathedral], [Mosque] and [Pagoda] buildings with [Faith] without needing their respective religious belief. +1 [Culture] from [Cathedral], +1 [Faith] from [Mosque] and +1 [Food] from [Pagoda] buildings from the Medieval Era. When a city has all three built, gain +[15]% [Science] in that city.",
+		"uniques": ["May buy [Cathedral] buildings with [Faith] [in all cities]",
+		"May buy [Mosque] buildings with [Faith] [in all cities]",
+		"May buy [Pagoda] buildings with [Faith] [in all cities]",
+		"[+1 Culture] from every [Cathedral] <starting from the [Medieval era]>",
+    		"[+1 Faith] from every [Mosque] <starting from the [Medieval era]>",
+    		"[+1 Food] from every [Pagoda] <starting from the [Medieval era]>",
+		"[+15]% [Science] <in cities with a [Cathedral]> <in cities with a [Mosque]> <in cities with a [Pagoda]>",
+		"[-1 Gold] [in all cities] <starting from the [Medieval era]>",
+		"[-1 Gold] [in all cities] <starting from the [Industrial era]>"],
+		
+		"cities": ["Constantinople", "Thessalonica", "Adrianople", "Nicomedia", "Nicaea", "Trebizond", "Ephesus", "Ravenna", "Smyrna", "Amaseia",
+		"Amastris", "Dyrrhachium", "Naissus", "Ancyra", "Iconium", "Attaleia", "Sinope", "Heraclea", "Philippopolis", "Corinth"]
 	},
 	{
 		"name": "Crusader States",
@@ -84,14 +90,14 @@
 		"Tiberias", "Haifa", "Gaza", "Ramla", "Tortosa", "Gibelet", "Bethlehem", "Hebron", "Nazareth"]
 	},
 	{
-		"name": "Byzantium",
-		"leaderName": "Justinian I",
-		"adjective": ["Byzantines"],
-		"startBias": ["Coast", "Avoid [Tundra]"],
+		"name": "Mamluks",
+		"leaderName": "Abu'l-Qasim Ahmad al-Mustansir",
+		"adjective": ["Mamluks"],
+		"startBias": ["Flood plains", "Desert"],
 		"preferredVictoryType": "Domination",
 		
-		"startIntroPart1": "Greetings, Emperor Justinian!",
-		"startIntroPart2": "Rebuild the greatest empire to ever grace the Mediterranean!",
+		"startIntroPart1": "Marhaba, great al-Mustansir, of the emergent Mamluk Sultanate!",
+		"startIntroPart2": "Show them who rules the desert!",
 		
 		"declaringWar": "God wills it",
 		"attacked": "May God have mercy on you, for I will not",
@@ -111,22 +117,48 @@
 		"afterPeace": "Very well.",
 		"tradeRequest": "We bestow you the honor of this trade offer.",
 		
-	        "outerColor": [88,145,228],
-        	"innerColor": [80,23,135],
+		"outerColor": [239, 207, 1],
+		"innerColor": [255, 255, 255],
 		
-		"uniqueName": "Center of the World",
-		"uniqueText": "May buy [Cathedral], [Mosque] and [Pagoda] buildings with [Faith] without needing their respective religious belief. +1 [Culture] from [Cathedral], +1 [Faith] from [Mosque] and +1 [Food] from [Pagoda] buildings from the Medieval Era. When a city has all three built, gain +[15]% [Science] in that city.",
-		"uniques": ["May buy [Cathedral] buildings with [Faith] [in all cities]",
-		"May buy [Mosque] buildings with [Faith] [in all cities]",
-		"May buy [Pagoda] buildings with [Faith] [in all cities]",
-		"[+1 Culture] from every [Cathedral] <starting from the [Medieval era]>",
-    		"[+1 Faith] from every [Mosque] <starting from the [Medieval era]>",
-    		"[+1 Food] from every [Pagoda] <starting from the [Medieval era]>",
-		"[+15]% [Science] <in cities with a [Cathedral]> <in cities with a [Mosque]> <in cities with a [Pagoda]>",
-		"[-1 Gold] [in all cities] <starting from the [Medieval era]>",
-		"[-1 Gold] [in all cities] <starting from the [Industrial era]>"],
-		
-		"cities": ["Constantinople", "Thessalonica", "Adrianople", "Nicomedia", "Nicaea", "Trebizond", "Ephesus", "Ravenna", "Smyrna", "Amaseia",
-		"Amastris", "Dyrrhachium", "Naissus", "Ancyra", "Iconium", "Attaleia", "Sinope", "Heraclea", "Philippopolis", "Corinth"]
-	}
+		"uniqueName": "Mamluk Mercenaries",
+		"uniqueText": "Cost of purchasing land units -33% and all units gain +50% XP, may buy [Mosque] buildings with [Faith] without the religious belief, [+2 Gold] from every [Mosque], [+25]% [Gold] from every [Mosque].",
+		"uniques": ["May buy [Mosque] buildings with [Faith] [in all cities]",
+		"[+2 Gold] from every [Mosque]", "[+25]% [Gold] from every [Mosque]",
+		"[Gold] cost of purchasing [Land] units [-33]%",
+		"[+50]% XP gained from combat"],
+		"cities": ["Cairo", "Alexandria", "Damietta", "Fustat", "Rosetta", "Aswan", "Damascus", "Aleppo", "Jerusalem",
+		"Gaza", "Tripoli", "Homs", "Hama","Beirut", "Safed", "Nablus", "Mecca", "Medina", "Jeddah", "Famagusta"]
+	},
+	{
+		"name": "Rome",
+		"leaderName": "Augustus Caesar",
+		"adjective": ["Roman"],
+		"startBias":["Avoid [Tundra]","Avoid [Desert]"],
+		"preferredVictoryType": "Scientific",
+		"personality": "Augustus Caesar",
+
+
+        "startIntroPart1": "Ave Caesar Augustus, Emperor of Rome and Dominus of the Roman Empire! Your empire was the most powerful and feared of all in Western civilization. The Roman people crafted so brilliantly its culture, law, art, and warfare, that no one could contest the supremacy of Rome. Force and Honor led to glorious conquests, a domination of all the lands from Spain in the west to Syria in the east, even reaching the remote barbarian lands of England and Germany. Roman art and architecture have been praised for millenia and have been envied by all lesser civilizations who have followed.",
+        "startIntroPart2": "O glorious Imperator, your people celebrate you and ask for the glory of Rome! In these times of darkness, the Pax Romana will be a beacon of light for all! Will your new empire shine through the ages of history?",
+
+        "declaringWar": "My treasury contains little and my soldiers are getting impatient... (sigh) ...therefore you must die.",
+		"attacked": "So brave, yet so stupid! If only you had a brain similar to your courage.",
+		"defeated": "The gods have deprived Rome of their favour. We have been defeated.",
+		"denounced": "I didn't believe you had this kind of backbone.",
+		"introduction": "I greet you. I am Augustus, Imperator and Pontifex Maximus of Rome. If you are a friend of Rome, you are welcome.",
+		"neutralHello": "Hail.",
+		"hateHello": "What do you want?",
+		"tradeRequest": "I offer this, for your consideration.",
+		"outerColor": [70, 0, 118],
+		"innerColor": [240, 199, 0],
+		"favoredReligion": "Christianity",
+		"uniqueName": "The Glory of Rome",
+		"uniques": ["[+25]% Production towards any buildings that already exist in the Capital",
+			"[+50]% [Gold] from Trade Routes", "[-33]% maintenance on road & railroads"],
+		"cities": ["Rome","Antium","Cumae","Neapolis","Ravenna","Arretium","Mediolanum","Arpinum","Circei","Setia",
+			"Satricum","Ardea","Ostia","Velitrae","Viroconium","Tarentum","Brundisium","Caesaraugusta","Caesarea","Palmyra",
+			"Signia","Aquileia","Clusium","Sutrium","Cremona","Placentia","Hispalis","Artaxata","Aurelianorum","Nicopolis",
+			  "Agrippina","Verona","Corfinium","Treverii","Sirmium","Augustadorum","Curia","Interrama","Adria"],
+        "spyNames": ["Flavius", "Regula", "Servius", "Lucia", "Cornelius", "Licina", "Canus", "Serpens", "Agrippa", "Brutus"]
+    },
 ]
