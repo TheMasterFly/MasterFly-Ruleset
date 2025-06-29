@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Crusader States",
+    "production": 7,
+    "food": 7,
+    "gold": 4,
+    "science": 6,
+    "culture": 5,
+    "happiness": 4,
+    "faith": 7,
+    "military": 6,
+    "aggressive": 5,
+    "declareWar": 5,
+    "commerce": 7,
+    "diplomacy": 7,
+    "loyal": 6,
+    "expansion": 5,
+    "priorities":
+    {
+      "Tradition": 8,
+      "Liberty": 4,
+      "Honor": 7,
+      "Commerce": 3,
+      "Patronage": 5,
+      "Piety": 6,
+      "Rationalism": 4,
+      "Freedom": 8,
+      "Autocracy": 5,
+      "Order": 3
+    }
+  },
+    {
+    "name": "Mamluks",
+    "production": 7,
+    "food": 7,
+    "gold": 4,
+    "science": 6,
+    "culture": 5,
+    "happiness": 4,
+    "faith": 7,
+    "military": 6,
+    "aggressive": 5,
+    "declareWar": 5,
+    "commerce": 7,
+    "diplomacy": 7,
+    "loyal": 6,
+    "expansion": 5,
+    "priorities":
+    {
+      "Tradition": 3,
+      "Liberty": 7,
+      "Honor": 6,
+      "Commerce": 6,
+      "Patronage": 3,
+      "Piety": 5,
+      "Rationalism": 6,
+      "Freedom": 3,
+      "Autocracy": 8,
+      "Order": 5
+    }
+  }
+]
