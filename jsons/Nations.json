@@ -84,7 +84,7 @@
 		"Tiberias", "Haifa", "Gaza", "Ramla", "Tortosa", "Gibelet", "Bethlehem", "Hebron", "Nazareth"]
 	},
 	{
-		"name": "Byzantines",
+		"name": "Byzantium",
 		"leaderName": "Justinian I",
 		"adjective": ["Byzantines"],
 		"startBias": ["Coast", "Avoid [Tundra]"],
