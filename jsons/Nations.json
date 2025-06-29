@@ -86,7 +86,7 @@
 	{
 		"name": "Byzantium",
 		"leaderName": "Justinian I",
-		"adjective": ["Byzantines"],
+		"adjective": ["Byzantine"],
 		"startBias": ["Coast", "Avoid [Tundra]"],
 		"preferredVictoryType": "Domination",
 		
