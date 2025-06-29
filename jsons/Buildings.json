@@ -2,7 +2,7 @@
 	{
 		"name": "Theodosian Walls",
 		"replaces": "Palace",
-		"uniqueTo": "Byzantines",
+		"uniqueTo": "Byzantium",
 		"isNationalWonder": true,
 		"production": 3,
 		"science": 3,
