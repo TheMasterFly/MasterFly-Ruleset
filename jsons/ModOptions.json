@@ -1,6 +1,6 @@
 [
   {
-  "nationsToRemove": ["Byzantium"],
+  "nationsToRemove": {"Byzantium"},
   "uniques":
     [
       "Allow City States to spawn with additional units",
