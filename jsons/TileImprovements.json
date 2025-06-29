@@ -15,20 +15,5 @@
 		"Removes removable features when built",
 		"Will not be replaced by automated units",
 		"Pillaging this improvement yields approximately [+80 Gold]"]
-	},
-	{
-		"name": "Via Publica",
-		"replaces": "Road",
-		"uniqueTo": "Rome",
-		"terrainsCanBeBuiltOn": ["Land"],
-		"turnsToBuild": 3,
-		"techRequired": "The Wheel",
-		"uniques": ["Can be built outside your borders", "Costs [1] [Gold] per turn"],
-		"shortcutKey": "R",
-        "civilopediaText": [
-            {"text":"Reduces movement cost to 1/3 if the other tile also has a Road or Railroad"},
-            {"text":"Reduces movement cost to 1/4 with Machinery", "link":"Technology/Machinery"},
-            {"text":"Requires Engineering to bridge rivers", "link":"Technology/Engineering"}
-        ]
 	}
 ]
