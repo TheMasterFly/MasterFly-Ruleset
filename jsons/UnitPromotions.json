@@ -7,5 +7,9 @@
       {
             "name": "Stratiotiki Ekpaidefsi",
             "uniques": ["Earn [33]% of killed [Military] unit's [Cost] as [Faith]"]
+      },
+      {
+            "name": "No Defensive Terrain Penalty",
+            "uniques": ["No defensive terrain penalty"]
       }
 ]
