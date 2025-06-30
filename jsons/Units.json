@@ -9,6 +9,22 @@
 		"hurryCostModifier": 15
 	},
 	{
+		"name": "Dromon",
+		"unitType": "Ranged Water",
+		"uniqueTo": "Byzantium",
+		"replaces": "Trireme",
+		"movement": 4,
+		"strength": 8,
+		"rangedStrength": 10,
+		"cost": 56,
+		"requiredTech": "Sailing",
+		"uniques": ["Cannot enter ocean tiles", "[+50]% Strength <vs [Water] units>",
+		"Earn [33]% of killed [All] unit's [Cost] as [Faith]"],
+		"upgradesTo": "Galleass",
+		"obsoleteTech": "Astronomy",
+		"attackSound": "arrow"
+	},
+	{
 		"name": "Mamluk Cavalry Archer",
 		"unitType": "Ranged",
 		"uniqueTo": "Mamluks",
