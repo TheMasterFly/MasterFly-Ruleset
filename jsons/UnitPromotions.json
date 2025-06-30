@@ -1,7 +1,11 @@
 [
       {
-        "name": "Valiantise",
-        "uniques": ["[+15]% Strength <when attacking>",
-        "[+15]% Strength <when defending>"]
-    }
+            "name": "Valiantise",
+            "uniques": ["[+15]% Strength <when attacking>",
+            "[+15]% Strength <when defending>"]
+      },
+      {
+            "name": "Stratiotiki Ekpaidefsi",
+            "uniques": ["Earn [33]% of killed [Military] unit's [Cost] as [Faith]"]
+      }
 ]
