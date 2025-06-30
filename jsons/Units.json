@@ -47,8 +47,8 @@
 		"obsoleteTech": "Military Science",
 		"upgradesTo": "Cavalry",
 		"requiredResource": "Horses",
-		"uniques": ["No defensive terrain bonus", "Never appears as a Barbarian unit", "Can be purchased for [300] [Faith] [in all cities] <hidden from users>"],
-		"attackSound": "horse",
-		"Comment": "[Can be purchased for 200 [Faith]]"
+		"uniques": ["No defensive terrain bonus", "Never appears as a Barbarian unit", "Can be purchased for [300] [Faith] [in all cities] <hidden from users>",
+		"Comment [Can be purchased for 200 [Faith]]"],
+		"attackSound": "horse"
 	}
 ]
