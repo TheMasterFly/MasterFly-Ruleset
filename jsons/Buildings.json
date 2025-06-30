@@ -1,19 +1,5 @@
 [
 	{
-		"name": "Theodosian Walls",
-		"replaces": "Palace",
-		"uniqueTo": "Byzantium",
-		"isNationalWonder": true,
-		"production": 3,
-		"science": 3,
-		"gold": 2,
-		"culture": 1,
-		"cityStrength": 4,
-		"cityHealth": 100,
-		"cost": 1,
-		"uniques": ["Indicates the capital city", "[+1 Faith] <starting from the [Classical era]>"]
-	},
-	{
 		"name": "Aqueductus",
 		"replaces": "Aqueduct",
 		"uniqueTo": "Rome",
