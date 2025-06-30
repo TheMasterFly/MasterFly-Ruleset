@@ -54,7 +54,7 @@
 		"cost": 65,
 		"requiredTech": "Machinery",
 		"upgradesTo": "Gatling Gun",
-		"obsoleteTech": "Industrialisation",
+		"obsoleteTech": "Industrialization",
 		"requiredResource": "Horses",
 		"uniques": ["Can move after attacking"],
 		"promotions": ["Accuracy I"],
