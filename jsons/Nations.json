@@ -31,7 +31,7 @@
         	"innerColor": [80,23,135],
 		
 		"uniqueName": "Center of the World",
-		"uniqueText": "May buy [Cathedral], [Mosque] and [Pagoda] buildings with [Faith] without needing their respective religious belief. +1 [Culture] from [Cathedral], +1 [Faith] from [Mosque] and +1 [Food] from [Pagoda] buildings from the Medieval Era. When a city has all three built, gain +[15]% [Science] in that city.",
+		"uniqueText": "May buy [Cathedral], [Mosque] and [Pagoda] buildings with [Faith] without needing their respective religious belief\n+1 [Culture] from [Cathedral], +1 [Faith] from [Mosque] and +1 [Food] from [Pagoda] buildings from the Medieval Era\nWhen a city has all three built, gain +[15]% [Science] in that city.",
 		"uniques": ["May buy [Cathedral] buildings with [Faith] [in all cities]",
 		"May buy [Mosque] buildings with [Faith] [in all cities]",
 		"May buy [Pagoda] buildings with [Faith] [in all cities]",
@@ -77,7 +77,7 @@
 		"innerColor": [0, 0, 0],
 		
 		"uniqueName": "Outremer/Crusades",
-		"uniqueText": "Free [Swordsman] and [Settler] appears upon discovering Mathematics \nFree [Templar Knight] and [Settler] appears upon discovering Chivalry\nLand units +15% strength and +100% maintenance costs\nMay purchase Great Generals for 500/1000/1500 [Gold] from the Ancient/Renaissance/Modern eras",
+		"uniqueText": "Free [Swordsman] and [Settler] appears upon discovering Mathematics\nFree [Templar Knight] and [Settler] appears upon discovering Chivalry\nLand units +15% strength and +100% maintenance costs\nMay purchase Great Generals for 500/1000/1500 [Gold] from the Ancient/Renaissance/Modern eras",
 		"uniques": ["[{Military} {Land}] units gain the [Valiantise] promotion <hidden from users>",
 		"[+100]% maintenance costs <for [{Military} {Land}] units>",
 		"Free [Settler] appears <upon discovering [Mathematics] technology>",
