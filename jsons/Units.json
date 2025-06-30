@@ -30,7 +30,7 @@
 		"uniqueTo": "Byzantium",
 		"replaces": "Horseman",
 		"movement": 3,
-		"strength": 19,
+		"strength": 18,
 		"cost": 75,
 		"requiredTech": "Horseback Riding",
 		"upgradesTo": "Knight",
