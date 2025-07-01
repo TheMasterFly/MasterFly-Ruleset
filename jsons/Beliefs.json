@@ -8,12 +8,12 @@
     {
         "name": "Dance of the Aurora",
         "type": "Pantheon",
-        "uniques": ["[+1 Faith] from every [Tundra]"]
+        "uniques": ["[+1 Faith, +1 Gold] from every [Tundra]"]
     },
     {
         "name": "Desert Folklore",
         "type": "Pantheon",
-        "uniques": ["[+1 Faith] from every [Desert]"]
+        "uniques": ["[+1 Food, +1 Faith] from every [Desert]"]
     },
     {
         "name": "Faith Healers",
@@ -31,9 +31,14 @@
         "uniques": ["[+1 Production, +1 Food, +1 Culture, +1 Faith, +1 Science, +1 Gold, +1 Happiness] [in capital]"]
     },
     {
+        "name": "God of Blood",
+        "type": "Pantheon",
+        "uniques": ["Earn [50]% of [Military] unit's [Strength] as [Faith] when killed within 4 tiles of a city following this religion"]
+    },
+    {
         "name": "God of Craftsman",
         "type": "Pantheon",
-        "uniques": ["[+1 Production] per [3] population [in this city]"]
+        "uniques": ["[+1 Production] from every specialist [in this city]"]
     },
     {
         "name": "God of the Open Sky",
@@ -41,23 +46,38 @@
         "uniques": ["[+1 Culture] from every [Pasture]"]
     },
     {
+        "name": "God of the Harvest",
+        "type": "Pantheon",
+        "uniques": ["[+1 Gold] from every [Farm]", "[-2 Gold] [in this city]"]
+    },
+    {
         "name": "God of the Sea",
         "type": "Pantheon",
         "uniques": ["[+1 Culture, +1 Faith] from every [Fish]",
-            "[+1 Culture, +1 Faith] from every [Whales]",
-            "[+1 Culture, +1 Faith] from every [Pearls]",
-            "[+1 Culture, +1 Faith] from every [Crab]",
-            "[+1 Culture, +1 Faith] from every [Atoll]"]
+        "[+1 Culture, +1 Faith] from every [Whales]",
+        "[+1 Culture, +1 Faith] from every [Pearls]",
+        "[+1 Culture, +1 Faith] from every [Crab]",
+        "[+1 Culture, +1 Faith] from every [Atoll]"]
+    },
+    {
+        "name": "God of Snow",
+        "type": "Pantheon",
+        "uniques": ["[+1 Food, +1 Production] from every [Snow]"]
     },
     {
         "name": "God of War",
         "type": "Pantheon",
-        "uniques": ["Earn [50]% of [Military] unit's [Strength] as [Faith] when killed within 4 tiles of a city following this religion"]
+        "uniques": ["[+1 Production, +1 Gold] from every [Barracks]",
+        "[+1 Production, +1 Gold] from every [Armory]",
+        "[+1 Production, +1 Gold] from every [Military Academy]"]
     },
     {
         "name": "Goddess of Festivals",
         "type": "Pantheon",
-        "uniques": ["[+1 Culture, +1 Faith] from every [Wine]", "[+1 Culture, +1 Faith] from every [Incense]"]
+        "uniques": ["[+1 Culture, +1 Faith] from every [Wine]",
+        "[+1 Culture, +1 Faith] from every [Incense]",
+        "[+1 Culture, +1 Faith] from every [Sugar]",
+        "[+1 Culture, +1 Faith] from every [Spices]"]
     },
     {
         "name": "Goddess of Love",
@@ -71,9 +91,22 @@
         "[+1 Culture, +1 Faith] from every [Walls]"]
     },
     {
+        "name": "Goddess of the Fields",
+        "type": "Pantheon",
+        "uniques": ["[+2 Faith] from every [Incense]",
+            "[+2 Faith] from every [Cotton]",
+            "[+2 Faith] from every [Tea]",
+            "[+2 Faith] from every [Coffee]"]
+    },
+    {
         "name": "Goddess of the Hunt",
         "type": "Pantheon",
         "uniques": ["[+1 Food, +1 Culture] from every [Camp]"]
+    },
+    {
+        "name": "King Under The Mountain",
+        "type": "Pantheon",
+        "uniques": ["[+1 Food, +1 Production, +1 Gold] from every [Mountain]"]
     },
     {
         "name": "Messenger of the Gods",
@@ -137,7 +170,7 @@
     {
         "name": "Asceticism",
         "type": "Follower",
-        "uniques": ["[+1 Happiness] from every [Shrine] <in cities with at least [3] [Followers of this Religion]>"]
+        "uniques": ["[+1 Gold, +1 Happiness] from every [Monument]", "[+1 Happiness] from every [Shrine]"]
     },
     {
         "name": "Cathedrals",
@@ -147,7 +180,7 @@
     {
         "name": "Choral Music",
         "type": "Follower",
-        "uniques": ["[+2 Culture] from every [Temple] <in cities with at least [5] [Followers of this Religion]>"]
+        "uniques": ["[+2 Faith, +1 Gold] from every [Temple] <in cities with at least [5] [Followers of this Religion]>"]
     },
     {
         "name": "Divine inspiration",
@@ -157,7 +190,7 @@
     {
         "name": "Feed the World",
         "type": "Follower",
-        "uniques": ["[+1 Food] from every [Shrine]", "[+1 Food] from every [Temple]"]
+        "uniques": ["[+1 Food] from every [Granary]", "[+1 Food] from every [Shrine]", "[+1 Food] from every [Temple]"]
     },
     {
         "name": "Guruship",
@@ -172,7 +205,7 @@
     {
         "name": "Liturgical Drama",
         "type": "Follower",
-        "uniques": ["[+1 Faith] from every [Amphitheater] <in cities with at least [3] [Followers of this Religion]>"]
+        "uniques": ["[+2 Culture, +1 Gold] from every [Amphitheater] <in cities with at least [5] [Followers of this Religion]>"]
     },
     {
         "name": "Monasteries",
@@ -192,17 +225,19 @@
     {
         "name": "Peace Gardens",
         "type": "Follower",
-        "uniques": ["[+2 Happiness] from every [Garden]"]
+        "uniques": ["[+1 Food, +1 Faith, +1 Happiness] from every [Garden]"]
     },
     {
-        "name": "Religious Art",
+        "name": "Religion of the Nation",
         "type": "Follower",
-        "uniques": ["[+8 Culture] from every [Hermitage]"]
+        "uniques": ["[+1 Production, +1 Food, +1 Culture, +1 Faith, +1 Science, +1 Gold, +1 Happiness] from every [Palace]", "[+1 Culture] from every [National Epic]",
+        "[+1 Science] from every [National College]", "[+1 Production] from every [Heroic Epic]", "[+2 Gold] from every [National Treasury]",
+        "[+1 Production] from every [Ironworks]", "[+1 Culture] from every [Hermitage]", "[+1 Faith] from every [Grand Temple]"]
     },
     {
         "name": "Religious Center",
         "type": "Follower",
-        "uniques": ["[+2 Happiness] from every [Temple] <in cities with at least [5] [Followers of this Religion]>"]
+        "uniques": ["[+1 Gold, +1 Happiness] from every [Shrine]", "[+1 Gold, +1 Happiness] from every [Temple]"]
     },
     {
         "name": "Religious Community",
@@ -229,7 +264,7 @@
     {
         "name": "Initiation Rites",
         "type": "Founder",
-        "uniques": ["[+100 Gold] when a city adopts this religion for the first time <(modified by game speed)>"]
+        "uniques": ["[+120 Gold] when a city adopts this religion for the first time <(modified by game speed)>"]
     },
     {
         "name": "Interfaith Dialogue",
@@ -239,9 +274,9 @@
     {
         "name": "Papal Primacy",
         "type": "Founder",
-        "uniques": ["Resting point for Influence with City-States following this religion [+15]",
-            "[-100]% weight to this choice for AI decisions <when number of [Remaining [City-State] Civilizations] is less than [2]>",
-            "[-50]% weight to this choice for AI decisions <when number of [Remaining [City-State] Civilizations] is less than [4]>"]
+        "uniques": ["Resting point for Influence with City-States following this religion [+20]",
+            "[-100]% weight to this choice for AI decisions <when number of [Remaining [City-State] Civilizations] is less than [4]>",
+            "[-50]% weight to this choice for AI decisions <when number of [Remaining [City-State] Civilizations] is less than [6]>"]
     },
     {
         "name": "Peace Loving",
