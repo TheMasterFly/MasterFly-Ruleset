@@ -351,6 +351,6 @@
     {
         "name": "Reliquary",
         "type": "Enhancer",
-        "uniques": ["Gain [50] [Faith] <upon expending a [Great Person] unit> <(modified by game speed)>"]
+        "uniques": ["Gain [130] [Faith] <upon expending a [Great Person] unit> <(modified by game speed)>"]
     }
 ]
