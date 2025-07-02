@@ -1,0 +1,14 @@
+[
+            {
+                "name": "Reformation",
+                "uniques": [
+                    "May choose [1] additional [Enhancer] beliefs when [founding] a religion",
+                    "Gain a free [Enhancer] belief <after founding a religion>"
+                ],
+                "requires": [
+                    "Organized Religion"
+                ],
+                "row": 2,
+                "column": 2
+            },
+]
