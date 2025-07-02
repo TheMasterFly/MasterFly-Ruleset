@@ -8,5 +8,14 @@
 		"happiness": 1,
 		"uniques": ["40% of food is carried over after a new citizen is born"],
 		"requiredTech": "Mathematics"
-	}
+	},
+	{
+	        "name": "Huey Teocalli",
+	        "faith": 4,
+	        "greatPersonPoints": {"Great Engineer": 1},
+	        "isWonder": true,
+	        "uniques": ["Must be next to [Lakes]",
+	        "[+2 Culture, +2 Food] from [Lakes] tiles [in this city]"],
+	        "requiredTech": "Civil Service"
+    	}
 ]
