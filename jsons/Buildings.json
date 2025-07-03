@@ -19,6 +19,7 @@
 		"percentStatBonus": {"gold": 25},
 		"requiredTech": "Currency"
 	},
+	/////////////////////////////////////////// Wonders ///////////////////////////////////////////////////////
 	{
 		"name": "Himeji Castle",
 		"culture": 3,
