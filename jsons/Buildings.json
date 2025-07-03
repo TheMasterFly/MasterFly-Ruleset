@@ -9,14 +9,6 @@
 		"uniques": ["40% of food is carried over after a new citizen is born"],
 		"requiredTech": "Mathematics"
 	},
-	{
-		"name": "Satrap's Court",
-		"replaces": "Market",
-		"uniqueTo": "Persia",
-		"happiness": 2,
-		"hurryCostModifier": 25,
-		"requiredTech": "Currency"
-	},
 	/////////////////////////////////////////// Wonders ///////////////////////////////////////////////////////
 	{
 		"name": "Himeji Castle",
