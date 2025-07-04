@@ -1,12 +1,12 @@
 [
     {
-        "name": "Aqueductus",
+        "name": "Domus",
         "uniqueTo": "Rome",
-        "maintenance": 0,
         "happiness": 1,
-        "hurryCostModifier": 0,
-        "uniques": ["[40]% Food is carried over after population increases [in this city]"],
-        "requiredTech": "Mathematics"
+        "culture": 1,
+        "hurryCostModifier": 25,
+        "uniques": ["[+2] [Gold] from each type of luxury resource <in this city>"],
+        "requiredTech": "Construction"
     },
     {
         "name": "Satrap's Court",
