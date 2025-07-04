@@ -2,6 +2,7 @@
     {
         "name": "Aqueductus",
         "uniqueTo": "Rome",
+        "replaces": "Aqueduct",
         "maintenance": 0,
         "happiness": 1,
         "hurryCostModifier": 0,
