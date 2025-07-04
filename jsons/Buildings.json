@@ -3,10 +3,9 @@
         "name": "Domus",
         "uniqueTo": "Rome",
         "happiness": 1,
-        "culture": 1,
         "hurryCostModifier": 25,
-        "uniques": ["[+2 Gold] from [Luxury resource] tiles [in this city]"],
-        "requiredTech": "Construction"
+        "uniques": ["[+2 Gold] from [Luxury resource] tiles [in this city]", "New [Military] units start with [10] XP [in this city]"],
+        "requiredTech": "Mathematics"
     },
     {
         "name": "Satrap's Court",
