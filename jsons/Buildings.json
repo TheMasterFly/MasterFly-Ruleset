@@ -10,7 +10,7 @@
 		"requiredTech": "Mathematics"
 	},
 	{
-		"name": "Satrap's Court",
+		"name": "Potatoland",
 		"replaces": "Market",
 		"uniqueTo": "Persia",
 		"gold": 2,
