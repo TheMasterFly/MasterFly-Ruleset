@@ -1,6 +1,6 @@
 [
     {
         "name": "Test",
-        "food": 1
+        "uniques": ["[+1] [Food] [in this city]"]
     }
 ]
