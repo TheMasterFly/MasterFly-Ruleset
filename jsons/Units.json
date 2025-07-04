@@ -53,7 +53,7 @@
 	},
 	{
 		"name": "Mamluk Cavalry Archer",
-		"unitType": "Ranged",
+		"unitType": "Mounted",
 		"uniqueTo": "Mamluks",
 		"replaces": "Crossbowman",
 		"movement": 3,
