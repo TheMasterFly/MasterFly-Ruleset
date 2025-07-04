@@ -58,7 +58,7 @@
 		"replaces": "Crossbowman",
 		"movement": 3,
 		"strength": 13,
-		"rangedStrength": 21,
+		"rangedStrength": 19,
 		"range": 2,
 		"cost": 120,
 		"requiredTech": "Machinery",
