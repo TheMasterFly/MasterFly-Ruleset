@@ -1,6 +1,6 @@
 [
     {
         "name": "Test",
-        "uniques": "[+1] [Food]"
+        "food": 1
     }
 ]
