@@ -37,5 +37,30 @@
          "greatPersonPoints": {"Great Engineer": 1},
          "uniques": ["Must be next to [Lakes]", "[+2 Culture, +2 Food] from [Lakes] tiles [in this city]"],
          "requiredTech": "Civil Service"
+    },
+    {
+        "name": "Theodosian Walls",
+        "uniqueTo": "Byzantium",
+        "cost": 200,
+        "culture": 2,
+        "science": 1,
+        "cityStrength": 4,
+        "cityHealth": 50,
+        "isNationalWonder": true,
+        "uniques": ["All newly-trained [All] units [in this city] receive the [Stratiotiki Ekpaidefsi] promotion",
+           "[+25]% Great Person generation [in this city]", "Only available <in [Capital] cities>"]
+    },
+       {
+        "name": "Outremer Headquarters",
+        "uniqueTo": "Crusader States",
+        "cost": 175,
+        "culture": 1,
+        "science": 1,
+          "faith": 2,
+        "cityStrength": 2,
+        "cityHealth": 25,
+        "isNationalWonder": true,
+        "uniques": ["Limited to [4] per Civilization",  "Creates a [Crusader Castle] improvement on a specific tile",
+        "Destroyed when the city is captured"]
     }
 ]
