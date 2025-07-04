@@ -1,10 +1,12 @@
 [
-    {
-        "name": "Domus",
+   {
+        "name": "Roman Aqueduct",
         "uniqueTo": "Rome",
+        "replaces": "Aqueduct",
+        "maintenance": 0,
         "happiness": 1,
-        "hurryCostModifier": 25,
-        "uniques": ["[+2 Gold] from [Luxury resource] tiles [in this city]", "New [Military] units start with [10] XP [in this city]"],
+        "hurryCostModifier": 0,
+        "uniques": ["[40]% Food is carried over after population increases [in this city]"],
         "requiredTech": "Mathematics"
     },
     {
