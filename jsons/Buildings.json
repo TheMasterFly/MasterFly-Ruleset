@@ -53,14 +53,14 @@
        {
         "name": "Outremer Headquarters",
         "uniqueTo": "Crusader States",
-        "cost": 175,
+        "cost": 150,
         "culture": 1,
         "science": 1,
           "faith": 2,
         "cityStrength": 2,
         "cityHealth": 25,
         "isNationalWonder": true,
-        "uniques": ["Limited to [4] per Civilization",  "Creates a [Crusader Castle] improvement on a specific tile",
-        "Destroyed when the city is captured"]
+        "uniques": ["Limited to [4] per Civilization", "Cost increases by [30] when built",
+        "Creates a [Crusader Castle] improvement on a specific tile", "Destroyed when the city is captured"]
     }
 ]
