@@ -6,7 +6,7 @@
         "maintenance": 0,
         "happiness": 1,
         "hurryCostModifier": 0,
-        "uniques": ["[40]% Food is carried over after population increases [in this city]"],
+        "uniques": ["[40]% Food is carried over after population increases [in this city]", "Comment [Required Tech: Mathematics]"],
         "requiredTech": "Mathematics"
     },
     {
