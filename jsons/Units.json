@@ -76,9 +76,9 @@
 	        "unitType": "Civilian",
 	        "uniques": ["Can instantly construct a [Crusader Castle] improvement <by consuming this unit>",
 	        "Is part of Great Person group [General]", "Great Person - [War]", "Unbuildable", "Can be earned through combat",
-		"Can be purchased for [750] [Gold] [in all cities] <before discovering [Renaissance era]> <hidden from users>",
+		"Can be purchased for [885] [Gold] [in all cities] <before discovering [Renaissance era]> <hidden from users>",
         	"Can be purchased for [1500] [Gold] [in all cities] <starting from the [Renaissance era]> <before discovering [Modern era]> <hidden from users>",
-        	"Can be purchased for [2250] [Gold] [in all cities] <starting from the [Modern era]> <hidden from users>"],
+        	"Can be purchased for [3300] [Gold] [in all cities] <starting from the [Modern era]> <hidden from users>"],
 		"movement": 2
 	},
 	{
