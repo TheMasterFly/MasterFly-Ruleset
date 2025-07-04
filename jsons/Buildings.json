@@ -32,8 +32,8 @@
 	{
 	        "name": "Huey Teocalli",
 	        "faith": 4,
-	        "greatPersonPoints": {"Great Engineer": 1},
 	        "isWonder": true,
+	        "greatPersonPoints": {"Great Engineer": 1},
 	        "uniques": ["Must be next to [Lakes]",
 	        "[+2 Culture, +2 Food] from [Lakes] tiles [in this city]"],
 	        "requiredTech": "Civil Service"
