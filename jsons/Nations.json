@@ -76,7 +76,7 @@
 		"outerColor": [255, 255, 255],
 		"innerColor": [0, 0, 0],
 		
-		"uniqueName": "Outremer/Crusades",
+		"uniqueName": "Crusades",
 		"uniqueText": "Free [Swordsman] and [Settler] appears upon discovering Mathematics\nFree [Templar Knight] and [Settler] appears upon discovering Chivalry\nLand units +15% strength and +100% maintenance costs\nMay purchase Great Generals for 570/1000/2200 [Gold] from the Ancient/Renaissance/Modern eras",
 		"uniques": ["[{Military} {Land}] units gain the [Valiantise] promotion <hidden from users>",
 		"[+100]% maintenance costs <for [{Military} {Land}] units>",
