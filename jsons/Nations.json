@@ -33,18 +33,52 @@
 		"uniqueName": "Center of the World",
 		"uniqueText": "May buy [Cathedral], [Mosque] and [Pagoda] buildings with [Faith] without needing their respective religious belief\n+1 [Culture] from [Cathedral], +1 [Faith] from [Mosque] and +1 [Food] from [Pagoda] buildings from the Medieval Era\nWhen a city has all three built, gain +[15]% [Science] in that city.",
 		"uniques": ["May buy [Cathedral] buildings with [Faith] [in all cities]",
-		"May buy [Mosque] buildings with [Faith] [in all cities]",
-		"May buy [Pagoda] buildings with [Faith] [in all cities]",
-		"[+1 Culture] from every [Cathedral] <starting from the [Medieval era]>",
-    		"[+1 Faith] from every [Mosque] <starting from the [Medieval era]>",
-    		"[+1 Food] from every [Pagoda] <starting from the [Medieval era]>",
-		"[+15]% [Science] <in cities with a [Cathedral]> <in cities with a [Mosque]> <in cities with a [Pagoda]>",
-		"[-1 Gold] [in all cities] <starting from the [Medieval era]>",
-		"[-1 Gold] [in all cities] <starting from the [Industrial era]>"],
+			"May buy [Mosque] buildings with [Faith] [in all cities]",
+			"May buy [Pagoda] buildings with [Faith] [in all cities]",
+			"[+1 Culture] from every [Cathedral] <starting from the [Medieval era]>",
+	    		"[+1 Faith] from every [Mosque] <starting from the [Medieval era]>",
+    			"[+1 Food] from every [Pagoda] <starting from the [Medieval era]>",
+			"[+15]% [Science] <in cities with a [Cathedral]> <in cities with a [Mosque]> <in cities with a [Pagoda]>",
+			"[-1 Gold] [in all cities] <starting from the [Medieval era]>",
+			"[-1 Gold] [in all cities] <starting from the [Industrial era]>"],
 		
 		"cities": ["Constantinople", "Thessalonica", "Adrianople", "Nicomedia", "Nicaea", "Trebizond", "Ephesus", "Ravenna", "Smyrna", "Amaseia",
-		"Amastris", "Dyrrhachium", "Naissus", "Ancyra", "Iconium", "Attaleia", "Sinope", "Heraclea", "Philippopolis", "Corinth"]
+			"Amastris", "Dyrrhachium", "Naissus", "Ancyra", "Iconium", "Attaleia", "Sinope", "Heraclea", "Philippopolis", "Corinth"]
+		"spyNames": ["Basil", "Nikophoros", "Demetrios", "Philippos", "Theophylaktos", "Simonis", "Zoe", "Ioanno", "Xene", "Euphrosyne"]
 	},
+	{
+		"name": "Carthage",
+		"leaderName": "Dido",
+		"adjective": ["Carthaginian"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Domination",
+		"personality": "Dido",
+
+        	"startIntroPart1": "Greetings to you, revered Queen Dido, ruler of the legendary kingdom of Carthage. The great poet Virgil related your great history, how your husband Acerbas was murdered by your own brother, King Pygmalion of Tyre, to steal the treasures of your family that were rightfully yours. But you endured his pressure until you and your compatriots decided to flee and sail for new lands. The gods led you to the shores of North Africa, and with cunning diplomacy, you expanded the territory of your new home, and laid the basis for the future kingdom of Carthage.",
+        	"startIntroPart2": "Clever and proud Dido, the storm is coming and your people look for a shelter under your wise and powerful protection. Can you create a new and radiant Carthage able to cleave the darkness? Will your new empire shine through the ages of history?",
+
+        	"declaringWar": "Tell me, do you all know how numerous my armies, elephants and the gdadons are? No? Today, you shall find out!",
+		"attacked": "Fate is against you. You earned the animosity of Carthage in your exploration. Your days are numbered.",
+		"defeated": "The fates became to hate me. This is it? You wouldn't destroy us so without their help.",
+		"denounced": "You aren't meeting my expectations. You can do so much better.",
+		"introduction": "The Phoenicians welcome you to this most pleasant kingdom. I am Dido, the queen of Carthage and all that belongs to it.",
+		"neutralHello": "Greetings.",
+		"hateHello": "What is it now?",
+		"tradeRequest": "I just had the marvelous idea, and I think you'll appreciate it too.",
+		"outerColor": [205, 205, 205],
+		"innerColor": [81, 0, 137],
+		"favoredReligion": "Islam",
+		"uniqueName": "Phoenician Heritage",
+		"uniqueText": "Maritime buildings are built in half the usual time\n+1 [Gold] in capital for every maritime building you have constructed\nCivilian units only pay 1 Movement point when embarking or disembarking",
+		"uniques": ["[1] Movement point cost to embark <for [Civilian] units>", "[1] Movement point cost to disembark <for [Civilian] units>", 
+			"[+100]% Production when constructing [Lighthouse] buildings [in all cities]", "[+100]% Production when constructing [Harbor] buildings [in all cities]",
+			"[+100]% Production when constructing [Seaport] buildings [in all cities]", "[+1 Gold] [in capital] <for every [[Lighthouse] Buildings]>",
+			"[+1 Gold] [in capital] <for every [[Harbor] Buildings]>", "[+1 Gold] [in capital] <for every [[Seaport] Buildings]>"],
+		"cities": ["Carthage","Utique","Hippo Regius","Gades","Saguntum","Carthago Nova","Panormus","Lilybaeum","Hadrumetum","Zama Regia",
+			"Karalis","Malaca","Leptis Magna","Hippo Diarrhytus","Motya","Sulci","Leptis Parva","Tharros","Soluntum","Lixus",
+			"Oea","Theveste","Ibossim","Thapsus","Aleria","Tingis","Abyla","Sabratha","Rusadir","Baecula", "Saldae"],
+        	"spyNames": ["Hamilcar", "Mago", "Baalhaan", "Sophoniba", "Yzebel", "Similce", "Kandaulo", "Zinnridi", "Gisgo", "Fierelus"]
+    	},
 	{
 		"name": "Crusader States",
 		"leaderName": "Baldwin I",
@@ -152,9 +186,9 @@
 		"uniqueName": "Mamluk Mercenaries",
 		"uniqueText": "Cost of purchasing land units -33%\nAll units gain +50% XP\nMay buy [Mosque] buildings with [Faith] without the religious belief\n[+2 Gold], [+25]% [Gold] from every [Mosque]",
 		"uniques": ["May buy [Mosque] buildings with [Faith] [in all cities]",
-		"[+2 Gold] from every [Mosque]", "[+25]% [Gold] from every [Mosque]",
-		"[Gold] cost of purchasing [Land] units [-33]%",
-		"[+50]% XP gained from combat"],
+			"[+2 Gold] from every [Mosque]", "[+25]% [Gold] from every [Mosque]",
+			"[Gold] cost of purchasing [Land] units [-33]%",
+			"[+50]% XP gained from combat"],
 		"cities": ["Cairo", "Alexandria", "Damietta", "Fustat", "Rosetta", "Aswan", "Damascus", "Aleppo", "Jerusalem",
 		"Gaza", "Tripoli", "Homs", "Hama","Beirut", "Safed", "Nablus", "Mecca", "Medina", "Jeddah", "Famagusta"]
 	},
@@ -198,12 +232,11 @@
 		"startBias":["Avoid [Tundra]","Avoid [Desert]"],
 		"preferredVictoryType": "Scientific",
 		"personality": "Augustus Caesar",
-
-
-        "startIntroPart1": "Ave Caesar Augustus, Emperor of Rome and Dominus of the Roman Empire! Your empire was the most powerful and feared of all in Western civilization. The Roman people crafted so brilliantly its culture, law, art, and warfare, that no one could contest the supremacy of Rome. Force and Honor led to glorious conquests, a domination of all the lands from Spain in the west to Syria in the east, even reaching the remote barbarian lands of England and Germany. Roman art and architecture have been praised for millenia and have been envied by all lesser civilizations who have followed.",
-        "startIntroPart2": "O glorious Imperator, your people celebrate you and ask for the glory of Rome! In these times of darkness, the Pax Romana will be a beacon of light for all! Will your new empire shine through the ages of history?",
-
-        "declaringWar": "My treasury contains little and my soldiers are getting impatient... (sigh) ...therefore you must die.",
+	
+	        "startIntroPart1": "Ave Caesar Augustus, Emperor of Rome and Dominus of the Roman Empire! Your empire was the most powerful and feared of all in Western civilization. The Roman people crafted so brilliantly its culture, law, art, and warfare, that no one could contest the supremacy of Rome. Force and Honor led to glorious conquests, a domination of all the lands from Spain in the west to Syria in the east, even reaching the remote barbarian lands of England and Germany. Roman art and architecture have been praised for millenia and have been envied by all lesser civilizations who have followed.",
+	        "startIntroPart2": "O glorious Imperator, your people celebrate you and ask for the glory of Rome! In these times of darkness, the Pax Romana will be a beacon of light for all! Will your new empire shine through the ages of history?",
+	
+	        "declaringWar": "My treasury contains little and my soldiers are getting impatient... (sigh) ...therefore you must die.",
 		"attacked": "So brave, yet so stupid! If only you had a brain similar to your courage.",
 		"defeated": "The gods have deprived Rome of their favour. We have been defeated.",
 		"denounced": "I didn't believe you had this kind of backbone.",
@@ -220,7 +253,7 @@
 		"cities": ["Rome","Antium","Cumae","Neapolis","Ravenna","Arretium","Mediolanum","Arpinum","Circei","Setia",
 			"Satricum","Ardea","Ostia","Velitrae","Viroconium","Tarentum","Brundisium","Caesaraugusta","Caesarea","Palmyra",
 			"Signia","Aquileia","Clusium","Sutrium","Cremona","Placentia","Hispalis","Artaxata","Aurelianorum","Nicopolis",
-			  "Agrippina","Verona","Corfinium","Treverii","Sirmium","Augustadorum","Curia","Interrama","Adria"],
-        "spyNames": ["Flavius", "Regula", "Servius", "Lucia", "Cornelius", "Licina", "Canus", "Serpens", "Agrippa", "Brutus"]
+			"Agrippina","Verona","Corfinium","Treverii","Sirmium","Augustadorum","Curia","Interrama","Adria"],
+	        "spyNames": ["Flavius", "Regula", "Servius", "Lucia", "Cornelius", "Licina", "Canus", "Serpens", "Agrippa", "Brutus"]
     },
 ]
