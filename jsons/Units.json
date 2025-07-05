@@ -56,7 +56,6 @@
 	        "replaces": "Trireme",
 	        "uniqueTo": "Denmark",
 	        "unitType": "Melee Water",
-	        "sight": 3,
 		"movement": 5,
 	        "strength": 13,
 	        "cost": 45,
