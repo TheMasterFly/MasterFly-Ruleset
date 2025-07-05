@@ -1,8 +1,13 @@
 [
       {
+            "name": "[Norwegian Ski Infantry] ability",
+            "uniques": ["[+25]% Strength <when fighting in [Snow] tiles>", "[+25]% Strength <when fighting in [Tundra] tiles>",
+                  "[+25]% Strength <when fighting in [Hill] tiles>", "Double movement in [Snow]", "Double movement in [Tundra]",
+                  "Double movement in [Hill]"]
+      },
+      {
             "name": "Valiantise",
-            "uniques": ["[+15]% Strength <when attacking>",
-            "[+15]% Strength <when defending>"]
+            "uniques": ["[+15]% Strength <when attacking>", "[+15]% Strength <when defending>"]
       },
       {
             "name": "Stratiotiki Ekpaidefsi",
