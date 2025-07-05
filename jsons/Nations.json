@@ -30,7 +30,7 @@
 	        "outerColor": [88,145,228],
         	"innerColor": [80,23,135],
 
-		"favoredReligion": "Orthodoxy",
+		"favoredReligion": "Christianity",
 		"uniqueName": "Center of the World",
 		"uniqueText": "May buy [Cathedral], [Mosque] and [Pagoda] buildings with [Faith] without needing their respective religious belief\n+1 [Culture] from [Cathedral], +1 [Faith] from [Mosque] and +1 [Food] from [Pagoda] buildings from the Medieval Era\nWhen a city has all three built, gain +[15]% [Science] in that city.",
 		"uniques": ["May buy [Cathedral] buildings with [Faith] [in all cities]",
