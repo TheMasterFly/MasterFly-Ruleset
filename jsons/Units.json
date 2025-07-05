@@ -58,7 +58,7 @@
 	        "unitType": "Melee Water",
 	        "sight": 3,
 		"movement": 5,
-	        "strength": 15,
+	        "strength": 13,
 	        "cost": 45,
 	        "requiredTech": "Sailing",
 	        "uniques": ["Can move after attacking"],
