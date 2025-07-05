@@ -51,6 +51,21 @@
 		"hurryCostModifier": 20,
 		"attackSound": "horse"
 	},
+    	{
+	        "name": "Longship",
+	        "replaces": "Trireme",
+	        "uniqueTo": "Denmark",
+	        "unitType": "Melee Water",
+	        "sight": 3,
+		"movement": 5,
+	        "strength": 15,
+	        "cost": 45,
+	        "requiredTech": "Sailing",
+	        "uniques": ["Can move after attacking"],
+	        "upgradesTo": "Caravel",
+	        "obsoleteTech": "Astronomy",
+	        "attackSound": "nonmetalhit"
+    	},
 	{
 		"name": "Mamluk Cavalry Archer",
 		"unitType": "Mounted",
