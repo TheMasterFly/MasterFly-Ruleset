@@ -57,7 +57,8 @@
         "gold": 5,
         "isWonder": true,
         "uniques": ["New [{Military}, {Water}] units start with [15] XP [in this city]", "[+1 Production] from [Atoll] tiles [in this city]",
-			"[+1 Production] from [Coast] tiles [in this city]", "[+1 Production] from [Fish] tiles [in this city]"]
+			"[+1 Production] from [Coast] tiles [in this city]", "[+1 Production] from [Fish] tiles [in this city]"],
+	"requiredTech": "Compass"
     },
     {
         "name": "Outremer Headquarters",
