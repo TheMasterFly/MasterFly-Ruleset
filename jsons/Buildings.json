@@ -21,6 +21,17 @@
          "requiredTech": "Currency"
     },
     {
+        "name": "Stave Church",
+        "replaces": "Temple",
+        "uniqueTo": "Norway",
+        "cost": 75,
+        "faith": 2,
+        "requiredBuilding": "Shrine",
+        "hurryCostModifier": 25,
+        "requiredTech": "Philosophy",
+        "uniques": ["[+1 Production] from [Tundra] tiles [in this city]", "[+1 Production] from [Snow] tiles [in this city]"]
+    },
+    {
          "name": "Himeji Castle",
          "culture": 3,
          "isWonder": true,
