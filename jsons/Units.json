@@ -35,6 +35,22 @@
 		"attackSound": "arrow"
 	},
 	{
+		"name": "Berserker",
+		"unitType": "Sword",
+		"replaces": "Longswordsman",
+		"uniqueTo": "Denmark",
+		"movement": 3,
+		"strength": 24,
+		"cost": 120,
+		"requiredTech": "Metal Casting",
+		"upgradesTo": "Musketman",
+		"obsoleteTech": "Metallurgy",
+		"requiredResource": "Iron",
+		"promotions": ["Amphibious"],
+		"hurryCostModifier": 20,
+		"attackSound": "metalhit"
+	},
+	{
 		"name": "Cataphract",
 		"unitType": "Mounted",
 		"uniqueTo": "Byzantium",
