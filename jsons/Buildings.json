@@ -35,7 +35,7 @@
          "culture": 2,
          "isWonder": true,
          "greatPersonPoints": {"Great Engineer": 1},
-         "uniques": ["Must be next to [Lakes]", "[+2 Culture, +2 Food] from [Lakes] tiles [in this city]"],
+         "uniques": ["Must be next to [Lakes]", "[+2 Culture, +2 Food] from [Lakes] tiles [in all cities]"],
          "requiredTech": "Civil Service"
     },
     {
