@@ -76,10 +76,12 @@
     {
         "name": "Mosque-Madrassa of Sultan Hassan",
         "uniqueTo": "Mamluks",
-        "science": 3,
+	"science": 1,
 	"faith": 3,
 	"specialistSlots": {"Scientist": 3},
         "isWonder": true,
+	"uniques": ["Must have an owned [Desert] within [2] tiles",
+		"[+1 Science, +1 Faith] from [Desert] tiles [in this city]"],
 	"requiredTech": "Education"
     },
 ]
