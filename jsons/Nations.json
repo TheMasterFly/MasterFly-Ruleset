@@ -145,8 +145,9 @@
 		"innerColor": [240,231,180],
 		
 		"uniqueName": "Viking Fury",
-		"uniques": ["[+1 Food, +1 Production] from every [Fish]", "[+2] Movement <for [Embarked] units>",
-		    "[1] Movement point cost to disembark <for [All] units>", "No movement cost to pillage <for [Melee] units>"],
+		"uniques": ["[+1 Production] from every [Fish]", "[+2] Movement <for [Embarked] units>",
+			"[1] Movement point cost to disembark <for [All] units>", "No movement cost to pillage <for [Melee] units>",
+			"No movement cost to pillage <for [Water] units>", "[{Military} {Water}] units gain the [Landing Party] promotion"],
 		"cities": ["Copenhagen","Aarhus","Kaupang","Ribe","Viborg","Tunsbers","Roskilde","Hedeby","Oslo","Jelling",
 		    "Truso","Bergen","Faeroerne","Reykjavik","Trondheim","Godthab","Helluland","Lillehammer","Markland","Elsinore",
 		    "Sarpsborg","Odense","Aalborg","Stavanger","Vorbasse","Schleswig","Kristiansand","Halogaland","Randers","Fredrikstad",
