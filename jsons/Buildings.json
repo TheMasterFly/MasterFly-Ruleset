@@ -72,5 +72,14 @@
         "cityHealth": 25,
         "uniques": ["Limited to [4] per Civilization", "Cost increases by [30] when built",
         "Free [Crusader Castle Builder] appears", "Destroyed when the city is captured"]
-    }
+    },
+    {
+        "name": "Mosque-Madrassa of Sultan Hassan",
+        "uniqueTo": "Mamluks",
+        "science": 3,
+	"faith": 3,
+	"specialistSlots": {"Scientist": 3},
+        "isWonder": true,
+	"requiredTech": "Education"
+    },
 ]
