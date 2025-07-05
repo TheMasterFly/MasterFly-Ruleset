@@ -60,6 +60,6 @@
         "cityStrength": 2,
         "cityHealth": 25,
         "uniques": ["Limited to [4] per Civilization", "Cost increases by [25] when built",
-        "Creates a [Crusader Castle] improvement on a specific tile", "Destroyed when the city is captured"]
+        "Free [Crusader Castle Builder] appears [in this city]", "Destroyed when the city is captured"]
     }
 ]
