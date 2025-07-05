@@ -70,6 +70,20 @@
 		"attackSound": "arrow.mp3"
 	},
 	{
+		"name": "Norwegian Ski Infantry",
+		"unitType": "Gunpowder",
+		"replaces": "Great War Infantry",
+		"uniqueTo": "Norway",
+		"movement": 2,
+		"strength": 50,
+		"cost": 330,
+		"requiredTech": "Replaceable Parts",
+		"obsoleteTech": "Electronics",
+		"upgradesTo": "Infantry",
+		"promotions": ["[Norwegian Ski Infantry] ability", "Drill I", "Drill II"],
+		"attackSound": "shot"
+	},
+	{
 	        "name": "Crusader Castle Builder",
 	        "replaces": "Great General",
 	        "uniqueTo": "Crusader States",
