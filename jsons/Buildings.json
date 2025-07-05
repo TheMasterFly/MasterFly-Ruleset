@@ -83,5 +83,5 @@
 	"uniques": ["Must have an owned [Desert] within [2] tiles",
 		"[+1 Science, +1 Faith] from [Desert] tiles [in this city]"],
 	"requiredTech": "Education"
-    },
+    }
 ]
