@@ -62,7 +62,7 @@
 	"requiredTech": "Compass"
     },
     {
-        "name": "Outremer Headquarters",
+        "name": "Outremer Stronghold",
         "uniqueTo": "Crusader States",
         "cost": 125,
         "faith": 2,
