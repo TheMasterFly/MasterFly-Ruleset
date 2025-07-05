@@ -46,11 +46,20 @@
         "science": 1,
         "cityStrength": 4,
         "cityHealth": 50,
-        "isNationalWonder": true,
+        "isWonder": true,
         "uniques": ["All newly-trained [All] units [in this city] receive the [Stratiotiki Ekpaidefsi] promotion",
            "[+25]% Great Person generation [in this city]", "Only available <in [Capital] cities>"]
     },
-       {
+    {
+        "name": "The Great Cothon",
+        "uniqueTo": "Carthage",
+        "cost": 185,
+        "gold": 5,
+        "isWonder": true,
+        "uniques": ["New [{Military}, {Water}] units start with [15] XP [in this city]", "[+1 Production] from [Atoll] tiles [in this city]",
+			"[+1 Production] from [Coast] tiles [in this city]", "[+1 Production] from [Fish] tiles [in this city]"]
+    },
+    {
         "name": "Outremer Headquarters",
         "uniqueTo": "Crusader States",
         "cost": 125,
