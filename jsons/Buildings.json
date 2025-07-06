@@ -1,99 +1,109 @@
 [
-   {
-        "name": "Roman Aqueduct",
-        "uniqueTo": "Rome",
-        "replaces": "Aqueduct",
-        "maintenance": 0,
-        "happiness": 1,
-        "hurryCostModifier": 0,
-        "uniques": ["[40]% Food is carried over after population increases [in this city]", "Comment [Required Tech: Mathematics]"],
-        "requiredTech": "Mathematics"
-    },
-    {
-         "name": "Satrap's Court",
-         "replaces": "Market",
-         "uniqueTo": "Persia",
-         "gold": 2,
-         "specialistSlots": {"Merchant": 1},
-         "happiness": 2,
-         "hurryCostModifier": 25,
-         "percentStatBonus": {"gold": 25},
-         "requiredTech": "Currency"
-    },
-    {
-        "name": "Stave Church",
-        "replaces": "Temple",
-        "uniqueTo": "Norway",
-        "cost": 75,
-        "faith": 2,
-        "requiredBuilding": "Shrine",
-        "hurryCostModifier": 25,
-        "requiredTech": "Philosophy",
-        "uniques": ["[+1 Production] from [Tundra] tiles [in this city]", "[+1 Production] from [Snow] tiles [in this city]"]
-    },
-    {
-         "name": "Himeji Castle",
-         "culture": 3,
-         "isWonder": true,
-         "greatPersonPoints": {"Great Engineer": 3},
-         "uniques": ["Must be on [Hill]", "May buy [Military] units with [Faith] [in this city]"],
-         "requiredTech": "Gunpowder",
-         "quote": "'Bushido is realized in the presence of death. This means choosing death whenever there is a choice between life and death. There is no other reasoning.' - Yamamoto Tsunetomo"
-    },
-    {
-         "name": "Huey Teocalli",
-         "food": 2,
-         "culture": 2,
-         "isWonder": true,
-         "greatPersonPoints": {"Great Engineer": 1},
-         "uniques": ["Must be next to [Lakes]", "[+2 Culture, +2 Food] from [Lakes] tiles [in all cities]"],
-         "requiredTech": "Civil Service"
-    },
-    {
-        "name": "Theodosian Walls",
-        "uniqueTo": "Byzantium",
-        "cost": 200,
-        "culture": 2,
-        "science": 1,
-        "cityStrength": 4,
-        "cityHealth": 50,
-        "isWonder": true,
-        "uniques": ["All newly-trained [All] units [in this city] receive the [Stratiotiki Ekpaidefsi] promotion",
-           "[+25]% Great Person generation [in this city]", "Only available <in [Capital] cities>"]
-    },
-    {
-        "name": "The Great Cothon",
-        "uniqueTo": "Carthage",
-        "cost": 185,
-        "culture": 2,
+	{
+	"name": "Roman Aqueduct",
+	"uniqueTo": "Rome",
+	"replaces": "Aqueduct",
+	"maintenance": 0,
+	"happiness": 1,
+	"hurryCostModifier": 0,
+	"uniques": ["[40]% Food is carried over after population increases [in this city]", "Comment [Required Tech: Mathematics]"],
+	"requiredTech": "Mathematics"
+	},
+	{
+	 "name": "Satrap's Court",
+	 "replaces": "Market",
+	 "uniqueTo": "Persia",
+	 "gold": 2,
+	 "specialistSlots": {"Merchant": 1},
+	 "happiness": 2,
+	 "hurryCostModifier": 25,
+	 "percentStatBonus": {"gold": 25},
+	 "requiredTech": "Currency"
+	},
+	{
+	"name": "Stave Church",
+	"replaces": "Temple",
+	"uniqueTo": "Norway",
+	"cost": 75,
+	"faith": 2,
+	"requiredBuilding": "Shrine",
+	"hurryCostModifier": 25,
+	"requiredTech": "Philosophy",
+	"uniques": ["[+1 Production] from [Tundra] tiles [in this city]", "[+1 Production] from [Snow] tiles [in this city]"]
+	},
+	{
+	 "name": "Himeji Castle",
+	 "culture": 3,
+	 "isWonder": true,
+	 "greatPersonPoints": {"Great Engineer": 3},
+	 "uniques": ["Must be on [Hill]", "May buy [Military] units with [Faith] [in this city]"],
+	 "requiredTech": "Gunpowder",
+	 "quote": "'Bushido is realized in the presence of death. This means choosing death whenever there is a choice between life and death. There is no other reasoning.' - Yamamoto Tsunetomo"
+	},
+	{
+	 "name": "Huey Teocalli",
+	 "food": 2,
+	 "culture": 2,
+	 "isWonder": true,
+	 "greatPersonPoints": {"Great Engineer": 1},
+	 "uniques": ["Must be next to [Lakes]", "[+2 Culture, +2 Food] from [Lakes] tiles [in all cities]"],
+	 "requiredTech": "Civil Service"
+	},
+	{
+		"name": "Mausoleum of Halicarnassus",
+		"culture": 1,
+		"greatPersonPoints": {"Great Merchant": 1},
+		"isWonder": true,
+		"uniques": ["Gain [100] [Gold] <upon expending a [Great Person] unit> <(modified by game speed)>",
+			"[+2 Gold] from [Marble] tiles [in all cities]", "[+2 Gold] from [Stone] tiles [in all cities]"],
+		"requiredTech": "Masonry",
+		"quote": "'The whole earth is the tomb of heroic men and their story is not given only on stone over their clay but abides everywhere without visible symbol woven into the stuff of other men's lives.' - Pericles"
+	},
+	{
+	"name": "Theodosian Walls",
+	"uniqueTo": "Byzantium",
+	"cost": 200,
+	"culture": 2,
+	"science": 1,
+	"cityStrength": 4,
+	"cityHealth": 50,
+	"isWonder": true,
+	"uniques": ["All newly-trained [All] units [in this city] receive the [Stratiotiki Ekpaidefsi] promotion",
+	   "[+25]% Great Person generation [in this city]", "Only available <in [Capital] cities>"]
+	},
+	{
+	"name": "The Great Cothon",
+	"uniqueTo": "Carthage",
+	"cost": 185,
+	"culture": 2,
 	"gold": 2,
-        "isWonder": true,
-        "uniques": ["New [{Military}, {Water}] units start with [15] XP [in this city]", "[+1 Culture] from [Atoll] tiles [in this city]",
+	"isWonder": true,
+	"uniques": ["New [{Military}, {Water}] units start with [15] XP [in this city]", "[+1 Culture] from [Atoll] tiles [in this city]",
 		"[+1 Production] from [Coast] tiles [in this city]", "[+1 Culture] from [Fish] tiles [in this city]",
 		"[+1 Gold] from [Ocean] tiles [in this city]"],
 	"requiredTech": "Compass"
-    },
-    {
-        "name": "Outremer Stronghold",
-        "uniqueTo": "Crusader States",
-        "cost": 125,
-        "faith": 2,
-        "happiness": 2,
-        "cityStrength": 3,
-        "cityHealth": 25,
-        "uniques": ["Limited to [4] per Civilization", "Cost increases by [30] when built",
-        "Free [Crusader Castle Builder] appears", "New [{Military}, {Land}] units start with [15] XP [in this city]",
+	},
+	{
+	"name": "Outremer Stronghold",
+	"uniqueTo": "Crusader States",
+	"cost": 125,
+	"faith": 2,
+	"happiness": 2,
+	"cityStrength": 3,
+	"cityHealth": 25,
+	"uniques": ["Limited to [4] per Civilization", "Cost increases by [30] when built",
+	"Free [Crusader Castle Builder] appears", "New [{Military}, {Land}] units start with [15] XP [in this city]",
 	"Destroyed when the city is captured"]
-    },
-    {
-        "name": "Mosque-Madrassa of Sultan Hassan",
-        "uniqueTo": "Mamluks",
+	},
+	{
+	"name": "Mosque-Madrassa of Sultan Hassan",
+	"uniqueTo": "Mamluks",
 	"science": 1,
 	"faith": 3,
 	"specialistSlots": {"Scientist": 3},
-        "isWonder": true,
+	"isWonder": true,
 	"uniques": ["Must have an owned [Desert] within [2] tiles",
 		"[+1 Science, +1 Faith] from [Desert] tiles [in this city]"],
 	"requiredTech": "Theology"
-    }
+	}
 ]
