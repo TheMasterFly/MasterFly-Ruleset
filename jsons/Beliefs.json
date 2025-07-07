@@ -254,6 +254,11 @@
         "type": "Follower",
         "uniques": ["[+15]% growth [in this city] <when not at war>"]
     },
+    {
+        "name": "Stupas",
+        "type": "Follower",
+        "uniques": ["May buy [Stupa] buildings with [Faith] [in cities following this religion]"]
+    },
 ///////////////////////////////////////// Founder beliefs //////////////////////////////////////////
 
     {
