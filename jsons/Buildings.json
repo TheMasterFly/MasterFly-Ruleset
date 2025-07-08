@@ -94,7 +94,8 @@
 	   "[+1 Culture] from every [Cathedral] <starting from the [Medieval era]>",
 	   "[+1 Faith] from every [Mosque] <starting from the [Medieval era]>",
 	   "[+1 Food] from every [Pagoda] <starting from the [Medieval era]>",
-	   "[+1 Production] from every [Stupa] <starting from the [Medieval era]>"]
+	   "[+1 Production] from every [Stupa] <starting from the [Medieval era]>"],
+	"requiredTech": "Construction"
 	},
 	{
 	"name": "The Great Cothon",
