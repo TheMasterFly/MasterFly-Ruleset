@@ -13,12 +13,11 @@
 	},
 	{
 		"name": "Stupa",
-		"cost": 100,
+		"cost": 0,
 		"happiness": 1,
 		"faith": 2,
 		"culture": 1,
 		"science": 1,
-		"requiredBuilding": "Temple",
 		"uniques": ["Unbuildable <before adopting [Stupas]>", "Only available <when religion is enabled>"]
 	},
 	{
