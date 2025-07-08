@@ -18,7 +18,7 @@
 		"faith": 2,
 		"culture": 1,
 		"science": 1,
-		"uniques": ["Unbuildable <before adopting [Stupas]>", "Only available <when religion is enabled>"]
+		"uniques": ["Unbuildable", "Only available <when religion is enabled>"]
 	},
 	{
 	"name": "Roman Aqueduct",
