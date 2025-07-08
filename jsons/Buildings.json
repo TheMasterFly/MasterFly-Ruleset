@@ -84,8 +84,6 @@
 	"name": "Theodosian Walls",
 	"uniqueTo": "Byzantium",
 	"cost": 200,
-	"culture": 2,
-	"science": 1,
 	"cityStrength": 4,
 	"cityHealth": 50,
 	"isWonder": true,
