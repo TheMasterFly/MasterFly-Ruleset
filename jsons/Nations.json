@@ -32,7 +32,7 @@
 
 		"favoredReligion": "Christianity",
 		"uniqueName": "Center of the World",
-		"uniqueText": "May buy [Cathedral], [Mosque], [Pagoda] and [Stupa] buildings with [Faith] without needing their respective religious belief\nWhen a city has all four built, gain +[10]% [Science] in that city\nLose -1 [Gold] per city starting from Classical, -5 [Gold] per city starting from Medieval and -1 [Gold] per 4 population starting from Industrial eras",
+		"uniqueText": "May buy [Cathedral], [Mosque], [Pagoda] and [Stupa] buildings with [Faith] without needing their respective religious belief\nWhen a city has all four built, gain +[10]% [Science] in that city\nLose -1 [Gold] per city starting from Classical, -4 [Gold] per city starting from Medieval and -1 [Gold] per 4 population starting from Industrial eras",
 		"uniques": ["May buy [Cathedral] buildings with [Faith] [in all cities]",
 			"May buy [Mosque] buildings with [Faith] [in all cities]",
 			"May buy [Pagoda] buildings with [Faith] [in all cities]",
