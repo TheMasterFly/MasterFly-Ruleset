@@ -90,7 +90,11 @@
 	"cityHealth": 50,
 	"isWonder": true,
 	"uniques": ["All newly-trained [All] units [in this city] receive the [Stratiotiki Ekpaidefsi] promotion",
-	   "[+25]% Great Person generation [in this city]", "Only available <in [Capital] cities>"]
+	   "[+25]% Great Person generation [in this city]", "Only available <in [Capital] cities>",
+	   "[+1 Culture] from every [Cathedral] <starting from the [Medieval era]>",
+	   "[+1 Faith] from every [Mosque] <starting from the [Medieval era]>",
+	   "[+1 Food] from every [Pagoda] <starting from the [Medieval era]>",
+	   "[+1 Production] from every [Stupa] <starting from the [Medieval era]>"]
 	},
 	{
 	"name": "The Great Cothon",
