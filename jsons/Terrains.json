@@ -512,7 +512,7 @@
 			"Must be adjacent to [0] [Tundra] tiles",
 			"Must be adjacent to [0] [Marsh] tiles",
 			"Must be adjacent to [3] to [6] [Desert] tiles",
-			"Every [1] tiles with this terrain will receive a major deposit of a strategic resource",
+			"Every [1] tiles with this terrain will receive a major deposit of a strategic resource.",
 			"Grants [+44 Faith] to the first civilization to discover it",
 			"Tile provides yield without assigned population"],
 		"turnsInto": "Mountain",
