@@ -39,6 +39,7 @@
             "Considered [Food] when determining start locations <in [Hill] Regions>",
             "Considered [Food] when determining start locations <in [Grassland] Regions>",
             "Considered [Food] when determining start locations <in [Hybrid] Regions>",
+	    "Neighboring tiles will convert to [Grassland]",
             "Every [30] tiles with this terrain will receive a major deposit of a strategic resource."]
     },
 	{
