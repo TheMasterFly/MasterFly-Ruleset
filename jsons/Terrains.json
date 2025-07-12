@@ -397,7 +397,6 @@
 			"Must be adjacent to [0] [Grassland] tiles",
 			"Must be adjacent to [2] to [6] [Hill] tiles",
 			"Must be adjacent to [0] to [2] [Mountain] tiles",
-	    		"Neighboring tiles will convert to [Grand Mesa]",
 			"Tile provides yield without assigned population"],
 		"turnsInto": "Mountain",
 		"impassable": true,
