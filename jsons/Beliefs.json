@@ -420,7 +420,7 @@
         "name": "Indulgences",
         "type": "Enhancer",
         "uniques": [
-            "[+1 Food, +1 Culture, +1 Production, +1 Gold, +1 Faith] [in cities following this religion]",
+            "[+1 Food, +1 Culture, +1 Production, +1 Gold, +1 Faith, +1 Happiness, +1 Science] [in cities following this religion]",
             "Only available <after adopting [Reformation]>"
         ]
     },
@@ -440,13 +440,11 @@
         "name": "Sacred Sites",
         "type": "Enhancer",
         "uniques": [
-            "[+2 Gold, +2 Culture, +2 Faith] from every [Vihara]",
             "[+2 Gold, +2 Culture, +2 Faith] from every [Cathedral]",
-            "[+2 Gold, +2 Culture, +2 Faith] from every [Gurdwara]",
-            "[+2 Gold, +2 Culture, +2 Faith] from every [Mandir]",
+            "[+2 Gold, +2 Culture, +2 Faith] from every [Monastery]",
             "[+2 Gold, +2 Culture, +2 Faith] from every [Mosque]",
             "[+2 Gold, +2 Culture, +2 Faith] from every [Pagoda]",
-            "[+2 Gold, +2 Culture, +2 Faith] from every [Synagogue]",
+            "[+2 Gold, +2 Culture, +2 Faith] from every [Stupa]",
             "Only available <after adopting [Reformation]>"
         ]
     },
