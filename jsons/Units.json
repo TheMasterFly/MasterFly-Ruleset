@@ -100,6 +100,21 @@
 		"attackSound": "arrow.mp3"
 	},
 	{
+		"name": "Mohawk Warrior",
+		"unitType": "Sword",
+		"uniqueTo": "Iroquois",
+		"replaces": "Swordsman",
+		"movement": 3,
+		"strength": 19,
+		"cost": 75,
+		"requiredTech": "Iron Working",
+		"upgradesTo": "Longswordsman",
+		"obsoleteTech": "Gunpowder",
+		"hurryCostModifier": 20,
+		"promotions": ["[Mohawk Warrior] ability"],
+		"attackSound": "metalhit"
+	},
+	{
 		"name": "Norwegian Ski Infantry",
 		"unitType": "Gunpowder",
 		"replaces": "Rifleman",
