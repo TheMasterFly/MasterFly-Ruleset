@@ -179,9 +179,9 @@
 	
 		"favoredReligion": "Christianity",
 		"uniqueName": "The Great Warpath",
-		"uniqueText": "All units move through Forest and Jungle Tiles in friendly territory as if they have roads. These tiles can be used to establish City Connections upon researching the Wheel\n+15% strength and double movement to [Military] [Land] units in [Forest]\nMay grow [Forest] without [Fertilizer]",
+		"uniqueText": "All units move through Forest and Jungle Tiles in friendly territory as if they have roads. These tiles can be used to establish City Connections upon researching the Wheel\n+15% strength and double movement to [Military] [Land] units in [Forest]\nMay grow [Forest] without [Fertilizer]\n+1 [Food] from every [Forest]",
 		"uniques": ["All units move through Forest and Jungle Tiles in friendly territory as if they have roads. These tiles can be used to establish City Connections upon researching the Wheel.",
-			"[{Military} {Land}] units gain the [Of The Land] promotion <hidden from users>"],
+			"[{Military} {Land}] units gain the [Of The Land] promotion <hidden from users>", "[+1 Food] from every [Forest]"],
 		"cities": ["Onondaga","Osininka","Grand River","Akwesasme","Buffalo Creek","Brantford","Montreal","Genesse River",
 			"Canandaigua Lake","Lake Simcoe","Salamanca","Gowanda","Cuba","Akron","Kanesatake","Ganienkeh","Cayuga Castle",
 			"Chondote","Canajoharie","Nedrow","Oneida Lake","Kanonwalohale","Green Bay","Southwold","Mohawk Valley",
