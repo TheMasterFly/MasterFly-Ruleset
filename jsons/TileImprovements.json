@@ -36,6 +36,7 @@
 	        "name": "Crusader Castle",
 	        "uniqueTo": "Crusader States",
 		"food": 2,
+		"replaces": "Citadel",
 		"terrainsCanBeBuiltOn": ["Land"],
 		
 		"uniques": ["Great Improvement",
