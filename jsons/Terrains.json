@@ -427,9 +427,9 @@
 	{
 		"name": "Krakatoa",
 		"type": "NaturalWonder",
-		"science": 5,
+		"science": 7,
 		"food": 2,
-		"occursOn": ["Ocean"],
+		"occursOn": ["Coast"],
 		"uniques": ["Must be adjacent to [3] to [5] [Coast] tiles",
 			"Must be adjacent to [0] [Ice] tiles",
 			"Must be adjacent to [0] [Tundra] tiles",
