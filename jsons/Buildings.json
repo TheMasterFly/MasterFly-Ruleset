@@ -12,13 +12,27 @@
 	"requiredTech": "Astronomy"
 	},
 	{
-		"name": "Stupa",
-		"cost": 0,
-		"happiness": 1,
-		"faith": 2,
-		"culture": 1,
-		"science": 1,
-		"uniques": ["Unbuildable", "Only available <when religion is enabled>"]
+	"name": "Stupa",
+	"cost": 0,
+	"happiness": 1,
+	"faith": 2,
+	"culture": 1,
+	"science": 1,
+	"uniques": ["Unbuildable", "Only available <when religion is enabled>"]
+	},
+	{
+	"name": "Longhouse",
+	"replaces": "Workshop",
+	"uniqueTo": "Iroquois",
+	"cost": 100,
+	"maintenance": 2,
+	"production": 2,
+	"specialistSlots": {"Engineer": 1},
+	"hurryCostModifier": 25,
+	"percentStatBonus": {"production": 5},
+	"uniques": ["[+1 Food, +1 Production] from [Forest] tiles [in this city]",
+		"[+2 Science] from [Forest] tiles [in this city] <after discovering [Education]>"],
+	"requiredTech": "Metal Casting"
 	},
 	{
 	"name": "Roman Aqueduct",
