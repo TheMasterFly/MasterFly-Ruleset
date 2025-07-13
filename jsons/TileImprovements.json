@@ -53,6 +53,7 @@
 	{
 		"name": "Oneonta’kéha",
 		"uniqueTo": "Iroquois",
+		"replaces": "Plant Forest",
 		"terrainsCanBeBuiltOn": ["Grassland","Hill","Plains","Tundra"],
 		
 		"turnsToBuild": 7,
