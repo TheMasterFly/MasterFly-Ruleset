@@ -86,14 +86,14 @@
 	 "requiredTech": "Civil Service"
 	},
 	{
-		"name": "Mausoleum of Halicarnassus",
-		"culture": 1,
-		"greatPersonPoints": {"Great Merchant": 1},
-		"isWonder": true,
-		"uniques": ["Gain [100] [Gold] <upon expending a [Great Person] unit> <(modified by game speed)>",
-			"[+2 Gold] from [Marble] tiles [in all cities]", "[+2 Gold] from [Stone] tiles [in all cities]"],
-		"requiredTech": "Masonry",
-		"quote": "'The whole earth is the tomb of heroic men and their story is not given only on stone over their clay but abides everywhere without visible symbol woven into the stuff of other men's lives.' - Pericles"
+	"name": "Mausoleum of Halicarnassus",
+	"culture": 1,
+	"greatPersonPoints": {"Great Merchant": 1},
+	"isWonder": true,
+	"uniques": ["Gain [100] [Gold] <upon expending a [Great Person] unit> <(modified by game speed)>",
+		"[+2 Gold] from [Marble] tiles [in all cities]", "[+2 Gold] from [Stone] tiles [in all cities]"],
+	"requiredTech": "Masonry",
+	"quote": "'The whole earth is the tomb of heroic men and their story is not given only on stone over their clay but abides everywhere without visible symbol woven into the stuff of other men's lives.' - Pericles"
 	},
 	{
 	"name": "Theodosian Walls",
@@ -101,13 +101,13 @@
 	"cost": 200,
 	"cityStrength": 4,
 	"cityHealth": 50,
-	"isWonder": true,
+	"isNationalWonder": true,
 	"uniques": ["All newly-trained [All] units [in this city] receive the [Stratiotiki Ekpaidefsi] promotion",
-	   "[+25]% Great Person generation [in this city]", "Only available <in [Capital] cities>",
+	   "Only available <in [Capital] cities>",
 	   "[+1 Culture] from every [Cathedral] <starting from the [Medieval era]>",
 	   "[+1 Faith] from every [Mosque] <starting from the [Medieval era]>",
 	   "[+1 Food] from every [Pagoda] <starting from the [Medieval era]>",
-	   "[+1 Production] from every [Stupa] <starting from the [Medieval era]>"],
+	   "[+1 Gold] from every [Stupa] <starting from the [Medieval era]>"],
 	"requiredTech": "Construction"
 	},
 	{
@@ -116,10 +116,9 @@
 	"cost": 185,
 	"culture": 2,
 	"gold": 2,
-	"isWonder": true,
-	"uniques": ["New [{Military}, {Water}] units start with [15] XP [in this city]", "[+1 Culture] from [Atoll] tiles [in this city]",
-		"[+1 Production] from [Coast] tiles [in this city]", "[+1 Culture] from [Fish] tiles [in this city]",
-		"[+1 Gold] from [Ocean] tiles [in this city]"],
+	"isNationalWonder": true,
+	"uniques": ["New [{Military}, {Water}] units start with [15] XP [in this city]", "[+1 Culture, +1 Production] from [Atoll] tiles [in this city]",
+		"[+1 Gold] from [Coast] tiles [in this city]", "[+1 Culture, +1 Production] from [Fish] tiles [in this city]"],
 	"requiredTech": "Compass"
 	},
 	{
@@ -140,7 +139,7 @@
 	"science": 1,
 	"faith": 3,
 	"specialistSlots": {"Scientist": 3},
-	"isWonder": true,
+	"isNationalWonder": true,
 	"uniques": ["Must have an owned [Desert] within [2] tiles",
 		"[+1 Science, +1 Faith] from [Desert] tiles [in this city]"],
 	"requiredTech": "Theology"
