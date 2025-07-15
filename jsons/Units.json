@@ -40,7 +40,7 @@
 		"replaces": "Horseman",
 		"movement": 3,
 		"strength": 18,
-		"cost": 75,
+		"cost": 90,
 		"requiredTech": "Horseback Riding",
 		"upgradesTo": "Knight",
 		"obsoleteTech": "Chivalry",
