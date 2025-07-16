@@ -803,7 +803,7 @@
                     "[-50]% maintenance costs <for [All] units>"
                 ],
                 "row": 2,
-                "column": 2
+                "column": 1
             },
             {
                 "name": "Forbidden Knowledge",
@@ -814,7 +814,7 @@
                     "[-100]% weight to this choice for AI decisions"
                 ],
                 "row": 3,
-                "column": 2
+                "column": 1
             },
             {
                 "name": "Twisted Reformation",
@@ -822,7 +822,16 @@
                     "Adopt [Reformation]"
                 ],
                 "row": 3,
-                "column": 4
+                "column": 3
+            },
+            {
+                "name": "Purge of the Sciences",
+                "uniques": [
+                    "[+2 Faith, -1 Science] per [2] population [in all cities]",
+                    "[Missionary] units gain the [Devout] promotion"
+                ],
+                "row": 3,
+                "column": 5
             },
             {
                 "name": "Cult Fanaticism Complete",
