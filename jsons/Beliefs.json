@@ -122,7 +122,8 @@
         "name": "Monument to the Gods",
         "type": "Pantheon",
         "uniques": ["[+15]% Production when constructing [Ancient era] wonders [in cities following this religion]",
-            "[+15]% Production when constructing [Classical era] wonders [in cities following this religion]"]
+            "[+15]% Production when constructing [Classical era] wonders [in cities following this religion]",
+            "[+1 Faith] from every [Wonder]"]
     },
     {
         "name": "Ocean's Bounty",
