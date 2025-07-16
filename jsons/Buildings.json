@@ -22,14 +22,14 @@
 	},
 	////////////////// Cult Buildings //////////////////////////////
 	{
-        "name": "Forbidden Shrine",
+        "name": "Forbidden Knowledge",
         "cost": 0,
 	"science": 2,
         "uniques": [
         	"Unbuildable", "[-3 Production, -3 Faith] <before discovering [Industrial era]>",
 		"[-3 Production, -3 Faith] <before discovering [Modern era]>",
-		"[+1 Science, +3 Food] <starting from the [Industrial era]>",
-		"[+1 Science, +2 Happiness] <starting from the [Modern era]>",
+		"[+1 Science, +2 Food, +1 Happiness] <starting from the [Industrial era]>",
+		"[+1 Science, +1 Food, +1 Happiness] <starting from the [Modern era]>",
 		"[+3 Science] <starting from the [Atomic era]>"
         ]
     	},
