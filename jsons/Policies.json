@@ -778,44 +778,43 @@
         "name": "Cult Fanaticism",
         "era": "Classical era",
         "uniques": [
-            "[-1] population [in all cities]",
+            "Each city founded increases culture cost of policies [33]% less than normal",
             "Only available <before adopting [Rationalism]>",
-            "Only available <before adopting [Piety]>",
-            "[+1 Culture] [in all cities]"
+            "Only available <before adopting [Piety]>"
         ],
         "policies": [
             {
-                "name": "Zealotry",
+                "name": "Hedonism",
                 "uniques": [
-                    "Triggers the following global alert: [Testing Zealotry]",
-                    "[+1 Culture] [in all cities]"
+                    "[+10 Food, +10 Happiness] [in all cities]",
+                    "[50]% Food is carried over after population increases [in all cities]",
+                    "[-1 Science, -1 Faith] per [1] population [in all cities]",
+                    "[-2 Production] [in all cities]"
                 ],
                 "row": 1,
+                "column": 1
+            },
+            {
+                "name": "Psychomancy",
+                "uniques": [
+                    "[-1 Happiness, +1 Production] per [3] population [in all cities]",
+                    "[-1 Science] per [2] population <in cities with at least [7] [Population]>",
+                    "[+5 Production] [in all cities]",
+                    "[-50]% maintenance costs <for [All] units>"
+                ],
+                "row": 2,
                 "column": 2
             },
             {
-                "name": "Human Sacrifice",
+                "name": "Forbidden Shrines",
                 "uniques": [
-                    "Triggers the following global alert: [Testing Human Sacrifice]",
-                    "[+1 Gold] [in all cities]"
-                ],
-                "row": 2,
-                "column": 2,
-                "requires": [
-                    "Zealotry"
-                ],
-            },
-            {
-                "name": "Evil Laughter",
-                "uniques": [
-                    "Triggers the following global alert: [Testing Evil Laughter]",
-                    "[+1 Science] [in all cities]"
+                    "May buy [Forbidden Shrine] buildings for [50] [Gold] [in all cities] <before discovering [Modern era]>",
+                    "[Gold] cost of purchasing [Forbidden Shrine] buildings [+600]% <starting from the [Industrial era]>",
+                    "[+1 Gold] [in all cities]",
+                    "[-100]% weight to this choice for AI decisions"
                 ],
                 "row": 3,
-                "column": 2,
-                "requires": [
-                    "Human Sacrifice"
-                ],
+                "column": 2
             },
             {
                 "name": "Evil Laughter 2",
@@ -824,15 +823,12 @@
                     "[+1 Faith] [in all cities]"
                 ],
                 "row": 3,
-                "column": 3,
-                "requires": [
-                    "Human Sacrifice"
-                ],
+                "column": 3
             },
             {
                 "name": "Cult Fanaticism Complete",
                 "uniques": [
-                    "Triggers the following global alert: [Itsame, Mario!]"
+                    "Comment [Not completable]"
                 ]
             }
         ]
