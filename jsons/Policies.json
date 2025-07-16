@@ -798,7 +798,7 @@
                 "name": "Psychomancy",
                 "uniques": [
                     "[-1 Happiness, +1 Production] per [3] population [in all cities]",
-                    "[-1 Science] per [2] population <in cities with at least [7] [Population]>",
+                    "[-1 Science] per [2] population [in this city] <in cities with at least [7] [Population]>",
                     "[+5 Production] [in all cities]",
                     "[-50]% maintenance costs <for [All] units>"
                 ],
@@ -806,10 +806,10 @@
                 "column": 2
             },
             {
-                "name": "Forbidden Shrines",
+                "name": "Forbidden Knowledge",
                 "uniques": [
-                    "May buy [Forbidden Shrine] buildings for [50] [Gold] [in all cities] <before discovering [Modern era]>",
-                    "[Gold] cost of purchasing [Forbidden Shrine] buildings [+600]% <starting from the [Industrial era]>",
+                    "May buy [Forbidden Knowledge] buildings for [50] [Gold] [in all cities] <before discovering [Modern era]>",
+                    "[Gold] cost of purchasing [Forbidden Knowledge] buildings [+600]% <starting from the [Industrial era]>",
                     "[+1 Gold] [in all cities]",
                     "[-100]% weight to this choice for AI decisions"
                 ],
