@@ -800,7 +800,10 @@
                     "[+1 Gold] [in all cities]"
                 ],
                 "row": 2,
-                "column": 2
+                "column": 2,
+                "requires": [
+                    "Zealotry"
+                ],
             },
             {
                 "name": "Evil Laughter",
@@ -809,7 +812,10 @@
                     "[+1 Science] [in all cities]"
                 ],
                 "row": 3,
-                "column": 2
+                "column": 2,
+                "requires": [
+                    "Human Sacrifice"
+                ],
             },
             {
                 "name": "Evil Laughter 2",
@@ -818,7 +824,10 @@
                     "[+1 Faith] [in all cities]"
                 ],
                 "row": 3,
-                "column": 4
+                "column": 4,
+                "requires": [
+                    "Human Sacrifice"
+                ],
             },
             {
                 "name": "Cult Fanaticism Complete",
