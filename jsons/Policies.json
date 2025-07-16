@@ -788,8 +788,7 @@
                 "uniques": [
                     "[+10 Food, +10 Happiness] [in all cities]",
                     "[50]% Food is carried over after population increases [in all cities]",
-                    "[-1 Science, -1 Faith] per [1] population [in all cities]",
-                    "[-2 Production] [in all cities]"
+                    "[-1 Science, -1 Faith] per [1] population [in all cities]"
                 ],
                 "row": 1,
                 "column": 1
