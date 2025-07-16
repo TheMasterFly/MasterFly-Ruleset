@@ -20,6 +20,19 @@
 	"science": 1,
 	"uniques": ["Unbuildable", "Only available <when religion is enabled>"]
 	},
+	////////////////// Cult Buildings //////////////////////////////
+	{
+        "name": "Forbidden Shrine",
+        "cost": 135,
+	"science": 2,
+        "uniques": [
+        	"Unsellable", "Unbuildable", "[-3 Production, -4 Faith] <before discovering [Industrial era]>",
+		"[-3 Production, -3 Faith] <before discovering [Modern era]>",
+		"[+1 Science, +3 Food] <starting from the [Industrial era]>",
+		"[+1 Science, +2 Happiness] <starting from the [Modern era]>",
+		"[+3 Science] <starting from the [Atomic era]>"
+        ]
+    	},
 	{
 	"name": "Longhouse",
 	"replaces": "Workshop",
