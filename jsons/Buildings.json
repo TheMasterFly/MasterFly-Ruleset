@@ -23,7 +23,7 @@
 	////////////////// Cult Buildings //////////////////////////////
 	{
         "name": "Forbidden Shrine",
-        "cost": 135,
+        "cost": 0,
 	"science": 2,
         "uniques": [
         	"Unsellable", "Unbuildable", "[-3 Production, -4 Faith] <before discovering [Industrial era]>",
