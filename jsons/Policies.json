@@ -817,13 +817,12 @@
                 "column": 2
             },
             {
-                "name": "Evil Laughter 2",
+                "name": "Twisted Reformation",
                 "uniques": [
-                    "Triggers the following global alert: [Testing Evil Laughter 2]",
-                    "[+1 Faith] [in all cities]"
+                    "Adopt [Reformation]"
                 ],
                 "row": 3,
-                "column": 3
+                "column": 4
             },
             {
                 "name": "Cult Fanaticism Complete",
