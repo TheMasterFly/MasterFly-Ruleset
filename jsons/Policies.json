@@ -798,7 +798,7 @@
                 "name": "Psychomancy",
                 "uniques": [
                     "[-1 Happiness, +1 Production] per [3] population [in all cities]",
-                    "[-1 Science] per [2] population [in this city] <in cities with at least [7] [Population]>",
+                    "[-1 Science] per [3] population [in this city] <in cities with at least [7] [Population]>",
                     "[+5 Production] [in all cities]",
                     "[-50]% maintenance costs <for [All] units>"
                 ],
