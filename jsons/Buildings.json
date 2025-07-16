@@ -26,7 +26,7 @@
         "cost": 0,
 	"science": 2,
         "uniques": [
-        	"Unsellable", "Unbuildable", "[-3 Production, -4 Faith] <before discovering [Industrial era]>",
+        	"Unbuildable", "[-3 Production, -3 Faith] <before discovering [Industrial era]>",
 		"[-3 Production, -3 Faith] <before discovering [Modern era]>",
 		"[+1 Science, +3 Food] <starting from the [Industrial era]>",
 		"[+1 Science, +2 Happiness] <starting from the [Modern era]>",
