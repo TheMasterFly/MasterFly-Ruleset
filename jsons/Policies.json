@@ -259,7 +259,7 @@
             {
                 "name": "Mandate Of Heaven",
                 "uniques": [
-                    "[50]% of excess happiness converted to [Culture]"
+                    "[Faith] cost of purchasing items in cities [-20]%"
                 ],
                 "row": 1,
                 "column": 5
@@ -302,7 +302,7 @@
             {
                 "name": "Piety Complete",
                 "uniques": [
-                    "[Faith] cost of purchasing items in cities [-20]%",
+                    "Gain enough Faith for [50]% of a Great Prophet",
                     "[+3 Gold, +3 Culture] from every [Holy site]"
                 ]
             }
