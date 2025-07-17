@@ -796,9 +796,8 @@
             {
                 "name": "Psychomancy",
                 "uniques": [
-                    "[-1 Happiness, +1 Production] per [3] population [in all cities]",
-                    "[-1 Science] per [3] population [in this city] <in cities with at least [7] [Population]>",
-                    "[+5 Production] [in all cities]",
+                    "[-5 Science, -2 Happiness] [in all cities]",
+                    "[+7 Production] [in all cities]",
                     "[-50]% maintenance costs <for [All] units>"
                 ],
                 "row": 2,
@@ -836,7 +835,7 @@
                 "name": "Flesh Eaters",
                 "uniques": ["[Military] units gain the [Flesh Eater] promotion", "No damage penalty for wounded units",
                     "Receive triple Gold from Barbarian encampments and pillaging Cities",
-                    "[+1 Food, -1 Science] per [1] population [in all cities]"
+                    "[+1 Food, -1 Gold] per [1] population [in all cities]", "[-5 Science] [in all cities]"
                 ],
                 "row": 2,
                 "column": 5
