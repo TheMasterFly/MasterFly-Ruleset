@@ -834,8 +834,8 @@
             },
             {
                 "name": "Flesh Eaters",
-                "uniques": ["Requires at least [5] population <in all cities>", "[Military] units gain the [Flesh Eater] promotion",
-                    "No damage penalty for wounded units", "Receive triple Gold from Barbarian encampments and pillaging Cities",
+                "uniques": ["[Military] units gain the [Flesh Eater] promotion", "No damage penalty for wounded units",
+                    "Receive triple Gold from Barbarian encampments and pillaging Cities",
                     "[+1 Food, -1 Science] per [1] population [in all cities]"
                 ],
                 "row": 2,
