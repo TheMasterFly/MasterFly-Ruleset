@@ -833,6 +833,24 @@
                 "column": 5
             },
             {
+                "name": "Flesh Eaters",
+                "uniques": ["Requires at least [5] population <in all cities>", "[Military] units gain the [Flesh Eater] promotion",
+                    "No damage penalty for wounded units", "Receive triple Gold from Barbarian encampments and pillaging Cities",
+                    "[+1 Food, -1 Science] per [1] population [in all cities]"
+                ],
+                "row": 2,
+                "column": 5
+            },
+            {
+                "name": "Necromancy",
+                "uniques": [
+                    "When defeating a [Military] unit, earn [0] Gold and recruit it <with [100]% chance>",
+                    "[-100]% maintenance costs <for [Military] units>", "[-5 Culture, -5 Faith] [in all cities]"
+                ],
+                "row": 1,
+                "column": 5
+            },
+            {
                 "name": "Cult Fanaticism Complete",
                 "uniques": [
                     "Comment [Not completable]"
