@@ -4,6 +4,11 @@
             "uniques": ["Double movement in [Hill]", "[+10]% Strength <when fighting in [Hill] tiles>"],
       },
       {
+            "name": "Flesh Eater",
+            "uniques": ["Heals [50] damage if it kills a unit", "[-25]% Strength <when fighting in [Friendly] tiles>",
+            "[+50]% Yield from pillaging tiles", "[+100]% Gold cost of upgrading"]
+      },
+      {
             "name": "Of The Land",
             "uniques": ["[+15]% Strength <when fighting in [Forest] tiles>", "Double movement in [Forest]"]
       },
