@@ -786,7 +786,7 @@
             {
                 "name": "Hedonism",
                 "uniques": [
-                    "[+20 Food, +10 Happiness] [in all cities]",
+                    "[+20 Food, +10 Happiness, -8 Production] [in all cities]",
                     "[50]% Food is carried over after population increases [in all cities]",
                     "[-1 Science, -1 Faith] per [1] population [in all cities]"
                 ],
