@@ -387,9 +387,7 @@
         "uniques": [
             "[+1] Movement <for [{Military} {Water}] units>",
             "[+1] Sight <for [{Military} {Water}] units>",
-            "Comment [Unlocks [The Louvre]]",
-            "Comment [Unlocks [Conquistador]]",
-            "Provides [1] [Policies]"
+            "Comment [Unlocks [The Louvre]]"
         ],
         "era": "Medieval era",
         "policies": [
@@ -399,7 +397,6 @@
                     "[+1 Happiness, +1 Culture] from every [Lighthouse]",
                     "[+1 Happiness, +1 Culture] from every [Harbor]",
                     "[+1 Happiness, +1 Culture] from every [Seaport]",
-                    "Provides [1] [Policies]"
                 ],
                 "row": 1,
                 "column": 1
@@ -410,8 +407,7 @@
                     "[+3 Production] [in all coastal cities]",
                     "[+50]% Production when constructing [Lighthouse] buildings [in all cities]",
                     "[+50]% Production when constructing [Harbor] buildings [in all cities]",
-                    "[+50]% Production when constructing [Seaport] buildings [in all cities]",
-                    "Provides [1] [Policies]"
+                    "[+50]% Production when constructing [Seaport] buildings [in all cities]"
                 ],
                 "row": 1,
                 "column": 3
@@ -422,8 +418,7 @@
                     //"[+1] population [in all cities]",
                     //"[+1 Happiness] [in all cities]",
                     "Gain a free [Governor's Mansion] [in this city] <upon founding a city>",
-                    "Free [Worker] appears <upon founding a city>",
-                    "Provides [1] [Policies]"
+                    "Free [Worker] appears <upon founding a city>"
                 ],
                 "row": 1,
                 "column": 5
@@ -432,8 +427,7 @@
                 "name": "Navigation School",
                 "uniques": [
                     "[+2 Science] [in all coastal cities]",
-                    "[+10]% Strength <for [Water] units>",
-                    "Provides [1] [Policies]"
+                    "[+10]% Strength <for [Water] units>"
                 ],
                 "requires": ["Maritime Infrastructure","Naval Tradition"],
                 "row": 2,
@@ -443,8 +437,7 @@
                 "name": "Treasure Fleets",
                 "uniques": [
                     "[+1 Gold, +1 Production, +1 Food] from every [Coast] <in tiles without [resource]> <in tiles without [Improvement]>",
-                    "[+1 Gold, +1 Production, +1 Food] from every [Ocean]",
-                    "Provides [1] [Policies]"
+                    "[+1 Gold, +1 Production, +1 Food] from every [Ocean]"
                 ],
                 "requires": ["Navigation School"],
                 "row": 3,
@@ -465,8 +458,7 @@
         "name": "Commerce",
         "uniques": [
             "[Great Merchant] is earned [33]% faster",
-            "Comment [Unlocks [Big Ben]]",
-            "Provides [1] [Policies]"
+            "Comment [Unlocks [Big Ben]]"
         ],
         "era": "Medieval era",
         "policies": [
@@ -475,8 +467,7 @@
                 "uniques": [
                     "[+50]% Production when constructing [Market] buildings [in all cities]",
                     "[+50]% Production when constructing [Bank] buildings [in all cities]",
-                    "[+50]% Production when constructing [Stock Exchange] buildings [in all cities]",
-                    "Provides [1] [Policies]"
+                    "[+50]% Production when constructing [Stock Exchange] buildings [in all cities]"
                 ],
                 "row": 1,
                 "column": 2
@@ -485,8 +476,7 @@
                 "name": "Mercenary Army",
                 "uniques": [
                     "Comment [Allows purchasing [Landsknecht] at [Civil Service]]",
-                    "Comment [Allows purchasing [Foreign Legion] at [Replaceable Parts]]",
-                    "Provides [1] [Policies]"
+                    "Comment [Allows purchasing [Foreign Legion] at [Replaceable Parts]]"
                 ],
                 "row": 1,
                 "column": 5
@@ -495,9 +485,7 @@
                 "name": "Entrepreneurship",
                 "uniques": [
                     "[-25]% maintenance on road & railroads",
-                    "[-25]% maintenance cost for [all] buildings [in all cities]",
-                    "Provides [2] [Trade Route]",
-                    "Provides [1] [Policies]"
+                    "[-25]% maintenance cost for [all] buildings [in all cities]"
                 ],
                 "requires": ["Silk Road"],
                 "row": 2,
@@ -506,15 +494,10 @@
             {
                 "name": "Mercantilism",
                 "uniques": [
-                    /*"[+25]% Yield from every [Land Trade Route (Food)]",
-                    "[+25]% Yield from every [Land Trade Route (Production)]",
-                    "[+25]% Yield from every [Sea Trade Route (Food)]",
-                    "[+25]% Yield from every [Sea Trade Route (Production)]",*/
                     "[Gold] cost of purchasing items in cities [-20]%",
                     "[+2 Science] from every [Market]",
                     "[+2 Science] from every [Bank]",
-                    "[+2 Science] from every [Stock Exchange]",
-                    "Provides [1] [Policies]"
+                    "[+2 Science] from every [Stock Exchange]"
                 ],
                 "requires": ["Silk Road"],
                 "row": 2,
@@ -525,7 +508,6 @@
                 "uniques": [
                     "[+1 Food, +4 Gold] from every [Customs house]",
                     "[+4 Production, +4 Culture, +4 Happiness] from every [East India Company]",
-                    "Provides [1] [Policies]"
                 ],
                 "requires": ["Mercantilism"],
                 "row": 3,
@@ -536,7 +518,6 @@
                 "uniques": [
                     "[2] free [Great Merchant] units appear",
                     "[+1 Food] from every [Trading post]",
-                    "[+1 Food] from every [Caer]",
                     "[+100]% Gold from Great Merchant trade missions",
                     "May buy [Great Merchant] units for [1000] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([500]) <starting from the [Industrial era]>"
                 ]
