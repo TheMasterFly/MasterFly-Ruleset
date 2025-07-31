@@ -505,7 +505,7 @@
                 "name": "Protectionism",
                 "uniques": [
                     "[+1 Food, +4 Gold] from every [Customs house]",
-                    "[+4 Production, +4 Culture, +4 Happiness] from every [East India Company]",
+                    "[+4 Production, +4 Culture, +4 Happiness] from every [East India Company]"
                 ],
                 "requires": ["Mercantilism"],
                 "row": 3,
