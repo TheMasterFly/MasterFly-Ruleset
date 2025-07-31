@@ -415,7 +415,8 @@
             {
                 "name": "Colonialism",
                 "uniques": [
-                    "[+1 Happiness] [in all cities] <on foreign continents>",
+                    "[+2 Happiness] [in all cities] <on foreign continents>",
+                    "[3] population [in this city] <upon founding a city> <on foreign continents>",
                     "Free [Worker] appears <upon founding a city>"
                 ],
                 "row": 1,
