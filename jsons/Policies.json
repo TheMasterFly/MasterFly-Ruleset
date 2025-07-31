@@ -495,7 +495,7 @@
                 "uniques": [
                     "[Gold] cost of purchasing items in cities [-25]%",
                     "[+1 Science, +1 Culture] from every [Market]",
-                    "[1 Science, +1 Culture] from every [Bank]",
+                    "[+1 Science, +1 Culture] from every [Bank]",
                     "[+1 Science, +1 Culture] from every [Stock Exchange]"
                 ],
                 "requires": ["Silk Road"],
@@ -506,8 +506,8 @@
                 "name": "Protectionism",
                 "uniques": [
                     "[+1 Food] from every [Trading post]",
-                    "[+4 Gold] from every [Customs house]",
-                    "[+3 Gold, +1 Culture] from every [Luxury resource]"
+                    "[+1 Science, +1 Culture, +4 Gold] from every [Customs house]",
+                    "[+2 Gold, +1 Culture] from every [Luxury resource]"
                 ],
                 "requires": ["Mercantilism"],
                 "row": 3,
