@@ -483,8 +483,8 @@
                 "name": "Silk Road",
                 "uniques": [
                     "Retain [50]% of the happiness from a luxury after the last copy has been traded away",
-                    "[-25]% maintenance on road & railroads",
-                    "[+25]% [Gold] from Trade Routes"
+                    "[-33]% maintenance on road & railroads",
+                    "[+33]% [Gold] from Trade Routes"
                 ],
                 "requires": ["Entrepreneurship"],
                 "row": 2,
@@ -494,11 +494,11 @@
                 "name": "Mercantilism",
                 "uniques": [
                     "[Gold] cost of purchasing items in cities [-25]%",
-                    "[+1 Science, +1 Culture] from every [Market]",
-                    "[+1 Science, +1 Culture] from every [Bank]",
-                    "[+1 Science, +1 Culture] from every [Stock Exchange]"
+                    "[+1 Happiness, +1 Culture] from every [Market]",
+                    "[+1 Happiness, +1 Culture] from every [Bank]",
+                    "[+1 Happiness, +1 Culture] from every [Stock Exchange]"
                 ],
-                "requires": ["Silk Road"],
+                "requires": ["Entrepreneurship"],
                 "row": 2,
                 "column": 3
             },
