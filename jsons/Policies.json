@@ -90,7 +90,7 @@
             {
                 "name": "Republic",
                 "uniques": [
-                    "[+1 Production] [in all cities]",
+                    "[+1 Production] per [4] population [in all cities]",
                     "[+5]% Production when constructing [All] buildings [in all cities]"
                 ],
                 "row": 1,
@@ -99,17 +99,15 @@
             {
                 "name": "Citizenship",
                 "uniques": [
-                    "Can build [all] improvements at a [+25]% rate",
-                    "Free [Worker] appears",
-                    "[-100]% weight to this choice for AI decisions"
+                    "Can build [all] improvements at a [+50]% rate"
                 ],
                 "row": 1,
                 "column": 4
             },
             {
-                "name": "Collective Rule",
+                "name": "Expansionism",
                 "uniques": [
-                    "[+50]% Production when constructing [Settler] units [in capital]",
+                    "Free [Worker] appears",
                     "Free [Settler] appears"
                 ],
                 "requires": [
@@ -121,8 +119,8 @@
             {
                 "name": "Representation",
                 "uniques": [
-                    "Each city founded increases culture cost of policies [33]% less than normal",
-                    "Empire enters golden age"
+                    "Each city founded increases culture cost of policies [50]% less than normal",
+                    "[-33]% unhappiness from the number of cities"                    
                 ],
                 "requires": [
                     "Citizenship"
@@ -131,10 +129,10 @@
                 "column": 3
             },
             {
-                "name": "Meritocracy",
+                "name": "Trade Networks",
                 "uniques": [
-                    "[+1 Happiness] [in all cities connected to capital]",
-                    "[-5]% Unhappiness from [Population] [in all non-occupied cities]",
+                    "[+1 Production, +1 Happiness] [in all cities connected to capital]",
+                    "[-5]% Unhappiness from [Population] [in all cities connected to capital]",
                     "[-100]% weight to this choice for AI decisions"
                 ],
                 "requires": [
@@ -770,89 +768,6 @@
                 "uniques": [
                     "[+2 Food, +2 Production, +2 Science, +2 Gold, +2 Culture] [in all cities]",
                     "May buy [Great Engineer] units for [1000] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([500]) <starting from the [Industrial era]>"
-                ]
-            }
-        ]
-    },
-    {
-        "name": "Cult Fanaticism",
-        "era": "Classical era",
-        "uniques": [
-            "Each city founded increases culture cost of policies [33]% less than normal",
-            "Only available <before adopting [Rationalism]>",
-            "Only available <before adopting [Piety]>"
-        ],
-        "policies": [
-            {
-                "name": "Hedonism",
-                "uniques": [
-                    "[+20 Food, +10 Happiness, -8 Production] [in all cities]",
-                    "[50]% Food is carried over after population increases [in all cities]",
-                    "[-1 Science, -1 Faith] per [1] population [in all cities]"
-                ],
-                "row": 1,
-                "column": 1
-            },
-            {
-                "name": "Psychomancy",
-                "uniques": [
-                    "[-5 Science, -2 Happiness] [in all cities]",
-                    "[+7 Production] [in all cities]",
-                    "[-50]% maintenance costs <for [All] units>"
-                ],
-                "row": 2,
-                "column": 1
-            },
-            {
-                "name": "Forbidden Knowledge",
-                "uniques": [
-                    "May buy [Forbidden Knowledge] buildings for [50] [Gold] [in all cities] <before discovering [Modern era]>",
-                    "[Gold] cost of purchasing [Forbidden Knowledge] buildings [+600]% <starting from the [Industrial era]>",
-                    "[+1 Gold] [in all cities]",
-                    "[-100]% weight to this choice for AI decisions"
-                ],
-                "row": 3,
-                "column": 1
-            },
-            {
-                "name": "Twisted Reformation",
-                "uniques": [
-                    "Adopt [Reformation]"
-                ],
-                "row": 3,
-                "column": 3
-            },
-            {
-                "name": "Purge of the Sciences",
-                "uniques": [
-                    "[+2 Faith, -1 Science] per [2] population [in all cities]",
-                    "[Missionary] units gain the [Devout] promotion"
-                ],
-                "row": 3,
-                "column": 5
-            },
-            {
-                "name": "Flesh Eaters",
-                "uniques": ["[Military] units gain the [Flesh Eater] promotion", "No damage penalty for wounded units",
-                    "Receive triple Gold from Barbarian encampments and pillaging Cities",
-                    "[+1 Food, -1 Gold] per [1] population [in all cities]", "[-5 Science] [in all cities]"
-                ],
-                "row": 2,
-                "column": 5
-            },
-            {
-                "name": "Necromancy",
-                "uniques": [
-                    "When defeating a [Military] unit, earn [0] Gold and recruit it <with [100]% chance>",
-                    "[-100]% maintenance costs <for [Military] units>", "[-5 Culture, -5 Faith] [in all cities]"
-                ],
-                "row": 1,
-                "column": 5
-            },
-            {
-                "name": "Cult Fanaticism Complete",
-                "uniques": [
-                    "Comment [Not completable]"
                 ]
             }
         ]
