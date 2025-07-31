@@ -29,6 +29,7 @@
 	    "Great Improvement",
 	    "[+3 Production] <after discovering [Pharmaceuticals]>",
 	    "Removes removable features when built",
+	    "Will not be replaced by automated units",
 	    "Pillaging this improvement yields approximately [+20 Gold]"
 	]
 	},
