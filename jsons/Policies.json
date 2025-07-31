@@ -241,7 +241,6 @@
             "[+100]% Production when constructing [Shrine] buildings [in all cities]",
             "[+100]% Production when constructing [Temple] buildings [in all cities]",
             "Only available <before adopting [Rationalism]>",
-            "Only available <before adopting [Cult Fanaticism]>",
             "[-100]% weight to this choice for AI decisions <when religion is disabled>"
         ],
         "policies": [
@@ -474,8 +473,7 @@
         },
         "uniques": [
             "[+15]% [Science] <while the empire is happy>",
-            "Only available <before adopting [Piety]>",
-            "Only available <before adopting [Cult Fanaticism]>"
+            "Only available <before adopting [Piety]>"
         ],
         "policies": [
             {
