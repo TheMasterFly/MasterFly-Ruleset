@@ -22,6 +22,17 @@
 	        "Pillaging this improvement yields approximately [+20 Gold]"]
     	},
 	{
+	"name": "Dry Dock",
+	"terrainsCanBeBuiltOn": ["Coast"],
+	"production": 5,
+	"uniques": [
+	    "Great Improvement",
+	    "[+3 Production] <after discovering [Pharmaceuticals]>",
+	    "Removes removable features when built",
+	    "Pillaging this improvement yields approximately [+20 Gold]"
+	]
+	},
+	{
 		"name": "Plant Forest",
 		"terrainsCanBeBuiltOn": ["Grassland","Hill","Plains","Tundra"],
 		"turnsToBuild": 7,
