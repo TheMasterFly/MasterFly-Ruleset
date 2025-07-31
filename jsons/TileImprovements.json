@@ -44,6 +44,13 @@
 			"Cannot be built on [Desert] tiles <hidden from users>",
 			"Cannot be built on [Snow] tiles <hidden from users>"],
 	},
+	{
+		"name": "City Ruins",
+		"happiness": -2,
+		"terrainsCanBeBuiltOn": ["Land"],
+		"uniques": ["Unpillagable", "Unbuildable"],
+        "civilopediaText": [{"text":"A bleak reminder of the destruction wreaked by War"}]
+	},
   	{
 	        "name": "Crusader Castle",
 	        "uniqueTo": "Crusader States",
