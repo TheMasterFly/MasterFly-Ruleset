@@ -3,15 +3,16 @@
         "name": "Tradition",
         "era": "Ancient era",
         "priorities": {
-            "Neutral": 5,
-            "Cultural": 5,
+            "Neutral": 6,
+            "Cultural": 6,
             "Diplomatic": 5,
-            "Domination": 5,
-            "Scientific": 5
+            "Domination": 2,
+            "Scientific": 9
         },
         "uniques": [
             "[+3 Culture] [in capital]",
-            "[-25]% Culture cost of natural border growth [in all cities]"
+            "[-25]% Culture cost of natural border growth [in all cities]",
+            "[+50]% weight to this choice for AI decisions"
         ],
         "policies": [
             {
@@ -26,7 +27,8 @@
             {
                 "name": "Legalism",
                 "uniques": [
-                    "Provides the cheapest [Culture] building in your first [4] cities for free"
+                    "Provides the cheapest [Culture] building in your first [4] cities for free",
+                    "[+50]% weight to this choice for AI decisions"
                 ],
                 "row": 1,
                 "column": 3
@@ -77,11 +79,11 @@
         "name": "Liberty",
         "era": "Ancient era",
         "priorities": {
-            "Neutral": 10,
-            "Cultural": 10,
-            "Diplomatic": 10,
-            "Domination": 10,
-            "Scientific": 10
+            "Neutral": 4,
+            "Cultural": 6,
+            "Diplomatic": 5,
+            "Domination": 9,
+            "Scientific": 2
         },
         "uniques": [
             "[+1 Culture] [in all cities]"
@@ -231,10 +233,10 @@
         "name": "Piety",
         "era": "Classical era",
         "priorities": {
-            "Neutral": 0,
-            "Cultural": 0,
-            "Diplomatic": 0,
-            "Domination": 0,
+            "Neutral": 3,
+            "Cultural": 4,
+            "Diplomatic": 3,
+            "Domination": 3,
             "Scientific": 0
         },
         "uniques": [
