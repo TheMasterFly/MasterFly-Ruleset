@@ -134,7 +134,7 @@
                 "name": "Trade Networks",
                 "uniques": [
                     "[+1 Production, +1 Happiness] [in all cities connected to capital]",
-                    "[-5]% Unhappiness from [Population] [in all cities connected to capital]",
+                    "[-10]% Unhappiness from [Population] [in all cities connected to capital]",
                     "[-100]% weight to this choice for AI decisions"
                 ],
                 "requires": [
