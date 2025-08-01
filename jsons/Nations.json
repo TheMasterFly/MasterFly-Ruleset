@@ -40,7 +40,7 @@
 			"[+10]% [Science] <in cities with a [Cathedral]> <in cities with a [Mosque]> <in cities with a [Pagoda]> <in cities with a [Stupa]>",
 			"[-1 Gold] [in all cities] <starting from the [Classical era]>",
 			"[-4 Gold] [in all cities] <starting from the [Medieval era]>",
-			"[-1 Gold] per [4] population [in all cities] <starting from the [Industrial era]>"],
+			"[-1 Gold] per [3] population [in all cities] <starting from the [Industrial era]>"],
 		
 		"cities": ["Constantinople", "Thessalonica", "Adrianople", "Nicomedia", "Nicaea", "Trebizond", "Ephesus", "Ravenna", "Smyrna", "Amaseia",
 			"Amastris", "Dyrrhachium", "Naissus", "Ancyra", "Iconium", "Attaleia", "Sinope", "Heraclea", "Philippopolis", "Corinth"],
