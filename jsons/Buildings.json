@@ -145,10 +145,7 @@
 	"isNationalWonder": true,
 	"uniques": ["All newly-trained [All] units [in this city] receive the [Stratiotiki Ekpaidefsi] promotion",
 	   "Only available <in [Capital] cities>",
-	   "[+1 Culture] from every [Cathedral] <starting from the [Medieval era]>",
-	   "[+1 Faith] from every [Mosque] <starting from the [Medieval era]>",
-	   "[+1 Food] from every [Pagoda] <starting from the [Medieval era]>",
-	   "[+1 Gold] from every [Stupa] <starting from the [Medieval era]>"],
+	   "[+10]% [Science] <in cities with a [Cathedral]> <in cities with a [Mosque]> <in cities with a [Pagoda]> <in cities with a [Stupa]>"],
 	"requiredTech": "Construction"
 	},
 	{
