@@ -143,9 +143,10 @@
 	"cityStrength": 4,
 	"cityHealth": 50,
 	"isNationalWonder": true,
-	"uniques": ["All newly-trained [All] units [in this city] receive the [Stratiotiki Ekpaidefsi] promotion",
+	"uniqueText": "Only available in [Capital] cities\nAll newly-trained military units [in this city] receive the [Stratiotiki Ekpaidefsi] promotion\n+10% [Science] in all cities with a [Cathedral], [Mosque], [Pagoda] and [Stupa]",
+	"uniques": ["All newly-trained [Military] units [in this city] receive the [Stratiotiki Ekpaidefsi] promotion",
 	   "Only available <in [Capital] cities>",
-	   "[+1000]% [Science] <in cities with a [Cathedral]> <in cities with a [Mosque]> <in cities with a [Pagoda]> <in cities with a [Stupa]>"],
+	   "[+10]% [Science] <in cities with a [Cathedral]> <in cities with a [Mosque]> <in cities with a [Pagoda]> <in cities with a [Stupa]>"],
 	"requiredTech": "Pottery"
 	},
 	{
