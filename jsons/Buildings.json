@@ -25,7 +25,7 @@
 		"replaces": "Water Mill",
 		"uniqueTo": "China",
 		"maintenance": 3,
-		"production": 2,
+		"production": 1,
 		"hurryCostModifier": 25,
 		"uniques": ["Must be on [River]", "[+1 Food] from [River] tiles [in this city]"],
 		"requiredTech": "The Wheel"
