@@ -135,7 +135,7 @@
 		
 		"unitType": "Mounted",
 		"movement": 4,
-		"strength": 26,
+		"strength": 24,
 		"cost": 120,
 		"requiredTech": "Chivalry",
 		"obsoleteTech": "Military Science",
