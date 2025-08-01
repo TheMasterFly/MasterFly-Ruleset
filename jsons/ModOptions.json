@@ -9,6 +9,7 @@
   "constants":
     {
       "riverCountMultiplier": 0.04142,
+      "maxLakeSize": 10,
       "naturalWonderCountAddedConstant": 5,
       "maxXPfromBarbarians": 75,
       "ancientRuinCountMultiplier": 0.045,
