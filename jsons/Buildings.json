@@ -21,14 +21,36 @@
 	"uniques": ["Unbuildable", "Only available <when religion is enabled>"]
 	},
 	{
-		"name": "Shuǐ Mó",
-		"replaces": "Water Mill",
-		"uniqueTo": "China",
-		"maintenance": 3,
-		"production": 1,
-		"hurryCostModifier": 25,
-		"uniques": ["Must be on [River]", "[+1 Food] from [River] tiles [in this city]"],
-		"requiredTech": "The Wheel"
+	"name": "Windmill",
+	"food": 2,
+	"production": 2,
+	"specialistSlots": {"Engineer": 1},
+	"hurryCostModifier": 25,
+	"maintenance": 2,
+	"requiredTech": "Economics"
+	},
+	{
+	"name": "Coffee House",
+	"replaces": "Windmill",
+	"uniqueTo": "Austria",
+	"food": 2,
+	"production": 2,
+	"percentStatBonus": {"production": 5},
+	"specialistSlots": {"Engineer": 1},
+	"hurryCostModifier": 25,
+	"maintenance": 2,
+	"uniques": ["[+25]% Great Person generation [in this city]"],
+	"requiredTech": "Economics"
+	},
+	{
+	"name": "Shuǐ Mó",
+	"replaces": "Water Mill",
+	"uniqueTo": "China",
+	"maintenance": 3,
+	"production": 1,
+	"hurryCostModifier": 25,
+	"uniques": ["Must be on [River]", "[+1 Food] from [River] tiles [in this city]"],
+	"requiredTech": "The Wheel"
 	},
 	{
 	"name": "Longhouse",
