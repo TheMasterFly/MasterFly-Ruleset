@@ -121,7 +121,7 @@
     {
         "name": "Messenger of the Gods",
         "type": "Pantheon",
-        "uniques": ["[+2 Science, +1 Faith] from each Trade Route"]
+        "uniques": ["[+2 Science, +2 Faith] from each Trade Route"]
     },
     {
         "name": "Monument to the Gods",
@@ -221,6 +221,12 @@
              "May buy [{Military} {Land}] units with [Faith] for [3] times their normal Production cost <starting from the [Industrial era]>"]
     },
     {
+        "name": "God's Fleet",
+        "type": "Follower",
+        "uniques": ["May buy [{Military} {Water}] units with [Faith] for [2] times their normal Production cost <before the [Industrial era]>",
+             "May buy [{Military} {Water}] units with [Faith] for [3] times their normal Production cost <starting from the [Industrial era]>"]
+    },
+    {
         "name": "Liturgical Drama",
         "type": "Follower",
         "uniques": ["[+2 Culture, +1 Gold] from every [Amphitheater] <in cities with at least [5] [Followers of this Religion]>"]
@@ -311,14 +317,24 @@
         "uniques": ["[+2 Faith] for each global city following this religion"]
     },
     {
+        "name": "Holy Caravans",
+        "type": "Founder",
+        "uniques": ["[+2 Culture, +2 Science] from each Trade Route"],
+    },
+    {
         "name": "Tithe",
         "type": "Founder",
         "uniques": ["[+1 Gold] from every [3] global followers [in all cities]"]
     },
     {
+        "name": "Filial Piety",
+        "type": "Founder",
+        "uniques": ["[+1 Culture] from every [4] global followers [in all cities]"]
+    },
+    {
         "name": "World Church",
         "type": "Founder",
-        "uniques": ["[+1 Culture] from every [5] global followers [in foreign cities]"]
+        "uniques": ["[+1 Culture] from every [2] global followers [in foreign cities]"]
     },
 
     ////////////////////////////////////// Enhancer beliefs ///////////////////////////////////////
@@ -327,6 +343,11 @@
         "name": "Defender of the Faith",
         "type": "Enhancer",
         "uniques": ["[+20]% Strength <for [All] units> <when fighting in [Friendly Land] tiles>"]
+    },
+    {
+        "name": "Inner Discipline",
+        "type": "Enhancer",
+        "uniques": ["New [Military] units start with [30] XP [in this city]"]
     },
     {
         "name": "Dharma",
@@ -341,7 +362,7 @@
     {
         "name": "Hajj",
         "type": "Enhancer",
-        "uniques": ["[+3 Food, +3 Production, +3 Culture] [in capital]"]
+        "uniques": ["[+3 Food, +3 Production, +3 Culture, +3 Science] [in capital]"]
     },
     {
         "name": "Holy Order",
@@ -392,14 +413,24 @@
         "name": "Religious Unity",
         "type": "Enhancer",
         "uniques": ["[+100]% Natural religion spread [in City-State cities]",
-            "[-100]% weight to this choice for AI decisions <when number of [Remaining [City-State] Civilizations] is less than [2]>",
-            "[-50]% weight to this choice for AI decisions <when number of [Remaining [City-State] Civilizations] is less than [4]>"]
+            "[-100]% weight to this choice for AI decisions <when number of [Remaining [City-State] Civilizations] is less than [3]>",
+            "[-50]% weight to this choice for AI decisions <when number of [Remaining [City-State] Civilizations] is less than [5]>"]
     },
     {
         "name": "Reliquary",
         "type": "Enhancer",
         "uniques": ["Gain [130] [Faith] <upon expending a [Great Person] unit> <(modified by game speed)>"]
-    }
+    },
+    {
+        "name": "Houses of Worship",
+        "type": "Enhancer",
+        "uniques": [
+            "May buy [Amphitheater] buildings for [60] [Faith] [in cities following this religion]",
+            "May buy [Opera House] buildings for [180] [Faith] [in cities following this religion]",
+            "May buy [Museum] buildings for [240] [Faith] [in cities following this religion]",
+            "May buy [Broadcast Tower] buildings for [400] [Faith] [in cities following this religion]"
+        ]
+    },
     ////////////////////////////////////// Reformation Enhancer beliefs ///////////////////////////////////////
     {
         "name": "Apostolic Palace",
@@ -413,18 +444,8 @@
         "name": "City of God",
         "type": "Enhancer",
         "uniques": [
-            "[+2 Food, +1 Science] from every [Holy site]",
+            "[+2 Food, +2 Science] from every [Holy site]",
             "Free [Great Prophet] appears",
-            "Only available <after adopting [Reformation]>"
-        ]
-    },
-    {
-        "name": "Houses of Worship",
-        "type": "Enhancer",
-        "uniques": [
-            "May buy [Art Hall] buildings for [150] [Faith] [in cities following this religion]",
-            "May buy [Writing Auditorium] buildings for [150] [Faith] [in cities following this religion]",
-            "May buy [Vocal Chamber] buildings for [150] [Faith] [in cities following this religion]",
             "Only available <after adopting [Reformation]>"
         ]
     },
@@ -440,9 +461,9 @@
         "name": "Jesuit Education",
         "type": "Enhancer",
         "uniques": [
-            "May buy [Library] buildings for [60] [Faith] [in cities following this religion]",
-            "May buy [University] buildings for [220] [Faith] [in cities following this religion]",
-            "May buy [Observatory] buildings for [260] [Faith] [in cities following this religion]",
+            "May buy [Library] buildings for [100] [Faith] [in cities following this religion]",
+            "May buy [University] buildings for [250] [Faith] [in cities following this religion]",
+            "May buy [Observatory] buildings for [270] [Faith] [in cities following this religion]",
             "May buy [Public School] buildings for [380] [Faith] [in cities following this religion]",
             "May buy [Research Lab] buildings for [630] [Faith] [in cities following this religion]",
             "Only available <after adopting [Reformation]>"
