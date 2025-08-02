@@ -133,8 +133,8 @@
     {
         "name": "Ocean's Bounty",
         "type": "Pantheon",
-        "uniques": ["[+1 Production] from every [Fishing Boats]",
-        "[+1 Production] from every [Atoll]"]
+        "uniques": ["[+1 Production, +1 Gold] from every [Fishing Boats]",
+        "[+1 Production, +1 Gold] from every [Atoll]"]
     },
     {
         "name": "One with Nature",
