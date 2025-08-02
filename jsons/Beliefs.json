@@ -3,7 +3,8 @@
     {
         "name": "Ancestor Worship",
         "type": "Pantheon",
-        "uniques": ["[+2 Culture] from every [Shrine]"]
+        "uniques": ["[+2 Culture, +1 Faith] from every [Shrine]",
+        "[+2 Culture, +1 Faith] from every [Temple]"]
     },
     {
         "name": "Dance of the Aurora",
@@ -23,7 +24,8 @@
     {
         "name": "Fertility Rites",
         "type": "Pantheon",
-        "uniques": ["[+10]% growth [in this city]"]
+        "uniques": ["[+10]% growth [in this city]",
+        "[+1 Food] [in this city]"]
     },
     {
         "name": "God-King",
@@ -33,7 +35,7 @@
     {
         "name": "God of Craftsman",
         "type": "Pantheon",
-        "uniques": ["[+1 Production] from every specialist [in this city]"]
+        "uniques": ["[+2 Production, +1 Gold] from every specialist [in this city]"]
     },
     {
         "name": "God of Death",
@@ -43,17 +45,17 @@
     {
         "name": "God of Luxury",
         "type": "Pantheon",
-        "uniques": ["[+1 Culture, +1 Gold] from every [Luxury resource]"]
+        "uniques": ["[+1 Culture, +1 Gold, +1 Faith] from every [Luxury resource]"]
     },
     {
         "name": "God of the Open Sky",
         "type": "Pantheon",
-        "uniques": ["[+1 Culture] from every [Pasture]"]
+        "uniques": ["[+1 Culture, +1 Faith] from every [Pasture]"]
     },
     {
         "name": "God of the Harvest",
         "type": "Pantheon",
-        "uniques": ["[+1 Gold] from every [Farm]", "[-2 Gold] [in this city]"]
+        "uniques": ["[+1 Faith] from every [Farm]"]
     },
     {
         "name": "God of the Sea",
@@ -62,12 +64,13 @@
         "[+1 Culture, +1 Faith] from every [Whales]",
         "[+1 Culture, +1 Faith] from every [Pearls]",
         "[+1 Culture, +1 Faith] from every [Crab]",
+        "[+1 Culture, +1 Faith] from every [Coral]",
         "[+1 Culture, +1 Faith] from every [Atoll]"]
     },
     {
         "name": "God of Snow",
         "type": "Pantheon",
-        "uniques": ["[+1 Food, +1 Production] from every [Snow]"]
+        "uniques": ["[+1 Food, +1 Production, +1 Faith] from every [Snow]"]
     },
     {
         "name": "God of War",
@@ -87,13 +90,15 @@
     {
         "name": "Goddess of Love",
         "type": "Pantheon",
-        "uniques": ["[-10]% Unhappiness from [Population] [in this city]"]
+        "uniques": ["[-10]% Unhappiness from [Population] [in this city]",
+        "[+1 Happiness] [in this city]"]
     },
     {
         "name": "Goddess of Protection",
         "type": "Pantheon",
         "uniques": ["[+30]% Strength for cities <when attacking>",
-        "[+1 Culture, +1 Faith] from every [Walls]"]
+        "[+1 Culture, +1 Faith] from every [Walls]",
+        "[+1 Culture, +1 Faith] from every [Castle]"]
     },
     {
         "name": "Goddess of the Fields",
@@ -144,18 +149,19 @@
     {
         "name": "Rain Dancing",
         "type": "Pantheon",
-        "uniques": ["[+2 Culture, +1 Faith] from every [Lakes]",
-            "[+2 Culture, +1 Faith] from every [Oasis]"]
+        "uniques": ["[+2 Culture, +1 Faith, +1 Gold] from every [Lakes]",
+            "[+2 Culture, +1 Faith, +1 Gold] from every [Oasis]"]
     },
     {
         "name": "Religious Idols",
         "type": "Pantheon",
-        "uniques": ["[+1 Culture, +1 Faith] from every [Gold Ore]", "[+1 Culture, +1 Faith] from every [Silver]"]
+        "uniques": ["[+2 Culture, +1 Faith] from every [Gold Ore]", "[+2 Culture, +1 Faith] from every [Silver]"]
     },
     {
         "name": "Religious Settlements",
         "type": "Pantheon",
-        "uniques": ["[-33]% Culture cost of natural border growth [in cities following this religion]"]
+        "uniques": ["[-66]% Culture cost of natural border growth [in cities following this religion]",
+        "[+1 Culture] [in this city]"]
     },
     {
         "name": "Sacred Path",
@@ -170,13 +176,13 @@
     {
         "name": "Stone Circles",
         "type": "Pantheon",
-        "uniques": ["[+2 Faith] from every [Quarry]"]
+        "uniques": ["[+2 Faith, +1 Gold] from every [Quarry]"]
     },
 ///////////////////////////////////////// Follower beliefs /////////////////////////////////////////
     {
         "name": "Asceticism",
         "type": "Follower",
-        "uniques": ["[+1 Gold, +1 Happiness] from every [Monument]", "[+1 Happiness] from every [Shrine]"]
+        "uniques": ["[+1 Gold, +1 Happiness] from every [Monument]", "[+1 Happiness, +1 Gold] from every [Shrine]"]
     },
     {
         "name": "Cathedrals",
@@ -201,12 +207,18 @@
     {
         "name": "Guruship",
         "type": "Follower",
-        "uniques": ["[+2 Production] [in cities following this religion] <in cities with at least [1] [Specialists]>"]
+        "uniques": ["[+3 Production, +3 Science] [in cities following this religion] <in cities with at least [3] [Specialists]>"]
+    },
+    {
+        "name": "Higher Craft",
+        "type": "Follower",
+        "uniques": ["[+1 Culture, +1 Production] from every specialist [in this city]"]
     },
     {
         "name": "Holy Warriors",
         "type": "Follower",
-        "uniques": ["May buy [{Military} {Land}] units with [Faith] for [2] times their normal Production cost <before the [Industrial era]>"]
+        "uniques": ["May buy [{Military} {Land}] units with [Faith] for [2] times their normal Production cost <before the [Industrial era]>",
+             "May buy [{Military} {Land}] units with [Faith] for [3] times their normal Production cost <starting from the [Industrial era]>"]
     },
     {
         "name": "Liturgical Drama",
@@ -236,14 +248,13 @@
     {
         "name": "Religion of the Nation",
         "type": "Follower",
-        "uniques": ["[+1 Production, +1 Food, +1 Culture, +1 Faith, +1 Science, +1 Gold, +1 Happiness] from every [Palace]", "[+1 Culture] from every [National Epic]",
-        "[+1 Science] from every [National College]", "[+1 Production] from every [Heroic Epic]", "[+2 Gold] from every [National Treasury]",
-        "[+1 Production] from every [Ironworks]", "[+1 Culture] from every [Hermitage]", "[+1 Faith] from every [Grand Temple]"]
+        "uniques": ["[+1 Production, +1 Food, +1 Culture, +1 Faith, +1 Science, +1 Gold, +1 Happiness] from every [Palace]",
+        "[+1 Production, +1 Culture, +1 Faith, +1 Happiness] from every [National Wonder]"]
     },
     {
         "name": "Religious Center",
         "type": "Follower",
-        "uniques": ["[+1 Gold, +1 Happiness] from every [Shrine]", "[+1 Gold, +1 Happiness] from every [Temple]"]
+        "uniques": ["[+1 Gold, +1 Happiness] from every [Shrine]", "[+1 Culture, +1 Happiness] from every [Temple]"]
     },
     {
         "name": "Religious Community",
