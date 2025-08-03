@@ -476,7 +476,8 @@
                     "[Military] units gain the [Mercenary] promotion",
                     "[-33]% maintenance costs <for [Military] units>"
                 ],
-                "row": 1,
+                "requires": ["Entrepreneurship"],
+                "row": 2,
                 "column": 5
             },
             {
@@ -517,7 +518,7 @@
                 "name": "Commerce Complete",
                 "uniques": [
                     "[2] free [Great Merchant] units appear",
-                    "[+4 Production, +4 Culture, +4 Happiness] from every [East India Company]",
+                    "[+4 Production, +4 Culture, +4 Happiness] from every [National Treasury]",
                     "[+100]% Gold from Great Merchant trade missions",
                     "May buy [Great Merchant] units for [1000] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([500]) <starting from the [Industrial era]>"
                 ]
@@ -535,14 +536,13 @@
             "Scientific": 10
         },
         "uniques": [
-            "[+1 Science] [in all cities]",
+            "[+3 Science] [in capital]",
             "Only available <before adopting [Piety]>"
         ],
         "policies": [
             {
                 "name": "Secularism",
                 "uniques": [
-                    "[+1 Science] from every specialist [in all cities]",
 		    "[Great Scientist] is earned [20]% faster"
                 ],
                 "row": 1,
@@ -562,7 +562,8 @@
             {
                 "name": "Free Thought",
                 "uniques": [
-                    "[+2 Science, -1 Gold] from every [Trading post]",
+                    "[+1 Science] from every [Trading post]",
+		    "[+2 Science] from every [Academy]",
                     "[+17]% [Science] from every [University]"
                 ],
                 "requires": [
@@ -574,8 +575,7 @@
             {
                 "name": "Sovereignty",
                 "uniques": [
-                    "[+1 Gold] from all [Science] buildings",
-		    "[+2 Science] from every [Academy]"
+                    "[+1 Science] from every specialist [in all cities]",
                 ],
                 "requires": [
                     "Humanism"
@@ -599,7 +599,6 @@
                 "name": "Rationalism Complete",
                 "uniques": [
                     "Free [Great Scientist] appears",
-		    "[+15]% [Science] <while the empire is happy>",
                     "May buy [Great Scientist] units for [1000] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([500]) <starting from the [Industrial era]>"
                 ]
             }
