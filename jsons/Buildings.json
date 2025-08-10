@@ -84,7 +84,7 @@
 	 "specialistSlots": {"Merchant": 1},
 	 "hurryCostModifier": 25,
 	 "percentStatBonus": {"gold": 25},
-	 "uniques": "Provides [2] [Oil] <starting from the [Medieval] era>",
+	 "uniques": "Provides [2] [Oil] <starting from the [Industrial] era>",
 	 "requiredTech": "Currency"
 	},
 	{
