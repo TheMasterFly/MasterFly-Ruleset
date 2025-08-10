@@ -4,7 +4,7 @@
 		"leaderName": "Justinian I",
 		"adjective": ["Byzantines"],
 		"startBias": ["Coast", "Avoid [Tundra]"],
-		"preferredVictoryType": "Culture",
+		"preferredVictoryType": "Scientific",
 		
 		"startIntroPart1": "Greetings, Emperor Justinian!",
 		"startIntroPart2": "Rebuild the greatest empire to ever grace the Mediterranean!",
