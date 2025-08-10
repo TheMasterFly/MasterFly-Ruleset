@@ -78,13 +78,13 @@
 	},
 	{
 	 "name": "Satrap's Court",
-	 "replaces": "Market",
+	 "replaces": "Bank",
 	 "uniqueTo": "Persia",
-	 "gold": 3,
+	 "gold": 2,
 	 "specialistSlots": {"Merchant": 1},
-	 "happiness": 2,
 	 "hurryCostModifier": 25,
 	 "percentStatBonus": {"gold": 25},
+	 "uniques": "Provides [2] [Oil] <starting from the [Medieval] era>",
 	 "requiredTech": "Currency"
 	},
 	{
