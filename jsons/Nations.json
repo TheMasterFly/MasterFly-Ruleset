@@ -360,7 +360,7 @@
 		"attacked": "Very well, this shall not be forgotten.",
 		"defeated": "Perhaps now we will find peace in death...",
 		"outerColor": [0, 0, 0],
-		"innerColor": [230, 230, 230],
+		"innerColor": [255, 0, 0],
 		"cities": ["Manama"]
 	},
 	{
@@ -384,7 +384,7 @@
 		"attacked": "Very well, this shall not be forgotten.",
 		"defeated": "Perhaps now we will find peace in death...",
 		"outerColor": [0, 0, 0],
-		"innerColor": [141, 27, 61],
+		"innerColor": [0, 127, 13],
 		"cities": ["Dubai"]
 	},
 	{
