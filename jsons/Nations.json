@@ -350,5 +350,18 @@
 			"Signia","Aquileia","Clusium","Sutrium","Cremona","Placentia","Hispalis","Artaxata","Aurelianorum","Nicopolis",
 			"Agrippina","Verona","Corfinium","Treverii","Sirmium","Augustadorum","Curia","Interrama","Adria"],
 	        "spyNames": ["Flavius", "Regula", "Servius", "Lucia", "Cornelius", "Licina", "Canus", "Serpens", "Agrippa", "Brutus"]
-    }
+    },
+	{
+		"name": "Bahrain",
+		"adjective": ["Bahraini"],
+		"cityStateType": "Oil Provider",
+		"uniques": "Provides [3] [Oil]",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Perhaps now we will find peace in death...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [230, 230, 230],
+		"cities": ["Bahrain"]
+	}
 ]
