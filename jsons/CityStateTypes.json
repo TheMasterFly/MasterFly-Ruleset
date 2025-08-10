@@ -52,7 +52,7 @@
         ],
         "color": [255, 255, 255]
     },
-      {
+    {
         "name": "Oil Provider",
         "friendBonusUniques":  [
             "[+1 Gold] <before the [Medieval era]>",
@@ -62,9 +62,24 @@
         "allyBonusUniques":  [
             "[+2 Gold] <before the [Medieval era]>",
             "[+4 Gold] <starting from the [Medieval era]> <before the [Industrial era]>",
-            "[+8 Gold] <starting from the [Industrial era]>",
-            "Provides [3] [Oil]"
+            "[+8 Gold] Provides [3] [Oil] <starting from the [Industrial era]>"
         ],
         "color": [1, 1, 1]
+    },
+    {
+        "name": "Horse/Iron Provider",
+        "friendBonusUniques":  [
+            "[+1 Gold] <before the [Medieval era]>",
+            "[+2 Gold] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+4 Gold] <starting from the [Industrial era]>"
+        ],
+        "allyBonusUniques":  [
+            "[+2 Gold] <before the [Medieval era]>",
+            "Provides [3] [Horses] <starting from the [Classical era]>",
+            "[+4 Gold] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "Provides [3] [Iron] <starting from the [Medieval era]>",
+            "[+8 Gold] <starting from the [Industrial era]>"
+        ],
+        "color": [115, 92, 0]
     }
 ]
