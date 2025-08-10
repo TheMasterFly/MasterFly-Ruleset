@@ -4,7 +4,7 @@
 		"leaderName": "Justinian I",
 		"adjective": ["Byzantines"],
 		"startBias": ["Coast", "Avoid [Tundra]"],
-		"preferredVictoryType": "Domination",
+		"preferredVictoryType": "Cultural",
 		
 		"startIntroPart1": "Greetings, Emperor Justinian!",
 		"startIntroPart2": "Rebuild the greatest empire to ever grace the Mediterranean!",
@@ -188,7 +188,7 @@
 		"leaderName": "Hiawatha",
 		"adjective": ["Iroquoise"],
 		"startBias": ["Forest"],
-		"preferredVictoryType": "Scientific",
+		"preferredVictoryType": "Domination",
 		"personality": "Hiawatha",
 	
 		"startIntroPart1": "Greetings, noble Hiawatha, leader of the mighty Iroquois nations! Your people lived near the great and holy lake Ontario since the ancient ages, on a land that will be later known as New York city. Long ago, the five peoples of Seneca, Onondaga, Mohawks, Cayugas and Oneida became one nation, the Haudenosaunee, the Iroquois. Although not having a written language, the wise Iroquois created the Great Law of Peace, which can be considered the first established constitution. For decades, your people fought powerful enemies, such as the Huron, and then the French and English colonists. With less warriors and inferior weaponry, the Iroquois still survived and walk on the path of peace and harmony, until their way of living faded away under the crush of the newborn United States nation.",
@@ -257,7 +257,7 @@
 		"leaderName": "Abu'l-Qasim Ahmad al-Mustansir",
 		"adjective": ["Mamluks"],
 		"startBias": ["Flood plains", "Desert"],
-		"preferredVictoryType": "Domination",
+		"preferredVictoryType": "Scientific",
 		
 		"startIntroPart1": "Marhaba, great al-Mustansir, of the emergent Mamluk Sultanate!",
 		"startIntroPart2": "Show them who rules the desert!",
@@ -298,6 +298,7 @@
 	        "leaderName": "Harald Hardrada",
 	        "adjective": ["Norwegian"],
 	        "startBias": ["Coast"],
+			"preferredVictoryType": "Scientific",
 		
 	        "startIntroPart1": "Harald Hardrada, the last great Viking warrior-king, your name echoes through the ages. From your early days as a mercenary in the Byzantine Empire to your rise as King of Norway, your life has been a testament to strength, cunning, and unyielding ambition. Your campaigns have set the stage for a new era of Norse dominance. The winds of fate howl through the fjords, calling you to greatness once more.",
 	        "startIntroPart2": "The Great King of Norway, The Thunderbolt of the North, your people call upon you once more. Will you lead them to glory as you did in the battles of Stiklestad and Niså? Can you reclaim the throne of England and show the world the true power ? Will you build a civilization that will stand the test of time?",
@@ -357,7 +358,7 @@
 		"leaderName": "Augustus Caesar",
 		"adjective": ["Roman"],
 		"startBias":["Avoid [Tundra]","Avoid [Desert]"],
-		"preferredVictoryType": "Scientific",
+		"preferredVictoryType": "Domination",
 		"personality": "Augustus Caesar",
 	
 	        "startIntroPart1": "Ave Caesar Augustus, Emperor of Rome and Dominus of the Roman Empire! Your empire was the most powerful and feared of all in Western civilization. The Roman people crafted so brilliantly its culture, law, art, and warfare, that no one could contest the supremacy of Rome. Force and Honor led to glorious conquests, a domination of all the lands from Spain in the west to Syria in the east, even reaching the remote barbarian lands of England and Germany. Roman art and architecture have been praised for millenia and have been envied by all lesser civilizations who have followed.",
