@@ -352,7 +352,7 @@
 	        "spyNames": ["Flavius", "Regula", "Servius", "Lucia", "Cornelius", "Licina", "Canus", "Serpens", "Agrippa", "Brutus"]
     },
 	{
-		"name": "Bahrain",
+		"name": "Manama",
 		"adjective": ["Bahraini"],
 		"cityStateType": "Oil Provider",
 
@@ -361,6 +361,54 @@
 		"defeated": "Perhaps now we will find peace in death...",
 		"outerColor": [0, 0, 0],
 		"innerColor": [230, 230, 230],
-		"cities": ["Bahrain"]
+		"cities": ["Manama"]
+	},
+	{
+		"name": "Doha",
+		"adjective": ["Qatari"],
+		"cityStateType": "Oil Provider",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Perhaps now we will find peace in death...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [141, 27, 61],
+		"cities": ["Doha"]
+	},
+	{
+		"name": "Dubai",
+		"adjective": ["UAE Arabian"],
+		"cityStateType": "Oil Provider",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Perhaps now we will find peace in death...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [141, 27, 61],
+		"cities": ["Dubai"]
+	},
+	{
+		"name": "Hangzhou",
+		"adjective": ["Hangzhou Han"],
+		"cityStateType": "Horses/Iron Provider",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Perhaps now we will find peace in death...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [212, 50, 25],
+		"cities": ["Hangzhou"]
+	}
+	{
+		"name": "Tarsus",
+		"adjective": ["Cilicia Armenian"],
+		"cityStateType": "Horses/Iron Provider",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "Perhaps now we will find peace in death...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [212, 50, 25],
+		"cities": ["Tarsus"]
 	}
 ]
