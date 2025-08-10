@@ -62,7 +62,8 @@
         "allyBonusUniques":  [
             "[+2 Gold] <before the [Medieval era]>",
             "[+4 Gold] <starting from the [Medieval era]> <before the [Industrial era]>",
-            "[+8 Gold], Provides [3] [Oil] <starting from the [Industrial era]>"
+            "[+8 Gold] <starting from the [Industrial era]>",
+            "Provides [3] [Oil] <starting from the [Industrial era]>"
         ],
         "color": [1, 1, 1]
     },
