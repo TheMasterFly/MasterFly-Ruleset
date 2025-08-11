@@ -121,8 +121,8 @@
         "civilopediaText": [{"text":"A bleak reminder of the destruction wreaked by War"}]
 	},
   	{
-	        "name": "Crusader Castle",
-	        "uniqueTo": "Crusader States",
+	    "name": "Crusader Castle",
+	    "uniqueTo": "Crusader States",
 		"faith": 2,
 		"gold": 1,
 		"culture": 1,
@@ -153,5 +153,20 @@
 			"Does not need removal of [Trading post] <hidden from users>",
 			"Cannot be built on [Desert] tiles <hidden from users>",
 			"Cannot be built on [Snow] tiles <hidden from users>"]
-	}	
+	},
+	{
+		"name": "Feitoria",
+	    "uniqueTo": "Portugal",
+		"replaces": "Plantation",
+		"turnsToBuild": 7,
+		"gold": 2,
+		"techRequired": "Calendar",
+		"uniques": ["[+1 Food] <after discovering [Fertilizer]>",
+			"Can only be built to improve a resource",
+			"Gives a defensive bonus of [20]%",
+			"Gives a defensive bonus of [30]% <starting from the [Renaissance era]>",
+			"[+2 Culture, +1 Gold] <after discovering [Astronomy]>",
+			"Pillaging this improvement yields approximately [+25 Gold]"],
+		"shortcutKey": "P"
+	}
 ]
