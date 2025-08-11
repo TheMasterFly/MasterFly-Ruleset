@@ -115,6 +115,24 @@
 		"attackSound": "metalhit"
 	},
 	{
+        "name": "Nau",
+        "uniqueTo": "Portugal",
+        "replaces": "Frigate",
+		"unitType": "Ranged Water",
+		"movement": 5,
+		"strength": 22,
+		"rangedStrength": 31,
+		"cost": 185,
+		"requiredResource": "Iron",
+		"requiredTech": "Navigation",
+		"obsoleteTech": "Electronics",
+        "uniques": ["Withdraws before melee combat <with [50]% chance>",
+            "Can move after attacking"],
+		"upgradesTo": "Battleship",
+		"hurryCostModifier": 20,
+		"attackSound": "shipCannonVolley"
+	},
+	{
 		"name": "Norwegian Ski Infantry",
 		"unitType": "Gunpowder",
 		"replaces": "Rifleman",
