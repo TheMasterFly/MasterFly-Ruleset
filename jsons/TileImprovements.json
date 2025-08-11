@@ -11,7 +11,7 @@
             "Pillaging this improvement yields approximately [+18 Gold]"],
 		"shortcutKey": "F"
 	},
-    	{
+    {
 	        "name": "Fishing Boats",
 	        "turnsToBuild": 6,
 	        "terrainsCanBeBuiltOn": ["Coast"],
@@ -20,7 +20,75 @@
 	        "uniques": ["[+1 Gold] <after discovering [Compass]>",
 	        "Can only be built to improve a resource",
 	        "Pillaging this improvement yields approximately [+20 Gold]"]
-    	},
+    },
+	{
+		"name": "Academy",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"science": 6,
+		"uniques": ["Great Improvement",
+			"[+2 Science] <after discovering [Scientific Theory]>",
+            "[+2 Science] <after discovering [Atomic Theory]>",
+			"Removes removable features when built",
+            "Will not be replaced by automated units",
+			"Tile provides yield without assigned population",
+			"Pillaging this improvement yields approximately [+20 Gold]"]
+	},
+	{
+		"name": "Landmark",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"culture": 6,
+		"uniques": ["Great Improvement",
+			"Removes removable features when built",
+            "Will not be replaced by automated units",
+			"Tile provides yield without assigned population",
+			"Pillaging this improvement yields approximately [+20 Gold]"]
+	},
+	{
+		"name": "Manufactory",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"production": 4,
+		"uniques": ["Great Improvement",
+			"[+1 Production] <after discovering [Chemistry]>",
+			"Will not be replaced by automated units",
+            "Removes removable features when built",
+			"Tile provides yield without assigned population",
+			"Pillaging this improvement yields approximately [+20 Gold]"]
+	},
+	{
+		"name": "Customs house",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"gold": 4,
+		"uniques": ["Great Improvement",
+			"[+1 Gold] <after discovering [Economics]>",
+			"Removes removable features when built",
+            "Will not be replaced by automated units",
+			"Tile provides yield without assigned population",
+			"Pillaging this improvement yields approximately [+20 Gold]"]
+	},
+	{
+		"name": "Holy site",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"faith": 6,
+		"uniques": ["Great Improvement",
+			"Removes removable features when built",
+			"Will not be replaced by automated units",
+			"Tile provides yield without assigned population",
+			"Pillaging this improvement yields approximately [+20 Gold]"]
+	},
+	{
+		"name": "Citadel",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"uniques": [
+			"Great Improvement",
+			"Gives a defensive bonus of [100]%",
+			"Adjacent enemy units ending their turn take [30] damage",
+			"Can be built just outside your borders",
+			"Gain control over [all] tiles in a [1]-tile radius",
+			"Removes removable features when built",
+			"Tile provides yield without assigned population",
+            "Will not be replaced by automated units"
+		]
+	},
 	{
 	"name": "Dry Dock",
 	"terrainsCanBeBuiltOn": ["Coast"],
@@ -30,6 +98,7 @@
 	    "[+3 Production] <after discovering [Pharmaceuticals]>",
 	    "Removes removable features when built",
 	    "Will not be replaced by automated units",
+		"Tile provides yield without assigned population",
 	    "Pillaging this improvement yields approximately [+20 Gold]"
 	]
 	},
@@ -54,20 +123,21 @@
   	{
 	        "name": "Crusader Castle",
 	        "uniqueTo": "Crusader States",
-		"food": 2,
+		"faith": 2,
+		"gold": 1,
+		"culture": 1,
 		"replaces": "Citadel",
 		"terrainsCanBeBuiltOn": ["Land"],
 		
 		"uniques": ["Great Improvement",
-		"[+1 Production] from [Hill] tiles",
-		"[+1 Food] from [Fresh water] tiles <after discovering [Civil Service]>",
-		"[+1 Production] <after discovering [Chemistry]>",
+		"[+1 Culture, +1 Gold] <after discovering [Flight]>",
 		"Gives a defensive bonus of [150]%",
 		"Adjacent enemy units ending their turn take [40] damage",
 		"Can be built just outside your borders",
 		"Gain control over [all] tiles in a [1]-tile radius",
 		"Removes removable features when built",
 		"Will not be replaced by automated units",
+		"Tile provides yield without assigned population",
 		"Pillaging this improvement yields approximately [+80 Gold]"]
 	},
 	{
