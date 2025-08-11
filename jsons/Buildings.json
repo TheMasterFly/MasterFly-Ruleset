@@ -82,10 +82,10 @@
 	 "uniqueTo": "Persia",
 	 "gold": 2,
 	 "specialistSlots": {"Merchant": 1},
-	 "hurryCostModifier": 25,
+	 "hurryCostModifier": 15,
 	 "percentStatBonus": {"gold": 25},
 	 "uniques": ["Provides [2] [Oil] <starting from the [Industrial era]>"],
-	 "requiredTech": "Currency"
+	 "requiredTech": "Banking"
 	},
 	{
 	"name": "Stave Church",
