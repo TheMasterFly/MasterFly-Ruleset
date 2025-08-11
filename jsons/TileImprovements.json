@@ -159,14 +159,14 @@
 	    "uniqueTo": "Portugal",
 		"replaces": "Plantation",
 		"turnsToBuild": 7,
-		"gold": 2,
+		"gold": 1,
 		"techRequired": "Calendar",
 		"uniques": ["[+1 Food] <after discovering [Fertilizer]>",
+			"[+2 Culture, +1 Gold] <after discovering [Astronomy]>",
 			"Can only be built to improve a resource",
 			"Gives a defensive bonus of [20]%",
-			"Gives a defensive bonus of [30]% <starting from the [Renaissance era]>",
-			"[+2 Culture, +1 Gold] <after discovering [Astronomy]>",
-			"Pillaging this improvement yields approximately [+25 Gold]"],
+			"Gives a defensive bonus of [20]% <starting from the [Renaissance era]>",
+			"Pillaging this improvement yields approximately [+30 Gold]"],
 		"shortcutKey": "P"
 	}
 ]
