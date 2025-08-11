@@ -78,14 +78,14 @@
 	},
 	{
 	 "name": "Satrap's Court",
-	 "replaces": "Bank",
+	 "replaces": "Market",
 	 "uniqueTo": "Persia",
 	 "gold": 2,
-	 "specialistSlots": {"Merchant": 1},
-	 "hurryCostModifier": 15,
+	 "happiness": 2,
+	 "specialistSlots": {"Merchant": 2},
+	 "hurryCostModifier": 25,
 	 "percentStatBonus": {"gold": 25},
-	 "uniques": ["Provides [2] [Oil] <starting from the [Industrial era]>"],
-	 "requiredTech": "Banking"
+	 "requiredTech": "Currency"
 	},
 	{
 	"name": "Stave Church",
