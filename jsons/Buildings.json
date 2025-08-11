@@ -118,6 +118,16 @@
         "requiredTech": "Education"
 	},
 	{
+	"name": "Dome Of The Rock",
+	"culture": 1,
+	"specialistSlots": {"Artist": 1},
+	"isWonder": true,
+	"uniques": ["Must have an owned [Desert] within [2] tiles",
+		"[+1 Gold, +1 Faith, +1 Culture] from [Desert] tiles [in this city]",
+		"Gain a free [Amphitheater] [in this city]"],
+	"requiredTech": "Currency"
+	},
+	{
 	 "name": "Himeji Castle",
 	 "culture": 3,
 	 "isWonder": true,
@@ -146,6 +156,15 @@
 	"quote": "'The whole earth is the tomb of heroic men and their story is not given only on stone over their clay but abides everywhere without visible symbol woven into the stuff of other men's lives.' - Pericles"
 	},
 	{
+		"name": "Petra",
+		"culture": 1,
+		"isWonder": true,
+		"greatPersonPoints": {"Great Engineer": 1},
+		"uniques": ["Must be next to [Desert]", "[+1 Food, +1 Production] from [Desert] tiles without [Flood plains] [in this city]", "[+10 Culture] [in this city] <after discovering [Archaeology]>"],
+		"requiredTech": "Currency",
+		"quote": "'...who drinks the water I shall give him, says the Lord, will have a spring inside him welling up for eternal life. Let them bring me to your holy mountain in the place where you dwell. Across the desert and through the mountain to the Canyon of the Crescent Moon...' - Indiana Jones"
+	},
+	{
 	"name": "Theodosian Walls",
 	"uniqueTo": "Byzantium",
 	"cost": 200,
@@ -159,35 +178,16 @@
 	"requiredTech": "Construction"
 	},
 	{
-	"name": "The Great Cothon",
-	"uniqueTo": "Carthage",
-	"cost": 185,
-	"culture": 2,
-	"gold": 2,
-	"isNationalWonder": true,
-	"uniques": ["New [{Military}, {Water}] units start with [15] XP [in this city]", "[+1 Culture, +1 Production] from [Atoll] tiles [in this city]",
-		"[+1 Gold] from [Coast] tiles [in this city]", "[+1 Culture, +1 Production] from [Fish] tiles [in this city]"],
-	"requiredTech": "Compass"
-	},
-	{
 	"name": "Outremer Stronghold",
 	"uniqueTo": "Crusader States",
 	"cost": 125,
 	"cityStrength": 3,
 	"cityHealth": 25,
-	"uniques": ["Limited to [4] per Civilization", "Cost increases by [30] when built",
-	"Free [Crusader Castle Builder] appears", "New [{Military}, {Land}] units start with [15] XP [in this city]",
-	"Provides [1] [Iron]", "Provides [1] [Horses]", "Destroyed when the city is captured"]
-	},
-	{
-	"name": "Mosque-Madrassa of Sultan Hassan",
-	"uniqueTo": "Mamluks",
-	"science": 1,
-	"faith": 3,
-	"specialistSlots": {"Scientist": 3},
-	"isNationalWonder": true,
-	"uniques": ["Must have an owned [Desert] within [2] tiles",
-		"[+1 Science, +1 Faith] from [Desert] tiles [in this city]"],
-	"requiredTech": "Theology"
+	"uniques": ["Limited to [4] per Civilization",
+	"Cost increases by [30] when built",
+	"Free [Crusader Castle Builder] appears <before Industrial era>",
+	"New [{Military}, {Land}] units start with [15] XP [in this city]",
+	"Provides [1] [Iron]", "Provides [1] [Horses]",
+	"Destroyed when the city is captured"]
 	}
 ]
