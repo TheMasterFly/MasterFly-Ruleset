@@ -108,14 +108,14 @@
 
 		"favoredReligion": "Christianity",
 		"uniqueName": "Crusades",
-		"uniqueText": "Free [Swordsman] and [Settler] appears upon discovering Mathematics\nFree [Templar Knight] and [Settler] appears upon discovering Chivalry\nLand units +15% strength and +100% maintenance costs\nMay purchase Great Generals for 600/1000/2200 [Gold] from the Ancient/Renaissance/Modern eras",
+		"uniqueText": "Free [Swordsman] and [Settler] appears upon discovering Mathematics\nFree [Knight] and [Settler] appears upon discovering Chivalry\nLand units +15% strength and +100% maintenance costs\nMay purchase Great Generals for 600/1000/2200 [Gold] from the Ancient/Renaissance/Modern eras",
 		"uniques": ["[{Military} {Land}] units gain the [Morale] promotion <hidden from users>",
-		"[+100]% maintenance costs <for [{Military} {Land}] units>",
+		"[+150]% maintenance costs <for [{Military} {Land}] units>",
 		"[+3 Production] from every [Heroic Epic] <hidden from users>",
 		"Free [Settler] appears <upon discovering [Mathematics] technology>",
 		"Free [Swordsman] appears <upon discovering [Mathematics] technology>",
 		"Free [Settler] appears <upon discovering [Chivalry] technology>",
-		"Free [Templar Knight] appears <upon discovering [Chivalry] technology>"],
+		"Free [Knight] appears <upon discovering [Chivalry] technology>"],
 		
 		"cities": ["Jerusalem", "Antioch", "Edessa", "Tripoli", "Tyre", "Acre", "Beirut", "Sidon", "Jaffa", "Ascalon", "Nablus",
 		"Tiberias", "Haifa", "Gaza", "Ramla", "Tortosa", "Gibelet", "Bethlehem", "Hebron", "Nazareth"]
