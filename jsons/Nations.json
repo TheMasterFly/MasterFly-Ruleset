@@ -423,7 +423,7 @@
 	{
 		"name": "Hangzhou",
 		"adjective": ["Hangzhou Han"],
-		"cityStateType": "Horses/Iron Provider",
+		"cityStateType": "Horses and Iron Provider",
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
@@ -435,7 +435,7 @@
 	{
 		"name": "Tarsus",
 		"adjective": ["Cilicia Armenian"],
-		"cityStateType": "Horses/Iron Provider",
+		"cityStateType": "Horses and Iron Provider",
 
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Very well, this shall not be forgotten.",
