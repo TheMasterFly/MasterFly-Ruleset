@@ -147,23 +147,6 @@
 		"attackSound": "shot"
 	},
 	{
-		"name": "Templar Knight",
-	        "replaces": "Knight",
-	        "uniqueTo": "Crusader States",
-		
-		"unitType": "Mounted",
-		"movement": 4,
-		"strength": 24,
-		"cost": 120,
-		"requiredTech": "Chivalry",
-		"obsoleteTech": "Military Science",
-		"upgradesTo": "Cavalry",
-		"requiredResource": "Horses",
-		"uniques": ["No defensive terrain bonus", "Never appears as a Barbarian unit", "Can be purchased for [300] [Faith] [in all cities] <hidden from users>",
-		"Comment [Can be purchased for 200 [Faith]]"],
-		"attackSound": "horse"
-	},
-	{
 		"name": "Great Artist",
 		"unitType": "Civilian",
 		"uniques": [
