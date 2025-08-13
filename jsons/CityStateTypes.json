@@ -27,7 +27,8 @@
         ],
         "allyBonusUniques": [
             "[+2 Happiness] <before the [Medieval era]>",
-            "[+3 Happiness] <starting from the [Medieval era]>",
+            "[+2 Happiness] <starting from the [Medieval era]>",
+            "[+3 Happiness] <starting from the [Industrial era]>",
             "Provides a unique luxury"
         ],
         "color": [255, 216, 0]
