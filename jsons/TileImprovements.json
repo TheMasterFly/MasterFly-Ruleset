@@ -86,21 +86,22 @@
 			"Gain control over [all] tiles in a [1]-tile radius",
 			"Removes removable features when built",
 			"Tile provides yield without assigned population",
-            "Will not be replaced by automated units"
+            "Will not be replaced by automated units",
+			"Pillaging this improvement yields approximately [+30 Gold]"
 		]
 	},
 	{
 	"name": "Dry Dock",
 	"terrainsCanBeBuiltOn": ["Coast"],
 	"production": 5,
-	"uniques": [
-	    "Great Improvement",
+	"uniques": ["Great Improvement",
 	    "[+3 Production] <after discovering [Pharmaceuticals]>",
 	    "Removes removable features when built",
 	    "Will not be replaced by automated units",
+		"Can be built just outside your borders",
+		"Gain control over [all] tiles in a [1]-tile radius",
 		"Tile provides yield without assigned population",
-	    "Pillaging this improvement yields approximately [+20 Gold]"
-	]
+	    "Pillaging this improvement yields approximately [+30 Gold]"]
 	},
 	{
 		"name": "Plant Forest",
