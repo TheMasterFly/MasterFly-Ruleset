@@ -402,8 +402,7 @@
         "uniques": [
 			"Comment [Water units may heal outside of friendly territory]",
             "[Water] units gain the [Supply] promotion <hidden from users>",
-			"[+2] Happiness from each type of luxury resource",
-			"[+50]% Production when constructing [Courthouse] buildings [in all coastal cities]"
+			"[+2] Happiness from each type of luxury resource"
         ],
         "cities": [
             "Lisbon","Porto","Braga","Coimbra","Funchal","Leiria","Goa","Vila Nova de Gaia","Aveiro","Luanda",
