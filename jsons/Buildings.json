@@ -43,6 +43,16 @@
 	"requiredTech": "Economics"
 	},
 	{
+	"name": "Encomienda",
+	"replaces": "Courthouse",
+	"uniqueTo": "Spain",
+	"gold": 2,
+	"hurryCostModifier": 25,
+	"uniques": ["Removes extra unhappiness from annexed cities",
+	"[+25]% [Gold] [+2 Production] [in this city] <on foreign continents>"],
+	"requiredTech": "Mathematics"
+	},
+	{
 	"name": "Shuǐ Mó",
 	"replaces": "Water Mill",
 	"uniqueTo": "China",
