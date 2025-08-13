@@ -15,6 +15,6 @@
       "ancientRuinCountMultiplier": 0.045,
       "unitUpgradeCost":{"base":20,"perProduction":0.5,"eraMultiplier":0.334,"exponent":1,"roundTo":5}
   },
-  "unitsToRemove": ["Ballista"],
+  "unitsToRemove": ["Ballista", "Tercio"],
   "buildingsToRemove": ["Paper Maker"]
 }
