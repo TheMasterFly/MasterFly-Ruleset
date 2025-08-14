@@ -124,7 +124,7 @@
 		"rangedStrength": 31,
 		"cost": 5,
 		"requiredTech": "Agriculture",
-		"obsoleteTech": "Electronics",
+		"obsoleteTech": "Astronomy",
         "uniques": ["Can undertake a trade mission with City-State, giving a large sum of gold and [3] Influence"],
 		"upgradesTo": "Caravel",
 		"hurryCostModifier": 20,
