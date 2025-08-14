@@ -125,7 +125,8 @@
 		"cost": 5,
 		"requiredTech": "Agriculture",
 		"obsoleteTech": "Astronomy",
-        "uniques": ["Can undertake a trade mission with City-State, giving a large sum of gold and [3] Influence"],
+        "uniques": ["Can undertake a trade mission with City-State, giving a large sum of gold and [3] Influence",
+		"[-60]% Gold from Great Merchant trade missions", "Free [Great Merchant] appears"],
 		"upgradesTo": "Caravel",
 		"hurryCostModifier": 20,
 		"attackSound": "shipCannonVolley"
