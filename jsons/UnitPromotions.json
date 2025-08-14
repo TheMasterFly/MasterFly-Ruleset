@@ -27,6 +27,6 @@
       },
       {
             "name": "East India Company",
-            "uniques": ["Gain [150]-[400] [Gold] <(modified by game speed)> <in [Major] tiles> <in tiles without [The Netherlands]> <for all movement> <once>"]
+            "uniques": ["Gain [100]-[400] [Gold] <(modified by game speed)> <in [Major] tiles> <in tiles without [The Netherlands]> <for all movement> <once>"]
       }
 ]
