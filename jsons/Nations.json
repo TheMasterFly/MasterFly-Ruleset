@@ -435,7 +435,8 @@
         "uniques": [
 			"Comment [Water units may heal outside of friendly territory]",
             "[Water] units gain the [Supply] promotion <hidden from users>",
-			"[+2] Happiness from each type of luxury resource"
+			"[+1] Happiness from each type of luxury resource",
+			"[+1] Happiness from each type of luxury resource <starting from the [Renaissance era]>"
         ],
         "cities": [
             "Lisbon","Porto","Braga","Coimbra","Funchal","Leiria","Goa","Vila Nova de Gaia","Aveiro","Luanda",
