@@ -586,7 +586,7 @@
             {
                 "name": "Sovereignty",
                 "uniques": [
-                    "[+1 Science] from every specialist [in all cities]",
+                    "[+1 Science] from every specialist [in all cities]"
                 ],
                 "requires": [
                     "Humanism"
