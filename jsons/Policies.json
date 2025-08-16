@@ -526,8 +526,7 @@
                 "name": "Commerce Complete",
                 "uniques": [
                     "[2] free [Great Merchant] units appear",
-                    "[+4 Production, +4 Culture, +4 Happiness] from every [National Treasury]",
-                    "[+100]% Gold from Great Merchant trade missions",
+                    "[+8 Gold, +4 Happiness] from every [National Treasury]",
                     "May buy [Great Merchant] units for [1000] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([500]) <starting from the [Industrial era]>"
                 ]
             }
