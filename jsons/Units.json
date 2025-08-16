@@ -233,7 +233,11 @@
         "uniqueTo": "Lithuania",
         "unitType": "Civilian",
         "uniques": [
-            "Can instantly construct a [Sacred Grove] improvement <by consuming this unit> <if it hasn't used other actions yet>",
+            "Can instantly construct a [Sacred Grove] improvement <by consuming this unit>",
+			"Can Spread Religion <for [4] movement> <[1] times>",
+			"Removes other religions when spreading religion",
+			"Is part of Great Person group [Prophet]",
+			"Takes your religion over the one in their birth city",
             "Great Person - [Faith]",
             "Uncapturable",
             "Unbuildable",
