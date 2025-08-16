@@ -92,9 +92,8 @@
             "[+1 Science, +1 Production, +1 Culture, +1 Food, +1 Faith] <after discovering [Acoustics]>",
             "[+1 Science, +1 Production, +1 Culture, +1 Food, +1 Faith] <after discovering [Archaeology]>",
             "[+1 Science, +1 Production, +1 Culture, +1 Food, +1 Faith] <after discovering [Plastics]>",
-            "[+1 Science, +1 Production, +1 Culture, +1 Food, +1 Faith] <after discovering [Computers]>",
-            "[+1 Science, +1 Production, +1 Culture, +1 Food, +1 Faith] <after discovering [Telecommunications]>",
-            "Pillaging this improvement yields approximately [+20 Gold]"
+            "[+1 Science, +1 Production, +1 Culture, +1 Food, +1 Faith] <after discovering [Ecology]>",
+            "Pillaging this improvement yields approximately [+50 Gold]"
         ]
     },
 	{
