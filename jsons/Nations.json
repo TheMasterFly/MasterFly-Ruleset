@@ -304,8 +304,8 @@
         "outerColor": [203,84,58],
         "innerColor": [78,26,69],
         "uniqueName": "Baltic Paganism",
-		"uniqueText": "May undo natural religion Spread maluses with unique policy [Jogailan Reform]",
-        "uniques": ["[-50]% Natural religion spread [in all cities]",
+        "uniques": ["Comment [May undo natural religion Spread maluses with unique policy [Jogailan Reform]]",
+		"[-50]% Natural religion spread [in all cities]",
 		"[-100]% Natural religion spread [in all cities] <during a Golden Age>",
 		"Starts with [Special Policy Choices] adopted <hidden from users>"],
         "cities": [
