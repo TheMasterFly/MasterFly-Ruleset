@@ -239,6 +239,7 @@
 			"Is part of Great Person group [Prophet]",
 			"Takes your religion over the one in their birth city",
             "Great Person - [Faith]",
+			"Religious Unit",
             "Uncapturable",
             "Unbuildable",
             "Only available <when religion is enabled>"
