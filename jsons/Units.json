@@ -227,6 +227,20 @@
 		"movement": 2,
 		"religiousStrength": 1000
 	},
+    {
+        "name": "Krivis",
+        "replaces": "Great Prophet",
+        "uniqueTo": "Lithuania",
+        "unitType": "Civilian",
+        "uniques": [
+            "Can instantly construct a [Sacred Grove] improvement <by consuming this unit> <if it hasn't used other actions yet>",
+            "Great Person - [Faith]",
+            "Uncapturable",
+            "Unbuildable",
+            "Only available <when religion is enabled>"
+        ],
+        "movement": 4
+    },
 	{
 		"name": "Great General",
 		"unitType": "Civilian",
