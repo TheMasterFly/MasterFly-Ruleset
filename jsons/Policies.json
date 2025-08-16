@@ -482,8 +482,7 @@
             {
                 "name": "Mercenary Army",
                 "uniques": [
-                    "[Military] units gain the [Mercenary] promotion",
-                    "[-33]% maintenance costs <for [Military] units>"
+                    "[Military] units gain the [Mercenary] promotion"
                 ],
                 "requires": ["Entrepreneurship"],
                 "row": 2,
@@ -503,10 +502,10 @@
             {
                 "name": "Mercantilism",
                 "uniques": [
-                    "[Gold] cost of purchasing items in cities [-25]%",
-                    "[+1 Happiness, +1 Culture] from every [Market]",
-                    "[+1 Happiness, +1 Culture] from every [Bank]",
-                    "[+1 Happiness, +1 Culture] from every [Stock Exchange]"
+                    "[Gold] cost of purchasing items in cities [-15]%",
+                    "[+1 Happiness, +2 Gold] from every [Market]",
+                    "[+1 Happiness, +2 Gold] from every [Bank]",
+                    "[+1 Happiness, +2 Gold] from every [Stock Exchange]"
                 ],
                 "requires": ["Entrepreneurship"],
                 "row": 2,
