@@ -17,6 +17,29 @@
 		"Automation is a primary action"],
 		"cost": 48
     },
+
+	{
+		"name": "Missionary",
+		"unitType": "Civilian",
+		"uniques": [
+            "Can Spread Religion <for [4] movement> <[2] times> <after which this unit is consumed>",
+            "May enter foreign tiles without open borders, but loses [250] religious strength each turn it ends there",
+			"Can be purchased with [Faith] [in all cities in which the majority religion is a major religion]",
+			"[-1] Sight", "Unbuildable", "Religious Unit", "Only available <when religion is enabled>",
+			"[-100]% Spread Religion Strength <in [Lithuania] tiles> <hidden from users>"],
+		"movement": 4,
+		"religiousStrength": 1000
+	},
+	{
+		"name": "Inquisitor",
+		"unitType": "Civilian",
+		"uniques": ["Prevents spreading of religion to the city it is next to",
+			"Can remove other religions from cities <in [Friendly] tiles> <once> <after which this unit is consumed>",
+            "Can be purchased with [Faith] [in all cities in which the majority religion is a major religion]",
+			"[+1] Sight", "Only available <when religion is enabled>", "Unbuildable", "Religious Unit"
+		],
+		"movement": 3
+	},
 	{
 		"name": "Berserker",
 		"unitType": "Sword",
@@ -125,7 +148,7 @@
 		"uniqueTo": "Iroquois",
 		"replaces": "Swordsman",
 		"movement": 3,
-		"strength": 19,
+		"strength": 15,
 		"cost": 75,
 		"requiredTech": "Iron Working",
 		"upgradesTo": "Longswordsman",
@@ -237,13 +260,14 @@
 		"uniques": [
 		"Can instantly construct a [Holy site] improvement <by consuming this unit> <if it hasn't used other actions yet>",
 		"Can Spread Religion <for [2] movement> <[4] times> <after which this unit is consumed>",
-		"Removes other religions when spreading religion",
+		"Removes other religions when spreading religion <in non-[Lithuania] tiles> <hidden from users>",
 		"May found a religion <by consuming this unit> <if it hasn't used other actions yet>",
 		"May enhance a religion <by consuming this unit>  <if it hasn't used other actions yet>",
 		"Is part of Great Person group [Prophet]",
 		"May enter foreign tiles without open borders", "[-1] Sight", "Great Person - [Faith]",
 		"Unbuildable", "Religious Unit", "Only available <when religion is enabled>",
-		"Takes your religion over the one in their birth city"],
+		"Takes your religion over the one in their birth city",
+		"[-100]% Spread Religion Strength <in [Lithuania] tiles> <hidden from users>"],
 		"movement": 2,
 		"religiousStrength": 1000
 	},
