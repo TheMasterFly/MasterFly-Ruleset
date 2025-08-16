@@ -852,7 +852,7 @@
             "Scientific": 1
         },
         "uniques": ["Comment [Special policy options for certain civs]",
-			"Only available <for [Lithuania] Civilizations>",
+			"Unavailable <starting from the [Ancient era]>",
             "[-100]% weight to this choice for AI decisions"],
         "policies": [
             {
