@@ -278,9 +278,6 @@
 					"[+1 Gold] from every [Temple]",
 					"[+1 Gold] from every [Shrine]"
                 ],
-                "requires": [
-                    "Organized Religion"
-                ],
                 "row": 1,
                 "column": 5
             },
