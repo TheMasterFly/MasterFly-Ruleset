@@ -840,35 +840,5 @@
                 ]
             }
         ]
-    },
-    {
-        "name": "Special Policy Choices",
-        "era": "Ancient era",
-        "priorities": {
-            "Neutral": 1,
-            "Cultural": 1,
-            "Diplomatic": 1,
-            "Domination": 1,
-            "Scientific": 1
-        },
-        "uniques": ["Comment [Special policy options for certain civs]",
-			"Unavailable <starting from the [Ancient era]>",
-            "[-100]% weight to this choice for AI decisions"],
-        "policies": [
-            {
-                "name": "Jogailan Reform",
-				"uniqueTo": "Lithuania",
-                "uniques": ["Comment [Returns natural religion spread to normal and adds +50% additional religion spread in addition\nGain a free Social Policy]",
-				"Only available <for [Lithuania] Civilizations>",
-				"[+150]% Natural religion spread [in all cities] <hidden from users>",
-				"Free Social Policy <hidden from users>"],
-                "row": 1,
-                "column": 1
-            },
-            {
-                "name": "Special Policy Choices Complete",
-                "uniques": ["Comment [Current civs are: Lithuania]"]
-            }
-        ]
     }
 ]
