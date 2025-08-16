@@ -840,5 +840,32 @@
                 ]
             }
         ]
+    },
+    {
+        "name": "Special Policy Choices",
+        "era": "Ancient era",
+        "priorities": {
+            "Neutral": 1,
+            "Cultural": 1,
+            "Diplomatic": 1,
+            "Domination": 1,
+            "Scientific": 1
+        },
+        "uniques": ["Comment [Special policy options for certain civs]",
+            "[-100]% weight to this choice for AI decisions"],
+        "policies": [
+            {
+                "name": "Lithuania Special Policy",
+				"uniqueTo": "Lithuania",
+                "uniques": ["[+100]% Natural religion spread [in all cities]",
+				"[+100]% Natural religion spread [in all cities] <during a Golden Age>"],
+                "row": 1,
+                "column": 1
+            },
+            {
+                "name": "Tradition Complete",
+                "uniques": ["Comment [Current civs are: Lithuania]"]
+            }
+        ]
     }
 ]
