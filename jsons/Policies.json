@@ -301,8 +301,7 @@
                 "name": "Free Religion",
                 "uniques": [
                     "[+25]% [Science] from every [Grand Temple]",
-                    "[+2 Science] from every [Temple]",
-                    "[-10]% Culture cost of adopting new Policies"
+                    "[+2 Science] from every [Temple]"
                 ],
                 "requires": [
                     "Reformation"
@@ -314,7 +313,8 @@
                 "name": "Piety Complete",
                 "uniques": [
                     "Gain enough Faith for [100]% of a Great Prophet",
-                    "[+3 Gold, +3 Culture] from every [Holy site]"
+                    "[+3 Gold, +3 Culture] from every [Holy site]",
+					"[-15]% Culture cost of adopting new Policies"
                 ]
             }
         ]
