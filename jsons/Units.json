@@ -82,6 +82,26 @@
 		"attackSound": "nonmetalhit"
     },
 	{
+		"name": "Bajorija Knight",
+		"replaces": "Knight",
+		"uniqueTo": "Lithuania",
+		"unitType": "Mounted",
+		"movement": 4,
+		"strength": 26,
+		"cost": 120,
+		"requiredTech": "Chivalry",
+		"obsoleteTech": "Military Science",
+		"upgradesTo": "Cavalry",
+		"requiredResource": "Horses",
+		"uniques": ["Comment [Adjacent enemy units with Defender Of The Faith/Just War lose their combat buff]",
+			"Can move after attacking",
+			"No defensive terrain bonus",
+			"[-33]% Strength <vs cities> <when attacking>",
+			"Never appears as a Barbarian unit"],
+		"promotions": ["Bajorija Knight Ability"],
+		"attackSound": "horse"
+	},
+	{
 		"name": "Mamluk Cavalry Archer",
 		"unitType": "Mounted",
 		"uniqueTo": "Mamluks",
