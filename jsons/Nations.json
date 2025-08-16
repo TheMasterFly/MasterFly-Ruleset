@@ -285,7 +285,37 @@
 	        "spyNames": [
 	            "Akaishi","Oki","Hattori","Morozumi","Momochi","Kawashima","Orin","Sakanishi","Kaede","Mochizuki"
 	        ]
-    	},
+    },
+    {
+        "name": "Lithuania",
+        "leaderName": "Vytautas",
+        "adjective": ["Lithuania"],
+        "startBias": ["Avoid [Coast]"],
+        "preferredVictoryType": "Cultural",
+        "startIntroPart1": "Blessings be upon you, Grand Duke of Lithuania, Vytautas the Great. It was your majesty that defeated the Golden Horde, ending forever the Mongol's ambitions about Europe. The Lithuanian Empire survived two centuries of the religious crusades, lead by the Teutonic order, finally striking down her great rival at the Battle of Žalgiris. The Duchy officially adopted Christianity with the Union of Krewo, signed by your traitorous brother Jogaila in 1386. Despite losing political and cultural solidarity, Lithuania was finally restored to sovereignity in the twentieth century.",
+        "startIntroPart2": "The path of glory is calling you, Vytautas, Son of the Forest, baptised into the Church of Christ. Will you lead your people in the name of holiness? Will you create the Empire your people have always deserved? Can you build a civilization that will stand the test of time?",
+        "declaringWar": "May this be a war for the ages!",
+        "attacked": "History will only remember you as an usurper!",
+        "defeated": "We will never bow to you, let alone to your Gods!",
+        "introduction": "Ah, you have caught me just as I was going off to hunt. Stay for the feast, so we may know each other better!",
+        "neutralHello": "Greetings.",
+        "hateHello": "What do you want?",
+        "tradeRequest": "This day shall mark a betterment for our dominions' relations, I am sure of that.",
+        "outerColor": [203,84,58],
+        "innerColor": [78,26,69],
+        "uniqueName": "Baltic Paganism",
+        "uniques": ["[-50]% Natural religion spread [in all cities]",
+		"[-100]% Natural religion spread [in all cities] <during a Golden Age>"],
+        "cities": [
+            "Vilnius","Kaunas","Polotsk","Minsk","Voruta","Klaipeda","Vitebsk","Trakai","Mstsislau","Navahrudak",
+            "Raseiniai","Kernave","Siauliai","Panevezys","Alytus","Marijampole","Mazeikiai","Jonava","Utena","Kedainiai",
+            "Krakow","Lviv","Poznan","Belgorod","Turov","Lyubech","Pereyaslavl","Bilhorod","Volynsky","Chernigov",
+            "Daugava"
+        ],
+        "spyNames": [
+            "Wincenty","Roman","Benita","Jan","Kazimierz","Josef","Krystyna Skarbek","Tarnowski","Marian","Alenka"
+        ]
+    },
 	{
 		"name": "Mamluks",
 		"leaderName": "Abu'l-Qasim Ahmad al-Mustansir",
