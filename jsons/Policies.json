@@ -858,10 +858,11 @@
             {
                 "name": "Jogailan Reform",
 				"uniqueTo": "Lithuania",
-				"uniqueText": "Returns natural religion spread to normal and adds +50% additional religion spread in addition",
-                "uniques": ["Only available <for [Lithuania] Civilizations>",
-				"[+100]% Natural religion spread [in all cities]",
-				"[+100]% Natural religion spread [in all cities] <during a Golden Age>"],
+                "uniques": ["Comment [Returns natural religion spread to normal and adds +50% additional religion spread in addition\nGain a free Social Policy]",
+				"Only available <for [Lithuania] Civilizations>",
+				"[+100]% Natural religion spread [in all cities] <hidden from users>",
+				"[+100]% Natural religion spread [in all cities] <during a Golden Age> <hidden from users>",
+				"Free Social Policy <hidden from users>"],
                 "row": 1,
                 "column": 1
             },
