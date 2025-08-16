@@ -4,8 +4,8 @@
             "uniques": ["Double movement in [Hill]", "[+10]% Strength <when fighting in [Hill] tiles>"],
       },
       {
-            "name": "Of The Land",
-            "uniques": ["[+15]% Strength <when fighting in [Forest] tiles>", "Double movement in [Forest]"]
+            "name": "Bajorija Ability",
+            "uniques": ["[+20]% Strength <when fighting in [Forest] tiles>", "Double movement in [Forest]"]
       },
       {
             "name": "Mercenary",
