@@ -1,4 +1,3 @@
-
 [
     {
         "name": "Ancestor Worship",
@@ -319,7 +318,7 @@
     {
         "name": "Holy Caravans",
         "type": "Founder",
-        "uniques": ["[+2 Culture, +2 Science] from each Trade Route"],
+        "uniques": ["[+2 Culture, +2 Science] from each Trade Route"]
     },
     {
         "name": "Tithe",
@@ -342,7 +341,8 @@
     {
         "name": "Defender of the Faith",
         "type": "Enhancer",
-        "uniques": ["[+20]% Strength <for [All] units> <when fighting in [Friendly Land] tiles>"]
+        "uniques": ["[+20]% Strength <for [All] units> <when fighting in [Friendly Land] tiles>",
+        "[-20]% Strength <for [All] units> <when fighting in [Friendly Land] tiles> <vs [Bajorija Knight Ability]> <hidden from users>"]
     },
     {
         "name": "Inner Discipline",
@@ -382,7 +382,8 @@
     {
         "name": "Just War",
         "type": "Enhancer",
-        "uniques": ["[+20]% Strength <for [All] units> <when fighting in [Enemy Land] tiles>"]
+        "uniques": ["[+20]% Strength <for [All] units> <when fighting in [Enemy Land] tiles>",
+        "[-20]% Strength <for [All] units> <when fighting in [Enemy Land] tiles> <vs [Bajorija Knight Ability]> <hidden from users>"]
     },
     {
         "name": "Karma",
