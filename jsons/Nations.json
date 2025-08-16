@@ -305,7 +305,8 @@
         "innerColor": [78,26,69],
         "uniqueName": "Baltic Paganism",
         "uniques": ["[-50]% Natural religion spread [in all cities]",
-		"[-100]% Natural religion spread [in all cities] <during a Golden Age>"],
+		"[-100]% Natural religion spread [in all cities] <during a Golden Age>",
+		"Starts with [Special Policy Choices] adopted <hidden from users>"],
         "cities": [
             "Vilnius","Kaunas","Polotsk","Minsk","Voruta","Klaipeda","Vitebsk","Trakai","Mstsislau","Navahrudak",
             "Raseiniai","Kernave","Siauliai","Panevezys","Alytus","Marijampole","Mazeikiai","Jonava","Utena","Kedainiai",
