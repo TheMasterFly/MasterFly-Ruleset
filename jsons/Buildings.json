@@ -247,19 +247,6 @@
 	"quote": "'O, let not the pains of death which come upon thee enter into my body. I am the god Tem, and I am the foremost part of the sky, and the power which protecteth me is that which is with all the gods forever.' - The Book of the Dead, translated by Sir Ernest Alfred Wallis Budge"
     },
 	{
-	"name": "Theodosian Walls",
-	"uniqueTo": "Byzantium",
-	"cost": 200,
-	"cityStrength": 4,
-	"cityHealth": 50,
-	"isNationalWonder": true,
-	"uniques": ["All newly-trained [Military] units [in this city] receive the [Stratiotiki Ekpaidefsi] promotion <hidden from users>",
-	"Only available <in [Capital] cities> <hidden from users>",
-	"[+10]% [Science] <in cities with a [Cathedral]> <in cities with a [Mosque]> <in cities with a [Pagoda]> <in cities with a [Stupa]> <hidden from users>",
-	"Comment [Only available in [Capital] cities\nAll newly-trained military units [in this city] receive the [Stratiotiki Ekpaidefsi] promotion\n+10% [Science] in all cities with a [Cathedral], [Mosque], [Pagoda] and [Stupa]]"],
-	"requiredTech": "Construction"
-	},
-	{
 	"name": "Outremer Stronghold",
 	"uniqueTo": "Crusader States",
 	"cost": 125,
