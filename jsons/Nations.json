@@ -304,7 +304,7 @@
         "outerColor": [203,84,58],
         "innerColor": [78,26,69],
         "uniqueName": "The Last Pagan Kindgom",
-        "uniques": ["Comment [May undo natural religion Spread maluses with unique policy [Jogailan Reform]\nAll Pantheon bonuses are doubled\nEnemy [{Missionary}{Great Prophet}] units -100% religion spread strength in your tiles]",
+        "uniques": ["Comment [May undo natural religion Spread maluses with unique policy [Jogailan Reform]\nAll Pantheon bonuses are doubled\nEnemy [Missionary], [Great Prophet] units -100% religion spread strength in your tiles]",
 		"[-100]% Natural religion spread [in all cities]",
 		"May buy [Great Prophet] units for [600] [Faith] [in all cities] at an increasing price ([500]) <starting from the [Medieval era]>",
 		"Starts with [Special Policy Choices] adopted <hidden from users>"],
