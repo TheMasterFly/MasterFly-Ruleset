@@ -75,6 +75,28 @@
 			"Tile provides yield without assigned population",
 			"Pillaging this improvement yields approximately [+20 Gold]"]
 	},
+    {
+        "name": "Sacred Grove",
+        "uniqueTo": "Lithuania",
+        "terrainsCanBeBuiltOn": ["Land"],
+        "science": 1,
+        "production": 1,
+        "culture": 1,
+        "food": 1,
+        "faith": 1,
+        "uniques": [
+            "Great Improvement",
+            "Removes removable features when built",
+            "[+1 Science, +1 Production, +1 Culture, +1 Food, +1 Faith] <after discovering [Philosophy]>",
+            "[+1 Science, +1 Production, +1 Culture, +1 Food, +1 Faith] <after discovering [Theology]>",
+            "[+1 Science, +1 Production, +1 Culture, +1 Food, +1 Faith] <after discovering [Acoustics]>",
+            "[+1 Science, +1 Production, +1 Culture, +1 Food, +1 Faith] <after discovering [Archaeology]>",
+            "[+1 Science, +1 Production, +1 Culture, +1 Food, +1 Faith] <after discovering [Plastics]>",
+            "[+1 Science, +1 Production, +1 Culture, +1 Food, +1 Faith] <after discovering [Computers]>",
+            "[+1 Science, +1 Production, +1 Culture, +1 Food, +1 Faith] <after discovering [Telecommunications]>",
+            "Pillaging this improvement yields approximately [+20 Gold]"
+        ]
+    },
 	{
 		"name": "Citadel",
 		"terrainsCanBeBuiltOn": ["Land"],
