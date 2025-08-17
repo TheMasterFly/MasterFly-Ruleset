@@ -391,7 +391,7 @@
 	{
 		"name": "Grand Mesa",
 		"type": "NaturalWonder",
-		"production": 3,
+		"production": 2,
 		"gold": 2,
 		"food": 2,
 		"occursOn": ["Plains","Desert","Tundra"],
@@ -509,7 +509,6 @@
 		"name": "Mount Sinai",
 		"type": "NaturalWonder",
 		"faith": 6,
-		"gold": 2,
 		"culture": 2,
 		"occursOn": ["Desert","Plains"],
 		"uniques": ["Must be adjacent to [0] [Coast] tiles",
