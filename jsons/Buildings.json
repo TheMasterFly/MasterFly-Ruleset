@@ -266,7 +266,7 @@
 		"uniques": ["Only available <if [Temple] is constructed in all [non-[Puppeted]] cities> <when religion is enabled>",
 			"Cost increases by [30] per owned city",
 			"Can only be built <in [Capital] cities>",
-			"[+25]% [Faith] <upon adopting [Reformation]>"],
+			"Free [Krivis] appears <upon adopting [Reformation]>"],
 		"requiredTech": "Theology",
 		"isNationalWonder": true
 	},
