@@ -87,12 +87,13 @@
         "uniques": [
             "Great Improvement",
             "Removes removable features when built",
-            "[+1 Science, +1 Production, +1 Culture, +1 Food, +1 Faith] <after discovering [Philosophy]>",
-            "[+1 Science, +1 Production, +1 Culture, +1 Food, +1 Faith] <after discovering [Theology]>",
-            "[+1 Science, +1 Production, +1 Culture, +1 Food, +1 Faith] <after discovering [Acoustics]>",
-            "[+1 Science, +1 Production, +1 Culture, +1 Food, +1 Faith] <after discovering [Archaeology]>",
-            "[+1 Science, +1 Production, +1 Culture, +1 Food, +1 Faith] <after discovering [Plastics]>",
-            "[+1 Science, +1 Production, +1 Culture, +1 Food, +1 Faith] <after discovering [Ecology]>",
+            "[+1 Production, +1 Food, +1 Faith] <after discovering [Philosophy]>",
+            "[+1 Science, +1 Culture, +1 Faith] <after discovering [Theology]>",
+            "[+1 Production, +1 Food, +1 Faith] <after discovering [Acoustics]>",
+            "[+1 Science, +1 Culture, +1 Faith] <after discovering [Archaeology]>",
+            "[+1 Production, +1 Food, +1 Faith] <after discovering [Plastics]>",
+            "[+1 Science, +1 Culture, +1 Faith] <after discovering [Ecology]>",
+			"[+3 Gold, +3 Culture] <upon adopting [Piety Complete]>",
             "Pillaging this improvement yields approximately [+50 Gold]"
         ]
     },
