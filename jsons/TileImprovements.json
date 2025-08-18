@@ -82,6 +82,7 @@
         "uniques": [
             "Great Improvement",
             "Removes removable features when built",
+			"Will not be replaced by automated units",
             "[+1 Production, +1 Food, +1 Faith] <after discovering [Philosophy]>",
             "[+1 Science, +1 Culture, +1 Faith] <after discovering [Theology]>",
             "[+1 Production, +1 Food, +1 Faith] <after discovering [Acoustics]>",
