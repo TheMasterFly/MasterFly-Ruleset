@@ -529,7 +529,7 @@
 		"outerColor": [202, 0, 0],
 		"innerColor": [40, 40, 40],
 		"uniqueName": "Timur's Peace",
-		"uniqueText": "No growth penalty while above -10 [Happiness]\nNo combat and [Production] penalty while between -10 and -15 [Happiness]\nCannot build [Settler] units while below -3 [Happiness]\nUpon capturing a city, receive twice its [Production] as [Golden Age points]",
+		"uniqueText": "No growth penalty while above -10 [Happiness]\nNo combat and [Production] penalty while between -10 and -15 [Happiness]\nCannot build [Settler] units while below -3 [Happiness]\nUpon capturing a city, receive 4 times its [Production] as [Golden Age points]",
 		"uniques": ["[+75]% growth [in all cities] <when between [-10] and [0] [Happiness]>",
 			"[+33]% Strength <for [All] units> <when between [-10] and [-15] [Happiness]>",
 			"[+50]% [Production] [in all cities] <when between [-10] and [-15] [Happiness]>",
