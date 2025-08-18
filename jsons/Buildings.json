@@ -110,6 +110,19 @@
 	"uniques": ["[+1 Production] from [Tundra] tiles [in this city]", "[+1 Production] from [Snow] tiles [in this city]"]
 	},
 	{
+		"name": "Zen Rock Garden",
+		"replaces": "Garden",
+		"food": 1,
+		"culture": 1,
+		"uniqueTo": "Japan",
+		"uniques": ["[+25]% Great Person generation [in this city]",
+		"New [Military] units start with [15] XP [in this city]",
+		"[+2 Culture] [in this city] <after discovering [Architecture]>"],
+		"hurryCostModifier": 25,
+		"maintenance": 1,
+		"requiredTech": "Theology"
+	},
+	{
 	"name": "Althing",
 	"culture": 3,
 	"isWonder": true,
