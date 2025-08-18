@@ -114,7 +114,8 @@
 	 	"requiredResource": "Horses",
 	 	"obsoleteTech": "Industrialization",
 	  	"upgradesTo": "Gatling Gun",
-	  	"uniques": ["Can move after attacking", "Requires a [Horses]", "Ignore terrain cost"]
+		"requiredResource": "Horses",
+	  	"uniques": ["Can move after attacking", "Ignore terrain cost"]
 	},
 	{
 		"name": "Gatling Gun",
