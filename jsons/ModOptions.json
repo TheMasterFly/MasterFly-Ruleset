@@ -1,5 +1,9 @@
 {
   "isBaseRuleset": "false",
+  "modUrl":"https://github.com/TheMasterFly/MasterFly-Test.git",
+  "defaultBranch":"main",
+  "author":"TheMasterFly",
+  "topics":["mod","unciv","unciv-mod","unciv-mod-fun"],
   "uniques":
     [
       "Can trade civilization introductions for [150] Gold",
