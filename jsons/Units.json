@@ -101,6 +101,22 @@
 		"attackSound": "arrow"
 	},
 	{
+	  	"name": "Tarkhan",
+	  	"uniqueTo": "Timurids",
+	  	"unitType": "Mounted",
+	  	"movement": 4,
+	  	"cost": 120,
+	  	"replaces": "Crossbowman",
+	  	"strength": 15,
+	  	"rangedStrength": 22,
+	  	"range": 2,
+	  	"requiredTech": "Machinery",
+	 	"requiredResource": "Horses",
+	 	"obsoleteTech": "Industrialization",
+	  	"upgradesTo": "Gatling Gun",
+	  	"uniques": ["Can move after attacking", "Requires a [Horses]", "[+50]% XP gained from combat"]
+	},
+	{
 		"name": "Gatling Gun",
 		"unitType": "Ranged Gunpowder",
 		"range": 1,
