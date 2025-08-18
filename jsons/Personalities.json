@@ -17,19 +17,20 @@
     "expansion": 5,
     "priorities":
     {
-      "Tradition": 8,
+      "Tradition": 9,
       "Liberty": 4,
       "Honor": 7,
       "Commerce": 3,
       "Patronage": 5,
       "Piety": 6,
-      "Rationalism": 4,
+      "Exploration": 4,
+      "Rationalism": 5,
       "Freedom": 8,
       "Autocracy": 5,
       "Order": 3
     }
   },
-    {
+  {
     "name": "Mamluks",
     "production": 7,
     "food": 7,
@@ -53,10 +54,73 @@
       "Commerce": 6,
       "Patronage": 3,
       "Piety": 5,
+      "Exploration": 5,
       "Rationalism": 6,
       "Freedom": 3,
       "Autocracy": 8,
       "Order": 5
+    }
+  },
+  {
+    "name": "Portugal",
+    "production": 6,
+    "food": 6,
+    "gold": 7,
+    "science": 6,
+    "culture": 4,
+    "happiness": 7,
+    "faith": 5,
+    "military": 6,
+    "aggressive": 4,
+    "declareWar": 4,
+    "commerce": 7,
+    "diplomacy": 9,
+    "loyal": 7,
+    "expansion": 5,
+    "priorities":
+    {
+      "Tradition": 8,
+      "Liberty": 4,
+      "Honor": 3,
+      "Commerce": 7,
+      "Patronage": 8,
+      "Piety": 6,
+      "Exploration": 9,
+      "Rationalism": 7,
+      "Freedom": 8,
+      "Autocracy": 3,
+      "Order": 5
+    }
+  },
+  {
+    "name": "Timurids",
+    "production": 8,
+    "food": 6,
+    "gold": 4,
+    "science": 6,
+    "culture": 6,
+    "happiness": 2,
+    "faith": 4,
+    "military": 8,
+    "aggressive": 8,
+    "declareWar": 8,
+    "commerce": 3,
+    "diplomacy": 3,
+    "loyal": 5,
+    "expansion": 6,
+    "priorities":
+    {
+      "Tradition": 3,
+      "Liberty": 9,
+      "Honor": 6,
+      "Commerce": 3,
+      "Patronage": 3,
+      "Piety": 6,
+      "Exploration": 2,
+      "Rationalism": 6,
+      "Freedom": 3,
+      "Autocracy": 8,
+      "Order": 8
     }
   }
 ]
