@@ -46,7 +46,7 @@
 	"name": "Encomienda",
 	"replaces": "Courthouse",
 	"uniqueTo": "Spain",
-	"gold": 2,
+	"gold": 1,
 	"hurryCostModifier": 25,
 	"uniques": ["Removes extra unhappiness from annexed cities",
 	"[+1 Gold] from every [Resource] <on foreign continents>",
