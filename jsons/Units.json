@@ -111,7 +111,6 @@
 	  	"rangedStrength": 23,
 	  	"range": 2,
 	  	"requiredTech": "Machinery",
-	 	"requiredResource": "Horses",
 	 	"obsoleteTech": "Flight",
 	  	"upgradesTo": "Gatling Gun",
 		"requiredResource": "Horses",
@@ -261,7 +260,8 @@
 		"requiredTech": "Navigation",
 		"obsoleteTech": "Electronics",
         "uniques": ["Can undertake a trade mission with City-State, giving a large sum of gold and [8] Influence",
-		"[-50]% Gold from Great Merchant trade missions"],
+		"[-50]% Gold from Great Merchant trade missions",
+		"Comment [This will consume the Nau]"],
 		"upgradesTo": "Battleship",
 		"hurryCostModifier": 20,
 		"attackSound": "shipCannonVolley"
