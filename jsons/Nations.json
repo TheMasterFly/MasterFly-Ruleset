@@ -305,7 +305,7 @@
         "innerColor": [78,26,69],
         "uniqueName": "The Last Pagan Kindgom",
 		"uniqueText": "All Pantheon bonuses are doubled\nYour cities are immune to all forms of religion spread\nMay buy [Krivis] units for 600 [Faith] [in all cities] at an increasing price starting from the Medieval era",
-        "uniques": ["[-1000]% Natural religion spread [in all cities] <hidden from users>",
+        "uniques": ["[-100]% Natural religion spread [in all cities] <hidden from users>",
 		"May buy [Krivis] units for [600] [Faith] [in all cities] at an increasing price ([500]) <starting from the [Medieval era]> <hidden from users>"],
         "cities": [
             "Vilnius","Kaunas","Polotsk","Minsk","Voruta","Klaipeda","Vitebsk","Trakai","Mstsislau","Navahrudak",
