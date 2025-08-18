@@ -531,7 +531,7 @@
 		"uniqueName": "Timurid Renaissance",
 		"uniques": ["[+2 Culture, +2 Science] [in capital] <upon conquering a city>",
 		"Upon capturing a city, receive [2] times its [Production] production as [Culture] immediately",
-		"Upon capturing a city, receive [1] times its [Production] production as [Science] immediately"],
+		"Upon capturing a city, receive [2] times its [Production] production as [Science] immediately"],
         "cities": ["Samarkand","Herat","Balkh","Bukhara","Kabul","Nishapur","Urgench","Merv","Ghazni","Kandahar",
             "Tashkent","Tabriz","Tiflis","Isfahan","Tehran","Kashgar","Peshawar","Multan","Lahore","Mosul",
             "Hanadan","Ray","Kirman","Zarani","Shirazv","Baghdad","Basra","Ashgabat","Bishkek","Dushanbe"],
