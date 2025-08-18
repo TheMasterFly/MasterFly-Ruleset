@@ -235,6 +235,7 @@
 	"name": "Panama Canal",
 	"gold": 4,
 	"culture": 1,
+	"specialistSlots": {"Merchant": 2}",
 	"greatPersonPoints": {"Great Merchant": 2},
 	"isWonder": true,
 	"uniques": ["Must be next to [Coast]",
