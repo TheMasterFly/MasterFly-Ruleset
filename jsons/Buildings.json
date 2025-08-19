@@ -1,5 +1,14 @@
 [
     {
+        "name": "Placeholder",
+        "uniqueTo": "Banana",
+        "culture": 2,
+        "science": 2,
+        "happiness": 1,
+        "hurryCostModifier": 15,
+        "uniques": ["Unsellable", "Unbuildable", "Cannot be purchased", "Will not be displayed in Civilopedia"]
+    },
+    {
         "name": "Observatory",
         "maintenance": 1,
         "science": 4,
