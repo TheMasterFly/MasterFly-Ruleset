@@ -504,5 +504,10 @@
 					"Generated near City States with weight [15]",
 					"Doesn't generate naturally <in [{Forest} {Hill}] tiles>",
 					"Doesn't generate naturally <in [{Tundra} {Forest}] tiles>"]
-	}
+	},
+    {
+        "name": "Skull Pyramids", 
+        "resourceType": "Strategic",
+        "uniques": ["Not shown on world screen","Cannot be traded"]
+    }
 ]
