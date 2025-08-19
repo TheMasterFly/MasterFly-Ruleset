@@ -535,7 +535,7 @@
 			"[+66]% Strength <for [All] units> <when between [-10] and [-20] [Happiness]>",
 			"Cannot build [Settler] units <when below [0] [Happiness]>",
 			"Upon capturing a city, receive [4] times its [Production] production as [Golden Age points] immediately",
-			"Gain [1] [Horses] <upon conquering a city>"],
+			"Gain [1] [Gold] <upon conquering a city>"],
         "cities": ["Samarkand","Herat","Balkh","Bukhara","Kabul","Nishapur","Urgench","Merv","Ghazni","Kandahar",
             "Tashkent","Tabriz","Tiflis","Isfahan","Tehran","Kashgar","Peshawar","Multan","Lahore","Mosul",
             "Hanadan","Ray","Kirman","Zarani","Shirazv","Baghdad","Basra","Ashgabat","Bishkek","Dushanbe"],
