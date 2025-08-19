@@ -167,7 +167,7 @@
         "culture": 1,
         "cityStrength": 5,
         "cost": 0,
-        "uniqueText:" "+2 [Culture], [Science], +1 [Happiness] in capital upon conquering a city\n+50% Production when constructing [{Monument} {Amphitheater} {Opera House} {Museum}] upon conquering city and during a Golden Age",
+        "uniqueText": "+2 [Culture], [Science], +1 [Happiness] in capital upon conquering a city\n+50% Production when constructing [{Monument} {Amphitheater} {Opera House} {Museum}] upon conquering city and during a Golden Age",
         "uniques": [
             "Indicates the capital city",
             "[+2 Culture, +2 Science, +1 Happiness] [in capital] <when above [1] [Skull Pyramids]>","[+2 Culture, +2 Science, +1 Happiness] [in capital] <when above [2] [Skull Pyramids]>","[+2 Culture, +2 Science, +1 Happiness] [in capital] <when above [3] [Skull Pyramids]>",
