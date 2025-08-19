@@ -391,7 +391,7 @@
 		"name": "Norway",
 		"leaderName": "Harald Hardrada",
 		"adjective": ["Norwegian"],
-		"startBias": ["Coast"],
+		"startBias": ["Coast", "Tundra"],
 		"preferredVictoryType": "Scientific",
 	
 		"startIntroPart1": "Harald Hardrada, the last great Viking warrior-king, your name echoes through the ages. From your early days as a mercenary in the Byzantine Empire to your rise as King of Norway, your life has been a testament to strength, cunning, and unyielding ambition. Your campaigns have set the stage for a new era of Norse dominance. The winds of fate howl through the fjords, calling you to greatness once more.",
