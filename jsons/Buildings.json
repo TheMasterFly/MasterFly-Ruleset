@@ -161,7 +161,7 @@
         "replaces": "Palace",
         "uniqueTo": "Timurids",
         "isNationalWonder": true,
-        "production": 3,
+        "production": 4,
         "science": 3,
         "gold": 3,
         "culture": 1,
@@ -170,8 +170,8 @@
         "uniques": [
             "Indicates the capital city",
             "[+2 Culture, +2 Science, +1 Happiness] [in this city] <upon conquering a city>",
-            "[+25]% Production when constructing [{Monument} {Amphitheater} {Opera House} {Museum}] buildings [in your cities] <for [8] turns> <upon conquering a city>",
-            "[+25]% Production when constructing [{Monument} {Amphitheater} {Opera House} {Museum}] buildings [in your cities] <during a Golden Age>"
+            "[+50]% Production when constructing [{Monument} {Amphitheater} {Opera House} {Museum}] buildings [in your cities] <for [8] turns> <upon conquering a city>",
+            "[+50]% Production when constructing [{Monument} {Amphitheater} {Opera House} {Museum}] buildings [in your cities] <during a Golden Age>"
         ]
     },
     {
