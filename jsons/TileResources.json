@@ -508,6 +508,6 @@
     {
         "name": "Skull Pyramids", 
         "resourceType": "Strategic",
-        "uniques": ["Not shown on world screen","Cannot be traded", "Stockpiled"]
+        "uniques": ["Cannot be traded", "Stockpiled"]
     }
 ]
