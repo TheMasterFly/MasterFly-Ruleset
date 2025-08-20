@@ -1,31 +1,5 @@
 [
 	{
-		"name": "Bananai",
-		"leaderName": "Bananana",
-		"adjective": ["Bananain"],
-		"startBias": ["Grassland"],
-		"preferredVictoryType": "Cultural",
-		"personality": "William of Orange",
-
-        "startIntroPart1": "Greetings to the wise and brave Prince William of Orange, who freed the Netherlands and gave strength to the Dutch people. In 1568, you led a rebellion against Spanish dominion, to gain freedom for your people, and therefore starting the Eighty Years' War. Your actions were all aimed to create one of Europe's first modern republics, the Seven United Provinces. The rebellion was the meaning of your very life and death, as it was also the cause of your assassination in 1584. But your death has given even more pride and courage to your people, to fight for liberty against any oppressors. Carved in history as the 'Father of the Fatherland', your name is a symbol of Dutch independence for eternity.",
-        "startIntroPart2": "Brave Prince, your people ask for your wisdom to gain its freedom once more, and to illuminate the world with progressive and modern ideas. Will your new empire shine through the ages of history?",
-
-        "declaringWar": "As much as I despise war, I consider it a, hahaha, contribution to the common cause to erase your existence.",
-		"attacked": "You call yourself an exalted ruler, but I see nothing more than a smartly dressed barbarian!",
-		"defeated": "My God, be merciful to my soul. My God, feel pity for this... my poor people!",
-		"introduction": "I am William of Orange, stadtholder of The Netherlands. Did you need anything? I still have a lot to do.",
-		"neutralHello": "Once again, greetings.",
-		"hateHello": "What do you want?",
-		"tradeRequest": "I believe I have something that may be of some importance to you.",
-		"outerColor": [200, 120, 0],
-		"innerColor": [20, 100, 200],
-		"favoredReligion": "Christianity",
-		"uniqueName": "Banana",
-		"uniques": ["Instantly gain [1] [Skull Pyramids] <upon conquering a city>"],
-		"cities": ["Amsterdam", "Rotterdam", "Utrecht", "Groningen", "Breda", "Nijmegen", "The Hague", "Haarlem", "Arnhem", "Zutphen", "Maastricht", "Tilburg", "Eindhoven", "Dordrecht", "Leiden", "'s Hertogenbosch", "Almere", "Alkmaar", "Brielle", "Vlissingen", "Apeldoorn", "Enschede", "Amersfoort", "Zwolle", "Venlo", "Uden", "Grave", "Delft", "Gouda", "Nieuwstadt", "Weesp", "Coevorden", "Kerkrade"],
-        "spyNames": ["Joost", "Hendrika", "Marten", "Anke", "Guus", "Mr. X", "Dr. Grijs", "Willem", "Thijs", "Neef"]
-    },
-	{
 		"name": "Byzantium",
 		"leaderName": "Justinian I",
 		"adjective": ["Byzantines"],
@@ -561,7 +535,7 @@
 			"[+66]% Strength <for [All] units> <when between [-10] and [-20] [Happiness]>",
 			"Cannot build [Settler] units <when below [0] [Happiness]>",
 			"Upon capturing a city, receive [4] times its [Production] production as [Golden Age points] immediately",
-			"Gain [1] [Gold] <upon conquering a city>"],
+			"Instantly gain [1] [Skull Pyramids] <upon conquering a city>"],
         "cities": ["Samarkand","Herat","Balkh","Bukhara","Kabul","Nishapur","Urgench","Merv","Ghazni","Kandahar",
             "Tashkent","Tabriz","Tiflis","Isfahan","Tehran","Kashgar","Peshawar","Multan","Lahore","Mosul",
             "Hanadan","Ray","Kirman","Zarani","Shirazv","Baghdad","Basra","Ashgabat","Bishkek","Dushanbe"],
