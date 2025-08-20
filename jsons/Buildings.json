@@ -127,8 +127,8 @@
             "Indicates the capital city",
             "[+2 Culture, +2 Science, +1 Happiness] [in capital] <for every [Skull Pyramids]>",
             "Comment [[Skull Pyramids] are gained by conquering cities]",
-            "[+33]% Production when constructing [{Monument} {Amphitheater} {Opera House} {Museum} {Library} {University} {Observatory}] buildings [in your cities] <for [8] turns> <upon conquering a city>",
-            "[+33]% Production when constructing [{Monument} {Amphitheater} {Opera House} {Museum} {Library} {University} {Observatory}] buildings [in your cities] <during a Golden Age>"
+            "[+30]% Production when constructing [{Monument} {Amphitheater} {Opera House} {Museum} {Library} {University} {Observatory}] buildings [in your cities] <for [8] turns> <upon conquering a city>",
+            "[+20]% Production when constructing [{Monument} {Amphitheater} {Opera House} {Museum} {Library} {University} {Observatory}] buildings [in your cities] <during a Golden Age>"
         ]
     },
     {
