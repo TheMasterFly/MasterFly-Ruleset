@@ -113,6 +113,25 @@
         "requiredTech": "Mathematics"
     },
     {
+        "name": "Ulugh Beg's Observatory",
+        "replaces": "Palace",
+        "uniqueTo": "Timurids",
+        "isNationalWonder": true,
+        "production": 3,
+        "science": 3,
+        "gold": 3,
+        "culture": 1,
+        "cityStrength": 5,
+        "cost": 0,
+        "uniques": [
+            "Indicates the capital city",
+            "[+2 Culture, +2 Science, +1 Happiness] [in capital] <for every [Skull Pyramids]>",
+            "Comment [[Skull Pyramids] are gained by conquering cities]",
+            "[+33]% Production when constructing [{Monument} {Amphitheater} {Opera House} {Museum} {Library} {University} {Observatory}] buildings [in your cities] <for [8] turns> <upon conquering a city>",
+            "[+33]% Production when constructing [{Monument} {Amphitheater} {Opera House} {Museum} {Library} {University} {Observatory}] buildings [in your cities] <during a Golden Age>"
+        ]
+    },
+    {
         "name": "Satrap's Court",
         "replaces": "Market",
         "uniqueTo": "Persia",
@@ -155,26 +174,6 @@
         "hurryCostModifier": 25,
         "maintenance": 1,
         "requiredTech": "Theology"
-    },
-    {
-        "name": "Ulugh Beg's Observatory",
-        "replaces": "Palace",
-        "uniqueTo": "Timurids",
-        "isNationalWonder": true,
-        "production": 3,
-        "science": 3,
-        "gold": 3,
-        "culture": 1,
-        "cityStrength": 5,
-        "cost": 0,
-        "uniqueText": "+2 [Culture], [Science], +1 [Happiness] in capital upon conquering a city\n+50% Production when constructing [{Monument} {Amphitheater} {Opera House} {Museum}] upon conquering city and during a Golden Age",
-        "uniques": [
-            "Indicates the capital city",
-            "[+2 Culture, +2 Science, +1 Happiness] [in capital] <for every [Skull Pyramids]>",
-            "[+1 Production] <starting from the [Classical era]>",
-            "[+50]% Production when constructing [{Monument} {Amphitheater} {Opera House} {Museum}] buildings [in your cities] <for [8] turns> <upon conquering a city>",
-            "[+50]% Production when constructing [{Monument} {Amphitheater} {Opera House} {Museum}] buildings [in your cities] <during a Golden Age>"
-        ]
     },
     {
         "name": "Althing",
