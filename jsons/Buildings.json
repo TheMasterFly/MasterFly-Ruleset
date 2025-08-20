@@ -170,8 +170,8 @@
         "uniqueText": "+2 [Culture], [Science], +1 [Happiness] in capital upon conquering a city\n+50% Production when constructing [{Monument} {Amphitheater} {Opera House} {Museum}] upon conquering city and during a Golden Age",
         "uniques": [
             "Indicates the capital city",
-            "[+2 Gold, +2 Science, +1 Happiness] [in capital] <for every [Horses]>",
-            "Provides [3] [Horses]",
+            "[+2 Gold, +2 Science, +1 Happiness] [in capital] <for every [Skull Pyramids]>",
+            "Provides [2] [Skull Pyramids]",
             "[+50]% Production when constructing [{Monument} {Amphitheater} {Opera House} {Museum}] buildings [in your cities] <for [8] turns> <upon conquering a city>",
             "[+50]% Production when constructing [{Monument} {Amphitheater} {Opera House} {Museum}] buildings [in your cities] <during a Golden Age>"
         ]
