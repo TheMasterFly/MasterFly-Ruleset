@@ -128,7 +128,7 @@
 	},
 	{
 	"name": "Dry Dock",
-	"terrainsCanBeBuiltOn": ["Coast"],
+	"terrainsCanBeBuiltOn": ["Coast", "Canal"],
 	"production": 5,
 	"uniques": ["Great Improvement",
 	    "[+3 Production] <after discovering [Pharmaceuticals]>",
