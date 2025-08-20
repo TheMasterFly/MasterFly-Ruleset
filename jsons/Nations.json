@@ -21,7 +21,7 @@
 		"innerColor": [20, 100, 200],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Banana",
-		"uniques": ["Gain [3] [Culture] <upon conquering a city>"],
+		"uniques": ["Instantly gain [1] [Skull Pyramids] <upon conquering a city>"],
 		"cities": ["Amsterdam", "Rotterdam", "Utrecht", "Groningen", "Breda", "Nijmegen", "The Hague", "Haarlem", "Arnhem", "Zutphen", "Maastricht", "Tilburg", "Eindhoven", "Dordrecht", "Leiden", "'s Hertogenbosch", "Almere", "Alkmaar", "Brielle", "Vlissingen", "Apeldoorn", "Enschede", "Amersfoort", "Zwolle", "Venlo", "Uden", "Grave", "Delft", "Gouda", "Nieuwstadt", "Weesp", "Coevorden", "Kerkrade"],
         "spyNames": ["Joost", "Hendrika", "Marten", "Anke", "Guus", "Mr. X", "Dr. Grijs", "Willem", "Thijs", "Neef"]
     },
