@@ -17,6 +17,13 @@
             "Every [60] tiles with this terrain will receive a major deposit of a strategic resource."]
 	},
 	{
+		"name": "Canal",
+		"type": "TerrainFeature",
+		"occursOn": ["Coast"],
+		"movementCost": 1,
+		"uniques": ["Doesn't generate naturally"]
+	},
+	{
 		"name": "Grassland",
 		"type": "Land",
 		"food": 2,
