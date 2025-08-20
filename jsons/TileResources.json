@@ -508,6 +508,6 @@
     {
         "name": "Skull Pyramids", 
         "resourceType": "Strategic",
-        "uniques": ["Not shown on world screen <for [non-[Timurid]] Civilizations>", "Cannot be traded", "Stockpiled"]
+        "uniques": ["Not shown on world screen <for [non-[Timurids]] Civilizations>", "Cannot be traded", "Stockpiled"]
     }
 ]
