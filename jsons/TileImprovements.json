@@ -35,9 +35,28 @@
 			"Turn this tile into a [Canal] tile",
 			"Cannot be built on [Hill] tiles",
 			"Can only be built on [Coastal] tiles",
-			"Cannot be built on [Land] tiles <with [3] to [6] neighboring [Canal] tiles>"
+			"Cannot be built on [Land] tiles <with [3] to [6] neighboring [Canal] tiles>",
+			"Unavailable <upon constructing [Panama Canal]>"
 		],
 		"techRequired": "Engineering"
+	},
+	{
+		"name": "Panama Canal Construction",
+		"terrainsCanBeBuiltOn": [
+			"Plains",
+			"Grassland",
+			"Desert",
+			"Tundra"
+		],
+		"turnsToBuild": 6,
+		"uniques": [
+			"Turn this tile into a [Coast] tile",
+			"Turn this tile into a [Canal] tile",
+			"Can only be built on [Coastal] tiles",
+			"Cannot be built on [Land] tiles <with [3] to [6] neighboring [Canal] tiles>",
+			"Only available <upon constructing [Panama Canal]>"
+		],
+		"techRequired": "Railroads"
 	},
 	{
 		"name": "Academy",
