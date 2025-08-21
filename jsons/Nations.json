@@ -1,4 +1,34 @@
 [
+    {
+        "name": "Armenia",
+        "leaderName": "Tiridates III",
+        "adjective": ["Armenian"],
+        "startBias": ["Hill", "Mountain", "Avoid [Jungle]", "Avoid [Coast]"],
+        "preferredVictoryType": "Domination",
+        "startIntroPart1": "Welcome, O magnificent and enlightened King Tiridates III, descendant of the great and ancient Kingship of Armenia. Your country's history stretches far back, its origins tracing from the northernmost satrapies of the mighty Achaemenid Dynasty. For centuries, the Kingdom lay at the crossroads of power, between the two empires of Rome in the West and Parthinia in the East, who would wage bloody war for the right to subjugate her beneath them. In the 3rd century AD, the throne of Armenian Kings would fall to the occupation of the Sassanid Persians, successors of Parthia, but, with the aid of the Roman Emperor Aurelian, it would be restored unto you, Armenia's rightful King. And as her King, you would go on to proclaim Armenia's devotion as the first Christian state in the world, several dozen years prior the proclamation of Constantine the Great.",
+        "startIntroPart2": "Wise Prince, the Kingdom of Armenia must rise once more, and with it must come the defense of the faith that you would call your own. Can you bring to the Armenian people great piety and power immeasurable? Can you carve an empire into the mountains that rise to the heavens above your Kingdom? Can you build a civilization that will stand the test of time?",
+        "declaringWar": "The angels's trumpet has blown! The holy blades of my soldiers shall be your demise!",
+        "attacked": "You wish to disturb our peace? Then come, let's see if you have the will to destroy my kingdom!",
+        "defeated": "Has God decided to forsaken us?",
+        "introduction": "Do you serve the same God as I do? Or are you just another heretic?",
+        "neutralHello": "Greetings.",
+        "hateHello": "What do you want?",
+        "tradeRequest": "Perhaps we should exchange resources, for the better of our kingdoms.",
+        "outerColor": [45, 36, 95],
+        "innerColor": [223, 199, 143],
+        "uniqueName": "The Mountain Kingdom",
+        "uniques": ["[+1 Food, +1 Production, +1 Faith] from every [Mountain]",
+		"[+1 Production, +1 Gold] from every [Mountain] <starting from the [Medieval era]>",
+		"[+1 Food, +1 Gold] from every [Mountain] <starting from the [Renaissance era]>"],
+        "cities": [
+            "Yerevan","Artaxata","Tigranocerta","Dvin","Ararat","Kars","Shirakavan","Vagharshapat","Bagaran","Yervandashat",
+            "Stepanakert","Ani","Sis","Tushpa","Gyumri","Vanadzor","Abovyan","Kapan","Hrazdan","Ijevan",
+            "Gavar","Goris","Charentsavan","Masis","Artik","Ashtarak","Sevan","Diliijan","Alaverdi"
+        ],
+        "spyNames": [
+            "Solhofaat","Khenzeer","Zarafah","Temsaah","Abyadh","Mostafa","Yusuf","Waddah","Sameera","Gamal"
+        ]
+    },
 	{
 		"name": "Byzantium",
 		"leaderName": "Justinian I",
