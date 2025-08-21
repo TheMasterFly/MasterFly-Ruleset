@@ -54,6 +54,7 @@
 			"Turn this tile into a [Canal] tile",
 			"Can only be built on [Coastal] tiles",
 			"Cannot be built on [Land] tiles <with [3] to [6] neighboring [Canal] tiles>",
+			"Can be built outside your borders",
 			"Only available <upon constructing [Panama Canal]>"
 		],
 		"techRequired": "Railroads"
