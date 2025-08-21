@@ -344,18 +344,20 @@
     },
     {
         "name": "Panama Canal",
-        "gold": 4,
+        "gold": 3,
+        "production": 3,
         "culture": 1,
         "specialistSlots": {
             "Merchant": 2
         },
         "greatPersonPoints": {
-            "Great Merchant": 2
+            "Great Engineer": 4
         },
         "isWonder": true,
-        "uniques": [
+        "uniques": ["Comment [Upgrades [Canal Construction] to [Panama Canal Construction]]",
             "Must be next to [Coast]",
-            "[2] free [Great Merchant] units appear",
+            "[+2 Production, +4 Gold] from [Canal] tiles [in this city]",
+            "Free [Great Merchant] appears",
             "[+1 Gold] from [Coast] tiles [in this city]"
         ],
         "requiredTech": "Railroads"
