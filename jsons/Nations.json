@@ -17,7 +17,8 @@
         "outerColor": [45, 36, 95],
         "innerColor": [223, 199, 143],
         "uniqueName": "The Mountain Kingdom",
-        "uniques": ["[+1 Food, +1 Production, +1 Faith] from every [Mountain]",
+        "uniques": ["[{Mounted} {Melee}] units gain the [Nisean Mounts] promotion <hidden from users>",
+		"[+1 Food, +1 Production, +1 Faith] from every [Mountain]",
 		"[+1 Production, +1 Gold] from every [Mountain] <starting from the [Medieval era]>",
 		"[+1 Food, +1 Gold] from every [Mountain] <starting from the [Renaissance era]>"],
         "cities": [
