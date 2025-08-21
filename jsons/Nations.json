@@ -541,6 +541,33 @@
 			"Agrippina","Verona","Corfinium","Treverii","Sirmium","Augustadorum","Curia","Interrama","Adria"],
 	        "spyNames": ["Flavius", "Regula", "Servius", "Lucia", "Cornelius", "Licina", "Canus", "Serpens", "Agrippa", "Brutus"]
     },
+    {
+        "name": "Tibet",
+        "leaderName": "Songtsen Gampo",
+        "adjective": ["Tibetan"],
+        "startBias": ["Hill", "Mountain", "Avoid [Coast]"],
+        "preferredVictoryType": "Cultural",
+        "startIntroPart1": "Welcome Songtsen Gampo, manifestation of the Avalokiteśvara, first of the three great Dharma Kings, founder of the Tibetan Empire and leader of a hardy and enlightened people. Your reign of 34 years brought change never before seen to the Himalayas, as you united the Sumpa, Zhangzhung and Qiang tribes, brought Mahayana Buddhism to your people and constructed the Jokhang, heart of Lhasa. Your minister Thonmi Sambhota too created the Tibetan Script and Classical Tibetan, which was the first written and spoken language of Tibet.",
+        "startIntroPart2": "Enlightened Leader, shall you again guide your people with balance and vision, to defend the mountains which scrape the heavens and the people who find it in themselves and others? Can you build a civilization that will stand the test of time?",
+        "declaringWar": "Karma finds all. There will be peace - in time.",
+        "attacked": "You act with violence where there could have been stillness. Regret will follow.",
+        "defeated": "I leave not in anger, but in sorrow. Even in loss, the Dharma continues.",
+        "introduction": "Welcome, mighty leader.",
+        "neutralHello": "Peace to you, traveler. May your words reflect clarity, not chaos.",
+        "hateHello": "I sense stormclouds beneath your voice. You bring more trouble than enlightenment.",
+        "tradeRequest": "Let our merchants walk the Path of Peace and bring wealth to both our mountain realms.",
+        "outerColor": [202,37,193],
+        "innerColor": [198,217,226],
+        "uniqueName": "Eightfold Path to Nirvana",
+        "uniques": ["Land units may cross [Mountain] tiles after the first [Great Prophet] is earned"],
+        "cities": [
+            "Lhasa","Xigaze","Qamdo","Nagqu","Lhoka","Nyingchi","Ngari","Chengguan","Doilungdeqen","Lhunzhub",
+            "Damxung","Maizhokunggar","Quxu","Nyemo","Dagze","Samzhubze","Namling","Gyantse","Tengru","Xaitongmoin"
+        ],
+        "spyNames": [
+            "Li","Chen","Zhang","Liu","Yang","Huang","Zhao","Wu","Zhou","Sun"
+        ]
+    },
 	{
         "name": "Timurids",
         "leaderName": "Timur The Lame",
