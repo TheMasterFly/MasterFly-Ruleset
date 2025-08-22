@@ -269,12 +269,11 @@
 		"uniqueTo": "Tibet",
 		"terrainsCanBeBuiltOn": ["Hill", "Mountain"],
 		"culture": 1,
-		"food": 1,
 		"faith": 1,
 		"turnsToBuild": 8,
 		"techRequired": "Philosophy",
 		"uniques": ["[+1 Culture, +1 Faith] for each adjacent [Mountain]",
-		"[+1 Food, +1 Gold] <after discovering [Theology]>"],
+			"[+1 Food] <after discovering [Theology]>"],
 	},
 	{
 		"name": "Polder",
