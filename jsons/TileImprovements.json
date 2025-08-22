@@ -59,6 +59,35 @@
 		],
 		"techRequired": "Railroads"
 	},
+
+	{
+		"name": "Road",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"turnsToBuild": 4,
+		"techRequired": "The Wheel",
+		"uniques": ["Can be built outside your borders", "Costs [1] [Gold] per turn",
+			"Unbuildable <in [Mountain] tiles>"],
+		"shortcutKey": "R",
+        "civilopediaText": [
+            {"text":"Reduces movement cost to ½ if the other tile also has a Road or Railroad"},
+            {"text":"Reduces movement cost to ⅓ with Machinery", "link":"Technology/Machinery"},
+            {"text":"Requires Engineering to bridge rivers", "link":"Technology/Engineering"}
+        ]
+	},
+	{
+		"name": "Railroad",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"turnsToBuild": 4,
+		"techRequired": "Railroads",
+		"uniques": ["Can be built outside your borders", "Costs [2] [Gold] per turn",
+			"Unbuildable <in [Mountain] tiles>"],
+		"shortcutKey": "R",
+        "civilopediaText": [
+            {"text":"Reduces movement cost to ⅒ if the other tile also has a Railroad"},
+            {"text":"Provides a +25% [Production] bonus to cities connected to the capital by Railroads"}
+        ]
+	},
+
 	{
 		"name": "Academy",
 		"terrainsCanBeBuiltOn": ["Land"],
