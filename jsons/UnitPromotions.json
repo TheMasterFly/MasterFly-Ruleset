@@ -47,9 +47,17 @@
             "uniques": ["Earn [50]% of killed [Military] unit's [Cost] as [Faith]"]
       },
       {
-            "name": "Tibetan Dölwa",
+            "name": "Tibetan Mountain Ability",
+            "uniques": ["Double movement in [Hill]"]
+      },
+      {
+            "name": "Tibetan Melee Ability",
             "uniques": ["[+15]% Strength <for every adjacent [Mountain]>",
-                  "[+5]% Strength <for every adjacent [Hill]>",
-                  "Double movement in [Hill]"]
+                  "[+5]% Strength <for every adjacent [Hill]>"]
+      },
+      {
+            "name": "Tibetan Ranged Ability",
+            "uniques": ["[+10]% Strength <for every adjacent [Mountain]>",
+                  "[+5]% Strength <for every adjacent [Hill]>"]
       }
 ]
