@@ -561,7 +561,7 @@
         "innerColor": [198,217,226],
         "uniqueName": "Might of the Himalayas",
         "uniques": ["Land units may cross [Mountain] tiles after the first [Great Prophet] is earned",
-				"[Land] units gain the [Tibetan Dölwa] promotion <hidden from users>"],
+				"[Land] units gain the [Tibetan Dölwa] promotion"],
         "cities": [
             "Lhasa","Xigaze","Qamdo","Nagqu","Lhoka","Nyingchi","Ngari","Chengguan","Doilungdeqen","Lhunzhub",
             "Damxung","Maizhokunggar","Quxu","Nyemo","Dagze","Samzhubze","Namling","Gyantse","Tengru","Xaitongmoin"
