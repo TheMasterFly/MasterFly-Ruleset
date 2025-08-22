@@ -275,7 +275,8 @@
 		"obsoleteTech": "Chivalry",
 		"requiredResource": "Horses",
 		"uniques": ["Can move after attacking"],
-        	"promotions": ["Stratiotiki Ekpaidefsi", "No Defensive Terrain Penalty"],
+        	"promotions": ["Stratiotiki Ekpaidefsi",
+				"[+50]% Strength <vs [Spear Unit Ability]>"],
 		"hurryCostModifier": 20,
 		"attackSound": "horse"
 	},
