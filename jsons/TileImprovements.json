@@ -272,8 +272,8 @@
 		"faith": 1,
 		"turnsToBuild": 8,
 		"techRequired": "Philosophy",
-		"uniques": ["[+1 Culture, +1 Faith] for each adjacent [Mountain]",
-			"[+1 Food] <after discovering [Theology]>"],
+		"uniques": ["[+1 Faith] for each adjacent [Mountain]",
+			"[+1 Food, +1 Culture] for each adjacent [Gompa]"],
 	},
 	{
 		"name": "Polder",
