@@ -64,7 +64,7 @@
                   "[+4]% Strength <for every adjacent [Hill]>",
                   "[+10]% Strength <in [Mountain] tiles>",
                   "[+4]% Strength <in [Hill] tiles>",
-                  "[This Unit] takes [10] damage <upon ending a turn in a [Mountain] tile>",
-                  "[10] HP when healing <in [{Mountain} {Friendly Land}] tiles>"]
+                  "[This Unit] takes [15] damage <upon ending a turn in a [Mountain] tile>",
+                  "[15] HP when healing <in [{Mountain} {Friendly Land}] tiles>"]
       }
 ]
