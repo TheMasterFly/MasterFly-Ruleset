@@ -50,7 +50,6 @@
             "name": "Tibetan Dölwa",
             "uniques": ["[+15]% Strength <for every adjacent [Mountain]>",
                   "[+5]% Strength <for every adjacent [Hill]>",
-                  "No defensive terrain penalty",
                   "Double movement in [Hill]"]
       }
 ]
