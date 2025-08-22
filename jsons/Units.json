@@ -215,6 +215,7 @@
 		"name": "Azatavrear",
 		"unitType": "Mounted",
 		"uniqueTo": "Armenia",
+		"replaces": "Horseman",
 		"movement": 4,
 		"strength": 14,
 		"cost": 75,
@@ -222,8 +223,7 @@
 		"requiredResource": "Horses",
 		"upgradesTo": "Knight",
 		"obsoleteTech": "Chivalry",
-		"uniques": ["Can move after attacking",
-			"[-33]% Strength <vs cities> <when attacking>"],
+		"uniques": ["Can move after attacking", "[-33]% Strength <vs cities> <when attacking>"],
 		"hurryCostModifier": 20,
 		"attackSound": "horse"
 	},
