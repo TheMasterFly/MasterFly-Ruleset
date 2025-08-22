@@ -560,7 +560,7 @@
         "outerColor": [202,37,193],
         "innerColor": [198,217,226],
         "uniqueName": "Might of the Himalayas",
-		"uniqueText": "Land units may cross [Mountain] tiles after the first [Great Prophet] is earned\n[Land] units gain +15% strength per adjacent [Mountain], +5% per adjacent [Hill]\nDouble movement in [Hill], no defensive terrain penalty",
+		"uniqueText": "Land units may cross [Mountain] tiles after the first [Great Prophet] is earned\n[Land] units gain +15% strength per adjacent [Mountain], +5% per adjacent [Hill]\nDouble movement in [Hill]",
         "uniques": ["Land units may cross [Mountain] tiles after the first [Great Prophet] is earned",
 				"[Land] units gain the [Tibetan Dölwa] promotion",
 				"[+1 Food, +1 Culture, +1 Faith] from every [Mountain]"],
