@@ -51,7 +51,6 @@
             "uniques": ["[+15]% Strength <for every adjacent [Mountain]>",
                   "[+5]% Strength <for every adjacent [Hill]>",
                   "No defensive terrain penalty",
-                  "Double movement in [Hill]",
-                  "[This Unit] heals [50] HP <upon ending a turn in a [Mountain] tile>"]
+                  "Double movement in [Hill]"]
       }
 ]
