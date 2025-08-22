@@ -48,7 +48,7 @@
       },
       {
             "name": "Tibetan Mountain Ability",
-            "uniques": ["Double movement in [Hill]"]
+            "uniques": ["Double movement in [Hill]", "All tiles cost 1 movement <in [Mountain] tiles>"]
       },
       {
             "name": "Tibetan Melee Ability",
@@ -56,7 +56,7 @@
                   "[+5]% Strength <for every adjacent [Hill]>",
                   "[+15]% Strength <in [Mountain] tiles>",
                   "[+5]% Strength <in [Hill] tiles>",
-                  "[This Unit] takes [10] damage <in [Mountain] tiles>"]
+                  "[This Unit] takes [10] damage <upon ending a turn in a [Mountain] tile>"]
       },
       {
             "name": "Tibetan Ranged Ability",
@@ -64,6 +64,6 @@
                   "[+4]% Strength <for every adjacent [Hill]>",
                   "[+10]% Strength <in [Mountain] tiles>",
                   "[+4]% Strength <in [Hill] tiles>",
-                  "[This Unit] takes [20] damage <in [Mountain] tiles>"]
+                  "[This Unit] takes [20] damage <upon ending a turn in a [Mountain] tile>"]
       }
 ]
