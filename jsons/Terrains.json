@@ -137,7 +137,7 @@
 		"uniques": ["Rough terrain",
             "Has an elevation of [2] for visibility calculations",
             "Occurs in chains at high elevations",
-            "Units ending their turn on this terrain take [50] damage <for units with [non-[Tibetan Mountain Ability]]>",
+            "Units ending their turn on this terrain take [50] damage <for [non-[Tibet]] Civilizations>",
 			"Units ending their turn on this terrain take [10] damage <for units with [Tibetan Melee Ability]>",
 			"Units ending their turn on this terrain take [20] damage <for units with [Tibetan Ranged Ability]>",
             "Always Fertility [-2] for Map Generation",
