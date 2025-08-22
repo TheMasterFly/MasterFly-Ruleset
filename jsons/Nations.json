@@ -559,11 +559,12 @@
         "tradeRequest": "Let our merchants walk the Path of Peace and bring wealth to both our mountain realms.",
         "outerColor": [202,37,193],
         "innerColor": [198,217,226],
-        "uniqueName": "Might of the Himalayas",
-		"uniqueText": "Land units may cross [Mountain] tiles after the first [Great Prophet] is earned\n[Land] units gain +15% strength per adjacent [Mountain], +5% per adjacent [Hill]\nDouble movement in [Hill]",
+        "uniqueName": "Might Of The Kingdom At The Roof Of The World",
+		"uniqueText": "Land units may cross [Mountain] tiles after the first [Great Prophet] is earned\n[All] units gain double movement in [Hill], [Mountain]\nCivilian units take no damage from ending turn in [Mountain]\n[Melee], [Ranged] units gain +15%/+10% strength per adjacent [Mountain], +5%/+4% strength per adjacent [Hill] and takes 10/20 damage from ending turn in [Mountain]",
         "uniques": ["Land units may cross [Mountain] tiles after the first [Great Prophet] is earned",
-				"[Land] units gain the [Tibetan Dölwa] promotion",
-				"[+1 Food, +1 Culture, +1 Faith] from every [Mountain]"],
+				"[Land] units gain the [Tibetan Mountain Ability] promotion",
+				"[Melee] units gain the [Tibetan Melee Ability] promotion",
+				"[Ranged] units gain the [Tibetan Ranged Ability] promotion"],
         "cities": [
             "Lhasa","Xigaze","Qamdo","Nagqu","Lhoka","Nyingchi","Ngari","Chengguan","Doilungdeqen","Lhunzhub",
             "Damxung","Maizhokunggar","Quxu","Nyemo","Dagze","Samzhubze","Namling","Gyantse","Tengru","Xaitongmoin"
