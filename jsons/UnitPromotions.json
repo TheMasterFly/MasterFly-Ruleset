@@ -58,6 +58,6 @@
       {
             "name": "Tibetan Ranged Ability",
             "uniques": ["[+10]% Strength <for every adjacent [Mountain]>",
-                  "[+5]% Strength <for every adjacent [Hill]>"]
+                  "[+4]% Strength <for every adjacent [Hill]>"]
       }
 ]
