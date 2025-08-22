@@ -4,12 +4,12 @@
             "uniques": ["Double movement in [Hill]", "[+10]% Strength <when fighting in [Hill] tiles>"],
       },
       {
-            "name": "Of The Land",
-            "uniques": ["[+15]% Strength <when fighting in [Forest] tiles>", "Double movement in [Forest]"]
-      },
-      {
             "name": "Bajorija Knight Ability",
             "uniques": ["[+20]% Strength <when fighting in [Forest] tiles>", "Double movement in [Forest]"]
+      },
+      {
+            "name": "East India Company",
+            "uniques": ["Gain [100]-[400] [Gold] <(modified by game speed)> <in [Major] tiles> <in tiles without [The Netherlands]> <for all movement> <once>"]
       },
       {
             "name": "Mercenary",
@@ -17,24 +17,40 @@
       },
       {
             "name": "Nisean Mounts",
-            "uniques": ["[+25]% Strength", "No defensive terrain penalty", "Ignores terrain cost"]
-      }, 
+            "uniques": ["Comment [Bonus damage from spear units nullified]",
+                  "[+12]% Strength <for every adjacent [Mountain]>",
+                  "[+8]% Strength <for every adjacent [Hill]>",
+                  "[+50]% Strength <vs [Spear Unit Ability]>",
+                  "No defensive terrain penalty",
+                  "Ignores terrain cost"]
+      },
       {
-            "name": "[Norwegian Ski Infantry] ability",
+            "name": "[Norwegian Ski Infantry] Ability",
             "uniques": ["[+25]% Strength <when fighting in [Snow] tiles>", "[+25]% Strength <when fighting in [Tundra] tiles>",
                   "[+25]% Strength <when fighting in [Hill] tiles>", "Double movement in [Snow]", "Double movement in [Tundra]",
                   "Double movement in [Hill]"]
-      },
-      {
-            "name": "Stratiotiki Ekpaidefsi",
-            "uniques": ["Earn [50]% of killed [Military] unit's [Cost] as [Faith]"]
       },
       {
             "name": "No Defensive Terrain Penalty",
             "uniques": ["No defensive terrain penalty"]
       },
       {
-            "name": "East India Company",
-            "uniques": ["Gain [100]-[400] [Gold] <(modified by game speed)> <in [Major] tiles> <in tiles without [The Netherlands]> <for all movement> <once>"]
+            "name": "Of The Land",
+            "uniques": ["[+15]% Strength <when fighting in [Forest] tiles>", "Double movement in [Forest]"]
+      },
+      {
+            "name": "Spear Unit Ability",
+            "uniques": ["[+50]% Strength <vs [Mounted] units>"]
+      },
+      {
+            "name": "Stratiotiki Ekpaidefsi",
+            "uniques": ["Earn [50]% of killed [Military] unit's [Cost] as [Faith]"]
+      },
+      {
+            "name": "Tibetan Dölwa",
+            "uniques": ["[+15]% Strength <for every adjacent [Mountain]>",
+                  "[+5]% Strength <for every adjacent [Hill]>",
+                  "No defensive terrain penalty",
+                  "Double movement in [Hill]"]
       }
 ]
