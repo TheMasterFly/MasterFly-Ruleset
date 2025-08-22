@@ -53,11 +53,13 @@
       {
             "name": "Tibetan Melee Ability",
             "uniques": ["[+15]% Strength <for every adjacent [Mountain]>",
-                  "[+5]% Strength <for every adjacent [Hill]>"]
+                  "[+5]% Strength <for every adjacent [Hill]>",
+                  "[This Unit] takes [10] damage <in [Mountain] tiles>"]
       },
       {
             "name": "Tibetan Ranged Ability",
             "uniques": ["[+10]% Strength <for every adjacent [Mountain]>",
-                  "[+4]% Strength <for every adjacent [Hill]>"]
+                  "[+4]% Strength <for every adjacent [Hill]>",
+                  "[This Unit] takes [20] damage <in [Mountain] tiles>"]
       }
 ]
