@@ -162,7 +162,7 @@
 		"replaces": "Spearman",
 		"uniqueTo": "Persia",
 		"movement": 2,
-		"strength": 12,
+		"strength": 14,
 		"cost": 56,
 		"requiredTech": "Bronze Working",
 		"obsoleteTech": "Civil Service",
