@@ -274,9 +274,8 @@
 		"upgradesTo": "Knight",
 		"obsoleteTech": "Chivalry",
 		"requiredResource": "Horses",
-		"uniques": ["Can move after attacking"],
-        	"promotions": ["Stratiotiki Ekpaidefsi",
-				"[+50]% Strength <vs [Spear Unit Ability]>"],
+		"uniques": ["Can move after attacking", "[+50]% Strength <vs [Spear Unit Ability]>"],
+        "promotions": ["Stratiotiki Ekpaidefsi"],
 		"hurryCostModifier": 20,
 		"attackSound": "horse"
 	},
