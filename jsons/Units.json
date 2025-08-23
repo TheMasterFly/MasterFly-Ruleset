@@ -223,7 +223,7 @@
 		"requiredResource": "Horses",
 		"upgradesTo": "Cavalry",
 		"obsoleteTech": "Military Science",
-		"uniques": ["[+10] Strength <after discovering [Chivalry]>",
+		"uniques": ["[+63]% Strength <after discovering [Chivalry]>",
 			"[60]% production cost <after discovering [Chivalry]>",
 			"Can move after attacking", "[-33]% Strength <vs cities> <when attacking>"],
 		"hurryCostModifier": 20,
