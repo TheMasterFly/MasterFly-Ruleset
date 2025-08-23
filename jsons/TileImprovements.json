@@ -315,6 +315,22 @@
 			"Pillaging this improvement yields approximately [+20 Gold]"]
 	},
 	{
+		"name": "Vank",
+		"uniqueTo": "Armenia",
+		"terrainsCanBeBuiltOn": ["Hill"],
+		"faith": 2,
+		"production": 1,
+		"food": 1,
+		"turnsToBuild": 8,
+		"techRequired": "Philosophy",
+		"uniques": ["[+1 Faith] for each adjacent [Mountain]",
+			"[+1 Culture, +1 Science] <after discovering [Theology]>",
+			"[+1 Culture, +1 Science] <after discovering [Astronomy]>",
+			"Gives a defensive bonus of [33]%",
+			"Unavailable <within [3] tiles of a [Vank]>",
+			"Pillaging this improvement yields approximately [+25 Gold]"]
+	},
+	{
 		"name": "Polder",
 		"uniqueTo": "The Netherlands",
 		"food": 3,
