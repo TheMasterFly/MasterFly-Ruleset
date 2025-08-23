@@ -295,16 +295,17 @@
 		]
 	},
 	{
-		"name": "Gompa",
+		"name": "Kobresia Pasture",
 		"uniqueTo": "Tibet",
 		"terrainsCanBeBuiltOn": ["Hill", "Mountain"],
-		"culture": 1,
-		"faith": 1,
+		"food": 1,
+		"production": 1,
 		"turnsToBuild": 8,
-		"techRequired": "Philosophy",
-		"uniques": ["[+1 Faith] for each adjacent [Mountain]",
-			"[+1 Culture] for each adjacent [Gompa]",
-			"[+1 Science] <after discovering [Theology]>"]
+		"techRequired": "Animal Husbandry",
+		"uniques": ["[+1 Culture] for each adjacent [Mountain]",
+			"[+1 Culture] <in [Mountain] tiles>",
+			"[+1 Food] <in tiles adjacent to [Kobresia Pasture] tiles>",
+			"Pillaging this improvement yields approximately [+20 Gold]"]
 	},
 	{
 		"name": "Polder",
