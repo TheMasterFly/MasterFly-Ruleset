@@ -19,7 +19,7 @@
         "uniqueName": "The Mountain Kingdom",
         "uniques": ["[Mounted] units gain the [Nisean Mounts] promotion",
 		"[+1 Food, +1 Production, +1 Faith] from every [Mountain]",
-		"[+1 Production] from every [Mountain] <starting from the [Medieval era]>"],
+		"[+3 Faith] [in capital] <after founding a Pantheon> <before founding a religion>"],
         "cities": [
             "Yerevan","Artaxata","Tigranocerta","Dvin","Ararat","Kars","Shirakavan","Vagharshapat","Bagaran","Yervandashat",
             "Stepanakert","Ani","Sis","Tushpa","Gyumri","Vanadzor","Abovyan","Kapan","Hrazdan","Ijevan",
