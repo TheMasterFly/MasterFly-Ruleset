@@ -215,7 +215,7 @@
 		"name": "Azatavrear",
 		"unitType": "Mounted",
 		"uniqueTo": "Armenia",
-		"replaces": "Horseman, Knight",
+		"replaces": "Horseman",
 		"movement": 4,
 		"strength": 16,
 		"cost": 75,
