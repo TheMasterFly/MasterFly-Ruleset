@@ -325,7 +325,7 @@
 		"techRequired": "Philosophy",
 		"uniques": ["[+1 Faith] for each adjacent [Mountain]",
 			"[+1 Culture, +1 Science] <after discovering [Theology]>",
-			"[+1 Culture, +1 Science] <after discovering [Astronomy]>",
+			"[+1 Science] <after discovering [Astronomy]>",
 			"Provides [2] [Horses]",
 			"Gives a defensive bonus of [25]%",
 			"Improves [Luxury] resource in this tile",
