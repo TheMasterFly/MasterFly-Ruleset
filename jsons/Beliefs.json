@@ -154,8 +154,8 @@
     {
         "name": "King Under The Mountain",
         "type": "Pantheon",
-        "uniques": ["[+1 Food, +1 Production, +1 Gold] from every [Mountain]",
-        "[+1 Food, +1 Production, +1 Gold] from every [Mountain] <for [Lithuania] Civilizations> <hidden from users>"]
+        "uniques": ["[+1 Food, +1 Production] from every [Mountain]",
+        "[+1 Food, +1 Production] from every [Mountain] <for [Lithuania] Civilizations> <hidden from users>"]
     },
     {
         "name": "Messenger of the Gods",
