@@ -66,6 +66,19 @@
         ],
         "requiredTech": "Mathematics"
     },
+	{
+		"name": "Gompa",
+        "replaces": "Temple",
+        "uniqueTo": "Tibet",
+		"faith": 1,
+        "culture": 2,
+		"requiredBuilding": "Shrine",
+		"maintenance": 3,
+		"hurryCostModifier": 25,
+		"specialistSlots": {"Scientist": 1},
+		"requiredTech": "Philosophy",
+		"uniques": ["[+1 Faith] from [Mountain] tiles [in this city]"]
+	},
     {
         "name": "Shuǐ Mó",
         "replaces": "Water Mill",
