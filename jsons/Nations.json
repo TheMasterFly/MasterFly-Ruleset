@@ -558,7 +558,7 @@
         "tradeRequest": "Let our merchants walk the Path of Peace and bring wealth to both our mountain realms.",
         "outerColor": [202,37,193],
         "innerColor": [198,217,226],
-        "uniqueName": "Might Of The Kingdom At The Roof Of The World",
+        "uniqueName": "Roof Of The World",
 		"uniqueText": "Land units may cross [Mountain] tiles after the first [Great Prophet] is earned\n[All] units gain double movement in [Hill], [Mountain]\nCivilian units take no damage from ending turn in [Mountain]\n[Melee]/[Ranged] units gain +10%/+8% strength in and per adjacent [Mountain], +5%/+4% strength in and per adjacent [Hill] and takes 10/15 damage from ending turn in [Mountain]\nRanged units heal 0 HP in [Mountain] tiles",
         "uniques": ["Land units may cross [Mountain] tiles after the first [Great Prophet] is earned",
 				"[Land] units gain the [Tibetan Mountain Ability] promotion",
