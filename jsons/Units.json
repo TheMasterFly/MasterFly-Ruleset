@@ -212,6 +212,23 @@
 		"attackSound": "metalhit"
 	},
 	{
+		"name": "Knight",
+		"unitType": "Mounted",
+		"movement": 4,
+		"strength": 20,
+		"cost": 120,
+		"requiredTech": "Chivalry",
+		"obsoleteTech": "Military Science",
+		"upgradesTo": "Cavalry",
+		"requiredResource": "Horses",
+		"uniques": ["Can move after attacking",
+			"No defensive terrain bonus",
+			"[-33]% Strength <vs cities> <when attacking>",
+			"Never appears as a Barbarian unit",
+			"Unavailable <for [Armenia] Civilizations> <hidden from users>"],
+		"attackSound": "horse"
+	},
+	{
 		"name": "Azatavrear",
 		"unitType": "Mounted",
 		"uniqueTo": "Armenia",
