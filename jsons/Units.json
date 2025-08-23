@@ -240,8 +240,9 @@
 		"requiredResource": "Horses",
 		"upgradesTo": "Cavalry",
 		"obsoleteTech": "Military Science",
-		"uniques": ["[+63]% Strength <after discovering [Chivalry]>",
-			"[60]% production cost <after discovering [Chivalry]>",
+		"uniques": ["Comment [Unit gains 10 Strength and costs the same as a Knight upon discovering [Chivalry]]",
+			"[+63]% Strength <after discovering [Chivalry]> <hidden from users>",
+			"[60]% production cost <after discovering [Chivalry]> <hidden from users>",
 			"Can move after attacking", "[-33]% Strength <vs cities> <when attacking>"],
 		"hurryCostModifier": 20,
 		"attackSound": "horse"
