@@ -308,11 +308,10 @@
 		"terrainsCanBeBuiltOn": ["Hill", "Mountain"],
 		"food": 1,
 		"production": 1,
+		"culture": 1,
 		"turnsToBuild": 8,
 		"techRequired": "Animal Husbandry",
-		"uniques": ["[+1 Culture] for each adjacent [Mountain] <after discovering [Astronomy]>",
-			"[+1 Culture] <in [Mountain] tiles>",
-			"[+1 Food] <in tiles adjacent to [Kobresia Pasture] tiles>",
+		"uniques": ["[+1 Food] <in tiles adjacent to [Kobresia Pasture] tiles>",
 			"Pillaging this improvement yields approximately [+20 Gold]"]
 	},
 	{
