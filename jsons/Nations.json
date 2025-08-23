@@ -14,7 +14,7 @@
         "neutralHello": "Greetings.",
         "hateHello": "What do you want?",
         "tradeRequest": "Perhaps we should exchange resources, for the better of our kingdoms.",
-        "outerColor": [164, 42, 28],
+        "outerColor": [189, 19, 0],
         "innerColor": [240, 127, 40],
         "uniqueName": "The Mountain Kingdom",
         "uniques": ["[Mounted] units gain the [Nisean Mounts] promotion",
