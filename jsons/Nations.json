@@ -18,8 +18,8 @@
 		"hateHello": "What are you doing here?",
 		"tradeRequest": "I came with all hope, but haven't reached an agreement.",
 
-		"outerColor": [255, 56, 56],
-		"innerColor": [18, 66, 22],
+        "outerColor": [123, 3, 0],
+        "innerColor": [40, 179, 79],
 		"uniqueName": "Connector of the Sand and Water Seas",
 		"uniqueText": "+50% [Gold] from Trade Routes\n+1 [Culture], +1 [Gold] from each Trade Route per era\n+1 [Faith] from each Trade Route per era, ending after the Classical era",
 		"uniques": ["[+50]% [Gold] from Trade Routes <hidden from users>",
