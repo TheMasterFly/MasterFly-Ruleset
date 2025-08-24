@@ -260,9 +260,10 @@
         "obsoleteTech": "Military Science",
         "upgradesTo": "Cavalry",
         "requiredResource": "Horses",
-        "uniques": ["Can remove other religions from cities <in [Friendly] tiles> <once>",
+        "uniques": ["Can remove other religions from cities <in [Friendly] tiles> <for [3] movement> <once>",
 			"Can Spread Religion <for [3] movement> <[1] times>",
 			"[+13]% Strength <when fighting in [Enemy Land] tiles>",
+			"Can move after attacking",
 			"No defensive terrain bonus",
 			"Never appears as a Barbarian unit"],
         "attackSound": "horse"
