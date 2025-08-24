@@ -100,6 +100,20 @@
 			"[+1 Faith] from [Mountain] tiles [in this city]"]
 	},
     {
+        "name": "Riad",
+        "replaces": "Water Mill",
+        "uniqueTo": "Almoravids",
+        "maintenance": 2,
+		"food": 1,
+        "production": 1,
+        "hurryCostModifier": 25,
+        "uniques": ["[+2 Food] from [Oasis] tiles [in this city]",
+			"[+1 Food] from [{Desert} {Fresh water}] tiles [in this city]",
+			"[+1 Faith, +1 Production] from [Desert] tiles [in this city]",
+			"Must be next to [Fresh water]"],
+        "requiredTech": "The Wheel"
+    },
+    {
         "name": "Shuǐ Mó",
         "replaces": "Water Mill",
         "uniqueTo": "China",
