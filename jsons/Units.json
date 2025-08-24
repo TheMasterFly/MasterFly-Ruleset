@@ -264,6 +264,7 @@
 			"Can Spread Religion <for [3] movement> <[1] times>",
 			"[+13]% Strength <when fighting in [Enemy Land] tiles>",
 			"Can move after attacking",
+			"[-33]% Strength <vs cities> <when attacking>",
 			"No defensive terrain bonus",
 			"Never appears as a Barbarian unit"],
         "attackSound": "horse"
