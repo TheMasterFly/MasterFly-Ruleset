@@ -466,7 +466,7 @@
 			"[+25]% Natural religion spread [in your cities]",
 			"Free [Great Prophet] appears <after discovering [Theology]>",
 			"May choose [1] additional belief(s) of any type when [enhancing] a religion",
-			"[-25]% City-State Influence degradation [in cities following our religion]",
+			"[-25]% City-State Influence degradation",
 			"Resting point for Influence with City-States following this religion [+15]"],
         "cities": [
             "Vatican City","Benevento","Pontecorvo","San Marino","Terracina","Narni","Spoleto","Assisi","Arpino","Perugia",
