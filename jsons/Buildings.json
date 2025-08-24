@@ -70,7 +70,7 @@
             "May buy [{Military} {Land}] units with [Faith] for [4] times their normal Production cost <starting from the [Industrial era]>",
 			"[+25]% [Faith] [in all cities]",
 			"[-25]% [Gold] [in all cities] <starting from the [Renaissance era]>",
-			"[-33]% maintenance costs <starting from the [Renaissance era]>",
+			"[-33]% maintenance costs <for [Land] units> <starting from the [Renaissance era]>",
 			"Enables conversion of city production to [Faith]",
 			"Comment [+1 [Faith], -1 [Gold] in all cities per era]",
 			"[+1 Faith, -1 Gold] [in all cities] <starting from the [Classical era]> <hidden from users>",
