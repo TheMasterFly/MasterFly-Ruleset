@@ -248,6 +248,26 @@
 		"attackSound": "horse"
 	},
 	{
+        "name": "Templar Knight",
+        "replaces": "Knight",
+        "uniqueTo": "Papal States",
+
+        "unitType": "Mounted",
+        "movement": 3,
+        "strength": 24,
+        "cost": 120,
+        "requiredTech": "Chivalry",
+        "obsoleteTech": "Military Science",
+        "upgradesTo": "Cavalry",
+        "requiredResource": "Horses",
+        "uniques": ["Can remove other religions from cities <in [Friendly] tiles> <once>",
+			"Can Spread Religion <for [3] movement> <[1] times>",
+			"[+13]% Strength <when fighting in [Enemy Land] tiles>",
+			"No defensive terrain bonus",
+			"Never appears as a Barbarian unit"],
+        "attackSound": "horse"
+    },
+	{
 		"name": "Berserker",
 		"unitType": "Sword",
 		"replaces": "Longswordsman",
