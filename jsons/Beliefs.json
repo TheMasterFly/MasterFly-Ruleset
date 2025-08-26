@@ -2,10 +2,10 @@
     {
         "name": "Ancestor Worship",
         "type": "Pantheon",
-        "uniques": ["[+2 Culture, +1 Faith] from every [Shrine]",
-        "[+2 Culture, +1 Faith] from every [Temple]",
-        "[+2 Culture, +1 Faith] from every [Shrine] <for [Lithuania] Civilizations> <hidden from users>",
-        "[+2 Culture, +1 Faith] from every [Temple] <for [Lithuania] Civilizations> <hidden from users>"]
+        "uniques": ["[+2 Culture, +2 Faith] from every [Shrine]",
+        "[+2 Culture, +2 Faith, +3 Gold] from every [Temple]",
+        "[+2 Culture, +2 Faith] from every [Shrine] <for [Lithuania] Civilizations> <hidden from users>",
+        "[+2 Culture, +2 Faith, +3 Gold] from every [Temple] <for [Lithuania] Civilizations> <hidden from users>"]
     },
     {
         "name": "Dance of the Aurora",
@@ -42,10 +42,10 @@
     {
         "name": "God of Craftsman",
         "type": "Pantheon",
-        "uniques": ["[+1 Production, +1 Gold] from every specialist [in this city]",
-        "[+1 Production, +1 Science] from every specialist [in this city] <starting from the [Renaissance era]>",
-        "[+1 Production, +1 Gold] from every specialist [in this city] <for [Lithuania] Civilizations> <hidden from users>",
-        "[+1 Production, +1 Science] from every specialist [in this city] <starting from the [Renaissance era]> <for [Lithuania] Civilizations> <hidden from users>"]
+        "uniques": ["[+1 Production, +1 Science, +1 Culture] from every specialist [in this city]",
+        "[+1 Production, +1 Science, +1 Culture] from every specialist [in this city] <starting from the [Renaissance era]>",
+        "[+1 Production, +1 Science, +1 Culture] from every specialist [in this city] <for [Lithuania] Civilizations> <hidden from users>",
+        "[+1 Production, +1 Science, +1 Culture] from every specialist [in this city] <starting from the [Renaissance era]> <for [Lithuania] Civilizations> <hidden from users>"]
     },
     {
         "name": "God of Death",
@@ -62,14 +62,14 @@
     {
         "name": "God of the Open Sky",
         "type": "Pantheon",
-        "uniques": ["[+1 Culture, +1 Faith] from every [Pasture]",
-        "[+1 Culture, +1 Faith] from every [Pasture] <for [Lithuania] Civilizations> <hidden from users>"]
+        "uniques": ["[+1 Production, +1 Culture] from every [Pasture]",
+        "[+1 Production, +1 Culture] from every [Pasture] <for [Lithuania] Civilizations> <hidden from users>"]
     },
     {
         "name": "God of the Harvest",
         "type": "Pantheon",
-        "uniques": ["[+1 Faith] from every [Farm]",
-        "[+1 Faith] from every [Farm] <for [Lithuania] Civilizations> <hidden from users>"]
+        "uniques": ["[+1 Faith, +1 Gold] from every [Farm]",
+        "[+1 Faith, +1 Gold] from every [Farm] <for [Lithuania] Civilizations> <hidden from users>"]
     },
     {
         "name": "God of the Sea",
@@ -96,24 +96,24 @@
     {
         "name": "God of War",
         "type": "Pantheon",
-        "uniques": ["[+1 Production, +1 Gold] from every [Barracks]",
-        "[+1 Production, +1 Gold] from every [Armory]",
-        "[+1 Production, +1 Gold] from every [Military Academy]",
-        "[+1 Production, +1 Gold] from every [Barracks] <for [Lithuania] Civilizations> <hidden from users>",
-        "[+1 Production, +1 Gold] from every [Armory] <for [Lithuania] Civilizations> <hidden from users>",
-        "[+1 Production, +1 Gold] from every [Military Academy] <for [Lithuania] Civilizations> <hidden from users>"]
+        "uniques": ["[+1 Production, +1 Happiness] from every [Barracks]",
+        "[+1 Production, +1 Happiness] from every [Armory]",
+        "[+1 Production, +1 Happiness] from every [Military Academy]",
+        "[+1 Production, +1 Happiness] from every [Barracks] <for [Lithuania] Civilizations> <hidden from users>",
+        "[+1 Production, +1 Happiness] from every [Armory] <for [Lithuania] Civilizations> <hidden from users>",
+        "[+1 Production, +1 Happiness] from every [Military Academy] <for [Lithuania] Civilizations> <hidden from users>"]
     },
     {
         "name": "Goddess of Festivals",
         "type": "Pantheon",
-        "uniques": ["[+1 Culture, +1 Faith] from every [Wine]",
-        "[+1 Culture, +1 Faith] from every [Incense]",
-        "[+1 Culture, +1 Faith] from every [Sugar]",
-        "[+1 Culture, +1 Faith] from every [Spices]",
-        "[+1 Culture, +1 Faith] from every [Wine] <for [Lithuania] Civilizations> <hidden from users>",
-        "[+1 Culture, +1 Faith] from every [Incense] <for [Lithuania] Civilizations> <hidden from users>",
-        "[+1 Culture, +1 Faith] from every [Sugar] <for [Lithuania] Civilizations> <hidden from users>",
-        "[+1 Culture, +1 Faith] from every [Spices] <for [Lithuania] Civilizations> <hidden from users>"]
+        "uniques": ["[+2 Culture, +2 Faith] from every [Wine]",
+        "[+2 Culture, +2 Faith] from every [Incense]",
+        "[+2 Culture, +2 Faith] from every [Sugar]",
+        "[+2 Culture, +2 Faith] from every [Spices]",
+        "[+2 Culture, +2 Faith] from every [Wine] <for [Lithuania] Civilizations> <hidden from users>",
+        "[+2 Culture, +2 Faith] from every [Incense] <for [Lithuania] Civilizations> <hidden from users>",
+        "[+2 Culture, +2 Faith] from every [Sugar] <for [Lithuania] Civilizations> <hidden from users>",
+        "[+2 Culture, +2 Faith] from every [Spices] <for [Lithuania] Civilizations> <hidden from users>"]
     },
     {
         "name": "Goddess of Love",
@@ -136,19 +136,19 @@
     {
         "name": "Goddess of the Fields",
         "type": "Pantheon",
-        "uniques": ["[+2 Faith] from every [Incense]",
-        "[+2 Faith] from every [Cotton]",
-        "[+2 Faith] from every [Tea]",
-        "[+2 Faith] from every [Coffee]",
-        "[+2 Faith] from every [Incense] <for [Lithuania] Civilizations> <hidden from users>",
-        "[+2 Faith] from every [Cotton] <for [Lithuania] Civilizations> <hidden from users>",
-        "[+2 Faith] from every [Tea] <for [Lithuania] Civilizations> <hidden from users>",
-        "[+2 Faith] from every [Coffee] <for [Lithuania] Civilizations> <hidden from users>"]
+        "uniques": ["[+2 Culture, +2 Faith] from every [Incense]",
+        "[+2 Culture, +2 Faith] from every [Cotton]",
+        "[+2 Culture, +2 Faith] from every [Tea]",
+        "[+2 Culture, +2 Faith] from every [Coffee]",
+        "[+2 Culture, +2 Faith] from every [Incense] <for [Lithuania] Civilizations> <hidden from users>",
+        "[+2 Culture, +2 Faith] from every [Cotton] <for [Lithuania] Civilizations> <hidden from users>",
+        "[+2 Culture, +2 Faith] from every [Tea] <for [Lithuania] Civilizations> <hidden from users>",
+        "[+2 Culture, +2 Faith] from every [Coffee] <for [Lithuania] Civilizations> <hidden from users>"]
     },
     {
         "name": "Goddess of the Hunt",
         "type": "Pantheon",
-        "uniques": ["[+1 Food, +1 Culture, +1 Production] from every [Camp]",
+        "uniques": ["[+1 Production, +1 Culture] from every [Camp]",
         "[+1 Food, +1 Culture, +1 Production] from every [Camp] <for [Lithuania] Civilizations> <hidden from users>"]
     },
     {
@@ -168,10 +168,10 @@
         "type": "Pantheon",
         "uniques": ["[+15]% Production when constructing [Ancient era] wonders [in cities following this religion]",
             "[+15]% Production when constructing [Classical era] wonders [in cities following this religion]",
-            "[+1 Faith] from every [Wonder]",
+            "[+2 Faith] from every [Wonder]",
             "[+15]% Production when constructing [Ancient era] wonders [in cities following this religion] <for [Lithuania] Civilizations> <hidden from users>",
             "[+15]% Production when constructing [Classical era] wonders [in cities following this religion] <for [Lithuania] Civilizations> <hidden from users>",
-            "[+1 Faith] from every [Wonder] <for [Lithuania] Civilizations> <hidden from users>"]
+            "[+2 Faith] from every [Wonder] <for [Lithuania] Civilizations> <hidden from users>"]
     },
     {
         "name": "Ocean's Bounty",
@@ -184,13 +184,15 @@
     {
         "name": "One with Nature",
         "type": "Pantheon",
-        "uniques": ["[+5 Faith] from every [Natural Wonder]",
-        "[+5 Faith] from every [Natural Wonder] <for [Lithuania] Civilizations> <hidden from users>"]
+        "uniques": ["[+3 Faith, +3 Production] from every [Natural Wonder]",
+        "[+2 Happiness] for every known Natural Wonder",
+        "[+3 Faith, +3 Production] from every [Natural Wonder] <for [Lithuania] Civilizations> <hidden from users>",
+        "[+2 Happiness] for every known Natural Wonder <for [Lithuania] Civilizations> <hidden from users>"]
     },
     {
         "name": "Oral Tradition",
         "type": "Pantheon",
-        "uniques": ["[+1 Food, +1 Culture, +1 Production] from every [Plantation]",
+        "uniques": ["[+1 Culture, +1 Production] from every [Plantation]",
         "[+1 Food, +1 Culture, +1 Production] from every [Plantation] <for [Lithuania] Civilizations> <hidden from users>"]
     },
     {
@@ -204,10 +206,12 @@
     {
         "name": "Religious Idols",
         "type": "Pantheon",
-        "uniques": ["[+2 Culture, +1 Faith] from every [Gold Ore]",
-        "[+2 Culture, +1 Faith] from every [Silver]",
-        "[+2 Culture, +1 Faith] from every [Gold Ore] <for [Lithuania] Civilizations> <hidden from users>",
-        "[+2 Culture, +1 Faith] from every [Silver] <for [Lithuania] Civilizations> <hidden from users>"]
+        "uniques": ["[+2 Culture, +2 Faith] from every [Gold Ore]",
+        "[+2 Culture, +2 Faith] from every [Silver]",
+        "[+2 Culture, +2 Faith] from every [Lapis Lazuli]",
+        "[+2 Culture, +2 Faith] from every [Gold Ore] <for [Lithuania] Civilizations> <hidden from users>",
+        "[+2 Culture, +2 Faith] from every [Silver] <for [Lithuania] Civilizations> <hidden from users>",
+        "[+2 Culture, +2 Faith] from every [Lapis Lazuli] <for [Lithuania] Civilizations> <hidden from users>"]
     },
     {
         "name": "Religious Settlements",
@@ -220,24 +224,24 @@
     {
         "name": "Sacred Path",
         "type": "Pantheon",
-        "uniques": ["[+1 Culture] from every [Jungle]",
-        "[+1 Culture] from every [Jungle] <starting from the [Renaissance era]>",
-        "[+1 Culture] from every [Jungle] <for [Lithuania] Civilizations> <hidden from users>",
-        "[+1 Culture] from every [Jungle] <starting from the [Renaissance era]> <for [Lithuania] Civilizations> <hidden from users>"]
+        "uniques": ["[+1 Production] from every [Jungle]",
+        "[+2 Culture] from every [Jungle] <starting from the [Renaissance era]>",
+        "[+1 Production] from every [Jungle] <for [Lithuania] Civilizations> <hidden from users>",
+        "[+2 Culture] from every [Jungle] <starting from the [Renaissance era]> <for [Lithuania] Civilizations> <hidden from users>"]
     },
     {
         "name": "Sacred Waters",
         "type": "Pantheon",
         "uniques": ["[+1 Faith] from [River] tiles [in this city]",
-        "[+1 Gold] from [River] tiles [in this city] <starting from the [Industrial era]>",
+        "[+1 Culture] from [River] tiles [in this city] <starting from the [Industrial era]>",
         "[+1 Faith] from [River] tiles [in this city] <for [Lithuania] Civilizations> <hidden from users>",
-        "[+1 Gold] from [River] tiles [in this city] <starting from the [Industrial era]> <for [Lithuania] Civilizations> <hidden from users>"]
+        "[+1 Culture] from [River] tiles [in this city] <starting from the [Industrial era]> <for [Lithuania] Civilizations> <hidden from users>"]
     },
     {
         "name": "Stone Circles",
         "type": "Pantheon",
-        "uniques": ["[+2 Faith, +1 Gold, +1 Culture] from every [Quarry]",
-        "[+2 Faith, +1 Gold, +1 Culture] from every [Quarry] <for [Lithuania] Civilizations> <hidden from users>"]
+        "uniques": ["[+2 Faith, +2 Gold, +2 Culture] from every [Quarry]",
+        "[+2 Faith, +2 Gold, +2 Culture] from every [Quarry] <for [Lithuania] Civilizations> <hidden from users>"]
     },
 ///////////////////////////////////////// Follower beliefs /////////////////////////////////////////
     {
@@ -263,23 +267,12 @@
     {
         "name": "Feed the World",
         "type": "Follower",
-        "uniques": ["[+1 Food, +1 Gold] from every [Granary]", "[+1 Food, +1 Gold] from every [Shrine]", "[+1 Food, +1 Gold] from every [Temple]"]
+        "uniques": ["[+1 Food, +1 Production] from every [Granary]", "[+1 Food, +1 Production] from every [Shrine]", "[+1 Food, +1 Production] from every [Temple]"]
     },
     {
         "name": "Guruship",
         "type": "Follower",
-        "uniques": ["[+2 Production, +2 Science, +2 Culture] [in cities following this religion] <in cities with at least [4] [Followers of this Religion]>"]
-    },
-    {
-        "name": "Higher Craft",
-        "type": "Follower",
-        "uniques": ["[+1 Faith, +1 Culture, +1 Science] from every specialist [in this city] <in cities with at least [3] [Specialists]> <in cities with at least [5] [Followers of this Religion]>"]
-    },
-    {
-        "name": "Holy Warriors",
-        "type": "Follower",
-        "uniques": ["May buy [{Military} {Land}] units with [Faith] for [2] times their normal Production cost <before the [Industrial era]>",
-             "May buy [{Military} {Land}] units with [Faith] for [3] times their normal Production cost <starting from the [Industrial era]>"]
+        "uniques": ["[+2 Production, +2 Science, +2 Culture] [in cities following this religion] <in cities with at least [5] [Followers of this Religion]>"]
     },
     {
         "name": "God's Fleet",
@@ -288,9 +281,20 @@
              "May buy [{Military} {Water}] units with [Faith] for [3] times their normal Production cost <starting from the [Industrial era]>"]
     },
     {
+        "name": "Higher Craft",
+        "type": "Follower",
+        "uniques": ["[+3]% [Production] from every specialist [in this city] <in cities with at least [3] [Specialists]> <in cities with at least [5] [Followers of this Religion]>"]
+    },
+    {
+        "name": "Holy Warriors",
+        "type": "Follower",
+        "uniques": ["May buy [{Military} {Land}] units with [Faith] for [2] times their normal Production cost <before the [Industrial era]>",
+             "May buy [{Military} {Land}] units with [Faith] for [3] times their normal Production cost <starting from the [Industrial era]>"]
+    },
+    {
         "name": "Liturgical Drama",
         "type": "Follower",
-        "uniques": ["[+4 Culture, +1 Gold] from every [{Amphitheater} {Opera House} {Museum}]"]
+        "uniques": ["[+3 Culture, +3 Faith] from every [{Amphitheater} {Opera House} {Museum}]"]
     },
     {
         "name": "Monasteries",
@@ -310,13 +314,12 @@
     {
         "name": "Peace Gardens",
         "type": "Follower",
-        "uniques": ["[+1 Food, +1 Culture, +2 Happiness] from every [Garden]"]
+        "uniques": ["[+2 Food, +2 Culture, +2 Happiness] from every [Garden]"]
     },
     {
         "name": "Religion of the Nation",
         "type": "Follower",
-        "uniques": ["[+1 Production, +1 Food, +1 Culture, +1 Faith, +1 Science, +1 Gold, +1 Happiness] from every [Palace]",
-        "[+1 Production, +1 Culture, +1 Faith, +1 Happiness] from every [National Wonder]"]
+        "uniques": ["[+1 Production, +1 Food, +1 Culture, +1 Faith, +1 Science, +1 Gold, +1 Happiness] from every [National Wonder]"]
     },
     {
         "name": "Religious Center",
@@ -326,12 +329,13 @@
     {
         "name": "Religious Community",
         "type": "Follower",
-        "uniques": ["[+1]% [Production] from every follower, up to [15]%"]
+        "uniques": ["[+2]% [Production] from every follower, up to [30]%"]
     },
     {
         "name": "Swords into Ploughshares",
         "type": "Follower",
-        "uniques": ["[+15]% growth [in this city] <when not at war>"]
+        "uniques": ["[+10]% growth [in this city] <when not at war>",
+            "[+3 Food] [in this city] <when not at war>"]
     },
     {
         "name": "Stupas",
@@ -348,12 +352,12 @@
     {
         "name": "Church Property",
         "type": "Founder",
-        "uniques": ["[+2 Gold] for each global city following this religion"]
+        "uniques": ["[+4 Gold] for each global city following this religion"]
     },
     {
         "name": "Initiation Rites",
         "type": "Founder",
-        "uniques": ["[+120 Gold] when a city adopts this religion for the first time <(modified by game speed)>"]
+        "uniques": ["[+150 Gold] when a city adopts this religion for the first time <(modified by game speed)>"]
     },
     {
         "name": "Interfaith Dialogue",
@@ -370,7 +374,7 @@
     {
         "name": "Peace Loving",
         "type": "Founder",
-        "uniques": ["[+1 Happiness] from every [5] global followers [in non-enemy foreign cities]"]
+        "uniques": ["[+1 Happiness] from every [4] global followers [in non-enemy foreign cities]"]
     },
     {
         "name": "Pilgrimage",
@@ -380,7 +384,7 @@
     {
         "name": "Holy Caravans",
         "type": "Founder",
-        "uniques": ["[+2 Culture, +2 Science] from each Trade Route"]
+        "uniques": ["[+2 Culture, +2 Science, +2 Gold] from each Trade Route"]
     },
     {
         "name": "Tithe",
