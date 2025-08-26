@@ -42,10 +42,12 @@
     {
         "name": "God of Craftsman",
         "type": "Pantheon",
-        "uniques": ["[+1 Production, +1 Science, +1 Culture] from every specialist [in this city]",
-        "[+1 Production, +1 Science, +1 Culture] from every specialist [in this city] <starting from the [Renaissance era]>",
-        "[+1 Production, +1 Science, +1 Culture] from every specialist [in this city] <for [Lithuania] Civilizations> <hidden from users>",
-        "[+1 Production, +1 Science, +1 Culture] from every specialist [in this city] <starting from the [Renaissance era]> <for [Lithuania] Civilizations> <hidden from users>"]
+        "uniques": ["[+1 Production, +1 Science] from every specialist [in this city]",
+        "[+1 Production, +1 Science] from every specialist [in this city] <starting from the [Renaissance era]>",
+        "[-25]% Unhappiness from [Specialists] [in all cities] <after adopting [Higher Craft]>",
+        "[+1 Production, +1 Science] from every specialist [in this city] <for [Lithuania] Civilizations> <hidden from users>",
+        "[+1 Production, +1 Science] from every specialist [in this city] <starting from the [Renaissance era]> <for [Lithuania] Civilizations> <hidden from users>",
+        "[-25]% Unhappiness from [Specialists] [in all cities] <after adopting [Higher Craft]> <for [Lithuania] Civilizations> <hidden from users>"]
     },
     {
         "name": "God of Death",
@@ -281,8 +283,7 @@
     {
         "name": "Higher Craft",
         "type": "Follower",
-        "uniques": ["[+1 Production, +1 Food] from every specialist [in this city] <in cities with at least [3] [Specialists]> <in cities with at least [5] [Followers of this Religion]>",
-        "[-33]% Unhappiness from [Specialists] [in all cities] <after adopting [God of Craftsman]>"]
+        "uniques": ["[+1 Production, +1 Food] from every specialist [in this city] <in cities with at least [3] [Specialists]> <in cities with at least [5] [Followers of this Religion]>"]
     },
     {
         "name": "Holy Warriors",
