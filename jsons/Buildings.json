@@ -327,7 +327,8 @@
 		"faith": 3,
 		"isWonder": true,
 		"greatPersonPoints": {"Great Engineer": 2},
-		"uniques": ["Gain a free [Follower] belief"],
+		"uniques": ["Gain a free [Follower] belief <for [non-[Lithuania]] Civilizations>",
+		    "Gain a free [Pantheon] belief <for [Lithuania] Civilizations>"],
 		"requiredTech": "Drama and Poetry",
 		"quote": "'As a devotee desires to worship any form of a god with faith, I make their faith firm and steady in that particular form' - Bhagavad Gita, 7:21"
 	},
