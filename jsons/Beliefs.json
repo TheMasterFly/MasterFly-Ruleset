@@ -184,10 +184,8 @@
     {
         "name": "One with Nature",
         "type": "Pantheon",
-        "uniques": ["[+3 Faith, +3 Production] from every [Natural Wonder]",
-        "[+2 Happiness] for every known Natural Wonder",
-        "[+3 Faith, +3 Production] from every [Natural Wonder] <for [Lithuania] Civilizations> <hidden from users>",
-        "[+2 Happiness] for every known Natural Wonder <for [Lithuania] Civilizations> <hidden from users>"]
+        "uniques": ["[+2 Faith, +2 Production, +2 Happiness] from every [Natural Wonder]",
+        "[+2 Faith, +2 Production, +2 Happiness] from every [Natural Wonder] <for [Lithuania] Civilizations> <hidden from users>"]
     },
     {
         "name": "Oral Tradition",
