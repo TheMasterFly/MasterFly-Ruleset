@@ -142,23 +142,6 @@
             "Considered [Undesirable] when determining start locations"]
 	},
 	{
-		"name": "Volcano",
-		"type": "Land",
-		"impassable": true,
-		"defenceBonus": -0.5,
-		"RGB": [77, 77, 77],
-		"uniques": ["Rough terrain",
-            "Has an elevation of [2] for visibility calculations",
-			"Blocks line-of-sight from tiles at same elevation",
-            "Occurs in groups of [1] to [3] tiles",
-            "Units ending their turn on this terrain take [80] damage",
-            "Always Fertility [-1] for Map Generation",
-			"Rare feature",
-			"[+1 Food, +1 Production] <in tiles adjacent to [Volcano] tiles>",
-            "Considered [Undesirable] when determining start locations",
-			"Grants [Volcanic Damage] ([Unit takes 10 damage while adjacent to [Volcano]]) to adjacent [All] units for the rest of the game"]
-	},
-	{
 		"name": "Snow",
 		"type": "Land",
 		"movementCost": 1,
