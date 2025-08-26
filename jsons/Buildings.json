@@ -377,6 +377,7 @@
     {
         "name": "Mausoleum of Halicarnassus",
         "culture": 1,
+		"gold": 3,
         "greatPersonPoints": {
             "Great Merchant": 1
         },
