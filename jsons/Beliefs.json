@@ -471,9 +471,9 @@
     {
         "name": "Religious Texts",
         "type": "Enhancer",
+        "uniqueText": "+34% Natural religion spread in all cities\n+34% Natural religion spread in all cities after discovering [Printing Press",
         "uniques": ["[+34]% Natural religion spread [in all cities] <for [non-[Lithuania]] Civilizations> <hidden from users>",
-            "[+34]% Natural religion spread [in all cities] <after discovering [Printing Press]> <for [non-[Lithuania]] Civilizations> <hidden from users>",
-            "Comment [+34% Natural religion spread in all cities\n+34% Natural religion spread in all cities after discovering [Printing Press]"]
+            "[+34]% Natural religion spread [in all cities] <after discovering [Printing Press]> <for [non-[Lithuania]] Civilizations> <hidden from users>"]
     },
     {
         "name": "Religious Unity",
