@@ -439,6 +439,19 @@
         "requiredTech": "Architecture",
         "quote": "'Things always seem fairer when we look back at them, and it is out of that inaccessible tower' - James Russell Lowell"
     },
+	{
+		"name": "Statue of Zeus",
+		"culture": 2,
+		"production": 2,
+		"gold": 2,
+		"isWonder": true,
+		"uniques": ["[+15]% Strength <for [Siege] units> <vs cities> <when attacking>",
+			"[+10]% Strength <for [Melee] units> <when attacking>",
+			"[+5]% Strength <for [Ranged] units> <when attacking>",
+			"Only available <after adopting [Honor]>"],
+		"requiredTech": "Bronze Working",
+		"quote": "'He spoke, the son of Kronos, and nodded his head with the dark brows, and the immortally anointed hair of the great god swept from his divine head, and all Olympos was shaken' - The Iliad"
+	},
     {
         "name": "The Pyramids",
         "culture": 1,
