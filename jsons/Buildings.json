@@ -390,7 +390,8 @@
         },
         "uniques": [
             "Must be next to [Lakes]",
-            "[+2 Culture, +2 Food] from [Lakes] tiles [in all cities]"
+            "[+2 Culture, +2 Food] from [Lakes] tiles [in all cities]",
+			"[+2 Culture, +2 Food] from [Pink and White Terraces] tiles [in all cities] <hidden from users>"
         ],
         "requiredTech": "Civil Service"
     },
