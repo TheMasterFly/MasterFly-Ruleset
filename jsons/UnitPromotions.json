@@ -5,7 +5,8 @@
       },
       {
             "name": "Bajorija Knight Ability",
-            "uniques": ["[+20]% Strength <when fighting in [Forest] tiles>", "Double movement in [Forest]"]
+            "uniques": ["Comment [Adjacent enemy units with Defender Of The Faith/Just War lose their combat buff]",
+                  "[+20]% Strength <when fighting in [Forest] tiles>", "Double movement in [Forest]"]
       },
       {
             "name": "East India Company",
