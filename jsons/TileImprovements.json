@@ -49,7 +49,7 @@
 			"Desert",
 			"Tundra"
 		],
-		"turnsToBuild": 6,
+		"turnsToBuild": 8,
 		"uniques": [
 			"Turn this tile into a [Coast] tile",
 			"Turn this tile into a [Canal] tile",
