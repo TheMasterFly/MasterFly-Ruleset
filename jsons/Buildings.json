@@ -322,6 +322,15 @@
         "requiredTech": "Banking",
         "quote": "'Most of us can, as we choose, make of this world either a palace or a prison' - John Lubbock"
     },
+	{
+		"name": "Ellora Caves",
+		"faith": 3,
+		"isWonder": true,
+		"greatPersonPoints": {"Great Engineer": 2},
+		"uniques": ["Gain a free [Follower] belief"],
+		"requiredTech": "Drama and Poetry",
+		"quote": "'As a devotee desires to worship any form of a god with faith, I make their faith firm and steady in that particular form' - Bhagavad Gita, 7:21"
+	},
     {
         "name": "Great Mosque of Djenne",
         "culture": 1,
@@ -471,6 +480,15 @@
 			"Only available <after adopting [Honor]>"],
 		"requiredTech": "Bronze Working",
 		"quote": "'He spoke, the son of Kronos, and nodded his head with the dark brows, and the immortally anointed hair of the great god swept from his divine head, and all Olympos was shaken' - The Iliad"
+	},
+	{
+		"name": "Stonehenge",
+		"faith": 2,
+		"isWonder": true,
+		"greatPersonPoints": {"Great Engineer": 1},
+		"uniques": ["Gain a free [Pantheon] belief"],
+		"requiredTech": "Calendar",
+		"quote": "'Time crumbles things; everything grows old and is forgotten under the power of time' - Aristotle"
 	},
     {
         "name": "The Pyramids",
