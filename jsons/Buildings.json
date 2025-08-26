@@ -468,6 +468,20 @@
         "quote": "'O, let not the pains of death which come upon thee enter into my body. I am the god Tem, and I am the foremost part of the sky, and the power which protecteth me is that which is with all the gods forever.' - The Book of the Dead, translated by Sir Ernest Alfred Wallis Budge"
     },
     {
+        "name": "Terracotta Army",
+        "culture": 1,
+        "isWonder": true,
+        "requiredTech": "Construction",
+        "uniques": [
+            "Free [Warrior] appears",
+            "Free [Archer] appears",
+            "Free [Horseman] appears",
+            "Free [Spearman] appears",
+			"[+6 Culture] [in this city] <after discovering [Archaeology]>"
+        ],
+        "quote": "'Regard your soldiers as your children, and they will follow you into the deepest valleys; look on them as your own beloved sons, and they will stand by you even unto death.' - Sun Tzu"
+    },
+    {
         "name": "Grand Temple",
         "cost": 125,
         "culture": 1,
