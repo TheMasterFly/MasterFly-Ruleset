@@ -383,7 +383,7 @@
         },
         "isWonder": true,
         "uniques": [
-            "Gain [100] [Gold] <upon expending a [Great Person] unit> <(modified by game speed)>",
+			"[-33]% Gold cost of upgrading <for [Military] units>",
             "[+2 Gold] from [Marble] tiles [in all cities]",
             "[+2 Gold] from [Stone] tiles [in all cities]"
         ],
@@ -410,6 +410,17 @@
         ],
         "requiredTech": "Railroads"
     },
+	{
+		"name": "Pentagon",
+		"isWonder": true,
+		"culture": 1,
+		"production": 2,
+		"science": 2,
+		"greatPersonPoints": {"Great Scientist": 5},
+		"uniques": ["Gain [1500] [Gold] <upon expending a [Great Person] unit> <(modified by game speed)>"],
+		"requiredTech": "Combined Arms",
+		"quote": "'In preparing for battle I have always found that plans are useless, but planning is indispensable.' - Dwight D. Eisenhower"
+	},
     {
         "name": "Petra",
         "culture": 1,
