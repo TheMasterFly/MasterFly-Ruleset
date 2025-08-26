@@ -357,7 +357,8 @@
     },
     {
         "name": "Himeji Castle",
-        "culture": 3,
+        "culture": 2,
+		"faith": 2,
         "isWonder": true,
         "greatPersonPoints": {
             "Great Engineer": 3
@@ -403,7 +404,6 @@
         "name": "Panama Canal",
         "gold": 3,
         "production": 3,
-        "culture": 1,
         "specialistSlots": {
             "Merchant": 2
         },
@@ -422,7 +422,6 @@
 	{
 		"name": "Pentagon",
 		"isWonder": true,
-		"culture": 1,
 		"production": 2,
 		"science": 2,
 		"greatPersonPoints": {"Great Scientist": 5},
