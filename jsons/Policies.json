@@ -12,6 +12,7 @@
         "uniques": [
             "[+3 Culture] [in capital]",
             "[-25]% Culture cost of natural border growth [in all cities]",
+			"Comment [Unlocks [Hanging Gardens]]",
             "[+50]% weight to this choice for AI decisions"
         ],
         "policies": [
@@ -86,7 +87,8 @@
             "Scientific": 2
         },
         "uniques": [
-            "[+1 Culture] [in all cities]"
+            "[+1 Culture] [in all cities]",
+			"Comment [Unlocks [The Pyramids]]"
         ],
         "policies": [
             {
@@ -164,6 +166,7 @@
         "uniques": [
             "[+33]% Strength <vs [Barbarian] units>",
             "Earn [100]% of killed [Barbarian] unit's [Strength] as [Culture]",
+			"Comment [Unlocks [Statue of Zeus]]",
             "Notified of new Barbarian encampments"
         ],
         "policies": [
@@ -328,6 +331,7 @@
         },
         "uniques": [
             "[-25]% City-State Influence degradation",
+			"Comment [Unlocks [Forbidden Palace]]",
             "[-100]% weight to this choice for AI decisions <when number of [Remaining [City-State] Civilizations] is less than [2]>"
         ],
         "policies": [
@@ -543,7 +547,8 @@
             "Scientific": 10
         },
         "uniques": [
-            "[+3 Science] [in capital]"
+            "[+3 Science] [in capital]",
+			"Comment [Unlocks [Porcelain Tower]]"
         ],
         "policies": [
             {
