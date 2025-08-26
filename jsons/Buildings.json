@@ -281,6 +281,15 @@
         "requiredTech": "Industrialization",
         "quote": "'To achieve great things, two things are needed: a plan, and not quite enough time.' - Leonard Bernstein"
     },
+	{
+		"name": "CN Tower",
+		"isWonder": true,
+		"culture": 1,
+		"greatPersonPoints": {"Great Merchant": 1},
+		"uniques": ["[+1] population [in all cities]", "[+1 Happiness] [in all cities]", "Gain a free [Broadcast Tower] [in all cities]"],
+		"requiredTech": "Plastics",
+		"quote": "'Nothing travels faster than light with the possible exception of bad news, which obeys its own special rules.' - Douglas Adams"
+	},
     {
         "name": "Dome Of The Rock",
         "culture": 1,
