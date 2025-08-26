@@ -281,7 +281,8 @@
     {
         "name": "Higher Craft",
         "type": "Follower",
-        "uniques": ["[+1 Production, +1 Science, +1 Culture] from every specialist [in this city] <in cities with at least [3] [Specialists]> <in cities with at least [5] [Followers of this Religion]>"]
+        "uniques": ["[+1 Production, +1 Food] from every specialist [in this city] <in cities with at least [3] [Specialists]> <in cities with at least [5] [Followers of this Religion]>",
+        "[-33]% Unhappiness from [Specialists] [in all cities] <after adopting [God of Craftsman]>"]
     },
     {
         "name": "Holy Warriors",
