@@ -67,5 +67,10 @@
                   "[+4]% Strength <in [Hill] tiles>",
                   "[This Unit] takes [15] damage <upon ending a turn in a [Mountain] tile>",
                   "[15] HP when healing <in [{Mountain} {Friendly Land}] tiles>"]
+      },
+      {
+            "name": "Volcanic Damage",
+            "uniques": ["[This Unit] takes [10] damage <in tiles adjacent to [Volcano] tiles>",
+            "[This Unit] takes [0] damage <upon ending a turn in a [non-[Volcano]] tile> <removing the [Volcanic Damage] promotion/status>"]
       }
 ]
