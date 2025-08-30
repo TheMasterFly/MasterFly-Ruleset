@@ -17,14 +17,14 @@ size: 512,256
 format: RGBA8888
 filter: MipMapLinearLinear,MipMapLinearLinear
 repeat: none
-TileSets/The First Test nif
+NewTileSets/The First Test nif
   rotate: false
   xy: 2, 2
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-TileSets/The Second Test nif
+NewTileSets/The Second Test nif
   rotate: false
   xy: 132, 2
   size: 128, 128
