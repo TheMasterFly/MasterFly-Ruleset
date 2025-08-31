@@ -588,7 +588,8 @@
 		"unbuildable": true,
 		"uniques": ["Fresh water","Must be adjacent to [0] [Coast] tiles",
 			"Tile provides yield without assigned population"],
-		"weight": 10
+		"weight": 10,
+		"image": "Lake Victoria"
 	},
 	{
 		"name": "Mount Kilimanjaro",
@@ -604,7 +605,8 @@
 			"Must be adjacent to [0] to [2] [Mountain] tiles",
 			"Grants [Altitude Training] ([double movement and +10% Strength in hills]) to adjacent [Land] units for the rest of the game",
 			"Tile provides yield without assigned population"],
-		"weight": 10
+		"weight": 10,
+		"image": "Mount Kilimanjaro"
 	},
 	{
 		"name": "Chomolungma",
