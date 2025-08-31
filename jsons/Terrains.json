@@ -580,7 +580,6 @@
 	},
 	{
 		"name": "Lake Victoria",
-		"texture": "NewTileSets/The First Test nif",
 		"type": "NaturalWonder",
 		"food": 6,
 		"occursOn": ["Plains"],
@@ -593,7 +592,6 @@
 	},
 	{
 		"name": "Mount Kilimanjaro",
-		"texture": "NewTileSets/The Second Test nif",
 		"type": "NaturalWonder",
 		"food": 3,
 		"culture": 3,
