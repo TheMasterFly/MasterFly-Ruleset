@@ -12,23 +12,29 @@ repeat: none
     offset: 0, 0
     index: -1
 
-nif.png
-size: 512,256
+Lake Victoria.png
+size: 128,128
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 
-LakeVictoria
+Lake Victoria
   rotate: false
-  xy: 132, 2
+  xy: 0, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 
-MountKilimanjaro
+Mount Kilimanjaro.png
+size: 128,128
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+
+Mount Kilimanjaro
   rotate: false
-  xy: 2, 2
+  xy: 0, 0
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
