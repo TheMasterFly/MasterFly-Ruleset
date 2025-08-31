@@ -3,10 +3,11 @@
     "name": "nif",
     "baseTileset": "HexaRealm",
     "overrides": {
-    "Pink and White Terraces": "Pink and White Terraces"
+    "Mount Kilimanjaro": "Mount Kilimanjaro"
     },
     "image": "Images/nif.png",
     "atlas": "nif.atlas"
     }
 ]
+
 
