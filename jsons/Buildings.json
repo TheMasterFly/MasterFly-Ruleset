@@ -34,6 +34,18 @@
         "maintenance": 2,
         "requiredTech": "Economics"
     },
+	{
+		"name": "Bazaar",
+		"replaces": "Market",
+		"uniqueTo": "Arabia",
+		"gold": 2,
+		"specialistSlots": {"Merchant": 1},
+		"hurryCostModifier": 25,
+		"percentStatBonus": {"gold": 25},
+		"uniques": ["Provides 1 extra copy of each improved luxury resource near this City",
+			"[+1 Faith] from [Desert] tiles [in this city]", "[+1 Food, +1 Production] from [Oasis] tiles [in this city]"],
+		"requiredTech": "Currency"
+	},
     {
         "name": "Coffee House",
         "replaces": "Windmill",
