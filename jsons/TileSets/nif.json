@@ -1,14 +1,15 @@
 [
     {
-    "name": "The First Test nif",
+    "name": "nif",
     "baseTileset": "HexaRealm",
     "overrides": {
     "Mount Kilimanjaro": "Mount Kilimanjaro"
     },
     "image": "Images/nif.png",
-    "atlas": "nifnif.atlas"
+    "atlas": "nif.atlas"
     }
 ]
+
 
 
 
