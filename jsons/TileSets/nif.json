@@ -5,9 +5,10 @@
     "overrides": {
     "Mount Kilimanjaro": "Mount Kilimanjaro"
     },
-    "image": "Images/NewTileSets/nif.png",
+    "image": "Images/nif.png",
     "atlas": "nifnif.atlas"
     }
 ]
+
 
 
