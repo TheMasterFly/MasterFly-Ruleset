@@ -579,7 +579,7 @@
 		"weight": 4
 	},
 	{
-		"name": "Lake Victoria",
+		"name": "The First Test nif",
 		"type": "NaturalWonder",
 		"food": 6,
 		"occursOn": ["Plains"],
