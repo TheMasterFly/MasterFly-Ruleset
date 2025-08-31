@@ -1,0 +1,11 @@
+[
+    {
+    "name": "nif",
+    "baseTileset": "HexaRealm",
+    "overrides": {
+        "Kilimanjaro": "Kilimanjaro"
+    },
+    "image": "Images/NewTileSets/nif.png",
+    "atlas": "nifnif.atlas"
+    }
+]
