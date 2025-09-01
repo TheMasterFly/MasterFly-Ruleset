@@ -20,10 +20,15 @@ Lake Victoria
   offset: 0, 0
   index: -1
 
-Mount Kilimanjaro
-  rotate: false
-  xy: 2, 2
-  size: 64, 56
-  orig: 64, 56
-  offset: 0, 0
-  index: -1
+Mount Kilimanjaro.png
+size:128,64
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+    Mount Kilimanjaro
+      rotate: false
+      xy: 2, 2
+      size: 64, 56
+      orig: 64, 56
+      offset: 0, 0
+      index: -1
