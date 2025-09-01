@@ -4,7 +4,7 @@ format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 
-Lake Victoria
+Images/TileSets/HexaRealm/Tiles/Lake Victoria
   rotate: false
   xy: 68, 2
   size: 64, 56
@@ -12,7 +12,7 @@ Lake Victoria
   offset: 0, 0
   index: -1
 
-Mount Kilimanjaro
+Images/TileSets/HexaRealm/Tiles/Mount Kilimanjaro
   rotate: false
   xy: 2, 2
   size: 64, 56
