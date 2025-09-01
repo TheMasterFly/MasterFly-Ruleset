@@ -1,12 +1,12 @@
 game.png
-size: 256, 128
+size: 256, 64
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 
 Lake Victoria
   rotate: false
-  xy: 0, 0
+  xy: 68, 2
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
@@ -14,7 +14,7 @@ Lake Victoria
 
 Mount Kilimanjaro
   rotate: false
-  xy: 0, 0
+  xy: 2, 2
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
