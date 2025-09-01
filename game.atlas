@@ -1,20 +1,12 @@
-
 game.png
-size: 256, 128
+size: 512, 128
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-Lake Victoria
-  rotate: false
-  xy: 140, 12
-  size: 64, 56
-  orig: 64, 56
-  offset: 0, 0
-  index: -1
-Mount Kilimanjaro
-  rotate: false
-  xy: 4, 4
-  size: 128, 64
-  orig: 128, 64
-  offset: 0, 0
-  index: -1
+    ImprovementIcons/Canal Construction
+    rotate: false
+    xy: 994, 1828
+    size: 100, 100
+    orig: 100, 100
+    offset: 0, 0
+    index: -1
