@@ -1,0 +1,34 @@
+game.png
+size: 512, 128
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+    ImprovementIcons/Canal Construction
+    rotate: false
+    xy: 994, 1828
+    size: 100, 100
+    orig: 100, 100
+    offset: 0, 0
+    index: -1
+
+AddedTiles.png
+size:256,64
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+
+Images/TileSets/HexaRealm/Tiles/Lake Victoria
+  rotate: false
+  xy: 68, 2
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+
+Images/TileSets/HexaRealm/Tiles/Mount Kilimanjaro
+  rotate: false
+  xy: 2, 2
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1

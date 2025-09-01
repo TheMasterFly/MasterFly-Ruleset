@@ -1,6 +1,6 @@
 
-game.png
-size: 512, 256
+AddedTiles.png
+size:256,64
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
