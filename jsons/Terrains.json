@@ -581,10 +581,10 @@
 	{
 		"name": "Lake Victoria",
 		"type": "NaturalWonder",
-		"food": 6,
+		"food": 4,
 		"occursOn": ["Plains"],
-		"turnsInto": "Mountain",
-		"impassable": true,
+		"turnsInto": "Lakes",
+		"impassable": false,
 		"unbuildable": true,
 		"uniques": ["Fresh water","Must be adjacent to [0] [Coast] tiles",
 			"Tile provides yield without assigned population"],
