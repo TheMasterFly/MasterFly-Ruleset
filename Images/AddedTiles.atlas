@@ -1,4 +1,4 @@
-Mount Kilimanjaro.png
+Images/TileSets/HexaRealm/Tiles/Mount Kilimanjaro.png
 size: 128, 64
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
@@ -11,7 +11,7 @@ Mount Kilimanjaro
   offset: 0, 0
   index: -1
 
-Lake Victoria.png
+Images/TileSets/HexaRealm/Tiles/Lake Victoria.png
 size: 128, 64
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
@@ -22,4 +22,5 @@ Lake Victoria
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
+
   index: -1
