@@ -1,0 +1,20 @@
+
+game.png
+size: 512, 128
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+TileSets/HexaRealm/Tiles/Lake Victoria
+  rotate: false
+  xy: 4, 4
+  size: 128, 64
+  orig: 128, 64
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Mount Kilimanjaro
+  rotate: false
+  xy: 140, 4
+  size: 128, 64
+  orig: 128, 64
+  offset: 0, 0
+  index: -1
