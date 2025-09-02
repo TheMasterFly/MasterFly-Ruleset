@@ -6,7 +6,7 @@ repeat: none
 Mount Kilimanjaro
   rotate: false
   xy: 2, 2
-  size: 64, 56     # same as size above
+  size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
