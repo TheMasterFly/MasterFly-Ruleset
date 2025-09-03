@@ -5,16 +5,16 @@ filter: MipMapLinearLinear, MipMapLinearLinear
 repeat:none
 
 Images/TileSets/HexaRealm/Tiles/Lake Victoria
-xy: 2, 2
-size: 64, 56
-orig: 64, 56
-offset: 0, 0
-index: -1
+  xy: 2, 2
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
 
 Images/TileSets/HexaRealm/Tiles/Mount Kilimanjaro
-xy: 2, 60
-size: 64, 56
-orig: 64, 56
-offset: 0, 0
+  xy: 2, 60
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
 
-index: -1
