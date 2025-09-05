@@ -3,8 +3,7 @@
         "name": "discover cultural artifacts",
         "notification": "We have discovered cultural artifacts in the ruins! (+20 culture)",
         "uniques": [
-            "Gain [20] [Culture] <(modified by game speed)>",
-            "Play [policy] sound"
+            "Gain [20] [Culture] <(modified by game speed)>"
         ],
         "color": "#cf8ff7"
     },
@@ -18,8 +17,7 @@
         "name": "squatters wishing to settle under your rule",
         "notification": "A [Settler] has joined us!",
         "uniques": [
-            "Free [Settler] found in the ruins", "Unavailable <on [Prince] difficulty or higher>",
-            "Play [wagon] sound"
+            "Free [Settler] found in the ruins", "Unavailable <on [Prince] difficulty or higher>"
         ],
         "excludedDifficulties": ["Warlord","Prince","King","Emperor","Immortal","Deity"]
     },
@@ -27,8 +25,7 @@
         "name": "your exploring unit receives training",
         "notification": "An ancient tribe trained us in their ways of combat!",
         "uniques": [
-            "[This Unit] gains [10] XP", "Only available <after turn number [10]>",
-            "Play [promote] sound"
+            "[This Unit] gains [10] XP", "Only available <after turn number [10]>"
         ]
     },
     {
@@ -36,7 +33,6 @@
         "notification": "We have found survivors in the ruins! Population added to [cityName].",
         "uniques": [
             "[+1] population in a random city", // This can't be easily added to cityFilter, as it is non-deterministic
-            "Play [wagon] sound"
         ],
         "color": "#81c784"
     },
@@ -44,8 +40,7 @@
         "name": "a stash of gold",
         "notification": "", // trigger notification only
         "uniques": [
-            "Gain [50]-[100] [Gold] <(modified by game speed)>",
-            "Play [coin] sound"
+            "Gain [50]-[100] [Gold] <(modified by game speed)>"
         ],
         "color": "#ffeb7f"
     },
@@ -74,8 +69,7 @@
         "name": "discover holy symbols",
         "notification": "We have found holy symbols in the ruins, giving us a deeper understanding of religion! (+[faithAmount] Faith)",
         "uniques": [
-            "Only available <when religion is enabled>", "Gain enough Faith for a Pantheon", "Only available <before founding a Pantheon>", "Only available <after turn number [20]>",
-            "Play [choir] sound"
+            "Only available <when religion is enabled>", "Gain enough Faith for a Pantheon", "Only available <before founding a Pantheon>", "Only available <after turn number [20]>"
         ],
 		"color": "#CDDDF4"
     },
@@ -84,8 +78,7 @@
         "notification": "We have found an ancient prophecy in the ruins, greatly increasing our spiritual connection! (+[faithAmount] Faith)",
         "uniques": [
             "Only available <when religion is enabled>", "Gain enough Faith for [33]% of a Great Prophet", "Unavailable <after generating a Great Prophet>",
-            "Only available <after founding a Pantheon>", "Only available <after turn number [20]>",
-            "Play [choir] sound"
+            "Only available <after founding a Pantheon>", "Only available <after turn number [20]>"
         ],
 		"color": "#CDDDF4"
     }
