@@ -8,21 +8,21 @@
             "Can build [Land] improvements on tiles",
             "Automation is a primary action"
         ],
-        "cost": 70
+        "cost": 48
     },
     {
         "name": "Settler",
         "unitType": "Civilian",
         "movement": 2,
-        "cost": 106,
+        "cost": 35,
         "uniques": [
             "Founds a new city <by consuming this unit>",
             "All tiles cost 1 movement <if [Palace] is not constructed>",
             "Excess Food converted to Production when under construction",
             "Requires at least [2] population",
-            "Cost increases by [18] when built"
+            "Cost increases by [20] when built"
         ],
-        "hurryCostModifier": 20
+        "hurryCostModifier": 15
     },
     {
         "name": "Scout",
