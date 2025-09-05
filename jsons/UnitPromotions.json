@@ -1518,5 +1518,10 @@
             "[This Unit] takes [15] damage <upon ending a turn in a [Mountain] tile>",
             "[15] HP when healing <in [{Mountain} {Friendly Land}] tiles>"
         ]
-    }
+    },
+    {
+        "name": "Altitude Training",
+        "uniques": ["Double movement in [Hill]",
+            "[+10]% Strength <when fighting in [Hill] tiles>"]
+    },
 ]
