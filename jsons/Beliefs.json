@@ -262,7 +262,9 @@
     {
         "name": "Divine Inspiration",
         "type": "Follower",
-        "uniques": ["[+2 Faith] from every [Wonder]"]
+        "uniques": ["[+15]% Production when constructing [Medieval era] wonders [in cities following this religion]",
+            "[+15]% Production when constructing [Renaissance era] wonders [in cities following this religion]",
+            "[+1 Happiness] from every [Wonder]"]
     },
     {
         "name": "Feed the World",
