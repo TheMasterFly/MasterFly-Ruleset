@@ -631,7 +631,7 @@
 		"culture": 2,
 		"gold": 2,
 		"happiness": 2,
-		"occursOn": ["Plains","Grassland"],
+		"occursOn": ["Grassland"],
 		"uniques": ["Nullifies all other stats this tile provides",
 			"Must be adjacent to [0] [Coast] tiles",
 			"Must be adjacent to [0] [Tundra] tiles",
