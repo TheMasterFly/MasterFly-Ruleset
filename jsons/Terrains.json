@@ -637,6 +637,8 @@
 			"Must be adjacent to [0] [Desert] tiles",
 			"Must be adjacent to [1] to [5] [Hill] tiles",
 			"Must be adjacent to [1] to [4] [Lakes] tiles",
+			"Occurs in groups of [2] to [2] tiles",
+			"Becomes [Pink Terraces] when adjacent to [White Terraces]",
 			"Grants [Rejuvenation] ([all healing effects doubled]) to adjacent [{Military} {Land}] units for the rest of the game",
 			"Tile provides yield without assigned population"],
 		"turnsInto": "Grassland",
@@ -646,20 +648,17 @@
 	},
 	{
 		"name": "Pink Terraces",
-		"type": "TerrainFeature",
+		"type": "NaturalWonder",
 		"culture": 3,
 		"happiness": 2,
 		"occursOn": ["Plains","Grassland"],
 		"uniques": ["Nullifies all other stats this tile provides",
-			"Must be adjacent to [0] [Coast] tiles",
-			"Must be adjacent to [0] [Snow] tiles",
-			"Must be adjacent to [0] [Desert] tiles",
-			"Must be adjacent to [1] to [4] [Lakes] tiles",
-			"Must be adjacent to [1] [White Terraces] tiles",
-			"Must be adjacent to [0] [Pink Terraces] tiles",
+			"Doesn't generate naturally",
 			"Grants [Rejuvenation] ([all healing effects doubled]) to adjacent [{Military} {Land}] units for the rest of the game",
 			"Tile provides yield without assigned population"],
+		"turnsInto": "Grassland",
 		"impassable": false,
-		"unbuildable": true
+		"unbuildable": true,
+		"weight": 1
 	}
 ]
