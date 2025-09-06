@@ -631,6 +631,7 @@
 		"culture": 2,
 		"gold": 2,
 		"happiness": 2,
+		"defenceBonus": -0.33,
 		"occursOn": ["Grassland"],
 		"uniques": ["Fresh water",
 			"Nullifies all other stats this tile provides",
