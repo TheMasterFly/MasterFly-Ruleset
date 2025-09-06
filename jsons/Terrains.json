@@ -585,7 +585,9 @@
 		"turnsInto": "Lakes",
 		"impassable": false,
 		"unbuildable": true,
-		"uniques": ["Fresh water","Must be adjacent to [0] [Coast] tiles",
+		"uniques": ["Fresh water",
+			"Must be adjacent to [0] [Coast] tiles",
+			"Must be adjacent to [0] [Lakes] tiles",
 			"Tile provides yield without assigned population"],
 		"weight": 10
 	},
@@ -622,13 +624,13 @@
 		"weight": 8
 	},
 	{
-		"name": "Pink and White Terraces",
+		"name": "White Terraces",
 		"type": "NaturalWonder",
-		"culture": 2,
-		"faith": 2,
-		"happiness": 3,
-		"occursOn": ["Plains","Grassland","Desert"],
-		"uniques": ["Must be adjacent to [0] [Coast] tiles",
+		"faith": 3,
+		"happiness": 2,
+		"occursOn": ["Plains","Grassland"],
+		"uniques": ["Nullifies all other stats this tile provides",
+			"Must be adjacent to [0] [Coast] tiles",
 			"Must be adjacent to [0] [Tundra] tiles",
 			"Must be adjacent to [0] [Snow] tiles",
 			"Must be adjacent to [0] [Desert] tiles",
@@ -640,5 +642,24 @@
 		"impassable": false,
 		"unbuildable": true,
 		"weight": 3
+	},
+	{
+		"name": "Pink Terraces",
+		"type": "NaturalWonder",
+		"culture": 3,
+		"happiness": 2,
+		"occursOn": ["Plains","Grassland"],
+		"uniques": ["Nullifies all other stats this tile provides",
+			"Must be adjacent to [0] [Coast] tiles",
+			"Must be adjacent to [0] [Snow] tiles",
+			"Must be adjacent to [0] [Desert] tiles",
+			"Must be adjacent to [1] to [4] [Lakes] tiles",
+			"Must be adjacent to [1] [White Terraces] tiles",
+			"Grants [Rejuvenation] ([all healing effects doubled]) to adjacent [{Military} {Land}] units for the rest of the game",
+			"Tile provides yield without assigned population"],
+		"turnsInto": "Grassland",
+		"impassable": false,
+		"unbuildable": true,
+		"weight": 10
 	}
 ]
