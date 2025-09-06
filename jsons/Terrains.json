@@ -581,8 +581,9 @@
 		"name": "Lake Victoria",
 		"type": "NaturalWonder",
 		"food": 4,
+		"gold": 1,
 		"occursOn": ["Plains"],
-		"turnsInto": "Lakes",
+		"turnsInto": "Grassland",
 		"impassable": false,
 		"unbuildable": true,
 		"uniques": ["Fresh water",
@@ -645,7 +646,7 @@
 	},
 	{
 		"name": "Pink Terraces",
-		"type": "NaturalWonder",
+		"type": "TerrainFeature",
 		"culture": 3,
 		"happiness": 2,
 		"occursOn": ["Plains","Grassland"],
@@ -655,11 +656,10 @@
 			"Must be adjacent to [0] [Desert] tiles",
 			"Must be adjacent to [1] to [4] [Lakes] tiles",
 			"Must be adjacent to [1] [White Terraces] tiles",
+			"Must be adjacent to [0] [Pink Terraces] tiles",
 			"Grants [Rejuvenation] ([all healing effects doubled]) to adjacent [{Military} {Land}] units for the rest of the game",
 			"Tile provides yield without assigned population"],
-		"turnsInto": "Grassland",
 		"impassable": false,
-		"unbuildable": true,
-		"weight": 10
+		"unbuildable": true
 	}
 ]
