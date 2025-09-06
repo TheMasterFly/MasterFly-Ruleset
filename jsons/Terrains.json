@@ -46,8 +46,7 @@
             "Considered [Food] when determining start locations <in [Hill] Regions>",
             "Considered [Food] when determining start locations <in [Grassland] Regions>",
             "Considered [Food] when determining start locations <in [Hybrid] Regions>",
-            "Every [30] tiles with this terrain will receive a major deposit of a strategic resource.",
-			"Becomes [Pink Terraces] when adjacent to [White Terraces] <when number of [[Pink Terraces] Tiles] is less than [1]>"]
+            "Every [30] tiles with this terrain will receive a major deposit of a strategic resource."]
     },
 	{
 		"name": "Plains",
@@ -75,8 +74,7 @@
             "Considered [Food] when determining start locations <in [Hill] Regions>",
             "Considered [Food] when determining start locations <in [Plains] Regions>",
             "Considered [Food] when determining start locations <in [Hybrid] Regions>",
-            "Every [30] tiles with this terrain will receive a major deposit of a strategic resource.",
-			"Becomes [Pink Terraces] when adjacent to [White Terraces] <when number of [[Pink Terraces] Tiles] is less than [1]>"]
+            "Every [30] tiles with this terrain will receive a major deposit of a strategic resource."]
 	},
 	{
 		"name": "Tundra",
@@ -639,6 +637,7 @@
 			"Must be adjacent to [0] [Desert] tiles",
 			"Must be adjacent to [1] to [5] [Hill] tiles",
 			"Must be adjacent to [1] to [4] [Lakes] tiles",
+			"Neighboring tiles will convert to [Pink Terraces] <when number of [[Pink Terraces] Tiles] is less than [1]>",
 			"Grants [Rejuvenation] ([all healing effects doubled]) to adjacent [{Military} {Land}] units for the rest of the game",
 			"Tile provides yield without assigned population"],
 		"turnsInto": "Grassland",
@@ -657,6 +656,7 @@
 			"Grants [Rejuvenation] ([all healing effects doubled]) to adjacent [{Military} {Land}] units for the rest of the game",
 			"Tile provides yield without assigned population"],
 		"impassable": false,
-		"unbuildable": true
+		"unbuildable": true,
+		"weight": 10
 	}
 ]
