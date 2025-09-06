@@ -652,13 +652,10 @@
 		"culture": 3,
 		"happiness": 2,
 		"occursOn": ["Plains","Grassland"],
-		"uniques": ["Nullifies all other stats this tile provides",
-			"Doesn't generate naturally",
+		"uniques": ["Doesn't generate naturally",
 			"Grants [Rejuvenation] ([all healing effects doubled]) to adjacent [{Military} {Land}] units for the rest of the game",
 			"Tile provides yield without assigned population"],
-		"turnsInto": "Grassland",
 		"impassable": false,
-		"unbuildable": true,
-		"weight": 1
+		"unbuildable": true
 	}
 ]
