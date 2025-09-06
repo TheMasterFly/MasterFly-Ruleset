@@ -47,7 +47,7 @@
             "Considered [Food] when determining start locations <in [Grassland] Regions>",
             "Considered [Food] when determining start locations <in [Hybrid] Regions>",
             "Every [30] tiles with this terrain will receive a major deposit of a strategic resource.",
-			"Becomes [Pink Terraces] when adjacent to [{White Terraces}{Lakes}] <when number of [[Pink Terraces] Tiles] is less than [1]>"]
+			"Becomes [Pink Terraces] when adjacent to [White Terraces] <when number of [[Pink Terraces] Tiles] is less than [1]>"]
     },
 	{
 		"name": "Plains",
@@ -76,7 +76,7 @@
             "Considered [Food] when determining start locations <in [Plains] Regions>",
             "Considered [Food] when determining start locations <in [Hybrid] Regions>",
             "Every [30] tiles with this terrain will receive a major deposit of a strategic resource.",
-			"Becomes [Pink Terraces] when adjacent to [{White Terraces}{Lakes}] <when number of [[Pink Terraces] Tiles] is less than [1]>"]
+			"Becomes [Pink Terraces] when adjacent to [White Terraces] <when number of [[Pink Terraces] Tiles] is less than [1]>"]
 	},
 	{
 		"name": "Tundra",
