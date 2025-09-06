@@ -644,6 +644,10 @@
 		"turnsInto": "Grassland",
 		"impassable": false,
 		"unbuildable": true,
-		"weight": 4
+		"weight": 4,
+        "civilopediaText": [
+            {"text": "The largest silica sinter deposits ever found on this Earth, on the shores of Lake Rotomahana in New Zealand/Aotearoa.\nLost below the waters of the lake in 1886 due to an auspicious eruption."},
+			{"text": "Map used for drawing tile", "link":"https://blog.tepapa.govt.nz/2019/06/05/using-museum-collections-to-solve-the-pink-and-white-terraces-mystery/?cn-reloaded=1"}
+        ]
 	}
 ]
