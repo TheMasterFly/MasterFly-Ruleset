@@ -7097,9 +7097,22 @@ TileSets/Minimal/Tiles/River-BottomRight
 
 game2.png
 size:256,64
-filter:MipMapLinearLinear,MipMapLinearLinear
-repeat:none
-Lake Victoria
-bounds:70,0,68,60
-Mount Kilimanjaro
-bounds:0,0,68,60
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+
+TileSets/HexaRealm/Tiles/Lake Victoria
+    rotate: false
+    xy: 70, 0
+    size: 68, 60
+    orig: 68, 60
+    offset: 0, 0
+    index: -1
+
+TileSets/HexaRealm/Tiles/Mount Kilimanjaro
+    rotate: false
+    xy: 0, 0
+    size: 68, 60
+    orig: 68, 60
+    offset: 0, 0
+    index: -1
