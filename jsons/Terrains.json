@@ -625,9 +625,11 @@
 		"weight": 8
 	},
 	{
-		"name": "White Terraces",
+		"name": "Pink and White Terraces",
 		"type": "NaturalWonder",
-		"faith": 3,
+		"faith": 2,
+		"culture": 2,
+		"gold": 2,
 		"happiness": 2,
 		"occursOn": ["Plains","Grassland"],
 		"uniques": ["Nullifies all other stats this tile provides",
@@ -637,26 +639,11 @@
 			"Must be adjacent to [0] [Desert] tiles",
 			"Must be adjacent to [1] to [5] [Hill] tiles",
 			"Must be adjacent to [1] to [4] [Lakes] tiles",
-			"Neighboring tiles will convert to [Pink Terraces] <when number of [[Pink Terraces] Tiles] is less than [1]>",
 			"Grants [Rejuvenation] ([all healing effects doubled]) to adjacent [{Military} {Land}] units for the rest of the game",
 			"Tile provides yield without assigned population"],
 		"turnsInto": "Grassland",
 		"impassable": false,
 		"unbuildable": true,
-		"weight": 3
-	},
-	{
-		"name": "Pink Terraces",
-		"type": "NaturalWonder",
-		"culture": 3,
-		"happiness": 2,
-		"occursOn": ["Plains","Grassland"],
-		"uniques": ["Doesn't generate naturally",
-			"Nullifies all other stats this tile provides",
-			"Grants [Rejuvenation] ([all healing effects doubled]) to adjacent [{Military} {Land}] units for the rest of the game",
-			"Tile provides yield without assigned population"],
-		"impassable": false,
-		"unbuildable": true,
-		"weight": 10
+		"weight": 4
 	}
 ]
