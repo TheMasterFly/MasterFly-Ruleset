@@ -1,5 +1,5 @@
 
-Tilesets.png
+game.png
 size: 2048, 2048
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
@@ -7116,4 +7116,5 @@ Mount Kilimanjaro
     size: 68, 60
     orig: 68, 60
     offset: 0, 0
+
     index: -1
