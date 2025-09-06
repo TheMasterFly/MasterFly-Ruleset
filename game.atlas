@@ -6,14 +6,21 @@ filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 TileSets/HexaRealm/Tiles/Lake Victoria
   rotate: false
-  xy: 4, 4
+  xy: 70, 0
   size: 68, 60
   orig: 68, 60
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Mount Kilimanjaro
   rotate: false
-  xy: 80, 4
+  xy: 0, 0
+  size: 68, 60
+  orig: 68, 60
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Tiles/Mount Kilimanjaro
+  rotate: false
+  xy: 140, 0
   size: 68, 60
   orig: 68, 60
   offset: 0, 0
