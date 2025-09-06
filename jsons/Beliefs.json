@@ -243,7 +243,9 @@
         "uniques": ["[+2 Faith, +2 Gold, +2 Culture] from every [Quarry]",
         "[+2 Faith, +2 Gold, +2 Culture] from every [Quarry] <for [Lithuania] Civilizations> <hidden from users>"]
     },
-///////////////////////////////////////// Follower beliefs /////////////////////////////////////////
+
+
+
     {
         "name": "Asceticism",
         "type": "Follower",
@@ -344,7 +346,8 @@
         "type": "Follower",
         "uniques": ["May buy [Stupa] buildings with [Faith] [in cities following this religion]"]
     },
-///////////////////////////////////////// Founder beliefs //////////////////////////////////////////
+
+
 
     {
         "name": "Ceremonial Burial",
@@ -404,7 +407,7 @@
         "uniques": ["[+1 Culture] from every [2] global followers [in foreign cities]"]
     },
 
-    ////////////////////////////////////// Enhancer beliefs ///////////////////////////////////////
+
 
     {
         "name": "Defender of the Faith",
@@ -502,7 +505,9 @@
             "May buy [Broadcast Tower] buildings for [400] [Faith] [in cities following this religion]"
         ]
     },
-    ////////////////////////////////////// Reformation Enhancer beliefs ///////////////////////////////////////
+
+
+
     {
         "name": "Apostolic Palace",
         "type": "Enhancer",
