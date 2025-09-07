@@ -945,28 +945,6 @@
         "attackSound": "arrow"
     },
     {
-        "name": "Mamluk Cavalry Archer",
-        "unitType": "Mounted",
-        "uniqueTo": "Mamluks",
-        "replaces": "Crossbowman",
-        "movement": 3,
-        "strength": 13,
-        "rangedStrength": 19,
-        "range": 2,
-        "cost": 120,
-        "requiredTech": "Machinery",
-        "upgradesTo": "Gatling Gun",
-        "obsoleteTech": "Industrialization",
-        "requiredResource": "Horses",
-        "uniques": [
-            "Can move after attacking"
-        ],
-        "promotions": [
-            "Accuracy I"
-        ],
-        "attackSound": "arrow.mp3"
-    },
-    {
         "name": "Tarkhan",
         "uniqueTo": "Timurids",
         "unitType": "Mounted",
