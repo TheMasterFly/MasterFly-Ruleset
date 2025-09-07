@@ -663,7 +663,7 @@
 		"turnsInto": "Grassland",
 		"impassable": false,
 		"unbuildable": true,
-		"uniques": ["Grants [+10 Culture, +10 Science] to the first civilization to discover it"
+		"uniques": ["Grants [+10 Culture, +10 Science] to the first civilization to discover it",
 			"Fresh water",
 			"Nullifies all other stats this tile provides",
 			"Must be adjacent to [0] [Lakes] tiles",
