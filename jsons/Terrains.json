@@ -611,16 +611,18 @@
 	{
 		"name": "Chomolungma",
 		"type": "NaturalWonder",
-		"culture": 3,
-		"faith": 3,
+		"culture": 2,
+		"faith": 2,
 		"occursOn": ["Mountain"],
-		"uniques": ["Grants [Altitude Training] ([double movement and +10% Strength in hills]) to adjacent [Land] units for the rest of the game",
-			"[+1 Culture, +1 Faith] <in tiles adjacent to [Chomolungma] tiles>",
+		"uniques": ["Grants [+150 Faith] to the first civilization to discover it",
+			"Must be adjacent to [3] to [6] [Mountain] tiles",
+			"Must be adjacent to [0] [Coast] tiles",
+			"Grants [Altitude Training] ([double movement and +10% Strength in hills]) to adjacent [Land] units for the rest of the game",
 			"Tile provides yield without assigned population"],
 		"turnsInto": "Mountain",
 		"impassable": true,
 		"unbuildable": true,
-		"weight": 10
+		"weight": 6
 	},
 	{
 		"name": "Pink and White Terraces",
