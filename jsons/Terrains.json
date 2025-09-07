@@ -614,7 +614,8 @@
 		"culture": 3,
 		"faith": 3,
 		"occursOn": ["Mountain"],
-		"uniques": [
+		"uniques": ["Grants [Altitude Training] ([double movement and +10% Strength in hills]) to adjacent [Land] units for the rest of the game",
+			"[+1 Culture, +1 Faith] <in tiles adjacent to [Chomolungma] tiles>",
 			"Tile provides yield without assigned population"],
 		"turnsInto": "Mountain",
 		"impassable": true,
