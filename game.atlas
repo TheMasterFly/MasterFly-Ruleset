@@ -1,26 +1,33 @@
 
 game.png
-size: 256, 128
+size:128,256
 format: RGBA8888
-filter: MipMapLinearLinear, MipMapLinearLinear
-repeat: none
+filter:MipMapLinearLinear,MipMapLinearLinear
+repeat:none
+TileSets/HexaRealm/Tiles/King Solomon's Mines
+  rotate: false
+  xy: 0, 62
+  size: 68, 60
+  orig: 68, 60
+  offset: 0, 0
+  index: -1
 TileSets/HexaRealm/Tiles/Lake Victoria
   rotate: false
-  xy: 4, 4
+  xy: 0, 124
   size: 68, 60
   orig: 68, 60
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Mount Kilimanjaro
   rotate: false
-  xy: 80, 4
+  xy: 0, 186
   size: 68, 60
   orig: 68, 60
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Pink and White Terraces
   rotate: false
-  xy: 156, 4
+  xy: 0, 0
   size: 68, 60
   orig: 68, 60
   offset: 0, 0
