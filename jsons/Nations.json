@@ -1269,100 +1269,6 @@
         ]
     },
     {
-        "name": "Mamluks",
-        "leaderName": "Abu'l-Qasim Ahmad al-Mustansir",
-        "adjective": [
-            "Mamluks"
-        ],
-        "startBias": [
-            "Flood plains",
-            "Desert"
-        ],
-        "preferredVictoryType": "Scientific",
-        "startIntroPart1": "Marhaba, great al-Mustansir, of the emergent Mamluk Sultanate!",
-        "startIntroPart2": "Show them who rules the desert!",
-        "declaringWar": "God wills it",
-        "attacked": "May God have mercy on you, for I will not",
-        "defeated": "I'll see you in the afterlife",
-        "introduction": "Greetings!",
-        "neutralHello": "How are you doing?",
-        "neutralLetsHearIt": [
-            "Go on.",
-            "What do you say?",
-            "You may begin."
-        ],
-        "neutralNo": [
-            "We absolutely refuse.",
-            "No!",
-            "I refuse."
-        ],
-        "neutralYes": [
-            "Very good.",
-            "Of course, yes.",
-            "That is very good."
-        ],
-        "hateHello": "What do you want now?",
-        "hateLetsHearIt": [
-            "Speak!",
-            "What do you say?",
-            "Go on."
-        ],
-        "hateNo": [
-            "That is not possible!",
-            "We are not agreeing to that!",
-            "I beg your pardon?"
-        ],
-        "hateYes": [
-            "That is fine.",
-            "That is good enough.",
-            "Very well..."
-        ],
-        "afterPeace": "Very well.",
-        "tradeRequest": "We bestow you the honor of this trade offer.",
-        "outerColor": [
-            239,
-            207,
-            1
-        ],
-        "innerColor": [
-            255,
-            255,
-            255
-        ],
-        "favoredReligion": "Islam",
-        "uniqueName": "Mamluk Mercenaries",
-        "uniqueText": "Cost of purchasing land units -33%\nAll units gain +50% XP\nMay buy [Mosque] buildings with [Faith] without the religious belief\n[+2 Gold], [+25]% [Gold] from every [Mosque]",
-        "uniques": [
-            "May buy [Mosque] buildings with [Faith] [in all cities]",
-            "[+2 Gold] from every [Mosque]",
-            "[+25]% [Gold] from every [Mosque]",
-            "[Gold] cost of purchasing [Land] units [-33]%",
-            "[+50]% XP gained from combat"
-        ],
-        "cities": [
-            "Cairo",
-            "Alexandria",
-            "Damietta",
-            "Fustat",
-            "Rosetta",
-            "Aswan",
-            "Damascus",
-            "Aleppo",
-            "Jerusalem",
-            "Gaza",
-            "Tripoli",
-            "Homs",
-            "Hama",
-            "Beirut",
-            "Safed",
-            "Nablus",
-            "Mecca",
-            "Medina",
-            "Jeddah",
-            "Famagusta"
-        ]
-    },
-    {
         "name": "India",
         "leaderName": "Gandhi",
         "adjective": [
@@ -1633,6 +1539,34 @@
             "Hafsa",
             "Kosem",
             "Nurbanu"
+        ]
+    },
+    {
+        "name": "Kilwa Sultanate",
+        "leaderName": "Ali ibn al-Hassan Shirazi",
+        "adjective": ["Kilwa"],
+        "startBias": ["Coast"],
+        "startIntroPart1": "Greetings to you, resourceful Ali ibn al-Hassan Shirazi. You are the founder of the mighty Kilwa Sultanate, a proud people of the sea. You purchased the island which would become your capital for mere cloth after your unlawful ostracism at the hands of your brothers, and built it into a proud city, the envy of the known world. From this new capital, your people, proud traders by nature, travelled the length of the African coast, spreading the influence of your sultanate. The Kilwa are a tolerant people, indeed those cities under your rule feature many separate beliefs, languages and peoples - a venerable melting pot of cultures which together forged the identity of the Swahili people who to this day occupy the lands of your former sultanate.",
+        "startIntroPart2": "The empire lasted long after your death, with your descendants ruling for many more centuries, expanding the rule of the Kilwa Sultanate far and wide, falling only to an invasion of superior weaponry at the hands of European colonials. Yet none could compare to you, wise leader. Your people call for you to lead them to greatness across the seas. Will you answer their call? Can you build a civilization that will stand the test of time?",
+        "declaringWar": "It is horrible both you and I have to resort to war. But what's done is done, I suppose...",
+        "attacked": "I think you know I have this great stash of gold like barely anyone has ever seen before. Maybe you can reconsider... No? Okay, fine, your loss...",
+        "defeated": "At least I am defeated in battle, instead of falling by some treacherous vizier or an unknown cousin...",
+        "introduction": "Ah, we finally meet. Rumors and news of your great nation has already reached me through travelers.",
+        "neutralHello": "Greetings.",
+        "hateHello": "What do you want?",
+        "tradeRequest": "I urge to accept this deal. I have plenty of colored cloth...",
+        "outerColor": [255,205,0],
+        "innerColor": [203,6,6],
+        "uniqueName": "Traders of the Swahili Coast",
+        "uniques": ["[+1 Food] [in all cities]"
+        ],
+        "cities": [
+            "Kilwa Kiswani","Zanzibar","Mombasa","Malindi","Sofala","Pemba","Mozambique","Mogadishu","Lamu","Mahajanga",
+            "Antsiranana","Kismaoyo","Mzizima","Inhambane","Mafia","Comoro","Songo Mnara","Bazarula","Pate","Gedi",
+            "Chilane","Primeiras","Angosha","Mayotta","Kerimba","Anzwani","Mohilla"
+        ],
+        "spyNames": [
+            "Daud","Talut","Sabhatx","Khalid","Al-Fudail","Adilah","Kamaria","Sanaa","Hasana","Taariq"
         ]
     },
     {
