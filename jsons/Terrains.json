@@ -613,13 +613,13 @@
 		"type": "NaturalWonder",
 		"culture": 3,
 		"faith": 3,
-		"occursOn": ["Coast"],
+		"occursOn": ["Mountain"],
 		"uniques": [
 			"Tile provides yield without assigned population"],
 		"turnsInto": "Mountain",
 		"impassable": true,
 		"unbuildable": true,
-		"weight": 8
+		"weight": 10
 	},
 	{
 		"name": "Pink and White Terraces",
