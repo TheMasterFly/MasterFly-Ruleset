@@ -674,5 +674,20 @@
 			"Must be adjacent to [1] to [6] [Coast] tiles",
 			"Tile provides yield without assigned population"],
 		"weight": 10
+	},
+	{
+		"name": "Zhangye Danxia",
+		"type": "NaturalWonder",
+		"culture": 2,
+		"gold": 2,
+		"occursOn": ["Plains","Desert"],
+		"uniques": ["Must be adjacent to [0] [Coast] tiles",
+			"Must be adjacent to [2] to [6] [Desert] tiles",
+			"Occurs in groups of [2] to [5] tiles",
+			"Tile provides yield without assigned population"],
+		"turnsInto": "Hill",
+		"impassable": false,
+		"unbuildable": true,
+		"weight": 8
 	}
 ]
