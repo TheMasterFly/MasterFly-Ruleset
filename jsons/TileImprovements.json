@@ -681,8 +681,8 @@
             "Marsh"
         ],
         "turnsToBuild": 7,
-        "uniques": ["Can also be built on tiles adjacent to fresh water",
-            "Cannot be built on [{Desert} {Tundra} {Snow}] tiles",
+        "uniques": ["Cannot be built on [{Desert} {Tundra} {Snow}] tiles",
+            "Can also be built on tiles adjacent to fresh water",
             "[+1 Food, +1 Culture] from [Marsh] tiles",
             "[+1 Food] <after discovering [Fertilizer]>",
             "Pillaging this improvement yields approximately [+20 Gold]"
