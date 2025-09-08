@@ -689,6 +689,7 @@
             "Unavailable <in tiles without [Fresh Water]>",
             "Available <in [Marsh] tiles>",
             "[+1 Food] <after discovering [Civil Service]>",
+            "Improves [Luxury] resource in this tile <in [Marsh] tiles>",
             "Pillaging this improvement yields approximately [+20 Gold]"
         ],
         "techRequired": "Drama and Poetry"
