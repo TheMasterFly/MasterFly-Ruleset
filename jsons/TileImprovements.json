@@ -685,6 +685,7 @@
         ],
         "turnsToBuild": 7,
         "uniques": ["[+1 Food, +1 Production] from [Marsh] tiles",
+            "Cannot be built on [non-[Fresh Water]] tiles",
             "[+1 Food] <after discovering [Civil Service]>",
             "Pillaging this improvement yields approximately [+20 Gold]"
         ],
