@@ -675,7 +675,7 @@
     {
         "name": "Rice Paddy",
         "uniqueTo": "Đại Việt",
-        "replaces" "Farm",
+        "replaces": "Farm",
         "food": 1,
         "terrainsCanBeBuiltOn": [
             "Lakes",
