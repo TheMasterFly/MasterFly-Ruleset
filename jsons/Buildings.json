@@ -1225,17 +1225,6 @@
         "requiredTech": "Printing Press"
     },
     {
-        "name": "Water Puppet Theatre",
-        "replaces": "Theatre",
-        "uniqueTo": "Đại Việt",
-        "happiness": 2,
-        "hurryCostModifier": 10,
-        "maintenance": 2,
-        "uniques": ["[+1 Food, +1 Culture, +1 Happiness] from [Marsh] tiles [in this city]",
-            "[+2 Science] from [Jungle] tiles [in this city]"],
-        "requiredTech": "Drama and Poetry"
-    },
-    {
         "name": "Leaning Tower of Pisa",
         "culture": 1,
         "isWonder": true,
