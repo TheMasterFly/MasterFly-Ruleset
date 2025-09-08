@@ -685,6 +685,8 @@
 		"occursOn": ["Desert"],
 		"uniques": ["Nullifies all other stats this tile provides",
 			"Has an elevation of [2] for visibility calculations",
+			"Neighboring tiles will convert to [Coast]",
+			"Neighboring tiles will convert to [Desert]",
 			"Neighboring tiles will convert to [Hill]",
 			"Must be adjacent to [0] [Coast] tiles",
 			"Occurs in groups of [2] to [5] tiles",
