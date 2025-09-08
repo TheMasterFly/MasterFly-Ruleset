@@ -3852,10 +3852,9 @@
 
         "outerColor": [0,204,126],
         "innerColor": [128,3,28],
-		"uniqueName": "Nine Dragon River Delta",
-        "uniques": ["[+1 Culture] from every [River]",
-            "[+2 Production] from every [Marsh]",
-            "[{Military} {Land}] units gain the [Vietnamese Guerilla Tactics] promotion"],
+		"uniqueName": "People of the Nine Dragon River Delta",
+        "uniques": ["[+2 Science] from every [Jungle]",
+            "[Land] units gain the [Vietnamese Guerilla Tactics] promotion"],
 
 		"favoredReligion": "Buddhism",
 		"cities": ["Thăng Long","Huế","Hoa Lư","Trà Kiệu","Đồng Hới","Quảng Trị","Đà Nẵng","Cần Thơ","Con Cuông","Hội An",
