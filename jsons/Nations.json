@@ -40,13 +40,12 @@
             79
         ],
         "uniqueName": "Connector of the Sand and Water Seas",
-        "uniqueText": "+50% [Gold] from Trade Routes\n+1 [Culture], +1 [Gold] from each Trade Route per era\n+1 [Faith] from each Trade Route per era, ending after the Classical era",
+        "uniqueText": "+1 [Culture], +1 [Gold] from each Trade Route per era\n+1 [Faith] from each Trade Route per era, ending after the Renaissance era",
         "uniques": [
-            "[+50]% [Gold] from Trade Routes <hidden from users>",
             "[+1 Culture, +1 Faith, +1 Gold] from each Trade Route <starting from the [Ancient era]> <hidden from users>",
             "[+1 Culture, +1 Faith, +1 Gold] from each Trade Route <starting from the [Classical era]> <hidden from users>",
-            "[+1 Culture, +1 Gold] from each Trade Route <starting from the [Medieval era]> <hidden from users>",
-            "[+1 Culture, +1 Gold] from each Trade Route <starting from the [Renaissance era]> <hidden from users>",
+            "[+1 Culture, +1 Faith, +1 Gold] from each Trade Route <starting from the [Medieval era]> <hidden from users>",
+            "[+1 Culture, +1 Faith, +1 Gold] from each Trade Route <starting from the [Renaissance era]> <hidden from users>",
             "[+1 Culture, +1 Gold] from each Trade Route <starting from the [Industrial era]> <hidden from users>",
             "[+1 Culture, +1 Gold] from each Trade Route <starting from the [Modern era]> <hidden from users>",
             "[+1 Culture, +1 Gold] from each Trade Route <starting from the [Atomic era]> <hidden from users>",
@@ -3823,6 +3822,48 @@
             "Qingu"
         ]
     },
+	{
+		"name": "Đại Việt",
+		"leaderName": "Lê Thánh Tông",
+		"adjective": ["Vietnamese"],
+		"startBias": ["Jungle", "Coast"],
+		"preferredVictoryType": "Scientific",
+		
+		"startIntroPart1": "Lê Thánh Tông, originally born as Lê Tư Thành, you came into your reign through retaking the dynasty from the traitorous couper and your second brother Lê Nghi Dân. Your rule was marked by unprecendented reforms of the military, civil education, tax code and very culture of Vietnam. You expanded the nation of Đại Việt into South Vietnam through the weakening and eventual conquest of the Champa nation. Your cultural reforms replaced an aged aristocracy with a generation of scholars, your lowered taxes allowed merchant businesses to flourish and your massive civil education examination efforts turned Đại Việt into a scholarly nation. Personally, you wrote a constitution for Vietnam, which uniquely established property rights, while an incredible 350 poems are credited to you.",
+		"startIntroPart2": "Thánh Tông, the people and nation of Vietnam are like a lotus in strong currents. You have always been bordered by strong, massive states who seek to invade you, and nothing has changed. Can you secure a legacy and a nation for your people that will endure forever? Will you build a civilization to stand the test of time?",
+		
+		"declaringWar": "The best defence is a grand offense.",
+		"attacked": "Once again, the Đại Việt faces a foreign invader. You cannot hope to remain here for long.",
+		"defeated": "I pray that my people endure, long after your rule is swept away like ashes in the wind.",
+		"introduction": "My temple name is Lê Thánh Tông of the Đại Việt, The Greater Viet.",
+		
+		"neutralHello": "Greetings.",
+		"neutralLetsHearIt": ["Go on.","Let's discuss it.","You may start."],
+		"neutralNo": ["That Doesn't advantage The people of Đại Việt.","We Refuse.","Not today, perhaps later."],
+		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+
+		"hateHello": "State Your Purpose.",
+		"hateLetsHearIt": ["Speak now.","Explain."],
+		"hateNo": ["That will not be possible.","That is not agreeable.","We refuse."],
+		"hateYes": ["Sure, For Now...","Great...","Very well..."],
+		
+		"afterPeace": "Both our peoples will thank us for this.",
+		"tradeRequest": "Đại Việt bestows this great offer to you.",
+
+        "outerColor": [0,204,126],
+        "innerColor": [128,3,28],
+		"uniqueName": "Nine Dragon River Delta",
+        "uniques": ["[+1 Culture] from every [River]",
+            "[+2 Production] from every [Marsh]",
+            "[{Military} {Land}] units gain the [Vietnamese Guerilla Tactics] promotion"],
+
+		"favoredReligion": "Buddhism",
+		"cities": ["Thăng Long","Huế","Hoa Lư","Trà Kiệu","Đồng Hới","Quảng Trị","Đà Nẵng","Cần Thơ","Con Cuông","Hội An",
+                        "Mỹ Tho","Quy Nhơn","Sài Gòn","Đà Lạt","Hải Phòng","Biên Hòa","Nha Trang","Rạch Giá","Long Biên","Nam Định",
+                        "Vinh","Thái Nguyên","Hạ Long","Vũng Tàu","Thanh Hóa","Buôn Ma Thuột","Việt Trì","Hải Dương","Thủ Dầu Một","Bắc Ninh",
+                        "Phan Thiết","Cà Mau","Tuy Hòa","Long Xuyên","Phan Rang","Châu Đốc","Tháp Chàm","Thái Bình","Cẩm Phả","Sa Đéc","Pleiku"],
+		"spyNames": ["Nguyễn Tuấn", "Hồ Chí Minh", "Nguyễn Thị Minh Khai", "Phan Hằng", "Ngô Đông", "Trần Vân", "Lê An", "Đặng Kim", "Lý Chiến", "Đỗ Phương"]
+	},
     {
         "name": "Brussels",
         "adjective": [
