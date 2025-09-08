@@ -679,12 +679,13 @@
         "culture": 1,
         "terrainsCanBeBuiltOn": [
             "Marsh",
-            "Fresh Water"
+            "Plains",
+            "Grassland",
+            "Hill"
         ],
         "turnsToBuild": 7,
-        "uniques": ["Cannot be built on [{Desert} {Tundra} {Snow}] tiles",
-            "[+1 Food, +1 Culture] from [Marsh] tiles",
-            "[+1 Food] <after discovering [Fertilizer]>",
+        "uniques": ["[+1 Food, +1 Production] from [Marsh] tiles",
+            "[+1 Food] <after discovering [Civil Service]>",
             "Pillaging this improvement yields approximately [+20 Gold]"
         ],
         "techRequired": "Drama and Poetry"
