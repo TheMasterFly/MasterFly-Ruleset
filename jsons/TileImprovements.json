@@ -673,25 +673,29 @@
         "shortcutKey": "F"
     },
     {
-        "name": "Rice Paddy Water Puppet Theatre",
+        "name": "Rice Paddy",
         "uniqueTo": "Đại Việt",
+        "replaces" "Farm",
         "food": 1,
-        "culture": 1,
         "terrainsCanBeBuiltOn": [
+            "Lakes",
             "Marsh",
             "Plains",
             "Grassland",
             "Hill"
         ],
-        "turnsToBuild": 7,
-        "uniques": ["[+1 Food, +1 Production] from [Marsh] tiles",
-            "Does not need removal of [Marsh]",
+        "turnsToBuild": 8,
+        "uniques": ["Does not need removal of [Marsh]",
             "Unavailable <in tiles without [Fresh Water]>",
             "Available <in [Marsh] tiles>",
+            "Available <in [Hill] tiles>",            
+            "[+1 Food, +1 Production] from [Marsh] tiles",
+            "[+1 Production] <in tiles adjacent to [Jungle] tiles>",
             "[+1 Food] <after discovering [Civil Service]>",
+            "[+1 Food] <after discovering [Fertilizer]>",
             "Pillaging this improvement yields approximately [+20 Gold]"
         ],
-        "techRequired": "Drama and Poetry"
+        "techRequired": "Agriculture"
     },
     {
         "name": "Ancient ruins",
