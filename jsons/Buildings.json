@@ -9,7 +9,12 @@
         "cityStrength": 2.5,
         "cost": 0,
         "uniques": [
-            "Indicates the capital city"
+            "Indicates the capital city",
+            "Provides [2] [Horses] <upon discovering [Animal Husbandry] technology>",
+            "Provides [2] [Iron] <upon discovering [Iron Working] technology>",
+            "Provides [2] [Coal] <upon discovering [Industrialization] technology>",
+            "Provides [1] [Oil] <upon discovering [Biology] technology>",
+            "Provides [1] [Aluminum] <upon discovering [Electricity] technology>"
         ]
     },
     {
@@ -25,6 +30,11 @@
         "cost": 0,
         "uniques": [
             "Indicates the capital city",
+            "Provides [2] [Horses] <upon discovering [Animal Husbandry] technology>",
+            "Provides [2] [Iron] <upon discovering [Iron Working] technology>",
+            "Provides [2] [Coal] <upon discovering [Industrialization] technology>",
+            "Provides [1] [Oil] <upon discovering [Biology] technology>",
+            "Provides [1] [Aluminum] <upon discovering [Electricity] technology>",
             "[+2 Culture, +2 Science, +2 Happiness] [in capital] <for every [Skull Pyramids]>",
             "Comment [[Skull Pyramids] are gained by conquering cities]",
             "[+50]% Production when constructing [{Monument} {Amphitheater} {Opera House} {Museum} {Library} {University} {Observatory}] buildings [in your cities] <for [10] turns> <upon conquering a city>",
