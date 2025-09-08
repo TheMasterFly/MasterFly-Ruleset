@@ -692,7 +692,7 @@
 			"Occurs in groups of [2] to [5] tiles",
 			"Tile provides yield without assigned population"],
 		"turnsInto": "Desert",
-		"impassable": false,
+		"impassable": true,
 		"unbuildable": true,
 		"weight": 8
 	}
