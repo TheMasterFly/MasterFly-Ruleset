@@ -685,12 +685,12 @@
             "Hill"
         ],
         "turnsToBuild": 8,
-        "uniques": ["Comment [Yields 2 [Food] in [Fresh Water] tiles\nYields +1 [Food] in [Hill] tiles\nYields +2 [Food], +2 [Production] in [Marsh] tiles\nYields nothing in [Desert], [Tundra] and [Snow] tiles]",
+        "uniques": ["Comment [Yields 1 [Food] in [Fresh Water] tiles\nYields +1 [Food] in [Hill] tiles\nYields +2 [Food], +2 [Production] in [Marsh] tiles\nYields nothing in [Desert], [Tundra] and [Snow] tiles]",
             "[-1 Food] <hidden from users>",
             "Does not need removal of [Marsh]",
             "[+1 Food] from [Fresh Water] tiles <hidden from users>",
             "[+1 Food] from [{Hill} {non-[Fresh Water]}] tiles <hidden from users>",
-            "[+2 Food, +2 Production] from [Marsh] tiles <hidden from users>",
+            "[+1 Food, +1 Production] from [Marsh] tiles <hidden from users>",
             "[+1 Production] <in tiles adjacent to [Jungle] tiles> <in [non-[Desert]] tiles> <in [non-[Tundra]] tiles> <in [non-[Snow]] tiles> <hidden from users>",
             "[+1 Food] <after discovering [Civil Service]>",
             "Pillaging this improvement yields approximately [+20 Gold]"
