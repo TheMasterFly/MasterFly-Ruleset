@@ -690,8 +690,7 @@
             "Does not need removal of [Marsh]",
             "[+1 Food] from [Fresh Water] tiles <hidden from users>",
             "[+1 Food] from [{Hill} {non-[Fresh Water]}] tiles <hidden from users>",
-            "[+1 Food, +1 Production] from [Marsh] tiles <hidden from users>",
-            "[+1 Production] <in tiles adjacent to [Jungle] tiles> <in [non-[Desert]] tiles> <in [non-[Tundra]] tiles> <in [non-[Snow]] tiles> <hidden from users>",
+            "[+2 Food, +1 Production] from [Marsh] tiles <hidden from users>",
             "[+1 Food] <after discovering [Civil Service]>",
             "Pillaging this improvement yields approximately [+20 Gold]"
         ],
