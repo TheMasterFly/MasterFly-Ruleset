@@ -1027,16 +1027,15 @@
     },
     {
         "name": "Angkor Wat",
-        "culture": 2,
         "science": 2,
         "greatPersonPoints": {
             "Great Scientist": 2
         },
         "isWonder": true,
         "uniques": [
-            "Gain a free [University] [in this city]"
+            "[+1 Culture, +1 Production] from [Jungle] tiles [in all cities]"
         ],
-        "requiredTech": "Education",
+        "requiredTech": "Theology",
         "quote": "'The temple is like no other building in the world. It has towers and decoration and all the refinements which the human genius can conceive of.' - Antonio da Magdalena"
     },
     {
