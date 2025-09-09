@@ -685,7 +685,7 @@
             "Hill"
         ],
         "turnsToBuild": 8,
-        "uniques": ["Comment [Yields 2 [Food] in [Fresh Water] tiles\nYields +1 [Food] in [Hill] tiles\nYields +2 [Food], +2 [Production] in [Marsh] tiles]\nYields nothing in [Desert], [Tundra] and [Snow] tiles",
+        "uniques": ["Comment [Yields 2 [Food] in [Fresh Water] tiles\nYields +1 [Food] in [Hill] tiles\nYields +2 [Food], +2 [Production] in [Marsh] tiles\nYields nothing in [Desert], [Tundra] and [Snow] tiles]",
             "[-1 Food] <hidden from users>",
             "Does not need removal of [Marsh]",
             "[+1 Food] from [Fresh Water] tiles <hidden from users>",
