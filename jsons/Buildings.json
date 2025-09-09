@@ -1240,8 +1240,8 @@
         "food": 1,
         "hurryCostModifier": 20,
         "maintenance": 2,
-        "uniques": ["Unavailable "<in [non-[Coastal]] tiles>",
-            "Unavailable "<in [non-[Fresh Water]] tiles>",
+        "uniques": ["Unavailable <in [non-[Coastal]] tiles>",
+            "Unavailable <in [non-[Fresh Water]] tiles>",
              "[+1 Food, +1 Production] from [Marsh] tiles [in all cities]"],
         "requiredTech": "Agriculture"
     },
