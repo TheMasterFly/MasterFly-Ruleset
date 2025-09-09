@@ -1239,19 +1239,13 @@
         "replaces": "Theatre",
         "uniqueTo": "Đại Việt",
         "happiness": 3,
+        "culture": 1,
         "hurryCostModifier": 20,
         "maintenance": 2,
-        "uniques": ["Comment [Unavailable in non-[Fresh Water], [Desert], [Tundra] and [Snow] tiles]",
-            "Unavailable <in [{non-[Fresh Water]} {Desert}] tiles> <hidden from users>",
-            "Unavailable <in [Tundra] tiles> <hidden from users>",
-            "Unavailable <in [Snow] tiles> <hidden from users>",
-            "Unavailable <in [{non-[Fresh Water]} {Grassland}] tiles> <hidden from users>",
-            "Unavailable <in [{non-[Fresh Water]} {Plains}] tiles> <hidden from users>",
-            "[+1 Culture] from [Rice Paddy] tiles [in this city]",
+        "uniques": ["[+1 Culture] from [Rice Paddy] tiles [in this city]",
             "[+1 Culture] from [Marsh] tiles [in this city]",
-            "[+1 Culture] from [Lakes] tiles [in this city]",
-            "[+1 Gold] from [Coast] tiles [in this city]"],
-        "requiredTech": "Agriculture"
+            "[+1 Culture] from [Lakes] tiles [in this city]"],
+        "requiredTech": "Drama and Poetry"
     },
     {
         "name": "Leaning Tower of Pisa",
