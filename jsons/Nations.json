@@ -454,6 +454,9 @@
         "adjective": [
             "Chinese"
         ],
+        "startBias": [
+            "Silk"
+        ],
         "preferredVictoryType": "Scientific",
         "personality": "Wu Zetian",
         "startIntroPart1": "Heaven itself bends before your beauty, Empress Wu Zetian, ruler of eternal China! You lead one of the oldest and greatest civilization of humanity. In your time, China stood at the forefront of science and technology, bringing the world such contributions as gunpowder, the printing press, and the world of Confucius, and this, long before the rest of the world was mature enough to make the same discoveries!",
