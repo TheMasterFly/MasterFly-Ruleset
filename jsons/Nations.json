@@ -3853,7 +3853,8 @@
         "outerColor": [0,204,126],
         "innerColor": [128,3,28],
 		"uniqueName": "People of the Nine Dragon River Delta",
-        "uniques": ["[+2 Science] from every [Jungle]",
+        "uniques": ["[+1 Science] from every [Jungle]",
+			"[+1 Science] from every [Jungle] <starting from the [Renaissance era]>",
             "[Land] units gain the [Vietnamese Guerilla Tactics] promotion"],
 
 		"favoredReligion": "Buddhism",
