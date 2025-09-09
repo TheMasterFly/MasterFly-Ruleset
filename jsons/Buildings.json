@@ -1238,13 +1238,15 @@
         "name": "Water Puppet Theatre",
         "replaces": "Theatre",
         "uniqueTo": "Đại Việt",
-        "happiness": 3,
+        "happiness": 1,
         "culture": 1,
         "hurryCostModifier": 25,
         "maintenance": 2,
-        "uniques": ["[+1 Culture] from [Rice Paddy] tiles [in this city]",
+        "uniques": ["Comment [Unlocked by [Drama and Poetry]]",
+            "[+1 Culture] from [Rice Paddy] tiles [in this city]",
             "[+1 Culture] from [Marsh] tiles [in this city]",
-            "[+1 Culture] from [Lakes] tiles [in this city]"],
+            "[+1 Culture] from [Lakes] tiles [in this city]",
+            "[+2 Happiness] [in this city] <after discovering [Printing Press]>"],
         "requiredTech": "Drama and Poetry"
     },
     {
