@@ -928,15 +928,14 @@
         "production": 2,
         "specialistSlots": {
             "Engineer": 1,
-            "Artist": 1,
-            "Merchant": 1
+            "Artist": 1
         },
         "hurryCostModifier": 25,
         "percentStatBonus": {
             "production": 10
         },
-        "uniques": ["[+1 Happiness] from [Silk] tiles [in this city]",
-            "Gain [61] [Gold] <upon expending a [Great Person] unit> <(modified by game speed)>"],
+        "uniques": ["[+3 Gold] from [Silk] tiles [in this city]",
+            "Provides [1] [Silk]"],
         "requiredTech": "Metal Casting"
     },
     {
