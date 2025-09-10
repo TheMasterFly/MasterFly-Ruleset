@@ -934,7 +934,8 @@
         "percentStatBonus": {
             "production": 10
         },
-        "uniques": ["[+3 Gold] from [Silk] tiles [in this city]",
+        "uniques": ["Comment [+1 Artist specialist slot]",
+            "[+3 Gold] from [Silk] tiles [in this city]",
             "Provides [1] [Silk]"],
         "requiredTech": "Metal Casting"
     },
