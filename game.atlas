@@ -6,21 +6,21 @@ filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 TileSets/HexaRealm/Tiles/Chocolate Hills
   rotate: false
-  xy: 4, 150
+  xy: 0, 0
   size: 68, 60
   orig: 68, 60
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Chomolungma
   rotate: false
-  xy: 80, 4
+  xy: 0, 186
   size: 64, 68
   orig: 64, 68
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Great Blue Hole
   rotate: false
-  xy: 152, 16
+  xy: 140, 134
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
@@ -34,35 +34,35 @@ TileSets/HexaRealm/Tiles/King Solomon's Mines
   index: -1
 TileSets/HexaRealm/Tiles/Lake Hillier
   rotate: false
-  xy: 80, 148
+  xy: 136, 192
   size: 68, 62
   orig: 68, 62
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Lake Victoria
   rotate: false
-  xy: 4, 14
+  xy: 0, 62
   size: 68, 60
   orig: 68, 60
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Mount Kilimanjaro
   rotate: false
-  xy: 80, 80
+  xy: 0, 124
   size: 68, 60
   orig: 68, 60
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Pink and White Terraces
   rotate: false
-  xy: 156, 150
+  xy: 70, 68
   size: 68, 60
   orig: 68, 60
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/Zhangye Danxia
   rotate: false
-  xy: 156, 80
+  xy: 66, 192
   size: 68, 62
   orig: 68, 62
   offset: 0, 0
