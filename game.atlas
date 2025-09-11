@@ -27,7 +27,7 @@ TileSets/HexaRealm/Tiles/Great Blue Hole
   index: -1
 TileSets/HexaRealm/Tiles/King Solomon's Mines
   rotate: false
-  xy: 4, 82
+  xy: 70, 130
   size: 68, 60
   orig: 68, 60
   offset: 0, 0
