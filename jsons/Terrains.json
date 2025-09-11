@@ -334,6 +334,7 @@
 	{
 		"name": "Great Barrier Reef",
 		"type": "NaturalWonder",
+		"movementCost": 2,
 		"culture": 1,
 		"food": 2,
 		"production": 1,
@@ -347,7 +348,7 @@
 			"Occurs in groups of [2] to [2] tiles",
 			"Tile provides yield without assigned population"],
 		"turnsInto": "Coast",
-		"impassable": true,
+		"impassable": false,
 		"unbuildable": true,
 		"weight": 10
 	},
@@ -713,5 +714,24 @@
 		"impassable": true,
 		"unbuildable": true,
 		"weight": 8
+	},
+	{
+		"name": "Great Blue Hole",
+		"type": "NaturalWonder",
+		"movementCost": 1,
+		"food": 4,
+		"gold": 2,
+		"science": 4,
+		"occursOn": ["Coast"],
+		"uniques": ["Must be adjacent to [2] to [6] [Coast] tiles",
+			"Must be adjacent to [1] [Grassland] tiles",
+			"Occurs on latitudes from [10] to [70] percent of distance equator to pole",
+			"Grants [+10 Science, +50 Gold] to the first civilization to discover it",
+			"Neighboring tiles will convert to [Coast]",
+			"Tile provides yield without assigned population"],
+		"turnsInto": "Coast",
+		"impassable": false,
+		"unbuildable": true,
+		"weight": 10
 	}
 ]
