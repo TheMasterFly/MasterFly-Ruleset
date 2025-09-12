@@ -366,7 +366,7 @@
 		"turnsInto": "Mountain",
 		"impassable": true,
 		"unbuildable": true,
-		"weight": 1
+		"weight": 10
 	},
 	{
 		"name": "El Dorado",
@@ -413,7 +413,7 @@
 		"turnsInto": "Mountain",
 		"impassable": true,
 		"unbuildable": true,
-		"weight": 1
+		"weight": 9
 	},
 	{
 		"name": "Mount Fuji",
@@ -450,7 +450,7 @@
 		"turnsInto": "Mountain",
 		"impassable": true,
 		"unbuildable": true,
-		"weight": 1
+		"weight": 10
 	},
 	{
 		"name": "Rock of Gibraltar",
@@ -531,7 +531,7 @@
 		"turnsInto": "Mountain",
 		"impassable": true,
 		"unbuildable": true,
-		"weight": 1
+		"weight": 10
 	},
 	{
 		"name": "Sri Pada",
@@ -579,7 +579,7 @@
 		"turnsInto": "Plains",
 		"impassable": true,
 		"unbuildable": true,
-		"weight": 4
+		"weight": 5
 	},
 	{
 		"name": "Lake Victoria",
@@ -645,7 +645,7 @@
 		"turnsInto": "Mountain",
 		"impassable": true,
 		"unbuildable": true,
-		"weight": 1
+		"weight": 7
 	},
 	{
 		"name": "Pink and White Terraces",
@@ -730,6 +730,6 @@
 		"turnsInto": "Coast",
 		"impassable": false,
 		"unbuildable": true,
-		"weight": 1
+		"weight": 8
 	}
 ]
