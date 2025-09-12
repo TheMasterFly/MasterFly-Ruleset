@@ -355,8 +355,8 @@
 	{
 		"name": "Old Faithful",
 		"type": "NaturalWonder",
-		"science": 7,
-		"happiness": 3,
+		"science": 4,
+		"happiness": 4,
 		"occursOn": ["Grassland","Plains","Tundra","Mountain"],
 		"uniques": ["Must be adjacent to [0] [Coast] tiles",
 			"Must be adjacent to [0] to [4] [Mountain] tiles",
@@ -467,7 +467,7 @@
 		"turnsInto": "Mountain",
 		"impassable": true,
 		"unbuildable": true,
-		"weight": 10
+		"weight": 8
 	},
 	{
 		"name": "Cerro de Potosi",
@@ -486,19 +486,19 @@
 	{
 		"name": "Barringer Crater",
 		"type": "NaturalWonder",
-		"gold": 2,
-		"science": 6,
+		"gold": 4,
+		"science": 5,
 		"occursOn": ["Desert","Tundra"],
 		"uniques": ["Must be adjacent to [0] [Coast] tiles",
 			"Must be adjacent to [0] [Grassland] tiles",
 			"Must be adjacent to [0] to [2] [Mountain] tiles",
 			"Must be adjacent to [0] to [4] [Elevated] tiles",
-			"Grants [+50 Science] to the first civilization to discover it",
+			"Grants [+40 Science] to the first civilization to discover it",
 			"Tile provides yield without assigned population"],
 		"turnsInto": "Mountain",
 		"impassable": true,
 		"unbuildable": true,
-		"weight": 10
+		"weight": 9
 	},
 	{
 		"name": "Mount Kailash",
@@ -733,6 +733,6 @@
 		"turnsInto": "Coast",
 		"impassable": false,
 		"unbuildable": true,
-		"weight": 10
+		"weight": 9
 	}
 ]
