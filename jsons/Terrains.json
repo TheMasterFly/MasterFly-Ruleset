@@ -532,7 +532,7 @@
 		"turnsInto": "Mountain",
 		"impassable": true,
 		"unbuildable": true,
-		"weight": 10
+		"weight": 1
 	},
 	{
 		"name": "Sri Pada",
@@ -646,7 +646,7 @@
 		"turnsInto": "Mountain",
 		"impassable": true,
 		"unbuildable": true,
-		"weight": 6
+		"weight": 1
 	},
 	{
 		"name": "Pink and White Terraces",
@@ -731,6 +731,6 @@
 		"turnsInto": "Coast",
 		"impassable": false,
 		"unbuildable": true,
-		"weight": 9
+		"weight": 1
 	}
 ]
