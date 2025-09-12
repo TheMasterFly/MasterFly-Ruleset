@@ -1,9 +1,9 @@
 
 game.png
-size: 256, 256
+size:256,256
 format: RGBA8888
-filter: MipMapLinearLinear, MipMapLinearLinear
-repeat: none
+filter:MipMapLinearLinear,MipMapLinearLinear
+repeat:none
 TileSets/HexaRealm/Tiles/Chocolate Hills
   rotate: false
   xy: 0, 0
