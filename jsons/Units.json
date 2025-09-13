@@ -813,18 +813,19 @@
     {
         "name": "Monaspa",
         "unitType": "Mounted",
-        "replaces": "Warrior",
+        "replaces": "Knight",
         "uniqueTo": "Georgia",
         "movement": 4,
         "strength": 22,
-        "cost": 2,
-        "requiredTech": "Agriculture",
+        "cost": 120,
+        "requiredTech": "Chivalry",
         "obsoleteTech": "Military Science",
+        "requiredResource": "Horses",
         "upgradesTo": "Cavalry",
         "uniques": [
             "Can move after attacking",
             "[-25]% Strength <vs cities> <when attacking>",
-            "[+25]% Strength bonus for [Monaspa] units within [2] tiles",
+            "[+25]% Strength <when adjacent to a [Monaspa] unit>",
             "Never appears as a Barbarian unit"
         ],
         "attackSound": "horse"
