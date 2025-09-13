@@ -563,6 +563,8 @@
 			"Must be adjacent to [0] [Desert] tiles",
 			"Must be adjacent to [0] [Marsh] tiles",
 			"Must not be on [1] largest landmasses",
+			"Neighboring tiles will convert to [Ebony Forest] <in [Forest] tiles>",
+			"Neighboring tiles will convert to [Ebony Forest] <in [Jungle] tiles>",
 			"Tile provides yield without assigned population"],
 		"turnsInto": "Mountain",
 		"impassable": true,
