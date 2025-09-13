@@ -1534,6 +1534,7 @@
     {
         "name": "Mountain Guardians",
         "uniques": ["Can pass through impassable tiles <in tiles adjacent to [City center] tiles>",
+            "Can pass through impassable tiles <in [City center] tiles>",
             "[+20]% Strength <within [2] tiles of a [Mountain]>",
             "Earn [50]% of killed [All] unit's [Cost] as [Faith] <within [2] tiles of a [Mountain]>"]
     }
