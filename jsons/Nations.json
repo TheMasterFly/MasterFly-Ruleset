@@ -1366,7 +1366,7 @@
         "uniques": ["[Land] units gain the [Mountain Guardians] promotion <hidden from users>",
 			"[+2 Food, +1 Production] from every [Mountain] <in tiles adjacent to [City center] tiles>",
 			"[+1 Faith] from every [Mountain] <in tiles adjacent to [City center] tiles> <starting from the [Classical era]>",
-			"[+1 Production, +1 Faith] from every [Mountain] <in tiles adjacent to [City center] tiles> <starting from the [Medieval era]>",
+			"[+1 Faith] from every [Mountain] <in tiles adjacent to [City center] tiles> <starting from the [Medieval era]>",
             "Comment [Units may cross [Mountain] tiles when adjacent to city tiles\nLand units gain +20% strength and earn 33% of killed unit's cost as [Faith] within 2 tiles of a [Mountain]]"
         ],
         "cities": [
