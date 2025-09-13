@@ -241,6 +241,7 @@
 		"defenceBonus": 0.25,
 		"uniques": ["Rough terrain",
 					"Doesn't generate naturally",
+					"A Region is formed with at least [50]% [Ebony Forest] tiles, with priority [3]",
 					"Provides a one-time bonus of [+10 Production] to the closest city when cut down <(modified by game speed)>",
 					"Blocks line-of-sight from tiles at same elevation",
 					"[25]% Chance to be destroyed by nukes"],
