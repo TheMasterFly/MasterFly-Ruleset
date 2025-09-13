@@ -1353,6 +1353,38 @@
             "Jyotsna"
         ]
     },
+	{
+        "name": "Georgia",
+        "leaderName": "Tamar",
+        "adjective": ["Georgian"],
+        "startBias": ["Avoid [Coast]"],
+        "startIntroPart1": "The mountains echo with the strength of our ancestors.",
+        "startIntroPart2": "Georgia rises, proud and unbroken.",
+        "declaringWar": "Your actions dishonor the legacy of peace. Now, feel the might of Georgia!",
+        "attacked": "Your treachery knows no bounds! Georgia will endure, and you will fall!",
+        "defeated": "The proud heart of Georgia is silent... but her spirit will rise again.",
+        "introduction": "Gamarjoba. In the name of the ancient land of Kartli, welcome.",
+        "neutralHello": "The mountains stand still. What do you seek?",
+        "hateHello": "Enough talk! What is it this time?",
+        "tradeRequest": "This trade honors us both. Shall we proceed?",
+        "outerColor": [149,129,189],
+        "innerColor": [254,254,51],
+        "uniqueName": "Jewel of the Caucausus",
+        "uniques": ["[Land] units gain the [Mountain Guardians] promotion <hidden from users>",
+			"[+2 Food, +1 Production] from every [Mountain] <in tiles adjacent to [City center] tiles>",
+			"[+1 Faith] from every [Mountain] <in tiles adjacent to [City center] tiles> <starting from the [Classical era]>",
+			"[+1 Production, +1 Faith] from every [Mountain] <in tiles adjacent to [City center] tiles> <starting from the [Medieval era]>",
+            "Comment [Units may cross [Mountain] tiles when adjacent to city tiles\nLand units gain +20% strength and earn 50% of killed unit's cost as [Faith] within 2 tiles of a [Mountain]]"
+        ],
+        "cities": [
+            "Tbilisi","Kutaisi","Batumi","Sokhumi","Zugdidi","Rust'avi","P'ot'i","Gori","Ts'khinvali","Samtredia",
+            "Khashuri","Senak'i","Zestap'oni","Telavi","Ozurgeti","Marneuli","Kobuleti","Tqvarch'eli","Akhaltsikhe","Tsqaltubo",
+            "Kaspi"
+        ],
+        "spyNames": [
+            "Giorgi","Mariam","Davit","Tamar","Levan","Nino","Zurab","Salome","Vazha","Ekaterine"
+        ]
+    },
     {
         "name": "Germany",
         "leaderName": "Otto von Bismarck",
