@@ -70,7 +70,8 @@
     {
         "name": "Qvevri Cellar",
         "uniqueTo": "Georgia",
-        "maintenance": 3,
+        "maintenance": 2,
+        "cost": 68,
         "hurryCostModifier": 30,
         "uniques": ["[+1 Culture, +1 Faith] [in this city] <after founding a religion>",
             "[+1 Culture, +1 Faith] from [Wine] tiles [in this city]",
