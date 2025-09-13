@@ -590,7 +590,7 @@
 	{
 		"name": "Ebony Wood",
 		"resourceType": "Luxury",
-		"uniques": ["Doesn't generate naturally"]
+		"uniques": ["Doesn't generate naturally", "Stockpiled"]
 	},
 
     {
