@@ -235,7 +235,6 @@
 		"overrideStats": true,
 		"unbuildable": true,
 		"defenceBonus": 0.25,
-		"occursOn": ["Grassland","Hill"],
 		"uniques": ["Rough terrain", "Vegetation",
 					"Doesn't generate naturally",
 					"Provides a one-time bonus of [+10 Production] to the closest city when cut down <(modified by game speed)>",
