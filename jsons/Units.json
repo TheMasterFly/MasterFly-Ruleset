@@ -811,6 +811,25 @@
         "attackSound": "horse"
     },
     {
+        "name": "Monaspa",
+        "unitType": "Mounted",
+        "replaces": "Warrior",
+        "uniqueTo": "Georgia",
+        "movement": 4,
+        "strength": 22,
+        "cost": 2,
+        "requiredTech": "Agriculture",
+        "obsoleteTech": "Military Science",
+        "upgradesTo": "Cavalry",
+        "uniques": [
+            "Can move after attacking",
+            "[-25]% Strength <vs cities> <when attacking>",
+            "[+25]% Strength bonus for [Monaspa] units within [2] tiles",
+            "Never appears as a Barbarian unit"
+        ],
+        "attackSound": "horse"
+    },
+    {
         "name": "Naresuan's Elephant",
         "unitType": "Mounted",
         "replaces": "Knight",
