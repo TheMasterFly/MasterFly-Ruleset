@@ -68,6 +68,16 @@
         ]
     },
     {
+        "name": "Qvevri Cellar",
+        "uniqueTo": "Georgia",
+        "maintenance": 3,
+        "hurryCostModifier": 30,
+        "uniques": ["[+1 Culture, +1 Faith] [in this city] <after founding a religion>",
+            "[+1 Culture, +1 Faith] from [Wine] tiles [in this city]",
+            "Provides [1] [Wine]"],
+        "requiredTech": "Agriculture"
+    },
+    {
         "name": "Stele",
         "replaces": "Monument",
         "uniqueTo": "Ethiopia",
