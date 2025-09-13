@@ -716,10 +716,9 @@
         "requiredResource": "Horses",
         "uniques": ["No movement cost to pillage",
             "Ignores terrain cost",
-            "Ignores Zone of Control",
             "Can move after attacking",
-            "[+20]% to Flank Attack bonuses",
-            "[+50]% Health from pillaging tiles",
+            "[+33]% to Flank Attack bonuses",
+            "[+33]% Health from pillaging tiles",
             "[-66]% Strength <vs cities> <when attacking>"
         ],
         "attackSound": "horse"
