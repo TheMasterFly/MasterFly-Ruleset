@@ -20,7 +20,8 @@
             "All tiles cost 1 movement <if [Palace] is not constructed>",
             "Excess Food converted to Production when under construction",
             "Requires at least [2] population",
-            "Cost increases by [20] when built"
+            "Cost increases by [20] when built",
+            "Can pass through impassable tiles <for all movement> <for [Georgia] Civilizations> <hidden from users>"
         ],
         "hurryCostModifier": 15
     },
