@@ -1446,6 +1446,7 @@
     {
         "name": "Mountain Guardians",
         "uniques": ["Can pass through impassable tiles <within [1] tiles of a [City center]>",
+            "All tiles cost 3 movement <in [Mountain] tiles>",
             "[+20]% Strength <within [2] tiles of a [Mountain]>",
             "Earn [25]% of killed [All] unit's [Cost] as [Faith] <within [2] tiles of a [Mountain]>"]
     },
@@ -1501,7 +1502,7 @@
         "name": "Tibetan Mountain Ability",
         "uniques": [
             "Double movement in [Hill]",
-            "All tiles cost 1 movement <in [Mountain] tiles>"
+            "All tiles cost 2 movement <in [Mountain] tiles>"
         ]
     },
     {
