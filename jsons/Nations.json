@@ -1350,10 +1350,10 @@
         "name": "Georgia",
         "leaderName": "Tamar",
         "adjective": ["Georgian"],
-        "startBias": ["Avoid [Coast]"],
+        "startBias": ["Mountain", "Avoid [Coast]"],
         "startIntroPart1": "The mountains echo with the strength of our ancestors.",
         "startIntroPart2": "Georgia rises, proud and unbroken.",
-        "declaringWar": "Your actions dishonor the legacy of peace. Now, feel the might of Georgia!",
+        "declaringWar": "Your actions dishonor our legacy of peace. Now, feel the might of Georgia!",
         "attacked": "Your treachery knows no bounds! Georgia will endure, and you will fall!",
         "defeated": "The proud heart of Georgia is silent... but her spirit will rise again.",
         "introduction": "Gamarjoba. In the name of the ancient land of Kartli, welcome.",
@@ -1366,7 +1366,6 @@
         "uniques": ["[Land] units gain the [Mountain Guardians] promotion <hidden from users>",
 			"[+2 Food, +1 Production] from every [Mountain] <in tiles adjacent to [City center] tiles>",
 			"[+1 Faith] from every [Mountain] <in tiles adjacent to [City center] tiles> <starting from the [Classical era]>",
-			"[+1 Faith] from every [Mountain] <in tiles adjacent to [City center] tiles> <starting from the [Medieval era]>",
             "Comment [Units may cross [Mountain] tiles when adjacent to city tiles\nLand units gain +20% strength and earn 33% of killed unit's cost as [Faith] within 2 tiles of a [Mountain]]"
         ],
         "cities": [
