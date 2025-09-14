@@ -1447,7 +1447,7 @@
         "name": "Mountain Guardians",
         "uniques": ["Can pass through impassable tiles <within [1] tiles of a [City center]>",
             "[-1] Movement <in [Mountain] tiles>",
-            "[-1] Movement <upon entering a [Farm] tile>",
+            "[-1] Movement <upon entering a [Mountain] tile>",
             "[+20]% Strength <within [2] tiles of a [Mountain]>",
             "Earn [25]% of killed [All] unit's [Cost] as [Faith] <within [2] tiles of a [Mountain]>"]
     },
