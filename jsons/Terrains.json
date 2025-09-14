@@ -216,7 +216,6 @@
 		"occursOn": ["Plains","Grassland"],
 		"uniques": [
 			"Rough terrain", "Vegetation",
-			"Becomes [Ebony Forest] when adjacent to [Mount Kilimanjaro]",
 			"Provides a one-time bonus of [+30 Gold] to the closest city when cut down <(modified by game speed)>",
 			"Blocks line-of-sight from tiles at same elevation",
 			"[25]% Chance to be destroyed by nukes",
@@ -240,7 +239,7 @@
 		"unbuildable": true,
 		"defenceBonus": 0.25,
 		"uniques": ["Rough terrain",
-					"Becomes [Forest] when adjacent to [Land] <within [100] tiles of a [Ebony Forest]>",
+					"Becomes [Fountain of Youth] when adjacent to [Land] <within [100] tiles of a [Ebony Forest]>",
 					"Provides a one-time bonus of [+10 Production] to the closest city when cut down <(modified by game speed)>",
 					"Blocks line-of-sight from tiles at same elevation",
 					"[25]% Chance to be destroyed by nukes"],
