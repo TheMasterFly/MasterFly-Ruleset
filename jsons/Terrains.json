@@ -29,7 +29,7 @@
 		"food": 2,
 		"movementCost": 1,
         "RGB": [0, 163, 0],
-        "uniques": ["Becomes [Ebony Forest] when adjacent to [Mount Kilimanjaro]",
+        "uniques": [
 			"Occurs at temperature between [-0.4] and [0.1] and humidity between [0.2] and [0.4]",
             "Occurs at temperature between [0.1] and [0.2] and humidity between [0.3] and [0.4]",
             "Occurs at temperature between [-0.5] and [0.5] and humidity between [0.6] and [0.8]",
@@ -193,7 +193,6 @@
 		"defenceBonus": 0.25,
 		"occursOn": ["Tundra","Plains","Grassland","Hill"],
 		"uniques": ["Rough terrain", "Vegetation",
-					"Becomes [Ebony Forest] when adjacent to [Mount Kilimanjaro]",
 					"Provides a one-time bonus of [+30 Production] to the closest city when cut down <(modified by game speed)>",
 					"Blocks line-of-sight from tiles at same elevation",
 					"[25]% Chance to be destroyed by nukes",
@@ -241,7 +240,7 @@
 		"unbuildable": true,
 		"defenceBonus": 0.25,
 		"uniques": ["Rough terrain",
-					"Doesn't generate naturally",
+					"Becomes [Forest] when adjacent to [Land] <within [100] tiles of a [Ebony Forest]>",
 					"Provides a one-time bonus of [+10 Production] to the closest city when cut down <(modified by game speed)>",
 					"Blocks line-of-sight from tiles at same elevation",
 					"[25]% Chance to be destroyed by nukes"],
@@ -631,7 +630,6 @@
 			"Must be adjacent to [0] [Tundra] tiles",
 			"Must be adjacent to [2] to [6] [Hill] tiles",
 			"Must be adjacent to [0] to [2] [Mountain] tiles",
-			"Neighboring tiles will convert to [Ebony Forest]",
 			"Grants [Altitude Training] ([double movement and +10% Strength in hills]) to adjacent [Land] units for the rest of the game",
 			"Tile provides yield without assigned population"],
 		"weight": 10
