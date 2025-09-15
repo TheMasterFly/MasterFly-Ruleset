@@ -1538,11 +1538,11 @@
     {
         "name": "Fire Lance Infantry Ability",
         "uniques": ["[+1] Range",
+            "[This Unit] gains the [Fire Lance Infantry Second Attack] status for [1] turn(s) <upon entering combat>",
             "[+33]% Strength",
             "[+33]% Strength <vs [Water] units> <when attacking>",
             "[+33]% Strength <vs [Siege] units> <when attacking>",
-            "[This Unit] gains the [Fire Lance Infantry Second Attack] status for [1] turn(s) <upon entering combat>",
-            "[This Unit] loses the [Fire Lance Infantry Ability] promotion <upon gaining the [Fire Lance Infantry Second Attack] promotion>"]
+            "[This Unit] loses the [Fire Lance Infantry Ability] promotion <upon entering combat>"]
     },
     {
         "name": "Fire Lance Infantry Second Attack",
