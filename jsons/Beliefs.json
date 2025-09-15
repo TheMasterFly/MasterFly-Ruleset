@@ -10,8 +10,8 @@
     {
         "name": "Dance of the Aurora",
         "type": "Pantheon",
-        "uniques": ["[+1 Faith, +1 Gold] from every [Tundra]",
-        "[+1 Faith, +1 Gold] from every [Tundra] <for [Lithuania] Civilizations> <hidden from users>"]
+        "uniques": ["[+1 Culture, +1 Faith] from every [Tundra]",
+        "[+1 Culture, +1 Faith] from every [Tundra] <for [Lithuania] Civilizations> <hidden from users>"]
     },
     {
         "name": "Desert Folklore",
@@ -29,9 +29,9 @@
         "name": "Fertility Rites",
         "type": "Pantheon",
         "uniques": ["[+10]% growth [in this city]",
-        "[+1 Food] [in this city]",
+        "[+2 Food] [in this city]",
         "[+10]% growth [in this city] <for [Lithuania] Civilizations> <hidden from users>",
-        "[+1 Food] [in this city] <for [Lithuania] Civilizations> <hidden from users>"]
+        "[+2 Food] [in this city] <for [Lithuania] Civilizations> <hidden from users>"]
     },
     {
         "name": "God-King",
@@ -64,8 +64,8 @@
     {
         "name": "God of the Open Sky",
         "type": "Pantheon",
-        "uniques": ["[+1 Production, +1 Culture] from every [Pasture]",
-        "[+1 Production, +1 Culture] from every [Pasture] <for [Lithuania] Civilizations> <hidden from users>"]
+        "uniques": ["[+1 Production, +1 Culture, +1 Gold] from every [Pasture]",
+        "[+1 Production, +1 Culture, +1 Gold] from every [Pasture] <for [Lithuania] Civilizations> <hidden from users>"]
     },
     {
         "name": "God of the Harvest",
@@ -150,8 +150,8 @@
     {
         "name": "Goddess of the Hunt",
         "type": "Pantheon",
-        "uniques": ["[+1 Production, +1 Culture] from every [Camp]",
-        "[+1 Food, +1 Culture, +1 Production] from every [Camp] <for [Lithuania] Civilizations> <hidden from users>"]
+        "uniques": ["[+1 Production, +1 Culture, +1 Gold] from every [Camp]",
+        "[+1 Culture, +1 Production, +1 Gold] from every [Camp] <for [Lithuania] Civilizations> <hidden from users>"]
     },
     {
         "name": "King Under The Mountain",
@@ -186,14 +186,14 @@
     {
         "name": "One with Nature",
         "type": "Pantheon",
-        "uniques": ["[+2 Faith, +2 Production, +2 Happiness] from every [Natural Wonder]",
-        "[+2 Faith, +2 Production, +2 Happiness] from every [Natural Wonder] <for [Lithuania] Civilizations> <hidden from users>"]
+        "uniques": ["[+50]% Yield from every [Natural Wonder]",
+        "[+50]% Yield from every [Natural Wonder] <for [Lithuania] Civilizations> <hidden from users>"]
     },
     {
         "name": "Oral Tradition",
         "type": "Pantheon",
-        "uniques": ["[+1 Culture, +1 Production] from every [Plantation]",
-        "[+1 Food, +1 Culture, +1 Production] from every [Plantation] <for [Lithuania] Civilizations> <hidden from users>"]
+        "uniques": ["[+1 Culture, +1 Production, +1 Gold] from every [Plantation]",
+        "[+1 Culture, +1 Production, +1 Gold] from every [Plantation] <for [Lithuania] Civilizations> <hidden from users>"]
     },
     {
         "name": "Rain Dancing",
@@ -225,9 +225,9 @@
         "name": "Sacred Path",
         "type": "Pantheon",
         "uniques": ["[+1 Production] from every [Jungle]",
-        "[+2 Culture] from every [Jungle] <starting from the [Renaissance era]>",
+        "[+1 Culture] from every [Jungle] <starting from the [Renaissance era]>",
         "[+1 Production] from every [Jungle] <for [Lithuania] Civilizations> <hidden from users>",
-        "[+2 Culture] from every [Jungle] <starting from the [Renaissance era]> <for [Lithuania] Civilizations> <hidden from users>"]
+        "[+1 Culture] from every [Jungle] <starting from the [Renaissance era]> <for [Lithuania] Civilizations> <hidden from users>"]
     },
     {
         "name": "Sacred Waters",
@@ -493,7 +493,7 @@
     {
         "name": "Reliquary",
         "type": "Enhancer",
-        "uniques": ["Gain [130] [Faith] <upon expending a [Great Person] unit> <(modified by game speed)>"]
+        "uniques": ["Gain [150] [Faith] <upon expending a [Great Person] unit> <(modified by game speed)>"]
     },
     {
         "name": "Houses of Worship",
@@ -512,7 +512,7 @@
         "name": "Apostolic Palace",
         "type": "Enhancer",
         "uniques": [
-            "[+5 Production, +5 Gold, +5 Food, +5 Science, +5 Culture, +5 Faith] from every [Grand Temple]",
+            "[+4 Production, +4 Gold, +4 Food, +4 Science, +4 Culture, +4 Faith, +4 Happiness] from every [Grand Temple]",
             "Only available <after adopting [Reformation]>"
         ]
     },
@@ -561,7 +561,7 @@
         "name": "Sanctified Innovations",
         "type": "Enhancer",
         "uniques": [
-            "[+1 Faith, +1 Production, +1 Science] from every [National Wonder]"
+            "[+1 Production, +1 Food, +1 Culture, +1 Faith, +1 Science, +1 Gold, +1 Happiness] from every [National Wonder]"
         ]
     },
     {
@@ -594,6 +594,7 @@
     {
         "name": "Unity of the Prophets",
         "type": "Enhancer",
-        "uniques": ["[+4 Faith, +2 Production] from every [Holy site]"]
+        "uniques": ["[+4 Gold, +4 Production] from every [Holy site]",
+                "Free [Great Prophet] appears"]
     }
 ]
