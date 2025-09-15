@@ -1091,6 +1091,24 @@
         "attackSound": "metalhit"
     },
     {
+        "name": "Fire Lance Infantry",
+        "unitType": "Sword",
+        "replaces": "Longswordsman",
+        "uniqueTo": "Song Dynasty",
+        "movement": 2,
+        "strength": 20,
+        "cost": 85,
+        "requiredTech": "Metal Casting",
+        "upgradesTo": "Musketman",
+        "obsoleteTech": "Gunpowder",
+        "uniques": ["[This Unit] gains the [Fire Lance Infantry Ability] promotion <upon defeating a [All] unit>"
+        ],
+        "promotions": [
+            "Fire Lance Infantry Ability"
+        ],
+        "attackSound": "metalhit"
+    },
+    {
         "name": "Caravel",
         "unitType": "Melee Water",
         "movement": 4,
