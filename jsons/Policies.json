@@ -48,7 +48,7 @@
                 "name": "Landed Elite",
                 "uniques": [
                     "[+10]% growth [in capital]",
-                    "[+2 Food] [in capital]"
+					"[+1 Production] from every specialist [in all cities]"
                 ],
                 "requires": [
                     "Legalism"
