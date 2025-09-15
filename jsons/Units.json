@@ -1096,16 +1096,28 @@
         "replaces": "Longswordsman",
         "uniqueTo": "Song Dynasty",
         "movement": 2,
-        "range": 1,
+        "strength": 20,
+        "cost": 90,
+        "requiredTech": "Metal Casting",
+        "upgradesTo": "Musketman",
+        "obsoleteTech": "Gunpowder",
+        "uniques": ["Comment [Cannot capture cities, doesn't take damage from attacking. Has special one-use attack that deals bonus damage, increased against [Siege] and [Water] units, resetting on kills]",
+            "Can transform to [Persian Immortal (Ranged)]"],
+        "attackSound": "metalhit"
+    },
+    {
+        "name": "Fire Lance Infantry (Ranged)",
+        "unitType": "Sword",
+        "uniqueTo": "Song Dynasty",
+        "movement": 2,
+        "range": 2,
         "strength": 16,
         "rangedStrength": 16,
         "cost": 90,
         "requiredTech": "Metal Casting",
         "upgradesTo": "Musketman",
         "obsoleteTech": "Gunpowder",
-        "uniques": ["Comment [Cannot capture cities, doesn't take damage from attacking. Has special one-use attack that deals bonus damage, increased against [Siege] and [Water] units, resetting on kills]",
-            "[This Unit] gains the [Fire Lance Infantry Ability] promotion <upon defeating a [All] unit>",
-            "[This Unit] gains the [Fire Lance Infantry Ability] promotion <once>"],
+        "uniques": ["Unbuildable","Cannot be purchased","Can transform to [Persian Immortal]"]
         "attackSound": "metalhit"
     },
     {
