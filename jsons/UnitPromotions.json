@@ -1536,12 +1536,17 @@
             "[+30]% Strength <when fighting in [Marsh] tiles>"]
     },
     {
-        "name": "Fire Lance Infantry Ability",
-        "uniques": ["[+1] Range",
-            "[Target Unit] takes [20] damage",
-            "[+50]% Strength <vs [Water] units> <when attacking>",
-            "[+50]% Strength <vs [Siege] units> <when attacking>",
+        "name": "Fire Lance Infantry Ability (Active)",
+        "uniques": ["[+33]% Strength <when attacking>",
+            "[+33]% Strength <vs [Water] units> <when attacking>",
+            "[+33]% Strength <vs [Siege] units> <when attacking>",
             "[1] additional attacks per turn",
-            "[This Unit] loses the [Fire Lance Infantry Ability] promotion <upon entering combat>"]
+            "[This Unit] gains the [Fire Lance Infantry Ability (Inactive)] promotion <upon entering combat>",
+            "[This Unit] loses the [Fire Lance Infantry Ability (Active)] promotion <upon gaining the [Fire Lance Infantry Ability (Inactive)] status>"]
+    },
+    {
+        "name": "Fire Lance Infantry Ability (Inactive)",
+        "uniques": ["[This Unit] gains the [Fire Lance Infantry Ability (Active)] promotion <upon defeating a [All] unit>",
+            "[This Unit] loses the [Fire Lance Infantry Ability (Inactive)] promotion <upon gaining the [Fire Lance Infantry Ability (Active)] status>"]
     }
 ]
