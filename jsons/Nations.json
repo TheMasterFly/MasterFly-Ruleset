@@ -2662,9 +2662,11 @@
         "outerColor": [20, 15, 151],
         "innerColor": [9, 112, 84],
         "uniqueName": "Song Patronage",
-        "uniques": ["[+2 Production] from every Engineer [in all cities]",
-			"[+2 Science] from every Scientist [in all cities]",
-			"[+2 Culture] from every Artist [in all cities]"
+        "uniques": ["[+2 Production] from every [Engineer] [in all cities]",
+			"[+2 Science] from every scientist [in all cities]",
+			"[+2 Culture] from every [Artist] [in all cities]",
+			"Starts with [Metal Casting]",
+			"[+20 Production] [in capital]"
         ],
         "cities": [
             "Kaifeng","Hangzhou","Chengdu","Yangzhou","Fuzhou","Guangzhou","Quanzhou","Jingdezhen","Nanjing","Changsha","Suzhou","Xiangyang","Wenzhou","Luoyang","Shaoxing","Hefei","Chongqing","Leshan","Ganzhou","Yueyang"
