@@ -1102,7 +1102,7 @@
         "upgradesTo": "Musketman",
         "obsoleteTech": "Gunpowder",
         "promotions": [
-            "Fire Lance Infantry Ability"
+            "Fire Lance Infantry Ability (Active)"
         ],
         "attackSound": "metalhit"
     },
