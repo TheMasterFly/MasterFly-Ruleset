@@ -1547,9 +1547,5 @@
     {
         "name": "Fire Lance Infantry Second Attack",
         "uniques": ["[1] additional attacks per turn"]
-    },
-    {
-        "name": "New",
-        "uniques": ["Comment [Placeholder]"]
     }
 ]
