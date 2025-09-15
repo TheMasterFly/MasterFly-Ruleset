@@ -1454,12 +1454,9 @@
         "name": "Nisean Mounts",
         "uniques": [
             "Comment [Bonus damage from spear units nullified]",
-            "[+10]% Strength <for every adjacent [Mountain]>",
-            "[+5]% Strength <for every adjacent [Hill]>",
-            "[+10]% Strength <in [Hill] tiles>",
+            "[+20]% Strength <within [2] tiles of a [Mountain]>",
             "[+50]% Strength <vs [Spear Unit Ability]>",
-            "No defensive terrain penalty",
-            "Ignores terrain cost"
+            "No defensive terrain penalty"
         ]
     },
     {
@@ -1510,7 +1507,7 @@
         "uniques": [
             "[+10]% Strength <for every adjacent [Mountain]>",
             "[+5]% Strength <for every adjacent [Hill]>",
-            "[+15]% Strength <in [Mountain] tiles>",
+            "[+10]% Strength <in [Mountain] tiles>",
             "[+5]% Strength <in [Hill] tiles>",
             "[This Unit] takes [10] damage <upon ending a turn in a [Mountain] tile>"
         ]
@@ -1520,7 +1517,7 @@
         "uniques": [
             "[+8]% Strength <for every adjacent [Mountain]>",
             "[+4]% Strength <for every adjacent [Hill]>",
-            "[+10]% Strength <in [Mountain] tiles>",
+            "[+5]% Strength <in [Mountain] tiles>",
             "[+4]% Strength <in [Hill] tiles>",
             "[This Unit] takes [15] damage <upon ending a turn in a [Mountain] tile>",
             "[15] HP when healing <in [{Mountain} {Friendly Land}] tiles>"
