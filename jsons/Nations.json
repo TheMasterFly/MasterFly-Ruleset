@@ -2645,6 +2645,34 @@
             "Ozcollo"
         ]
     },
+	{
+        "name": "Song Dynasty",
+        "leaderName": "Taizong of Song",
+        "adjective": ["Song"],
+        "startBias": ["Coast", "River"],
+        "startIntroPart1": "Greetings Taizong, Second Emperor of the Song Dynasty! Your elder brother Emperor Taizu was a distinguished general in the ailing Later Zhou, who forced Emperor Gong to resign and founded the Song Dynasty, ending the Five Dynasties And Ten Kingdoms era of China. His lessening of the powers of military generals, greater reliance on civilian bureaucrats and conquering of rogue territories led to a significantly stronger state, and you continued his conquests, unifying China for the first time in hundreds of moons. Your care for your people was great, and your provision of opportunities through a broader civil examination, increasing of civil services and advancing of agricultural programs made the Song the richest nation of the eleventh century. Finally, your national flourished culturally, with innovations such as paper money, greater refinement of gunpowder, movable type printing and magnetic compasses bringing light to a world dark of innovation.",
+        "startIntroPart2": "Ruler of the Middle Kingdom, from the mountains of the Tian Shan to the jungles of Vietnam, your people need you once again. Can you keep the forces of chaos and strife at bay? Can you build a civilisation that will stand the test of time?",
+        "declaringWar": "My brother and I have crushed many small states like yourself. Let this be quick",
+        "attacked": "More invaders from the steppe? You'll find the South is not so easily conquered",
+        "defeated": "I hear the wails of my people, yet cannot soothe them...",
+        "introduction": "The bringer of order Emperor Taizong greets you",
+        "neutralHello": "Much is at work today. Welcome",
+        "hateHello": "Chaos has no place in my court for long. What brings you to me?",
+        "tradeRequest": "The Middle Kingdom wishes to share its bountiful wealth",
+        "outerColor": [20, 15, 151],
+        "innerColor": [9, 112, 84],
+        "uniqueName": "Song Patronage",
+        "uniques": ["[+2 Production] from every Engineer [in all cities]",
+			"[+2 Science] from every Scientist [in all cities]",
+			"[+2 Culture] from every Artist [in all cities]"
+        ],
+        "cities": [
+            "Kaifeng","Hangzhou","Chengdu","Yangzhou","Fuzhou","Guangzhou","Quanzhou","Jingdezhen","Nanjing","Changsha","Suzhou","Xiangyang","Wenzhou","Luoyang","Shaoxing","Hefei","Chongqing","Leshan","Ganzhou","Yueyang"
+        ],
+        "spyNames": [
+            "Bao Zheng","Di Qing","Yue Fei","Su Song","Fan Zhongyan","Zhou Tong","Lu You","Sima Guang","Shen Kuo","Li Qingzhao"
+        ]
+    },
     {
         "name": "Denmark",
         "leaderName": "Harald Bluetooth",
