@@ -1537,7 +1537,7 @@
     },
     {
         "name": "Fire Lance Infantry Ability",
-        "uniques": ["[+2] Range",
+        "uniques": ["[+1] Range",
             "[+50]% Strength <vs [Water] units> <when attacking>",
             "[+50]% Strength <vs [Siege] units> <when attacking>",
             "[1] additional attacks per turn",
