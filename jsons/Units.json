@@ -1093,7 +1093,6 @@
     {
         "name": "Fire Lance Infantry",
         "unitType": "Sword",
-        "replaces": "Longswordsman",
         "uniqueTo": "Song Dynasty",
         "movement": 2,
         "strength": 20,
@@ -1102,6 +1101,7 @@
         "upgradesTo": "Musketman",
         "obsoleteTech": "Gunpowder",
         "uniques": ["Comment [Cannot capture cities, doesn't take damage from attacking. Has special one-use attack that deals bonus damage, increased against [Siege] and [Water] units, resetting on kills]",
+            "Unbuildable","Cannot be purchased",
             "Can transform to [Fire Lance Infantry (Ranged)]"],
         "attackSound": "metalhit"
     },
@@ -1109,6 +1109,7 @@
         "name": "Fire Lance Infantry (Ranged)",
         "unitType": "Sword",
         "uniqueTo": "Song Dynasty",
+        "replaces": "Longswordsman",
         "movement": 2,
         "range": 2,
         "strength": 16,
@@ -1117,7 +1118,8 @@
         "requiredTech": "Metal Casting",
         "upgradesTo": "Musketman",
         "obsoleteTech": "Gunpowder",
-        "uniques": ["Unbuildable","Cannot be purchased","Can transform to [Fire Lance Infantry]"]
+        "uniques": ["Can transform to [Fire Lance Infantry] <upon gaining the [New] promotion>",
+            "[This Unit] gains the [New] promotion <upon entering combat>"],
         "attackSound": "metalhit"
     },
     {
