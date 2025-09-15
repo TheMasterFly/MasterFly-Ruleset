@@ -1104,9 +1104,6 @@
         "upgradesTo": "Musketman",
         "obsoleteTech": "Gunpowder",
         "uniques": ["[This Unit] gains the [Fire Lance Infantry Ability] promotion <upon defeating a [All] unit>"],
-        "promotions": [
-            "Fire Lance Infantry Ability"
-        ],
         "attackSound": "metalhit"
     },
     {
