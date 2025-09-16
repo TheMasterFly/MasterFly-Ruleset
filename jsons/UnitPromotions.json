@@ -1486,7 +1486,8 @@
     {
         "name": "Spear Unit Ability",
         "uniques": [
-            "[+50]% Strength <vs [Mounted] units>"
+            "[+50]% Strength <vs [Mounted] units>",
+            "[+66]% Strength <vs [Ranged Mounted] units>"
         ]
     },
     {
