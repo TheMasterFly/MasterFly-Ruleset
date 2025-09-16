@@ -1277,7 +1277,7 @@
         "hurryCostModifier": 25,
         "maintenance": 2,
         "uniques": ["Comment [Unlocked by [Drama and Poetry]]",
-            "[+1 Culture] from [{Rice Paddy} {Fresh Water}] tiles [in this city]",
+            "[+1 Culture] from [Fresh Water] tiles [in this city]",
             "[+1 Culture] from [Marsh] tiles [in this city]",
             "[+1 Culture] from [Lakes] tiles [in this city]",
             "[+2 Happiness] [in this city] <after discovering [Printing Press]>"],
