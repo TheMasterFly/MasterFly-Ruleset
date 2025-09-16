@@ -28,6 +28,10 @@
         "movementType": "Land"
     },
     {
+        "name": "Ranged Mounted",
+        "movementType": "Land"
+    },
+    {
         "name": "Armored",
         "movementType": "Land"
     },
@@ -117,4 +121,5 @@
         "name": "AtomicBomber",
         "movementType": "Air"
     }
+
 ]
