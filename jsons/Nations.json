@@ -2663,7 +2663,7 @@
         "innerColor": [255, 255, 255],
         "uniqueName": "Song Patronage",
         "uniques": ["[+1 Food] [in all cities] <starting from the [Classical era]>",
-			"[+2 Food] [in all cities] <starting from the [Medieval era]>",
+			"[+1 Food] [in all cities] <starting from the [Medieval era]>",
 			"[+2 Production] from every [Engineer]",
 			"[+2 Science] from every [Scientist]",
 			"[+2 Culture] from every [Artist]"],
@@ -3898,10 +3898,10 @@
 		"neutralNo": ["That Doesn't advantage The people of Đại Việt.","We Refuse.","Not today, perhaps later."],
 		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
 
-		"hateHello": "State Your Purpose.",
+		"hateHello": "State your purpose.",
 		"hateLetsHearIt": ["Speak now.","Explain."],
 		"hateNo": ["That will not be possible.","That is not agreeable.","We refuse."],
-		"hateYes": ["Sure, For Now...","Great...","Very well..."],
+		"hateYes": ["Sure.","Great.","Very well."],
 		
 		"afterPeace": "Both our peoples will thank us for this.",
 		"tradeRequest": "Đại Việt bestows this great offer to you.",
