@@ -2647,11 +2647,11 @@
     },
 	{
         "name": "Song Dynasty",
-        "leaderName": "Taizong of Song",
+        "leaderName": "Taizong",
         "adjective": ["Song"],
         "startBias": ["Coast", "River"],
         "startIntroPart1": "Greetings Taizong, Second Emperor of the Song Dynasty! Your elder brother Emperor Taizu was a distinguished general in the ailing Later Zhou, who forced Emperor Gong to resign and founded the Song Dynasty, ending the Five Dynasties And Ten Kingdoms era of China. His lessening of the powers of military generals, greater reliance on civilian bureaucrats and conquering of rogue territories led to a significantly stronger state, and you continued his conquests, unifying China for the first time in hundreds of moons. Your care for your people was great, and your provision of opportunities through a broader civil examination, increasing of civil services and advancing of agricultural programs made the Song the richest nation of the eleventh century. Finally, your national flourished culturally, with innovations such as paper money, greater refinement of gunpowder, movable type printing and magnetic compasses bringing light to a world dark of innovation.",
-        "startIntroPart2": "Ruler of the Middle Kingdom, from the mountains of the Tian Shan to the jungles of Vietnam, your people need you once again. Can you keep the forces of chaos and strife at bay? Can you build a civilisation that will stand the test of time?",
+        "startIntroPart2": "Ruler of the Middle Kingdom, from the mountains of the Tian Shan to the jungles of Yunnan/Guangxi, your people need you once again. Can you keep the forces of chaos and strife at bay? Can you build a civilisation that will stand the test of time?",
         "declaringWar": "My brother and I have crushed many small states like yourself. Let this be quick",
         "attacked": "More invaders from the steppe? You'll find the South is not so easily conquered",
         "defeated": "I hear the wails of my people, yet cannot soothe them...",
@@ -3809,7 +3809,7 @@
         "defeated": "When I rise from the dead, the world shall tremble",
         "introduction": "Hello, I am Timur, the Conqueror. My empire was vast, but my ambition was greater.",
         "neutralHello": "Speak now, while I still consider words more valuable than war.",
-        "hateHello": "Your arrogance is vast—like my empire once was. Time to reduce both.",
+        "hateHello": "Your arrogance is vast, yet it cannot rival my empire",
         "tradeRequest": "Trade is the breath between wars. Speak your terms swiftly, before I change my mind.",
         "outerColor": [
             202,
