@@ -306,7 +306,7 @@
     },
     {
         "name": "Horse Archer",
-        "unitType": "Archery",
+        "unitType": "Ranged Mounted",
         "uniqueTo": "The Huns",
         "replaces": "Chariot Archer",
         "movement": 4,
@@ -326,7 +326,7 @@
     },
     {
         "name": "War Elephant",
-        "unitType": "Archery",
+        "unitType": "Ranged Mounted",
         "uniqueTo": "India",
         "replaces": "Chariot Archer",
         "movement": 3,
@@ -790,7 +790,7 @@
     },
     {
         "name": "Camel Archer",
-        "unitType": "Archery",
+        "unitType": "Ranged Mounted",
         "replaces": "Knight",
         "uniqueTo": "Arabia",
         "movement": 4,
@@ -865,6 +865,7 @@
             "Can move after attacking",
             "No defensive terrain bonus",
             "[+50]% Strength <vs [Mounted] units>",
+            "[+50]% Strength <vs [Ranged Mounted] units>",
             "[-33]% Strength <vs cities> <when attacking>"
         ],
         "attackSound": "elephant"
@@ -889,7 +890,7 @@
     },
     {
         "name": "Keshik",
-        "unitType": "Archery",
+        "unitType": "Ranged Mounted",
         "replaces": "Knight",
         "uniqueTo": "Mongolia",
         "range": 2,
@@ -987,7 +988,7 @@
     {
         "name": "Tarkhan",
         "uniqueTo": "Timurids",
-        "unitType": "Mounted",
+        "unitType": "Ranged Mounted",
         "movement": 4,
         "cost": 130,
         "replaces": "Crossbowman",
@@ -1002,6 +1003,21 @@
             "Can move after attacking",
             "Ignore terrain cost"
         ]
+    },
+    {
+        "name": "Voi Chiến",
+        "unitType": "Ranged Mounted",
+        "uniqueTo": "Đại Việt",
+        "replaces": "Crossbowman",
+        "movement": 2,
+        "strength": 20,
+        "rangedStrength": 10,
+        "cost": 150,
+        "uniques": ["[2] additional attacks per turn"],
+        "requiredTech": "Machinery",
+        "upgradesTo": "Gatling Gun",
+        "obsoleteTech": "Industrialization",
+        "attackSound": "crossbow"
     },
     {
         "name": "Trebuchet",
