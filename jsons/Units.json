@@ -708,7 +708,7 @@
         "name": "Light Cavalry",
         "unitType": "Mounted",
         "movement": 4,
-        "strength": 16,
+        "strength": 14,
         "cost": 100,
         "requiredTech": "Metal Casting",
         "obsoleteTech": "Metallurgy",
@@ -717,6 +717,7 @@
         "uniques": ["No movement cost to pillage",
             "Ignores terrain cost",
             "Can move after attacking",
+            "[+33]% Strength <vs [Ranged] units>",
             "[+33]% to Flank Attack bonuses",
             "[+33]% Health from pillaging tiles",
             "[-66]% Strength <vs cities> <when attacking>"
