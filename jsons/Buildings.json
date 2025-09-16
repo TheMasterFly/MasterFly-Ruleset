@@ -1224,15 +1224,15 @@
         "gold": 2,
         "specialistSlots": {
             "Merchant": 2,
-            "Engineer": 1
+            "Engineer": 1,
+			"Scientist": 1
         },
         "hurryCostModifier": 15,
         "percentStatBonus": {
             "gold": 25
         },
-        "uniques": ["Comment [+1 Merchant, +1 Engineer specialist slot]",
-            "[+2 Gold] from every [Merchant] <if [Paper Maker] is constructed in all [in this city] cities>",
-			"[+1 Gold] from every specialist [in this city]"],
+        "uniques": ["Comment [+1 Merchant, +1 Engineer, +1 Scientist specialist slot]",
+			"[+2 Gold] from every specialist [in this city]"],
         "requiredBuilding": "Market",
         "requiredTech": "Banking"
     },
