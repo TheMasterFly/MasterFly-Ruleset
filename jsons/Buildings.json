@@ -1231,8 +1231,8 @@
             "gold": 25
         },
         "uniques": ["Comment [+1 Merchant, +1 Engineer specialist slot]",
-            "[+3 Gold] from every [Merchant] [in this city]",
-            "[+1 Gold] from every [Engineer] [in this city]"],
+            "[+2 Gold] from every [Merchant] <if [Paper Maker] is constructed in all [in this city] cities>",
+			"[+1 Gold] from every specialist [in this city]"],
         "requiredBuilding": "Market",
         "requiredTech": "Banking"
     },
