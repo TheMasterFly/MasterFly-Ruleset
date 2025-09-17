@@ -949,7 +949,7 @@
     {
         "name": "Silk Workshop",
         "replaces": "Workshop",
-        "uniqueTo": "China",
+        "uniqueTo": "Tang",
         "maintenance": 4,
         "production": 2,
         "specialistSlots": {
@@ -1220,7 +1220,7 @@
     {
 		"name": "Paper Maker",
 		"replaces": "Bank",
-		"uniqueTo": "Song Dynasty",
+		"uniqueTo": "Song",
         "gold": 2,
         "specialistSlots": {
             "Merchant": 2,
