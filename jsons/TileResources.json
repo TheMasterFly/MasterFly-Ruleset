@@ -601,6 +601,6 @@
     {
         "name": "Tang Connections",
         "resourceType": "Strategic",
-        "uniques": ["Not shown on world screen <for [non-[Tang]] Civilizations>", "Cannot be traded", "Stockpiled"]
+        "uniques": ["Not shown on world screen <for [non-[Tang]] Civilizations>", "Cannot be traded"]
     }
 ]
