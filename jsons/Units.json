@@ -953,7 +953,7 @@
     {
         "name": "Chu-Ko-Nu",
         "unitType": "Archery",
-        "uniqueTo": "China",
+        "uniqueTo": "Tang",
         "movement": 2,
         "strength": 12,
         "rangedStrength": 14,
@@ -1111,7 +1111,7 @@
         "name": "Fire Lance Infantry",
         "unitType": "Sword",
         "replaces": "Longswordsman",
-        "uniqueTo": "Song Dynasty",
+        "uniqueTo": "Song",
         "movement": 2,
         "range": 1,
         "strength": 16,
