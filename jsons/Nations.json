@@ -127,8 +127,8 @@
         "favoredReligion": "Islam",
         "uniqueName": "Rashidun Jihad/Black Gold",
         "uniques": [
-            "[+15]% Strength <when attacking> <for [Military] units> <upon founding a Religion> <for [17] turns>",
-            "[+15]% Strength <when attacking> <for [Military] units> <upon enhancing a Religion> <for [23] turns>",
+            "[+15]% Strength <when attacking> <for [Military] units> <upon founding a Religion> <for [20] turns>",
+            "[+15]% Strength <when attacking> <for [Military] units> <upon enhancing a Religion> <for [20] turns>",
             "[+25]% Natural religion spread [in all cities]",
             "[+100]% [Oil] resource production",
             "[+5 Gold] from every [Oil]"
