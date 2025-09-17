@@ -450,35 +450,26 @@
         ]
     },
     {
-        "name": "China",
-        "leaderName": "Wu Zetian",
+        "name": "Tang",
+        "leaderName": "Taizong",
         "adjective": [
-            "Chinese"
+            "Tang"
         ],
         "startBias": [
             "River"
         ],
         "preferredVictoryType": "Scientific",
-        "personality": "Wu Zetian",
-        "startIntroPart1": "Heaven itself bends before your beauty, Empress Wu Zetian, ruler of eternal China! You lead one of the oldest and greatest civilization of humanity. In your time, China stood at the forefront of science and technology, bringing the world such contributions as gunpowder, the printing press, and the world of Confucius, and this, long before the rest of the world was mature enough to make the same discoveries!",
-        "startIntroPart2": "Great Queen, can you make China prevail again, using your divine intelligence and beauty? China stands for greatness, and all its enemies will be dazzled soon enough! Will your new empire shine through the ages of history?",
-        "declaringWar": "You won't ever be able to bother me again. Go meet Yama.",
-        "attacked": "Fool! I will disembowel you all!",
-        "defeated": "You have proven to be a cunning and competent adversary. I congratulate you on your victory.",
-        "introduction": "Greetings, I am Empress Wu Zetian. China desires peace and development. You leave us alone, we'll leave you alone.",
+        "startIntroPart1": "Heaven itself bows before your splendor and wisdom, Huang Di Taizong of Tang! You lead one of the oldest and greatest civilization of humanity, who in the infancy of other cultures was already thousands of years old. Your rule as second Emperor of the Tang led to one of the greatest reigns in Chinese history, which formed such deep foundations that China continued to flourish more than a century after your death. Your great rule came from your deeply logical rationalism and from your humility - your willingess to accept advice differing from yours, promotion of a meritocratic system and discouraging of loyalty to people over policies reduced corruption and increased efficiency dramatically. Additionally, your people flourished as a strong military allowed for a booming trade system both domestically and along the Silk Road, while a broadening of the civil examination system helped educate and raise out of poverty tens of thousands.",
+        "startIntroPart2": "Greatest of Emperors, can you bring back the golden reign of the Zhenguan, ruling over an empire that stretches from the Western Protectorates to the Yellow Sea? Can your new empire shine through the ages of history?",
+        "declaringWar": "Bow before the Tian Ming, or oppose Heaven itself.",
+        "attacked": "Like the proud Illig Qaghan before his defeat, you ride to your doom.",
+        "defeated": "Your effort merits your success. I only hope that such skills will benefit my people.",
+        "introduction": "Greetings, I am Emperor Gaozu.",
         "neutralHello": "How are you today?",
-        "hateHello": "Oh. It's you?",
+        "hateHello": "Let this business be swift.",
         "tradeRequest": "My friend, do you think you can accept this request?",
-        "outerColor": [
-            180,
-            100,
-            0
-        ],
-        "innerColor": [
-            0,
-            205,
-            236
-        ],
+        "outerColor": [165, 90, 0],
+        "innerColor": [0, 222, 255],
         "favoredReligion": "Taoism",
         "uniqueName": "Art of War",
         "uniques": [
@@ -2646,21 +2637,23 @@
         ]
     },
 	{
-        "name": "Song Dynasty",
-        "leaderName": "Taizong",
+        "name": "Song",
+        "leaderName": "Taizu",
         "adjective": ["Song"],
+		"preferredVictoryType": "Scientific",
         "startBias": ["Coast", "River"],
-        "startIntroPart1": "Greetings Taizong, Second Emperor of the Song Dynasty! Your elder brother Emperor Taizu was a distinguished general in the ailing Later Zhou, who forced Emperor Gong to resign and founded the Song Dynasty, ending the Five Dynasties And Ten Kingdoms era of China. His lessening of the powers of military generals, greater reliance on civilian bureaucrats and conquering of rogue territories led to a significantly stronger state, and you continued his conquests, unifying China for the first time in hundreds of moons. Your care for your people was great, and your provision of opportunities through a broader civil examination, increasing of civil services and advancing of agricultural programs made the Song the richest nation of the eleventh century. Finally, your national flourished culturally, with innovations such as paper money, greater refinement of gunpowder, movable type printing and magnetic compasses bringing light to a world dark of innovation.",
+        "startIntroPart1": "Greetings Taizu, Second Emperor of the Song Dynasty! Formerly a distinguished general in the ailing Later Zhou, you forced Emperor Gong to resign and founded the Song Dynasty, ending the Five Dynasties And Ten Kingdoms era of China. Your lessening of the powers of military generals, greater reliance on civilian bureaucrats and conquering of rogue territories led to a significantly stronger state, and your son continued your legacy through conquest of neighbouring states, unifying China for the first time in hundreds of moons. The provision of opportunities through a broader civil examination, increasing of civil services and advancing of agricultural programs made the Song the richest nation of the eleventh century. Finally, your nation flourished culturally, with innovations such as paper money, greater refinement of gunpowder, movable type printing and magnetic compasses bringing light to a world dark of innovation.",
         "startIntroPart2": "Ruler of the Middle Kingdom, from the mountains of the Tian Shan to the jungles of Yunnan/Guangxi, your people need you once again. Can you keep the forces of chaos and strife at bay? Can you build a civilisation that will stand the test of time?",
         "declaringWar": "My brother and I have crushed many small states like yourself. Let this be quick",
         "attacked": "More invaders from the steppe? You'll find the South is not so easily conquered",
         "defeated": "I hear the wails of my people, yet cannot soothe them...",
-        "introduction": "The bringer of order Emperor Taizong greets you",
+        "introduction": "The bringer of order Emperor Taizu greets you",
         "neutralHello": "Much is at work today. Welcome",
         "hateHello": "Chaos has no place in my court for long. What brings you to me?",
         "tradeRequest": "The Middle Kingdom wishes to share its bountiful wealth",
 		"outerColor": [9, 112, 84],
         "innerColor": [255, 255, 255],
+		"favoredReligion": "Confucianism",
         "uniqueName": "Song Patronage",
         "uniques": ["[+1 Food] [in all cities] <starting from the [Classical era]>",
 			"[+1 Food] [in all cities] <starting from the [Medieval era]>",
