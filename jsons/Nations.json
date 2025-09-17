@@ -471,11 +471,10 @@
         "outerColor": [165, 90, 0],
         "innerColor": [0, 222, 255],
         "favoredReligion": "Taoism",
-        "uniqueName": "Art of War",
-        "uniques": [
-            "Great General provides double combat bonus",
-            "[Great General] is earned [50]% faster"
-        ],
+        "uniqueName": "The Golden Land At The End Of The Silk Road",
+        "uniques": ["Comment [+1 [Culture], [Science], [Gold] and [Happiness] in capital per city connection, starting from the Medieval era]",
+			"[+1 Culture, +1 Science, +1 Gold, +1 Happiness] [in capital] <for every [Tang Connections]> <hidden from users>",
+			"[+1 Culture, +1 Science, +1 Gold, +1 Happiness, +1 Tang Connections] <in cities connected to the capital> <starting from the [Medieval era]>"],
         "cities": [
             "Beijing",
             "Shanghai",
@@ -2655,8 +2654,7 @@
         "innerColor": [255, 255, 255],
 		"favoredReligion": "Confucianism",
         "uniqueName": "Song Patronage",
-        "uniques": ["[+1 Food] [in all cities] <starting from the [Classical era]>",
-			"[+1 Food] [in all cities] <starting from the [Medieval era]>",
+        "uniques": ["[+1 Food] per [3] population [in all cities] <starting from the [Medieval era]>",
 			"[+2 Production] from every [Engineer]",
 			"[+2 Science] from every [Scientist]",
 			"[+2 Culture] from every [Artist]"],
