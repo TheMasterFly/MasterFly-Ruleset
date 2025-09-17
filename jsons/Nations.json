@@ -2372,7 +2372,8 @@
         "uniqueName": "Mongol Terror",
         "uniques": [
             "[+30]% Strength <vs [City-States]>",
-            "[+1] Movement <for [Mounted] units>"
+            "[+1] Movement <for [Mounted] units>",
+			"Great General provides double combat bonus"
         ],
         "cities": [
             "Karakorum",
