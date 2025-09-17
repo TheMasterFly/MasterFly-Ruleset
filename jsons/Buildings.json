@@ -1968,6 +1968,6 @@
     },
 	{
 		"name": "Tang Connection Provider",
-		"uniques": ["Unbuilable", "Cannot be purchased", "Will not be displayed in Civilopedia", "Provides [1] [Tang Connections] <in this city> <in cities connected to the capital>"]
+		"uniques": ["Unbuildable", "Cannot be purchased", "Will not be displayed in Civilopedia", "Provides [1] [Tang Connections] <in this city> <in cities connected to the capital>"]
 	}
 ]
