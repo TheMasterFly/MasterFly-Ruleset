@@ -134,7 +134,7 @@
 		"barbarianSpawnDelay": 0,
 		"playerBonusStartingUnits": [],
         "aiDifficultyLevel": "Chieftain",
-		"aiCityGrowthModifier": 0.9,
+		"aiCityGrowthModifier": 1,
 		"aiUnitCostModifier": 0.85,
 		"aiBuildingCostModifier": 0.85,
 		"aiWonderCostModifier": 1,
@@ -144,7 +144,7 @@
 		"aiFreeTechs": ["Pottery"],
 		"aiMajorCivBonusStartingUnits": ["Era Starting Unit"],
 		"aiCityStateBonusStartingUnits": [],
-		"aiUnhappinessModifier": 0.9,
+		"aiUnhappinessModifier": 1,
 		"aisExchangeTechs": true,
 		"turnBarbariansCanEnterPlayerTiles": 0,
 		"clearBarbarianCampReward": 25
@@ -239,4 +239,5 @@
 		"turnBarbariansCanEnterPlayerTiles": 0,
 		"clearBarbarianCampReward": 25
 	}
+
 ]
