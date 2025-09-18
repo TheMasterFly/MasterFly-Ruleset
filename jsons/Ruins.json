@@ -48,10 +48,8 @@
         "name": "discover a lost technology",
         "notification": "We have discovered the lost technology of [techName]!",
         "uniques": ["[1] free random researchable Tech(s) from the [Ancient era] <before the [Industrial era]>",
-				"[1] free random researchable Tech(s) from the [Classical era] <before the [Modern era]>",
-				"[1] free random researchable Tech(s) from the [Renaissance era] <before the [Atomic era]>",
-				"[1] free random researchable Tech(s) from the [Modern era] <before the [Information era]>",
-				"[1] free random researchable Tech(s) from the [Atomic era] <before the [Future era]>"],
+				"[1] free random researchable Tech(s) from the [Medieval era] <starting from the [Industrial era]> <before the [Atomic era]>",
+				"[1] free random researchable Tech(s) from the [Modern era] <starting from the [Atomic era]>"],
 		"color": "#7f7fff"
     },
     {
