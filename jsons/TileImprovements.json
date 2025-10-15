@@ -464,7 +464,7 @@
         ],
         "uniques": [
             "Great Improvement",
-            "Gives a defensive bonus of [100]%",
+            "Gives a defensive bonus of [100]% <vs [non-[Siege]] units>",
             "Adjacent enemy units ending their turn take [30] damage",
             "Can be built just outside your borders",
             "Gain control over [all] tiles in a [1]-tile radius",
@@ -473,6 +473,31 @@
             "Tile provides yield without assigned population",
             "Will not be replaced by automated units",
             "Pillaging this improvement yields approximately [+30 Gold]"
+        ]
+    },
+    {
+        "name": "Crusader Castle",
+        "uniqueTo": "Crusader States",
+        "replaces": "Citadel",
+        "terrainsCanBeBuiltOn": [
+            "Land"
+        ],
+        "gold": 1,
+        "faith": 1,
+        "uniques": [
+            "Great Improvement",
+            "Improves [Luxury] resource in this tile",
+            "Improves [Bonus] resource in this tile",
+            "Gives a defensive bonus of [150]% <vs [non-[Siege]] units>",
+            "Gives a defensive bonus of [50]% <vs [Siege] units>",
+            "Adjacent enemy units ending their turn take [30] damage",
+            "Can be built just outside your borders",
+            "Gain control over [all] tiles in a [1]-tile radius",
+            "Cannot be built on [Mountain] tiles <hidden from users>",
+            "Removes removable features when built",
+            "Tile provides yield without assigned population",
+            "Will not be replaced by automated units",
+            "Pillaging this improvement yields approximately [+50 Gold]"
         ]
     },
     {
