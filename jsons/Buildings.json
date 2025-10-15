@@ -51,7 +51,7 @@
             "Limited to [4] per Civilization",
             "Cost increases by [30] when built",
             "Free [Crusader Castle Builder] appears <before the [Industrial era]>",
-            "New [{Military}, {Land}] units start with [15] XP [in this city]",
+            "New [{Military} {Land}] units start with [15] XP [in this city]",
             "Provides [1] [Iron]",
             "Provides [1] [Horses]",
             "Destroyed when the city is captured"
@@ -419,7 +419,7 @@
         "hurryCostModifier": 25,
         "uniques": [
             "Removes extra unhappiness from annexed cities",
-            "[+1 Gold] from every [Resource] <on foreign continents>",
+            "[+1 Gold] from every [resource] <on foreign continents>",
             "[+25]% [Gold] <on foreign continents>"
         ],
         "requiredTech": "Mathematics"
