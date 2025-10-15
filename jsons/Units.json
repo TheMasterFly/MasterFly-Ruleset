@@ -795,7 +795,7 @@
         "uniqueTo": "Arabia",
         "movement": 4,
         "strength": 17,
-        "rangedStrength": 21,
+        "rangedStrength": 18,
         "cost": 120,
         "requiredTech": "Chivalry",
         "requiredResource": "Horses",
