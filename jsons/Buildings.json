@@ -237,7 +237,7 @@
         "name": "Riad",
         "replaces": "Water Mill",
         "uniqueTo": "Almoravids",
-        "maintenance": 3,
+        "maintenance": 2,
         "food": 1,
         "faith": 1,
         "hurryCostModifier": 25,
@@ -784,7 +784,7 @@
         },
         "uniques": [
             "Gain a free [Follower] belief <for [non-[Lithuania]] Civilizations>",
-            "Gain a free [Pantheon] belief <for [Lithuania] Civilizations>",
+            "[+2 Faith] [in all cities] <for [Lithuania] Civilizations>",
             "Gain a free [Temple] [in this city]"
         ],
         "requiredTech": "Drama and Poetry",
@@ -1019,7 +1019,6 @@
         },
         "requiredBuilding": "Library",
         "uniques": [
-			"[+1 Faith] from every specialist [in this city]",
             "[+2 Science] from [Jungle] tiles [in this city]",
 	        "[+1 Faith] from [Desert] tiles [in this city]",
             "[+2 Science] from [Oasis] tiles [in this city]"
@@ -1222,7 +1221,7 @@
 		"name": "Paper Maker",
 		"replaces": "Bank",
 		"uniqueTo": "Song",
-        "gold": 2,
+        "gold": 3,
         "specialistSlots": {
             "Merchant": 2,
             "Engineer": 1,
@@ -1232,8 +1231,7 @@
         "percentStatBonus": {
             "gold": 25
         },
-        "uniques": ["Comment [+1 Merchant, +1 Engineer, +1 Scientist specialist slot]",
-			"[+2 Gold] from every specialist [in this city]"],
+        "uniques": ["Comment [+1 Merchant, +1 Engineer, +1 Scientist specialist slot]"],
         "requiredBuilding": "Market",
         "requiredTech": "Banking"
     },
