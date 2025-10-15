@@ -482,8 +482,8 @@
         "terrainsCanBeBuiltOn": [
             "Land"
         ],
-        "gold": 1,
         "faith": 1,
+        "gold": 1,
         "uniques": [
             "Great Improvement",
             "Improves [Luxury] resource in this tile",
