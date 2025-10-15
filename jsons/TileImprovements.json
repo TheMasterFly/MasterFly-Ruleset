@@ -626,7 +626,7 @@
             "Unavailable <in [{Grassland} {non-[Hill]}] tiles> <hidden from users>",
             "Unavailable <in [{Plains} {non-[Hill]}] tiles> <hidden from users>",
             "Unavailable <in [{Desert} {non-[Hill]}] tiles> <hidden from users>",
-            "Unavailable <in [Flood plain] tiles> <hidden from users>",
+            "Unavailable <in [Flood plains] tiles> <hidden from users>",
             "Improves [Luxury] resource in this tile",
             "Improves [Bonus] resource in this tile",
             "Unavailable <within [3] tiles of a [Vank]>",
@@ -680,7 +680,7 @@
         ],
         "turnsToBuild": 7,
         "uniques": [
-            "Can only be built on [{Marsh} {Flood plain}] tiles",
+            "Can only be built on [{Marsh} {Flood plains}] tiles",
             "Cannot be built on [Hill] tiles",
             "[+1 Production, +2 Gold] <after discovering [Economics]>",
             "Pillaging this improvement yields approximately [+18 Gold]"
