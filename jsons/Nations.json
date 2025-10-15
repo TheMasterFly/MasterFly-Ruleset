@@ -3765,7 +3765,7 @@
         "hateHello": "Your arrogance is vast, yet it cannot rival my empire",
         "tradeRequest": "Trade is the breath between wars. Speak your terms swiftly, before I change my mind.",
         "outerColor": [40, 40, 40],
-        "innerColor": [212, 0, 0],
+        "innerColor": [255, 38, 0],
         "uniqueName": "Timur's Peace",
         "uniqueText": "No growth penalty while above -10 [Happiness]\nNo combat and [Production] penalty while between -10 and -20 [Happiness]\nCannot build [Settler] units while below 0 [Happiness]\nUpon capturing a city, receive 4 times its [Production] as [Golden Age points]",
         "uniques": [
