@@ -3764,16 +3764,8 @@
         "neutralHello": "Speak now, while I still consider words more valuable than war.",
         "hateHello": "Your arrogance is vast, yet it cannot rival my empire",
         "tradeRequest": "Trade is the breath between wars. Speak your terms swiftly, before I change my mind.",
-        "outerColor": [
-            202,
-            0,
-            0
-        ],
-        "innerColor": [
-            40,
-            40,
-            40
-        ],
+        "outerColor": [40, 40, 40],
+        "innerColor": [212, 0, 0],
         "uniqueName": "Timur's Peace",
         "uniqueText": "No growth penalty while above -10 [Happiness]\nNo combat and [Production] penalty while between -10 and -20 [Happiness]\nCannot build [Settler] units while below 0 [Happiness]\nUpon capturing a city, receive 4 times its [Production] as [Golden Age points]",
         "uniques": [
@@ -5054,9 +5046,9 @@
             0
         ],
         "innerColor": [
-            141,
-            27,
-            61
+            171,
+            57,
+            91
         ],
         "cities": [
             "Doha"
@@ -5100,9 +5092,9 @@
             0
         ],
         "innerColor": [
-            138,
-            38,
-            175
+            160,
+            44,
+            205
         ],
         "cities": [
             "Hangzhou"
