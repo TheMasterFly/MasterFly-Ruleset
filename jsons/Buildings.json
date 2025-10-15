@@ -625,6 +625,8 @@
         "percentStatBonus": {
             "gold": 25
         },
+		"uniques": ["[+5]% Golden Age length",
+			"[+15]% Golden Age length <in [Capital] cities>"],
         "requiredTech": "Currency"
     },
     {
