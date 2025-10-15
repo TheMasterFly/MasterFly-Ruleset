@@ -1011,7 +1011,7 @@
         "replaces": "Crossbowman",
         "movement": 2,
         "strength": 20,
-        "rangedStrength": 10,
+        "rangedStrength": 7,
         "cost": 150,
         "uniques": ["[2] additional attacks per turn"],
         "requiredTech": "Machinery",
