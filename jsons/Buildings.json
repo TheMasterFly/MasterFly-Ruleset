@@ -626,7 +626,7 @@
             "gold": 25
         },
 		"uniques": ["[+5]% Golden Age length",
-			"[+5]% Golden Age length <in [Capital] cities>"],
+			"[+10]% Golden Age length <in [Capital] cities>"],
         "requiredTech": "Currency"
     },
     {
