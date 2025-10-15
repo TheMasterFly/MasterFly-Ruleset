@@ -40,16 +40,16 @@
             79
         ],
         "uniqueName": "Connector of the Sand and Water Seas",
-        "uniqueText": "+1 [Culture], +1 [Gold] from each Trade Route per era\n+1 [Faith] from each Trade Route per era, ending after the Renaissance era",
+        "uniqueText": "+1 [Culture], [Gold] and [Faith] from each Trade Route per era",
         "uniques": [
             "[+1 Culture, +1 Faith, +1 Gold] from each Trade Route <starting from the [Ancient era]> <hidden from users>",
             "[+1 Culture, +1 Faith, +1 Gold] from each Trade Route <starting from the [Classical era]> <hidden from users>",
             "[+1 Culture, +1 Faith, +1 Gold] from each Trade Route <starting from the [Medieval era]> <hidden from users>",
             "[+1 Culture, +1 Faith, +1 Gold] from each Trade Route <starting from the [Renaissance era]> <hidden from users>",
-            "[+1 Culture, +1 Gold] from each Trade Route <starting from the [Industrial era]> <hidden from users>",
-            "[+1 Culture, +1 Gold] from each Trade Route <starting from the [Modern era]> <hidden from users>",
-            "[+1 Culture, +1 Gold] from each Trade Route <starting from the [Atomic era]> <hidden from users>",
-            "[+1 Culture, +1 Gold] from each Trade Route <starting from the [Information era]> <hidden from users>"
+            "[+1 Culture, +1 Faith, +1 Gold] from each Trade Route <starting from the [Industrial era]> <hidden from users>",
+            "[+1 Culture, +1 Faith, +1 Gold] from each Trade Route <starting from the [Modern era]> <hidden from users>",
+            "[+1 Culture, +1 Faith, +1 Gold] from each Trade Route <starting from the [Atomic era]> <hidden from users>",
+            "[+1 Culture, +1 Faith, +1 Gold] from each Trade Route <starting from the [Information era]> <hidden from users>"
         ],
         "spyNames": [
             "el-Krim",
@@ -127,8 +127,8 @@
         "favoredReligion": "Islam",
         "uniqueName": "Rashidun Jihad/Black Gold",
         "uniques": [
-            "[+15]% Strength <when attacking> <for [Military] units> <upon founding a Religion> <for [20] turns>",
-            "[+15]% Strength <when attacking> <for [Military] units> <upon enhancing a Religion> <for [20] turns>",
+            "[+15]% Strength <when attacking> <for [Military] units> <upon founding a Religion> <for [45] turns> <(modified by game speed)>",
+            "[+15]% Strength <when attacking> <for [Military] units> <upon enhancing a Religion> <for [45] turns> <(modified by game speed)>",
             "[+25]% Natural religion spread [in all cities]",
             "[+100]% [Oil] resource production",
             "[+5 Gold] from every [Oil]"
@@ -3853,7 +3853,7 @@
         "innerColor": [128,3,28],
 		"uniqueName": "People of the Nine Dragon River Delta",
         "uniques": ["[+1 Science] from every [Jungle]",
-			"[+1 Science] from every [Jungle] <starting from the [Renaissance era]>",
+			"[+1 Food, +2 Production] from every [Marsh]",
             "[Land] units gain the [Vietnamese Guerilla Tactics] promotion"],
 
 		"favoredReligion": "Buddhism",
