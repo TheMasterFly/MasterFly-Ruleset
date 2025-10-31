@@ -41,6 +41,19 @@
             "[+33]% Production when constructing [{Monument} {Amphitheater} {Opera House} {Museum} {Library} {University} {Observatory}] buildings [in your cities] <during a Golden Age>"
         ]
     },
+	{
+		"name": "Kilwa Port",
+		"uniqueTo": "Kilwa Sultanate",
+		"uniques": ["Connects trade routes over water <starting from the [Classical era]>",
+			"[+1 Production] for each adjacent [Strategic resource]",
+			"[+1 Culture] for each adjacent [Luxury resource]",
+			"[+1 Gold] for each adjacent [Water resource]",
+			"Will not be displayed in Civilopedia",
+			"Unbuildable",
+			"Cannot be purchased",
+			"Unsellable",
+			"Destroyed when the city is captured"]
+	},
     {
         "name": "Outremer Stronghold",
         "uniqueTo": "Crusader States",
@@ -756,6 +769,7 @@
 		"production": 1,
         "uniques": [
 			"[+1 Food] from [Coastal] tiles [in this city]",
+			"[+1 Production] <upon constructing [Harbor] [in this city]>",
             "Must be next to [Coast]"
         ],
         "hurryCostModifier": 25,
