@@ -188,6 +188,8 @@
     {
         "name": "Coconut Palm Dhow",
         "unitType": "Civilian Water",
+        "uniqueTo": "Kilwa Sultanate",
+        "replaces": "Work Boats",
         "movement": 5,
         "cost": 45,
         "requiredTech": "Sailing",
