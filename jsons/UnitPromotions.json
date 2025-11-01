@@ -33,6 +33,29 @@
         "column": 0
     },
     {
+        "name": "Start Fishing",
+        "uniques": ["Comment [Once this unit ends its turn in a Fishing Boats tile, it will begin fishing]",
+            "[This Unit] gains the [Continue Fishing 1] promotion <upon ending a turn in a [Fishing Boats] tile>",
+            "[This Unit] loses the [Start Fishing] promotion <upon ending a turn in a [Fishing Boats] tile>"]
+    },
+    {
+        "name": "Continue Fishing 1",
+        "uniques": ["Comment [This unit has started fishing. End it's turn in a Fishing Boats tile to continue]",
+            "[This Unit] gains the [Continue Fishing 2] promotion <upon ending a turn in a [Fishing Boats] tile>",
+            "[This Unit] loses the [Continue Fishing 1] promotion <upon ending a turn in a [Fishing Boats] tile>"]
+    },
+    {
+        "name": "Continue Fishing 2",
+        "uniques": ["Comment [This unit has started fishing. End it's turn in a Fishing Boats tile to continue]",
+            "[This Unit] gains the [Fish Harvest] promotion <upon ending a turn in a [Fishing Boats] tile>",
+            "[This Unit] loses the [Continue Fishing 2] promotion <upon ending a turn in a [Fishing Boats] tile>"]
+    },
+    {
+        "name": "Fish Harvest",
+        "uniques": ["Comment [This unit has finished fishing. Bring it to a City center to cash in your harvest!]",
+            "Instantly gain [30] [Food] <upon entering a [City center] tile> <(modified by game speed)> <after which this unit is consumed>"]
+    },
+    {
         "name": "Accuracy I",
         "uniques": [
             "[+15]% Strength <when fighting in [Open terrain] tiles> <when attacking>",
