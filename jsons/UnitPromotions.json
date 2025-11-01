@@ -53,7 +53,7 @@
     {
         "name": "Fish Harvest",
         "uniques": ["Comment [This unit has finished fishing. Bring it to a City center to cash in your harvest!]",
-            "Instantly provides [30] [Food] <upon entering a [City center] tile> <(modified by game speed)> <after which this unit is consumed>"]
+            "Instantly gain [30] [Food] <upon entering a [City center] tile> <(modified by game speed)> <after which this unit is consumed>"]
     },
     {
         "name": "Accuracy I",
