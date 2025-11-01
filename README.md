@@ -1,7 +1,7 @@
 Behold mine mod. Archers are weaker, swordsmen might have a place now and civ balance has been kicked out of the house, despite my best efforts to rehabilitate it. Here's a list of the standouts, and please note the bigget changes are in this top list:
 
 **Biggest Changes:**
-1) Workers can now improve water tile, while Work Boats have lost that ability. Instead, they can 'fish' by ending their turn on a Fishing Boats improvement/improved water resource tile. Once this has been done three times, they acquire the 'Fish Harvest' promotion, where they must return to a city and can consume themselves to give a large food buff to the city.
+1) Workers can now improve water tile, while Work Boats have lost that ability. Instead, they can 'fish' by ending their turn on a Fishing Boats improvement/improved water resource tile. Once this has been done 3 times in tiles next to a City center or 4 times in tiles not adjacent, they acquire a 'Fish Harvest' promotion, where they must return to a city and can consume themselves to give a large food buff to the city. This buff is increased by roughly 33% for fishing done in tiles not adjacent to City centers.
 
 'BUG' NOTE: When your Work Boat ends its turn in a city, it will lose all progress of fishing unless it has completed fishing (so you can stockpile harvests). Since Work Boats need to be in the city when created to gain the required promotion, if it is created outside and doesn't have the promotion, you can end its turn in a city to regain it.
 
