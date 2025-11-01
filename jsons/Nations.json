@@ -1740,20 +1740,19 @@
             130
         ],
         "uniqueName": "The Holy See",
-        "uniqueText": "Starts with [Piety] adopted\nMay choose 1 additional beliefs of any type when [enhancing] a religion\n+1 [Faith], -1 [Gold] in all cities per era starting from the [Classical] era\n+25% [Faith], -25% [Gold] in all cities starting from the [Medieval] era\nResting point with all City-States following your religion +10",
+        "uniqueText": "May choose 1 additional beliefs of any type when [enhancing] a religion\n+1 [Faith], -1 [Gold] in all cities per era starting from the [Classical] era, increased to 2 starting from the [Industrial] era\n+33% [Faith], -33% [Gold] in all cities starting from the [Medieval] era\nResting point with all City-States following your religion +10",
         "uniques": [
-            "Starts with [Piety] adopted",
             "May choose [1] additional belief(s) of any type when [enhancing] a religion",
             "Resting point for Influence with City-States following this religion [+10]",
-            "[+25]% [Faith] [in all cities] <starting from the [Medieval era]> <hidden from users>",
-            "[-25]% [Gold] [in all cities] <starting from the [Medieval era]> <hidden from users>",
+            "[+33]% [Faith] [in all cities] <starting from the [Medieval era]> <hidden from users>",
+            "[-33]% [Gold] [in all cities] <starting from the [Medieval era]> <hidden from users>",
             "[+1 Faith, -1 Gold] [in all cities] <starting from the [Classical era]> <hidden from users>",
             "[+1 Faith, -1 Gold] [in all cities] <starting from the [Medieval era]> <hidden from users>",
             "[+1 Faith, -1 Gold] [in all cities] <starting from the [Renaissance era]> <hidden from users>",
-            "[+1 Faith, -1 Gold] [in all cities] <starting from the [Industrial era]> <hidden from users>",
-            "[+1 Faith, -1 Gold] [in all cities] <starting from the [Modern era]> <hidden from users>",
-            "[+1 Faith, -1 Gold] [in all cities] <starting from the [Atomic era]> <hidden from users>",
-            "[+1 Faith, -1 Gold] [in all cities] <starting from the [Information era]> <hidden from users>"
+            "[+2 Faith, -2 Gold] [in all cities] <starting from the [Industrial era]> <hidden from users>",
+            "[+2 Faith, -2 Gold] [in all cities] <starting from the [Modern era]> <hidden from users>",
+            "[+2 Faith, -2 Gold] [in all cities] <starting from the [Atomic era]> <hidden from users>",
+            "[+2 Faith, -2 Gold] [in all cities] <starting from the [Information era]> <hidden from users>"
         ],
         "cities": [
             "Vatican City",
