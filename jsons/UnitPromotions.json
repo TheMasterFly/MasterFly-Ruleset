@@ -34,38 +34,74 @@
     },
     {
         "name": "Start Fishing",
-        "uniques": ["Comment [Once this unit ends its turn in a Fishing Boats tile, it will begin fishing]",
-            "[This Unit] gains the [Continue Fishing 1] promotion <upon ending a turn in a [Fishing Boats] tile>",
+        "uniques": ["Comment [Once this unit ends its turn in a [Fishing Boats] tile, it will begin fishing. Greater yields are obtained from [Fishing Boats] tiles not adjacent to [City center] tiles]",
+            "[This Unit] gains the [Continue Shallows Fishing 1] promotion <upon ending a turn in a [Fishing Boats] tile> <in tiles adjacent to [City center] tiles>",
+            "[This Unit] gains the [Continue Deepwater Fishing 1] promotion <upon ending a turn in a [Fishing Boats] tile> <in tiles not adjacent to [City center] tiles>",
             "[This Unit] loses the [Start Fishing] promotion <upon ending a turn in a [Fishing Boats] tile>"]
     },
     {
-        "name": "Continue Fishing 1",
-        "uniques": ["Comment [This unit has started fishing. End it's turn in a Fishing Boats tile to continue]",
-            "[This Unit] gains the [Continue Fishing 2] promotion <upon ending a turn in a [Fishing Boats] tile>",
-            "[This Unit] loses the [Continue Fishing 1] promotion <upon ending a turn in a [Fishing Boats] tile>"]
+        "name": "Continue Shallows Fishing 1",
+        "uniques": ["Comment [This unit has started fishing. End its turn in a Fishing Boats tile to continue]",
+            "[This Unit] gains the [Continue Shallows Fishing 2] promotion <upon ending a turn in a [Fishing Boats] tile> <in tiles adjacent to [City center] tiles>",
+            "[This Unit] loses the [Continue Shallows Fishing 1] promotion <upon ending a turn in a [Fishing Boats] tile> <in tiles adjacent to [City center] tiles>"]
     },
     {
-        "name": "Continue Fishing 2",
-        "uniques": ["Comment [This unit has started fishing. End it's turn in a Fishing Boats tile to continue]",
-            "[This Unit] gains the [Fish Harvest] promotion <upon ending a turn in a [Fishing Boats] tile> <for [non-[Kilwa Sultanate]] Civilizations>",
-            "[This Unit] gains the [Swahili Fish Harvest] promotion <upon ending a turn in a [Fishing Boats] tile> <for [Kilwa Sultanate] Civilizations>",
-            "[This Unit] loses the [Continue Fishing 2] promotion <upon ending a turn in a [Fishing Boats] tile>"]
+        "name": "Continue Shallows Fishing 2",
+        "uniques": ["Comment [This unit has nearly finished fishing. End its turn in a Fishing Boats tile to continue]",
+            "[This Unit] gains the [Shallows Fish Harvest] promotion <upon ending a turn in a [Fishing Boats] tile> <in tiles adjacent to [City center] tiles> <for [non-[Kilwa Sultanate]] Civilizations>",
+            "[This Unit] gains the [Swahili Shallows Fish Harvest] promotion <upon ending a turn in a [Fishing Boats] tile> <in tiles adjacent to [City center] tiles> <for [Kilwa Sultanate] Civilizations>",
+            "[This Unit] loses the [Continue Shallows Fishing 2] promotion <upon ending a turn in a [Fishing Boats] tile> <in tiles adjacent to [City center] tiles>"]
     },
     {
-        "name": "Fish Harvest",
+        "name": "Shallows Fish Harvest",
         "uniques": ["Comment [This unit has finished fishing. Bring it to a City center to cash in your harvest!]",
-            "[This Unit] is destroyed <costs [-30 Food] stats> <in [City center] tiles> <for [6] movement> <before discovering [Astronomy]>",
-            "[This Unit] is destroyed <costs [-50 Food] stats> <in [City center] tiles> <for [6] movement> <after discovering [Astronomy]> <before discovering [Refrigeration]>",
-            "[This Unit] is destroyed <costs [-70 Food] stats> <in [City center] tiles> <for [6] movement> <after discovering [Refrigeration]> <before discovering [Ecology]>",
-            "[This Unit] is destroyed <costs [-90 Food] stats> <in [City center] tiles> <for [6] movement> <after discovering [Ecology]>"]
+            "[This Unit] is destroyed <costs [-20 Food] stats> <in [City center] tiles> <for all movement> <before discovering [Astronomy]>",
+            "[This Unit] is destroyed <costs [-35 Food] stats> <in [City center] tiles> <for all movement> <after discovering [Astronomy]> <before discovering [Refrigeration]>",
+            "[This Unit] is destroyed <costs [-50 Food] stats> <in [City center] tiles> <for all movement> <after discovering [Refrigeration]> <before discovering [Ecology]>",
+            "[This Unit] is destroyed <costs [-65 Food] stats> <in [City center] tiles> <for all movement> <after discovering [Ecology]>"]
     },
     {
-        "name": "Swahili Fish Harvest",
+        "name": "Swahili Shallows Fish Harvest",
         "uniques": ["Comment [This unit has finished fishing. Bring it to a City center to cash in your harvest!]",
-            "[This Unit] is destroyed <costs [-30 Food, -15 Gold] stats> <in [City center] tiles> <for [6] movement> <before discovering [Astronomy]>",
-            "[This Unit] is destroyed <costs [-50 Food, -25 Gold] stats> <in [City center] tiles> <for [6] movement> <after discovering [Astronomy]> <before discovering [Refrigeration]>",
-            "[This Unit] is destroyed <costs [-70 Food, -35 Gold] stats> <in [City center] tiles> <for [6] movement> <after discovering [Refrigeration]> <before discovering [Ecology]>",
-            "[This Unit] is destroyed <costs [-90 Food, -45 Gold] stats> <in [City center] tiles> <for [6] movement> <after discovering [Ecology]>"]
+            "[This Unit] is destroyed <costs [-20 Food, -10 Gold] stats> <in [City center] tiles> <for all movement> <before discovering [Astronomy]>",
+            "[This Unit] is destroyed <costs [-35 Food, -20 Gold] stats> <in [City center] tiles> <for all movement> <after discovering [Astronomy]> <before discovering [Refrigeration]>",
+            "[This Unit] is destroyed <costs [-50 Food, -25 Gold] stats> <in [City center] tiles> <for all movement> <after discovering [Refrigeration]> <before discovering [Ecology]>",
+            "[This Unit] is destroyed <costs [-65 Food, -40 Gold] stats> <in [City center] tiles> <for all movement> <after discovering [Ecology]>"]
+    },
+    {
+        "name": "Continue Deepwater Fishing 1",
+        "uniques": ["Comment [This unit has started fishing. End its turn in a Fishing Boats tile not adjacent to a [City center] to continue]",
+            "[This Unit] gains the [Continue Deepwater Fishing 2] promotion <upon ending a turn in a [Fishing Boats] tile> <in tiles not adjacent to [City center] tiles>",
+            "[This Unit] loses the [Continue Deepwater Fishing 1] promotion <upon ending a turn in a [Fishing Boats] tile> <in tiles not adjacent to [City center] tiles>"]
+    },
+    {
+        "name": "Continue Deepwater Fishing 2",
+        "uniques": ["Comment [This unit is mid-way through fishing. End its turn in a Fishing Boats tile not adjacent to a [City center] to continue]",
+            "[This Unit] gains the [Continue Deepwater Fishing 3] promotion <upon ending a turn in a [Fishing Boats] tile> <in tiles not adjacent to [City center] tiles>",
+            "[This Unit] loses the [Continue Deepwater Fishing 2] promotion <upon ending a turn in a [Fishing Boats] tile> <in tiles not adjacent to [City center] tiles>"]
+    },
+    {
+        "name": "Continue Deepwater Fishing 3",
+        "uniques": ["Comment [This unit has almost finished fishing. End its turn in a Fishing Boats tile not adjacent to a [City center] to continue]",
+            "[This Unit] gains the [Deepwater Fish Harvest] promotion <upon ending a turn in a [Fishing Boats] tile> <in tiles not adjacent to [City center] tiles> <for [non-[Kilwa Sultanate]] Civilizations>",
+            "[This Unit] gains the [Swahili Fish Harvest] promotion <upon ending a turn in a [Fishing Boats] tile> <in tiles not adjacent to [City center] tiles> <for [Kilwa Sultanate] Civilizations>",
+            "[This Unit] loses the [Continue Deepwater Fishing 3] promotion <upon ending a turn in a [Fishing Boats] tile>"]
+    },
+    {
+        "name": "Deepwater Fish Harvest",
+        "uniques": ["Comment [This unit has finished fishing. Bring it to a City center to cash in your harvest!]",
+            "[This Unit] is destroyed <costs [-30 Food] stats> <in [City center] tiles> <for all movement> <before discovering [Astronomy]>",
+            "[This Unit] is destroyed <costs [-50 Food] stats> <in [City center] tiles> <for all movement> <after discovering [Astronomy]> <before discovering [Refrigeration]>",
+            "[This Unit] is destroyed <costs [-70 Food] stats> <in [City center] tiles> <for all movement> <after discovering [Refrigeration]> <before discovering [Ecology]>",
+            "[This Unit] is destroyed <costs [-90 Food] stats> <in [City center] tiles> <for all movement> <after discovering [Ecology]>"]
+    },
+    {
+        "name": "Swahili Deepwater Fish Harvest",
+        "uniques": ["Comment [This unit has finished fishing. Bring it to a City center to cash in your harvest!]",
+            "[This Unit] is destroyed <costs [-30 Food, -30 Gold] stats> <in [City center] tiles> <for all movement> <before discovering [Astronomy]>",
+            "[This Unit] is destroyed <costs [-50 Food, -40 Gold] stats> <in [City center] tiles> <for all movement> <after discovering [Astronomy]> <before discovering [Refrigeration]>",
+            "[This Unit] is destroyed <costs [-70 Food, -50 Gold] stats> <in [City center] tiles> <for all movement> <after discovering [Refrigeration]> <before discovering [Ecology]>",
+            "[This Unit] is destroyed <costs [-90 Food, -60 Gold] stats> <in [City center] tiles> <for all movement> <after discovering [Ecology]>"]
     },
     {
         "name": "Accuracy I",
