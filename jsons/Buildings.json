@@ -663,9 +663,9 @@
         "maintenance": 0,
         "hurryCostModifier": 25,
         "uniques": [
-            "[+1 Gold] from [Gold Ore] tiles [in this city]",
-            "[+1 Gold] from [Silver] tiles [in this city]",
-			"[+1 Gold] from every [Luxury resource] [in this city]",
+            "[+2 Gold] from [Gold Ore] tiles [in this city]",
+            "[+2 Gold] from [Silver] tiles [in this city]",
+			"[+2 Gold] from [Ivory] tiles [in this city]",
 			"[+1 Gold] per [2] population [in this city]"
         ],
         "requiredTech": "Currency"
