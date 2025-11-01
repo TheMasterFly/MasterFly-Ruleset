@@ -15,6 +15,8 @@ Oil-Provider City States (Gold secondary yield)
 
 5) Rationalim is nerfed, Liberty, Commerce and Piety is (over?) buffed. Exploration has been added.
 
+6) New Natural Wonders!
+
 If you have any questions, I am in the Unciv Discord as 'MasterFly'. I'd especially love to hear feedback on civ balance :trollface:
 
 **Added Civs:**
