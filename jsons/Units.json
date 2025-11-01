@@ -198,7 +198,7 @@
         "requiredTech": "Sailing",
         "uniques": ["Comment [This unit gains additional [Gold] yields from Fish Harvests]",
             "Cannot enter ocean tiles <before discovering [Optics]>",
-            "Can undertake a trade mission with City-State, giving a large sum of gold and [4] Influence",
+            "Can undertake a trade mission with City-State, giving a large sum of gold and [5] Influence",
             "[-80]% Gold from Great Merchant trade missions",
             "[50]% production cost <after discovering [Astronomy]>",
             "[50]% production cost <after discovering [Refrigeration]>",
@@ -1302,7 +1302,7 @@
         "requiredTech": "Navigation",
         "obsoleteTech": "Electronics",
         "uniques": [
-            "Can undertake a trade mission with City-State, giving a large sum of gold and [8] Influence",
+            "Can undertake a trade mission with City-State, giving a large sum of gold and [10] Influence",
             "[-50]% Gold from Great Merchant trade missions",
             "Comment [This will consume the Nau]"
         ],
