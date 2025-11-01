@@ -53,7 +53,7 @@
     {
         "name": "Fish Harvest",
         "uniques": ["Comment [This unit has finished fishing. Bring it to a City center to cash in your harvest!]",
-            "[This Unit] is destroyed <costs [-30 Food] stats> <for [6] movement>"]
+            "[This Unit] is destroyed <costs [-30 Food] stats> <in [City center] tiles> <for [6] movement>"]
     },
     {
         "name": "Accuracy I",
