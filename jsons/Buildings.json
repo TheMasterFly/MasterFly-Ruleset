@@ -42,12 +42,12 @@
         ]
     },
 	{
-		"name": "Kilwa Port",
+		"name": "Kilwan Port",
 		"uniqueTo": "Kilwa Sultanate",
 		"uniques": ["Connects trade routes over water <starting from the [Classical era]>",
-			"[+1 Production] for each adjacent [Strategic resource]",
-			"[+1 Culture] for each adjacent [Luxury resource]",
-			"[+1 Gold] for each adjacent [Water resource]",
+			"[+1 Production] from [Strategic resource] tiles [in all cities] <in tiles adjacent to [City center] tiles>",
+			"[+1 Culture] from [Luxury resource] tiles [in all cities] <in tiles adjacent to [City center] tiles>",
+			"[+1 Gold] from [Fish] tiles [in all cities]",
 			"Will not be displayed in Civilopedia",
 			"Unbuildable",
 			"Cannot be purchased",
