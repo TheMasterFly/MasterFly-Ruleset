@@ -180,6 +180,9 @@
         "requiredTech": "Sailing",
         "uniques": [
             "Cannot enter ocean tiles <before discovering [Astronomy]>",
+            "[50]% production cost <after discovering [Astronomy]>",
+            "[50]% production cost <after discovering [Refrigeration]>",
+            "[50]% production cost <after discovering [Ecology]>",
             "[This Unit] gains the [Start Fishing] promotion <upon turn start> <in [City center] tiles>",
             "[This Unit] loses the [Continue Fishing 1] promotion <upon turn start> <in [City center] tiles>",
             "[This Unit] loses the [Continue Fishing 2] promotion <upon turn start> <in [City center] tiles>"
@@ -191,10 +194,15 @@
         "uniqueTo": "Kilwa Sultanate",
         "replaces": "Work Boats",
         "movement": 5,
-        "cost": 45,
+        "cost": 40,
         "requiredTech": "Sailing",
-        "uniques": ["Comment [This unit has +33% extra [Food] yields from Fish Harvests until researching Refrigeration, 7% until Ecology and 0% afterwards]",
+        "uniques": ["Comment [This unit gains additional [Gold] yields from Fish Harvests]",
             "Cannot enter ocean tiles <before discovering [Optics]>",
+            "Can undertake a trade mission with City-State, giving a large sum of gold and [4] Influence",
+            "[-80]% Gold from Great Merchant trade missions",
+            "[50]% production cost <after discovering [Astronomy]>",
+            "[50]% production cost <after discovering [Refrigeration]>",
+            "[50]% production cost <after discovering [Ecology]>",
             "[This Unit] gains the [Start Fishing] promotion <upon turn start> <in [City center] tiles>",
             "[This Unit] loses the [Continue Fishing 1] promotion <upon turn start> <in [City center] tiles>",
             "[This Unit] loses the [Continue Fishing 2] promotion <upon turn start> <in [City center] tiles>"
