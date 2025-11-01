@@ -1533,7 +1533,7 @@
         "outerColor": [255,205,0],
         "innerColor": [203,6,6],
         "uniqueName": "Traders of the Swahili Coast",
-		"uniqueText": "All coastal cities gain city connections automatically upon entering the Classical Era\n+1 [Culture] from Luxury, +1 [Production] from Strategic and +1 [Gold] from Water resource tiles adjacent to a [City center]",
+		"uniqueText": "All coastal cities gain city connections automatically upon entering the Classical Era\n+1 [Culture] from Luxury, +1 [Production] from Strategic and +1 [Gold] from Fish and Atoll tiles adjacent to a [City center]",
         "uniques": ["Gain a free [Kilwan Port] [in all coastal cities] <hidden from users>"
         ],
         "cities": [
