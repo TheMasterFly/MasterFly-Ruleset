@@ -657,6 +657,20 @@
         "requiredTech": "Currency"
     },
     {
+        "name": "Kilwan Mint",
+        "replaces": "Mint",
+        "uniqueTo": "Kilwa Sultanate",
+        "maintenance": 0,
+        "hurryCostModifier": 25,
+        "uniques": [
+            "[+1 Gold] from [Gold Ore] tiles [in this city]",
+            "[+1 Gold] from [Silver] tiles [in this city]",
+			"[+1 Gold] from every [Luxury resource] [in this city]",
+			"[+1 Gold] per [2] population [in this city]"
+        ],
+        "requiredTech": "Currency"
+    },
+    {
         "name": "Petra",
         "culture": 1,
         "isWonder": true,
@@ -761,20 +775,6 @@
         "hurryCostModifier": 25,
         "maintenance": 1,
         "requiredTech": "Theology"
-    },
-    {
-        "name": "Coconut Palm Plantation",
-        "replaces": "Garden",
-        "uniqueTo": "Kilwa Sultanate",
-		"production": 1,
-        "uniques": [
-			"[+1 Food] from [Coastal] tiles [in this city]",
-			"[+1 Production] <upon constructing [Harbor] [in this city]>",
-            "Must be next to [Coast]"
-        ],
-        "hurryCostModifier": 25,
-        "maintenance": 1,
-        "requiredTech": "Philosophy"
     },
     {
         "name": "Zen Rock Garden",
@@ -1013,8 +1013,7 @@
         "uniques": [
             "[+1 Production] from [Water resource] tiles [in this city]",
             "Connects trade routes over water",
-            "Must be next to [Coast]",
-			"Unavailable <for [Kilwa Sultanate] Civilizations> <hidden from users>"
+            "Must be next to [Coast]"
         ],
         "requiredTech": "Compass"
     },
