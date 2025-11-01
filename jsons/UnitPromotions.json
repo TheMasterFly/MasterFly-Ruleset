@@ -53,8 +53,8 @@
     {
         "name": "Fish Harvest",
         "uniques": ["Comment [This unit has finished fishing. Bring it to a City center to cash in your harvest!]",
-            "[This Unit] is destroyed <costs [-30 Food] stats> <in [City center] tiles> <for [6] movement> <before discovering [Astronomy]>",
-            "[This Unit] is destroyed <costs [-50 Food] stats> <in [City center] tiles> <for [6] movement> <after discovering [Astronomy]> <before discovering [Refrigeration]>",
+            "[This Unit] is destroyed <costs [-30 Food] stats> <in [City center] tiles> <for [6] movement> <before discovering [Archery]>",
+            "[This Unit] is destroyed <costs [-50 Food] stats> <in [City center] tiles> <for [6] movement> <after discovering [Archery]> <before discovering [Refrigeration]>",
             "[This Unit] is destroyed <costs [-70 Food] stats> <in [City center] tiles> <for [6] movement> <after discovering [Refrigeration]> <before discovering [Ecology]>",
             "[This Unit] is destroyed <costs [-90 Food] stats> <in [City center] tiles> <for [6] movement> <after discovering [Ecology]>"]
     },
