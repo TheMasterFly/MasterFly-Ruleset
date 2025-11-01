@@ -184,8 +184,11 @@
             "[50]% production cost <after discovering [Refrigeration]>",
             "[50]% production cost <after discovering [Ecology]>",
             "[This Unit] gains the [Start Fishing] promotion <upon turn start> <in [City center] tiles>",
-            "[This Unit] loses the [Continue Fishing 1] promotion <upon turn start> <in [City center] tiles>",
-            "[This Unit] loses the [Continue Fishing 2] promotion <upon turn start> <in [City center] tiles>"
+            "[This Unit] loses the [Continue Shallows Fishing 1] promotion <upon turn start> <in [City center] tiles>",
+            "[This Unit] loses the [Continue Shallows Fishing 2] promotion <upon turn start> <in [City center] tiles>",
+            "[This Unit] loses the [Continue Deepwater Fishing 1] promotion <upon turn start> <in [City center] tiles>",
+            "[This Unit] loses the [Continue Deepwater Fishing 2] promotion <upon turn start> <in [City center] tiles>",
+            "[This Unit] loses the [Continue Deepwater Fishing 3] promotion <upon turn start> <in [City center] tiles>"
         ]
     },
     {
@@ -204,8 +207,11 @@
             "[50]% production cost <after discovering [Refrigeration]>",
             "[50]% production cost <after discovering [Ecology]>",
             "[This Unit] gains the [Start Fishing] promotion <upon turn start> <in [City center] tiles>",
-            "[This Unit] loses the [Continue Fishing 1] promotion <upon turn start> <in [City center] tiles>",
-            "[This Unit] loses the [Continue Fishing 2] promotion <upon turn start> <in [City center] tiles>"
+            "[This Unit] loses the [Continue Shallows Fishing 1] promotion <upon turn start> <in [City center] tiles>",
+            "[This Unit] loses the [Continue Shallows Fishing 2] promotion <upon turn start> <in [City center] tiles>",
+            "[This Unit] loses the [Continue Deepwater Fishing 1] promotion <upon turn start> <in [City center] tiles>",
+            "[This Unit] loses the [Continue Deepwater Fishing 2] promotion <upon turn start> <in [City center] tiles>",
+            "[This Unit] loses the [Continue Deepwater Fishing 3] promotion <upon turn start> <in [City center] tiles>"
         ]
     },
     {
