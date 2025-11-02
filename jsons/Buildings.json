@@ -663,7 +663,7 @@
         "uniqueTo": "Kilwa Sultanate",
         "maintenance": 0,
         "hurryCostModifier": 25,
-        "uniques": [
+        "uniques": ["Comment [Doesn't require [Gold Ore] or [Silver] tiles to be built]",
             "[+2 Gold] from [Gold Ore] tiles [in this city]",
             "[+2 Gold] from [Silver] tiles [in this city]",
 			"[+2 Gold] from [Ivory] tiles [in this city]",
