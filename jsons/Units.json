@@ -180,15 +180,15 @@
         "requiredTech": "Sailing",
         "uniques": [
             "Cannot enter ocean tiles <before discovering [Astronomy]>",
-            "[50]% production cost <after discovering [Astronomy]>",
-            "[50]% production cost <after discovering [Refrigeration]>",
-            "[50]% production cost <after discovering [Ecology]>",
+            "[50]% production cost <after discovering [Astronomy]> <hidden from users>",
+            "[50]% production cost <after discovering [Refrigeration]> <hidden from users>",
+            "[50]% production cost <after discovering [Ecology]> <hidden from users>",
             "[This Unit] gains the [Start Fishing] promotion <upon turn start> <in [City center] tiles>",
-            "[This Unit] loses the [Continue Shallows Fishing 1] promotion <upon turn start> <in [City center] tiles>",
-            "[This Unit] loses the [Continue Shallows Fishing 2] promotion <upon turn start> <in [City center] tiles>",
-            "[This Unit] loses the [Continue Deepwater Fishing 1] promotion <upon turn start> <in [City center] tiles>",
-            "[This Unit] loses the [Continue Deepwater Fishing 2] promotion <upon turn start> <in [City center] tiles>",
-            "[This Unit] loses the [Continue Deepwater Fishing 3] promotion <upon turn start> <in [City center] tiles>"
+            "[This Unit] loses the [Continue Shallows Fishing 1] promotion <upon turn start> <in [City center] tiles> <hidden from users>",
+            "[This Unit] loses the [Continue Shallows Fishing 2] promotion <upon turn start> <in [City center] tiles> <hidden from users>",
+            "[This Unit] loses the [Continue Deepwater Fishing 1] promotion <upon turn start> <in [City center] tiles> <hidden from users>",
+            "[This Unit] loses the [Continue Deepwater Fishing 2] promotion <upon turn start> <in [City center] tiles> <hidden from users>",
+            "[This Unit] loses the [Continue Deepwater Fishing 3] promotion <upon turn start> <in [City center] tiles> <hidden from users>"
         ]
     },
     {
@@ -199,19 +199,21 @@
         "movement": 5,
         "cost": 40,
         "requiredTech": "Sailing",
-        "uniques": ["Comment [This unit gains additional [Gold] yields from Fish Harvests]",
+        "uniques": ["Comment [This unit gains additional [Gold], [Culture] and [Science] yields from Fish Harvests]",
             "Cannot enter ocean tiles <before discovering [Optics]>",
-            "Can undertake a trade mission with City-State, giving a large sum of gold and [5] Influence",
-            "[-80]% Gold from Great Merchant trade missions",
-            "[50]% production cost <after discovering [Astronomy]>",
-            "[50]% production cost <after discovering [Refrigeration]>",
-            "[50]% production cost <after discovering [Ecology]>",
+            "Can undertake a trade mission with City-State, giving a large sum of gold and [8] Influence",
+            "[-75]% Gold from Great Merchant trade missions <before discovering [Astronomy]> <hidden from users>",
+            "[-65]% Gold from Great Merchant trade missions <after discovering [Astronomy]> <before discovering [Refrigeration]> <hidden from users>",
+            "[-55]% Gold from Great Merchant trade missions <after discovering [Refrigeration]> <before discovering [Ecology]> <hidden from users>",
+            "[50]% production cost <after discovering [Astronomy]> <hidden from users>",
+            "[50]% production cost <after discovering [Refrigeration]> <hidden from users>",
+            "[50]% production cost <after discovering [Ecology]> <hidden from users>",
             "[This Unit] gains the [Start Fishing] promotion <upon turn start> <in [City center] tiles>",
-            "[This Unit] loses the [Continue Shallows Fishing 1] promotion <upon turn start> <in [City center] tiles>",
-            "[This Unit] loses the [Continue Shallows Fishing 2] promotion <upon turn start> <in [City center] tiles>",
-            "[This Unit] loses the [Continue Deepwater Fishing 1] promotion <upon turn start> <in [City center] tiles>",
-            "[This Unit] loses the [Continue Deepwater Fishing 2] promotion <upon turn start> <in [City center] tiles>",
-            "[This Unit] loses the [Continue Deepwater Fishing 3] promotion <upon turn start> <in [City center] tiles>"
+            "[This Unit] loses the [Continue Shallows Fishing 1] promotion <upon turn start> <in [City center] tiles> <hidden from users>",
+            "[This Unit] loses the [Continue Shallows Fishing 2] promotion <upon turn start> <in [City center] tiles> <hidden from users>",
+            "[This Unit] loses the [Continue Deepwater Fishing 1] promotion <upon turn start> <in [City center] tiles> <hidden from users>",
+            "[This Unit] loses the [Continue Deepwater Fishing 2] promotion <upon turn start> <in [City center] tiles> <hidden from users>",
+            "[This Unit] loses the [Continue Deepwater Fishing 3] promotion <upon turn start> <in [City center] tiles> <hidden from users>"
         ]
     },
     {
@@ -1308,7 +1310,7 @@
         "requiredTech": "Navigation",
         "obsoleteTech": "Electronics",
         "uniques": [
-            "Can undertake a trade mission with City-State, giving a large sum of gold and [10] Influence",
+            "Can undertake a trade mission with City-State, giving a large sum of gold and [15] Influence",
             "[-50]% Gold from Great Merchant trade missions",
             "Comment [This will consume the Nau]"
         ],
