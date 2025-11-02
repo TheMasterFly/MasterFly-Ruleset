@@ -99,9 +99,9 @@
         "name": "Swahili Deepwater Fish Harvest",
         "uniques": ["Comment [This unit has finished fishing. Bring it to a City center to cash in your harvest!]",
             "[This Unit] is destroyed <costs [-30 Food, -30 Gold] stats> <in [City center] tiles> <for all movement> <before discovering [Astronomy]>",
-            "[This Unit] is destroyed <costs [-50 Food, -40 Gold] stats> <in [City center] tiles> <for all movement> <after discovering [Astronomy]> <before discovering [Refrigeration]>",
-            "[This Unit] is destroyed <costs [-70 Food, -50 Gold] stats> <in [City center] tiles> <for all movement> <after discovering [Refrigeration]> <before discovering [Ecology]>",
-            "[This Unit] is destroyed <costs [-90 Food, -60 Gold] stats> <in [City center] tiles> <for all movement> <after discovering [Ecology]>"]
+            "[This Unit] is destroyed <costs [-50 Food, -30 Gold, -30 Culture] stats> <in [City center] tiles> <for all movement> <after discovering [Astronomy]> <before discovering [Refrigeration]>",
+            "[This Unit] is destroyed <costs [-70 Food, -30 Gold, -30 Culture, -30 Science] stats> <in [City center] tiles> <for all movement> <after discovering [Refrigeration]> <before discovering [Ecology]>",
+            "[This Unit] is destroyed <costs [-90 Food, -60 Gold, -60 Culture, -60 Science] stats> <in [City center] tiles> <for all movement> <after discovering [Ecology]>"]
     },
     {
         "name": "Accuracy I",
