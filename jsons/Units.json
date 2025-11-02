@@ -1032,8 +1032,7 @@
         "upgradesTo": "Gatling Gun",
         "requiredResource": "Horses",
         "uniques": [
-            "Can move after attacking",
-            "Ignore terrain cost"
+            "Can move after attacking"
         ]
     },
     {
