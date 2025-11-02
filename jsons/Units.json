@@ -18,6 +18,7 @@
         "uniques": [
             "Founds a new city <by consuming this unit>",
             "All tiles cost 1 movement <if [Palace] is not constructed>",
+            "[4] Movement <if [Palace] is not constructed>",
             "Excess Food converted to Production when under construction",
             "Requires at least [2] population",
             "Cost increases by [20] when built"
