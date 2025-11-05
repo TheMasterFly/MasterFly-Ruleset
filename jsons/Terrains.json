@@ -141,26 +141,23 @@
             "Occurs in chains at high elevations",
             "Units ending their turn on this terrain take [50] damage <for [non-[Tibet]] Civilizations>",
             "Always Fertility [-2] for Map Generation",
-            "Considered [Undesirable] when determining start locations"]
+            "Considered [Undesirable] when determining start locations",
+			"Becomes [Volcano] when adjacent to [All] <with [8]% chance>"]
 	},
 	{
 		"name": "Volcano",
 		"type": "TerrainFeature",
-		"science": 2,
-		"culture": 2,
-		"occursOn": ["Desert", "Plains", "Grassland"],
+		"science": 1,
+		"culture": 1,
+		"overrideStats": true,
 		"impassable": true,
 		"unbuildable": true,
 		"movementCost": 3,
 		"defenceBonus": -0.75,
 		"RGB": [60, 60, 60],
-		"uniques": ["Rough terrain", "Rare feature",
-			"Occurs on latitudes from [30] to [90] percent of distance equator to pole",
-            "Has an elevation of [2] for visibility calculations",
+		"uniques": ["Has an elevation of [2] for visibility calculations",
             "Units ending their turn on this terrain take [75] damage",
-            "Always Fertility [-1] for Map Generation",
-            "Considered [Undesirable] when determining start locations",
-			"Neighboring tiles will convert to [Coast] <in [Land] tiles>"]
+            "Doesn't generate naturally"]
 	},
 	{
 		"name": "Volcanic Plains",
@@ -787,7 +784,7 @@
 	{
 		"name": "Socotra",
 		"type": "NaturalWonder",
-		"movementCost": 2,
+		"movementCost": 4,
 		"science": 8,
 		"overrideStats": true,
 		"occursOn": ["Coast"],
