@@ -783,5 +783,22 @@
 		"impassable": false,
 		"unbuildable": true,
 		"weight": 8
+	},
+	{
+		"name": "Socotra",
+		"type": "NaturalWonder",
+		"movementCost": 2,
+		"science": 7,
+		"occursOn": ["Coast"],
+		"uniques": ["Must be adjacent to [2] to [6] [Coast] tiles",
+			"Must be adjacent to [1] [Grassland] tiles",
+			"Occurs on latitudes from [0] to [50] percent of distance equator to pole",
+			"Grants [+60 Science] to the first civilization to discover it",
+			"Neighboring tiles will convert to [Coast]",
+			"Tile provides yield without assigned population"],
+		"turnsInto": "Plains",
+		"impassable": false,
+		"unbuildable": true,
+		"weight": 6
 	}
 ]
