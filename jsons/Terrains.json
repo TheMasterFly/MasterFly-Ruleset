@@ -144,6 +144,19 @@
             "Considered [Undesirable] when determining start locations"]
 	},
 	{
+		"name": "Volcano",
+		"type": "Land",
+		"impassable": true,
+		"defenceBonus": -0.75,
+		"RGB": [67, 60, 50],
+		"uniques": ["Rough terrain",
+            "Has an elevation of [2] for visibility calculations",
+            "Units ending their turn on this terrain take [70] damage",
+            "Always Fertility [1] for Map Generation",
+            "Considered [Undesirable] when determining start locations",
+			"Rare feature"]
+	},
+	{
 		"name": "Snow",
 		"type": "Land",
 		"movementCost": 1,
