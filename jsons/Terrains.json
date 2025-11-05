@@ -142,7 +142,7 @@
             "Units ending their turn on this terrain take [50] damage <for [non-[Tibet]] Civilizations>",
             "Always Fertility [-2] for Map Generation",
             "Considered [Undesirable] when determining start locations",
-			"Becomes [Volcano] when adjacent to [Terrain] <with [8]% chance>"]
+			"Becomes [Volcano] when adjacent to [Water]"]
 	},
 	{
 		"name": "Volcano",
