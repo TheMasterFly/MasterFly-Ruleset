@@ -1,69 +1,94 @@
-
 game.png
-size: 256, 256
-format: RGBA8888
-filter: MipMapLinearLinear, MipMapLinearLinear
-repeat: none
-TileSets/HexaRealm/Tiles/Chocolate Hills
-  rotate: false
-  xy: 4, 150
-  size: 68, 60
-  orig: 68, 60
-  offset: 0, 0
-  index: -1
-TileSets/HexaRealm/Tiles/Chomolungma
-  rotate: false
-  xy: 80, 4
-  size: 64, 68
-  orig: 64, 68
-  offset: 0, 0
-  index: -1
-TileSets/HexaRealm/Tiles/Great Blue Hole
-  rotate: false
-  xy: 152, 16
-  size: 64, 56
-  orig: 64, 56
-  offset: 0, 0
-  index: -1
-TileSets/HexaRealm/Tiles/King Solomon's Mines
-  rotate: false
-  xy: 4, 82
-  size: 68, 60
-  orig: 68, 60
-  offset: 0, 0
-  index: -1
-TileSets/HexaRealm/Tiles/Lake Hillier
-  rotate: false
-  xy: 80, 148
-  size: 68, 62
-  orig: 68, 62
-  offset: 0, 0
-  index: -1
-TileSets/HexaRealm/Tiles/Lake Victoria
-  rotate: false
-  xy: 4, 14
-  size: 68, 60
-  orig: 68, 60
-  offset: 0, 0
-  index: -1
-TileSets/HexaRealm/Tiles/Mount Kilimanjaro
-  rotate: false
-  xy: 80, 80
-  size: 68, 60
-  orig: 68, 60
-  offset: 0, 0
-  index: -1
-TileSets/HexaRealm/Tiles/Pink and White Terraces
-  rotate: false
-  xy: 156, 150
-  size: 68, 60
-  orig: 68, 60
-  offset: 0, 0
-  index: -1
-TileSets/HexaRealm/Tiles/Zhangye Danxia
-  rotate: false
-  xy: 156, 80
-  size: 68, 62
-  orig: 68, 62
-  offset: 0, 0
-  index: -1
+size:1024,128
+filter:MipMapLinearLinear,MipMapLinearLinear
+repeat:none
+Chocolate Hills
+xy: 208, 4
+size: 68, 60
+orig: 68, 60
+offset: 0, 0
+index: -1
+Chomolungma
+xy: 2, 58
+size: 64, 68
+orig: 64, 68
+offset: 0, 0
+index: -1
+Coast
+xy: 418, 70
+size: 64, 56
+orig: 64, 56
+offset: 0, 0
+index: -1
+ForestG
+xy: 484, 70
+size: 64, 56
+orig: 64, 56
+offset: 0, 0
+index: -1
+Grasslands Forest
+xy: 616, 70
+size: 64, 56
+orig: 64, 56
+offset: 0, 0
+index: -1
+Great Blue Hole
+xy: 348, 8
+size: 64, 56
+orig: 64, 56
+offset: 0, 0
+index: -1
+King Solomon's Mines
+xy: 278, 4
+size: 68, 60
+orig: 68, 60
+offset: 0, 0
+index: -1
+Lake Hillier
+xy: 138, 64
+size: 68, 62
+orig: 68, 62
+offset: 0, 0
+index: -1
+Lake Victoria
+xy: 138, 2
+size: 68, 60
+orig: 68, 60
+offset: 0, 0
+index: -1
+Mount Kilimanjaro
+xy: 68, 2
+size: 68, 60
+orig: 68, 60
+offset: 0, 0
+index: -1
+Pink and White Terraces
+xy: 348, 66
+size: 68, 60
+orig: 68, 60
+offset: 0, 0
+index: -1
+Socotra
+xy: 550, 70
+size: 64, 56
+orig: 64, 56
+offset: 0, 0
+index: -1
+Template
+xy: 208, 66
+size: 68, 60
+orig: 68, 60
+offset: 0, 0
+index: -1
+Volcano
+xy: 278, 66
+size: 68, 60
+orig: 68, 60
+offset: 0, 0
+index: -1
+Zhangye Danxia
+xy: 68, 64
+size: 68, 62
+orig: 68, 62
+offset: 0, 0
+index: -1
