@@ -145,16 +145,17 @@
 	},
 	{
 		"name": "Volcano",
-		"type": "Land",
-		"impassable": true,
+		"type": "TerrainFeature",
+		"science": 2,
+		"culture": 2,
+		"movementCost": 3,
+		"unbuildable": true,
 		"defenceBonus": -0.75,
-		"RGB": [67, 60, 50],
-		"uniques": ["Rough terrain",
-            "Has an elevation of [2] for visibility calculations",
-            "Units ending their turn on this terrain take [70] damage",
-            "Always Fertility [1] for Map Generation",
-            "Considered [Undesirable] when determining start locations",
-			"Rare feature"]
+		"occursOn": ["Mountain"],
+		"uniques": ["Rare feature",
+					"Units ending their turn on this terrain take [70] damage",
+					"Always Fertility [-1] for Map Generation",
+					"Considered [Undesirable] when determining start locations"]
 	},
 	{
 		"name": "Snow",
@@ -218,7 +219,7 @@
 		"civilopediaText": [{"text":"A Camp can be built here without cutting it down", "link":"Improvement/Camp"}]
 	},
 	{
-		"name": "Grassland Forest",
+		"name": "Grasslands Forest",
 		"type": "TerrainFeature",
 		"production": 1,
 		"food": 1,
@@ -231,11 +232,11 @@
 					"Provides a one-time bonus of [+30 Production] to the closest city when cut down <(modified by game speed)>",
 					"Blocks line-of-sight from tiles at same elevation",
 					"[25]% Chance to be destroyed by nukes",
-					"A Region is formed with at least [30]% [Grassland Forest] tiles, with priority [3]",
-					"A Region is formed with at least [35]% [Grassland Forest] tiles and [Jungle] tiles, with priority [3]",
+					"A Region is formed with at least [30]% [Grasslands Forest] tiles, with priority [3]",
+					"A Region is formed with at least [35]% [Grasslands Forest] tiles and [Jungle] tiles, with priority [3]",
 					"Considered [Desirable] when determining start locations",
 					"Considered [Production] when determining start locations",
-					"Considered [Food] when determining start locations <in [Grassland Forest] Regions>",
+					"Considered [Food] when determining start locations <in [Grasslands Forest] Regions>",
 					"Considered [Food] when determining start locations <in [Tundra] Regions>",
 					"Every [39] tiles with this terrain will receive a major deposit of a strategic resource."],
 		"civilopediaText": [{"text":"A Camp can be built here without cutting it down", "link":"Improvement/Camp"}]
