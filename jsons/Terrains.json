@@ -142,7 +142,7 @@
             "Units ending their turn on this terrain take [50] damage <for [non-[Tibet]] Civilizations>",
             "Always Fertility [-2] for Map Generation",
             "Considered [Undesirable] when determining start locations",
-			"Becomes [Volcano] when adjacent to [All] <with [8]% chance>"]
+			"Becomes [Volcano] when adjacent to [non-[Tundra]] <with [4]% chance>"]
 	},
 	{
 		"name": "Volcano",
@@ -154,8 +154,8 @@
 		"unbuildable": true,
 		"movementCost": 3,
 		"defenceBonus": -0.75,
-		"RGB": [60, 60, 60],
-		"uniques": ["Has an elevation of [2] for visibility calculations",
+		"RGB": [30, 30, 30],
+		"uniques": ["Has an elevation of [3] for visibility calculations",
             "Units ending their turn on this terrain take [75] damage",
             "Doesn't generate naturally"]
 	},
