@@ -160,7 +160,7 @@
             "Units ending their turn on this terrain take [75] damage",
             "Always Fertility [-1] for Map Generation",
             "Considered [Undesirable] when determining start locations",
-			"Neighboring tiles will convert to [Volcanic Plains] <in [Land] tiles>"]
+			"Neighboring tiles will convert to [Coast] <in [Land] tiles>"]
 	},
 	{
 		"name": "Volcanic Plains",
