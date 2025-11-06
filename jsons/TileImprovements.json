@@ -38,7 +38,8 @@
     {
         "name": "Mine",
         "terrainsCanBeBuiltOn": [
-            "Hill"
+            "Hill",
+			"Volcanic Plains"
         ],
         "production": 1,
         "turnsToBuild": 7,
