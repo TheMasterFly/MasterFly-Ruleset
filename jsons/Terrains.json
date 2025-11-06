@@ -232,7 +232,7 @@
 		"civilopediaText": [{"text":"A Camp can be built here without cutting it down", "link":"Improvement/Camp"}]
 	},
 	{
-		"name": "Grasslands Forest",
+		"name": "Grassland Forest",
 		"type": "TerrainFeature",
 		"production": 1,
 		"food": 1,
@@ -245,11 +245,11 @@
 					"Provides a one-time bonus of [+30 Production] to the closest city when cut down <(modified by game speed)>",
 					"Blocks line-of-sight from tiles at same elevation",
 					"[25]% Chance to be destroyed by nukes",
-					"A Region is formed with at least [30]% [Grasslands Forest] tiles, with priority [3]",
-					"A Region is formed with at least [35]% [Grasslands Forest] tiles and [Jungle] tiles, with priority [3]",
+					"A Region is formed with at least [30]% [Grassland Forest] tiles, with priority [3]",
+					"A Region is formed with at least [35]% [Grassland Forest] tiles and [Jungle] tiles, with priority [3]",
 					"Considered [Desirable] when determining start locations",
 					"Considered [Production] when determining start locations",
-					"Considered [Food] when determining start locations <in [Grasslands Forest] Regions>",
+					"Considered [Food] when determining start locations <in [Grassland Forest] Regions>",
 					"Considered [Food] when determining start locations <in [Tundra] Regions>",
 					"Every [39] tiles with this terrain will receive a major deposit of a strategic resource."],
 		"civilopediaText": [{"text":"A Camp can be built here without cutting it down", "link":"Improvement/Camp"}]
@@ -349,12 +349,30 @@
 	{
 		"name": "Atoll",
 		"type": "TerrainFeature",
-		"movementCost": 1,
+		"movementCost": 2,
 		"food": 1,
 		"production": 1,
 		"occursOn": ["Coast"],
 		"uniques": ["Rare feature",
 			"Becomes [Volcano] when adjacent to [Coast] <with [2]% chance>"]
+	},
+	{
+		"name": "Kelp Forest",
+		"type": "TerrainFeature",
+		"movementCost": 2,
+		"food": 1,
+		"science": 1,
+		"occursOn": ["Coast"],
+		"uniques": ["Rare feature"]
+	},
+	{
+		"name": "Hydrothermal Vents",
+		"type": "TerrainFeature",
+		"movementCost": 3,
+		"faith": 1,
+		"science": 1,
+		"occursOn": ["Coast"],
+		"uniques": ["Rare feature"]
 	},
 
     {
@@ -622,7 +640,7 @@
 	{
 		"name": "King Solomon's Mines",
 		"type": "NaturalWonder",
-		"production": 6,
+		"production": 5,
 		"overrideStats": true,
 		"occursOn": ["Plains","Desert"],
 		"uniques": ["Must be adjacent to [0] [Coast] tiles",
@@ -802,5 +820,37 @@
 		"impassable": false,
 		"unbuildable": true,
 		"weight": 6
+	},
+	{
+		"name": "Mount Vesuvius",
+		"type": "NaturalWonder",
+		"culture": 2,
+		"faith": 2,
+		"science": 2,
+		"occursOn": ["Grassland","Plains"],
+		"uniques": ["Must be adjacent to [2] [Coast] tiles",
+			"Must be adjacent to [0] [Tundra] tiles",
+			"Tile provides yield without assigned population"],
+		"turnsInto": "Mountain",
+		"impassable": true,
+		"unbuildable": true,
+		"weight": 9
+	},
+	{
+		"name": "Orodruin",
+		"type": "NaturalWonder",
+		"production": 5,
+		"faith": 5,
+		"occursOn": ["Plains","Desert"],
+		"uniques": ["Must be adjacent to [0] [Coast] tiles",
+			"Must be adjacent to [0] [Grassland] tiles",
+			"Must be adjacent to [0] [Tundra] tiles",
+			"Must be adjacent to [0] [Coast] tiles",
+			"Must be adjacent to [3] to [6] [Desert] tiles",
+			"Tile provides yield without assigned population"],
+		"turnsInto": "Mountain",
+		"impassable": true,
+		"unbuildable": true,
+		"weight": 1
 	}
 ]
