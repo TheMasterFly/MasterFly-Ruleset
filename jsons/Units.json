@@ -237,12 +237,13 @@
         "unitType": "Melee Water",
         "uniqueTo": "Carthage",
         "replaces": "Trireme",
-        "movement": 4,
-        "strength": 13,
+        "movement": 5,
+        "strength": 14,
         "cost": 45,
         "requiredTech": "Sailing",
         "uniques": [
-            "Cannot enter ocean tiles"
+            "Cannot enter ocean tiles",
+            "May capture killed [Water] units"
         ],
         "upgradesTo": "Caravel",
         "obsoleteTech": "Astronomy",
@@ -362,9 +363,9 @@
         "uniqueTo": "India",
         "replaces": "Chariot Archer",
         "movement": 3,
-        "strength": 9,
-        "rangedStrength": 11,
-        "cost": 70,
+        "strength": 11,
+        "rangedStrength": 10,
+        "cost": 72,
         "requiredTech": "The Wheel",
         "upgradesTo": "Knight",
         "obsoleteTech": "Chivalry",
@@ -393,11 +394,12 @@
         "replaces": "Spearman",
         "uniqueTo": "Greece",
         "movement": 2,
-        "strength": 13,
+        "strength": 14,
         "cost": 56,
         "requiredTech": "Bronze Working",
         "obsoleteTech": "Civil Service",
         "upgradesTo": "Pikeman",
+        "uniques": ["[+33]% to Flank Attack bonuses"],
         "promotions": [
             "Spear Unit Ability"
         ],
@@ -409,7 +411,7 @@
         "replaces": "Spearman",
         "uniqueTo": "Persia",
         "movement": 2,
-        "strength": 15,
+        "strength": 14,
         "cost": 56,
         "requiredTech": "Bronze Working",
         "obsoleteTech": "Civil Service",
@@ -497,35 +499,12 @@
         "attackSound": "horse"
     },
     {
-        "name": "Companion Cavalry",
-        "unitType": "Mounted",
-        "uniqueTo": "Greece",
-        "replaces": "Horseman",
-        "movement": 5,
-        "strength": 14,
-        "cost": 75,
-        "requiredTech": "Horseback Riding",
-        "upgradesTo": "Knight",
-        "obsoleteTech": "Chivalry",
-        "promotions": [
-            "Great Generals I"
-        ],
-        "requiredResource": "Horses",
-        "uniques": [
-            "Can move after attacking",
-            "No defensive terrain bonus",
-            "[-33]% Strength <vs cities> <when attacking>"
-        ],
-        "hurryCostModifier": 20,
-        "attackSound": "horse"
-    },
-    {
         "name": "African Forest Elephant",
         "unitType": "Mounted",
         "uniqueTo": "Carthage",
         "replaces": "Horseman",
         "movement": 3,
-        "strength": 14,
+        "strength": 18,
         "cost": 100,
         "requiredTech": "Horseback Riding",
         "upgradesTo": "Knight",
@@ -705,13 +684,12 @@
     {
         "name": "Landsknecht",
         "unitType": "Sword",
-        "replaces": "Pikeman",
-        "uniqueTo": "Germany",
         "movement": 2,
         "strength": 16,
         "cost": 45,
         "requiredTech": "Civil Service",
         "uniques": [
+            "Unbuildable",
             "Can move immediately once bought"
         ],
         "upgradesTo": "Lancer",
@@ -747,13 +725,38 @@
         "upgradesTo": "Lancer",
         "requiredResource": "Horses",
         "uniques": ["No movement cost to pillage",
-            "Ignores terrain cost",
             "Can move after attacking",
-            "[+33]% Strength <vs [Ranged] units>",
-            "[+33]% to Flank Attack bonuses",
-            "[+33]% Health from pillaging tiles",
-            "[-66]% Strength <vs cities> <when attacking>"
+            "[+20]% Strength <vs [Ranged] units>",
+            "[+20]% to Flank Attack bonuses",
+            "[+20]% Health from pillaging tiles",
+            "[-75]% Strength <vs cities> <when attacking>"
         ],
+        "attackSound": "horse"
+    },
+    {
+        "name": "Sipahi",
+        "unitType": "Mounted",
+        "replaces": "Light Cavalry",
+        "uniqueTo": "The Ottomans",
+        "movement": 4,
+        "strength": 25,
+        "cost": 110,
+        "requiredTech": "Metallurgy",
+        "requiredResource": "Horses",
+        "uniques": [
+            "Can move after attacking",
+            "[+20]% Strength <vs [Ranged] units>",
+            "[+20]% to Flank Attack bonuses",
+            "[+20]% Health from pillaging tiles",
+            "[-66]% Strength <vs cities> <when attacking>",
+            "[+1] Sight"
+        ],
+        "promotions": [
+            "[Sipahi] ability",
+            "Formation I"
+        ],
+        "upgradesTo": "Anti-Tank Gun",
+        "obsoleteTech": "Combined Arms",
         "attackSound": "horse"
     },
     {
@@ -1042,7 +1045,7 @@
         "replaces": "Crossbowman",
         "movement": 2,
         "strength": 20,
-        "rangedStrength": 8,
+        "rangedStrength": 7,
         "cost": 145,
         "uniques": ["[2] additional attacks per turn"],
         "requiredTech": "Machinery",
@@ -1132,6 +1135,7 @@
         "upgradesTo": "Musketman",
         "obsoleteTech": "Metallurgy",
         "requiredResource": "Iron",
+        "uniques": ["No damage penalty for wounded units <for [Berserker] units>"],
         "promotions": [
             "Amphibious"
         ],
@@ -1194,19 +1198,6 @@
         "unitType": "Gunpowder",
         "movement": 2,
         "strength": 24,
-        "cost": 150,
-        "requiredTech": "Gunpowder",
-        "upgradesTo": "Rifleman",
-        "obsoleteTech": "Rifling",
-        "attackSound": "shot"
-    },
-    {
-        "name": "Musketeer",
-        "unitType": "Gunpowder",
-        "replaces": "Musketman",
-        "uniqueTo": "France",
-        "movement": 2,
-        "strength": 28,
         "cost": 150,
         "requiredTech": "Gunpowder",
         "upgradesTo": "Rifleman",
@@ -1352,30 +1343,6 @@
             "Never appears as a Barbarian unit"
         ],
         "promotions": [
-            "Formation I"
-        ],
-        "upgradesTo": "Anti-Tank Gun",
-        "obsoleteTech": "Combined Arms",
-        "attackSound": "horse"
-    },
-    {
-        "name": "Sipahi",
-        "unitType": "Mounted",
-        "replaces": "Lancer",
-        "uniqueTo": "The Ottomans",
-        "movement": 5,
-        "strength": 25,
-        "cost": 185,
-        "requiredTech": "Metallurgy",
-        "requiredResource": "Horses",
-        "uniques": [
-            "Can move after attacking",
-            "No defensive terrain bonus",
-            "[-33]% Strength <vs cities> <when attacking>",
-            "[+1] Sight"
-        ],
-        "promotions": [
-            "[Sipahi] ability",
             "Formation I"
         ],
         "upgradesTo": "Anti-Tank Gun",
@@ -1634,7 +1601,7 @@
         "unitType": "Gunpowder",
         "replaces": "Great War Infantry",
         "uniqueTo": "France",
-        "movement": 2,
+        "movement": 3,
         "strength": 50,
         "cost": 320,
         "requiredTech": "Replaceable Parts",
