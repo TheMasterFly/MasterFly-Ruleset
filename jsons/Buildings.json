@@ -612,6 +612,23 @@
         "requiredTech": "Currency"
     },
     {
+        "name": "Agora",
+        "replaces": "Market",
+        "uniqueTo": "Greece",
+        "gold": 2,
+		"culture": 1,
+        "specialistSlots": {
+            "Merchant": 1
+        },
+        "hurryCostModifier": 25,
+        "percentStatBonus": {
+            "gold": 25
+        },
+		"uniques": ["New [Military] units start with [10] XP [in this city]",
+			"Resting point for Influence with City-States is increased by [2]"],
+        "requiredTech": "Currency"
+    },
+    {
         "name": "Tang Market",
         "replaces": "Market",
         "uniqueTo": "Tang",
@@ -1245,6 +1262,23 @@
         "hurryCostModifier": 15,
         "percentStatBonus": {
             "gold": 25
+        },
+        "requiredBuilding": "Market",
+        "requiredTech": "Banking"
+    },
+    {
+        "name": "Hanse",
+		"replaces": "Bank",
+		"uniqueTo": "Germany",
+        "gold": 3,
+		"production": 1,
+        "specialistSlots": {
+            "Merchant": 1
+        },
+        "hurryCostModifier": 15,
+        "percentStatBonus": {
+            "gold": 25,
+			"production": 10
         },
         "requiredBuilding": "Market",
         "requiredTech": "Banking"
