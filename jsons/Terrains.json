@@ -144,7 +144,8 @@
             "Units ending their turn on this terrain take [50] damage <for [non-[Tibet]] Civilizations>",
             "Always Fertility [-2] for Map Generation",
             "Considered [Undesirable] when determining start locations",
-			"Becomes [Volcano] when adjacent to [non-[Tundra]] <with [4]% chance>"]
+			"Becomes [Volcano] when adjacent to [Grassland] <with [5]% chance>",
+			"Becomes [Volcano] when adjacent to [Coast] <with [5]% chance>"]
 	},
 	{
 		"name": "Volcano",
@@ -167,8 +168,7 @@
 		"food": 2,
 		"movementCost": 1,
         "RGB": [125, 50, 0],
-        "uniques": ["Doesn't generate naturally",
-			"Neighboring tiles will convert to [Desert]"]
+        "uniques": ["Doesn't generate naturally"]
     },
 	{
 		"name": "Snow",
