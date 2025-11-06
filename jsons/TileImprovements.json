@@ -12,6 +12,7 @@
         "techRequired": "Agriculture",
         "uniques": [
             "Can also be built on tiles adjacent to fresh water <in [Land] tiles>",
+            "[+1 Food] from [Volcanic Plains] tiles",
             "[+1 Food] from [Fresh water] tiles <after discovering [Civil Service]>",
             "[+1 Food] from [non-fresh water] tiles <after discovering [Fertilizer]>",
             "Cannot be built on [Mountain] tiles <hidden from users>",
