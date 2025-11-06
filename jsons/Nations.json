@@ -708,9 +708,22 @@
             148
         ],
         "favoredReligion": "Christianity",
-        "uniqueName": "Ancien Régime",
+        "uniqueName": "Social Reforms",
         "uniques": [
-            "[+2 Culture] [in all cities] <before discovering [Steam Power]>"
+            "Each city founded increases culture cost of policies [33]% less than normal",
+			"[-15]% Culture cost of adopting new Policies",
+			"Comment [+15% Strength for [Military] units for 30 turns after completing a Policy Tree - varies with game speed]",
+			"[+15]% Strength <for [Military] units> <after adopting [Tradition Complete]> <for [30] turns> <(modified by game speed)> <hidden from users>",
+			"[+15]% Strength <for [Military] units> <after adopting [Liberty Complete]> <for [30] turns> <(modified by game speed)> <hidden from users>",
+			"[+15]% Strength <for [Military] units> <after adopting [Honor Complete]> <for [30] turns> <(modified by game speed)> <hidden from users>",
+			"[+15]% Strength <for [Military] units> <after adopting [Piety Complete]> <for [30] turns> <(modified by game speed)> <hidden from users>",
+			"[+15]% Strength <for [Military] units> <after adopting [Patronage Complete]> <for [30] turns> <(modified by game speed)> <hidden from users>",
+			"[+15]% Strength <for [Military] units> <after adopting [Exploration Complete]> <for [30] turns> <(modified by game speed)> <hidden from users>",
+			"[+15]% Strength <for [Military] units> <after adopting [Commerce Complete]> <for [30] turns> <(modified by game speed)> <hidden from users>",
+			"[+15]% Strength <for [Military] units> <after adopting [Rationalism Complete]> <for [30] turns> <(modified by game speed)> <hidden from users>",
+			"[+15]% Strength <for [Military] units> <after adopting [Freedom Complete]> <for [30] turns> <(modified by game speed)> <hidden from users>",
+			"[+15]% Strength <for [Military] units> <after adopting [Autocracy Complete]> <for [30] turns> <(modified by game speed)> <hidden from users>",
+			"[+15]% Strength <for [Military] units> <after adopting [Order Complete]> <for [30] turns> <(modified by game speed)> <hidden from users>"
         ],
         "cities": [
             "Paris",
@@ -1355,10 +1368,11 @@
             33
         ],
         "favoredReligion": "Christianity",
-        "uniqueName": "Furor Teutonicus",
+        "uniqueName": "German Manufacturing",
         "uniques": [
-            "When conquering an encampment, earn [75] Gold and recruit a Barbarian unit <with [100]% chance>",
-            "[-25]% maintenance costs <for [Land] units>"
+			"[+100]% [Coal] resource production",
+			"[+3 Production] from every [Manufactory]",
+			"[+1 Production] from every [Mine] <starting from the [Industrial era]>"
         ],
         "cities": [
             "Berlin",
@@ -1461,10 +1475,14 @@
             30
         ],
         "favoredReligion": "Islam",
-        "uniqueName": "Barbary Corsairs",
+        "uniqueName": "Turkish Dominion",
         "uniques": [
-            "[-66]% maintenance costs <for [Water] units>",
-            "When defeating a [{Barbarian} {Water}] unit, earn [25] Gold and recruit it <with [50]% chance>"
+			"[+1 Gold] [in all cities]",
+            "[-33]% maintenance costs <for [All] units>",
+            "When defeating a [Barbarian] unit, earn [25] Gold and recruit it <with [50]% chance>",
+			"[Cannon] units gain the [Mobility] promotion",
+			"[Gunpowder] units gain the [Mobility] promotion",
+			"[Ranged Gunpowder] units gain the [Mobility] promotion"
         ],
         "cities": [
             "Istanbul",
@@ -2116,7 +2134,7 @@
             "[+50]% [Food] from City-States",
             "[+50]% [Culture] from City-States",
             "[+50]% [Faith] from City-States",
-            "Military Units gifted from City-States start with [+10] XP"
+            "Military Units gifted from City-States start with [+20] XP"
         ],
         "cities": [
             "Sukhothai",
@@ -3265,7 +3283,7 @@
         ],
         "favoredReligion": "Islam",
         "uniqueName": "Phoenician Heritage",
-        "uniqueText": "Maritime buildings are built in half the usual time\n+1 [Gold] in capital for every maritime building you have constructed\nCivilian units only pay 1 Movement point when embarking or disembarking",
+        "uniqueText": "Maritime buildings are built in half the usual time\n+1 [Gold], +1 [Production] and +1 [Science] in capital for every [Lighthouse], [Harbor] and [Seaport] building you have constructed\nCivilian units only pay 1 Movement point when embarking or disembarking",
         "uniques": [
             "[1] Movement point cost to embark <for [Civilian] units>",
             "[1] Movement point cost to disembark <for [Civilian] units>",
@@ -3273,8 +3291,8 @@
             "[+100]% Production when constructing [Harbor] buildings [in all cities]",
             "[+100]% Production when constructing [Seaport] buildings [in all cities]",
             "[+1 Gold] [in capital] <for every [[Lighthouse] Buildings]>",
-            "[+1 Gold] [in capital] <for every [[Harbor] Buildings]>",
-            "[+1 Gold] [in capital] <for every [[Seaport] Buildings]>"
+            "[+1 Production] [in capital] <for every [[Harbor] Buildings]>",
+            "[+1 Science] [in capital] <for every [[Seaport] Buildings]>"
         ],
         "cities": [
             "Carthage",
@@ -3451,8 +3469,7 @@
         "favoredReligion": "Christianity",
         "uniqueName": "Druidic Lore",
         "uniques": [
-            "[+1 Faith] [in all cities] <with [1] to [2] neighboring [{unimproved} {Forest}] tiles>",
-            "[+2 Faith] [in all cities] <with [3] to [6] neighboring [{unimproved} {Forest}] tiles>"
+			"[+1 Faith] from every [Forest]"
         ],
         "cities": [
             "Edinburgh",
