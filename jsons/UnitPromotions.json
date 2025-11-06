@@ -1448,7 +1448,8 @@
     {
         "name": "[Sipahi] ability",
         "uniques": [
-            "No movement cost to pillage"
+            "No movement cost to pillage",
+            "Earn [50]% of the damage done to [Land] units as [Faith]"
         ]
     },
     {
