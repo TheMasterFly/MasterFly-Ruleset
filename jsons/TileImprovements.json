@@ -5,7 +5,8 @@
             "Plains",
             "Grassland",
             "Desert",
-            "Flood plains"
+            "Flood plains",
+            "Volcanic Plains"
         ],
         "food": 1,
         "turnsToBuild": 7,
@@ -269,22 +270,6 @@
         "civilopediaText": [
             {
                 "text": "Provides a one-time Production bonus depending on distance to the closest city once finished"
-            }
-        ]
-    },
-    {
-        "name": "Remove Ebony Forest",
-        "turnsToBuild": 4,
-        "techRequired": "Mining",
-        "uniques": [
-            "Can be built outside your borders",
-            "Excluded from map editor",
-            "Instantly gain [1] [Ebony Wood]"
-        ],
-        "shortcutKey": "X",
-        "civilopediaText": [
-            {
-                "text": "Provides 1 [Ebony Wood] upon being constructed\nProvides a one-time Production bonus depending on distance to the closest city once finished"
             }
         ]
     },
