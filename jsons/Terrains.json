@@ -167,7 +167,8 @@
 		"food": 2,
 		"movementCost": 1,
         "RGB": [125, 50, 0],
-        "uniques": ["Doesn't generate naturally"]
+        "uniques": ["Doesn't generate naturally",
+			"Neighboring tiles will convert to [Desert]"]
     },
 	{
 		"name": "Snow",
