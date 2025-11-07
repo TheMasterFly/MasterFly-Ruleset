@@ -532,8 +532,9 @@
         "techRequired": "Fertilizer",
         "uniques": [
             "Can be built outside your borders",
-            "Turn this tile into a [Forest] tile",
-            "Does not need removal of [Trading post] <hidden from users>",
+            "Turn this tile into a [Forest] tile <in [non-[Grassland]] tiles>",
+			"Turn this tile into a [Grassland Forest] tile <in [Grassland] tiles>",
+            "Does not need removal of [Trading post]",
             "Cannot be built on [Desert] tiles <hidden from users>",
             "Cannot be built on [Snow] tiles <hidden from users>",
             "Cannot be built on [Mountain] tiles <hidden from users>"
