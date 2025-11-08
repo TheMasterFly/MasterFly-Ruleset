@@ -34,6 +34,16 @@
         "[+2 Food] [in this city] <for [Lithuania] Civilizations> <hidden from users>"]
     },
     {
+        "name": "Fire Dancing",
+        "type": "Pantheon",
+        "uniques": ["[+3 Culture, +3 Faith] from every [Volcano]",
+            "[+1 Culture, +1 Faith] from every [Volcanic Plains]",
+            "[+1 Food, +1 Faith] from every [Hydrothermal Vents]",
+        "[+3 Culture, +3 Faith] from every [Volcano] <for [Lithuania] Civilizations> <hidden from users>",
+        "[+1 Culture, +1 Faith] from every [Volcanic Plains] <for [Lithuania] Civilizations> <hidden from users>",
+        "[+1 Food, +1 Faith] from every [Hydrothermal Vents] <for [Lithuania] Civilizations> <hidden from users>"]
+    },
+    {
         "name": "God-King",
         "type": "Pantheon",
         "uniques": ["[+1 Production, +1 Food, +1 Culture, +1 Faith, +1 Science, +1 Gold, +1 Happiness] [in capital]",
@@ -82,12 +92,16 @@
         "[+1 Culture, +1 Faith] from every [Crab]",
         "[+1 Culture, +1 Faith] from every [Coral]",
         "[+1 Culture, +1 Faith] from every [Atoll]",
+        "[+1 Culture, +1 Faith] from every [Kelp Forest]",
+        "[+1 Culture, +1 Faith] from every [Hydrothermal Vents]",
         "[+1 Culture, +1 Faith] from every [Fish] <for [Lithuania] Civilizations> <hidden from users>",
         "[+1 Culture, +1 Faith] from every [Whales] <for [Lithuania] Civilizations> <hidden from users>",
         "[+1 Culture, +1 Faith] from every [Pearls] <for [Lithuania] Civilizations> <hidden from users>",
         "[+1 Culture, +1 Faith] from every [Crab] <for [Lithuania] Civilizations> <hidden from users>",
         "[+1 Culture, +1 Faith] from every [Coral] <for [Lithuania] Civilizations> <hidden from users>",
-        "[+1 Culture, +1 Faith] from every [Atoll] <for [Lithuania] Civilizations> <hidden from users>"]
+        "[+1 Culture, +1 Faith] from every [Atoll] <for [Lithuania] Civilizations> <hidden from users>",
+        "[+1 Culture, +1 Faith] from every [Kelp Forest] <for [Lithuania] Civilizations> <hidden from users>",
+        "[+1 Culture, +1 Faith] from every [Hydrothermal Vents] <for [Lithuania] Civilizations> <hidden from users>"]
     },
     {
         "name": "God of Snow",
@@ -180,8 +194,12 @@
         "type": "Pantheon",
         "uniques": ["[+1 Production, +1 Gold] from every [Fishing Boats]",
         "[+1 Production, +1 Gold] from every [Atoll]",
+        "[+1 Production, +1 Gold] from every [Kelp Forest]",
+        "[+1 Production, +1 Gold] from every [Hydrothermal Vents]",
         "[+1 Production, +1 Gold] from every [Fishing Boats] <for [Lithuania] Civilizations> <hidden from users>",
-        "[+1 Production, +1 Gold] from every [Atoll] <for [Lithuania] Civilizations> <hidden from users>"]
+        "[+1 Production, +1 Gold] from every [Atoll] <for [Lithuania] Civilizations> <hidden from users>",
+        "[+1 Production, +1 Gold] from every [Kelp Forest] <for [Lithuania] Civilizations> <hidden from users>",
+        "[+1 Production, +1 Gold] from every [Hydrothermal Vents] <for [Lithuania] Civilizations> <hidden from users>"]
     },
     {
         "name": "One with Nature",
