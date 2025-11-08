@@ -36,12 +36,18 @@
     {
         "name": "Fire Dancing",
         "type": "Pantheon",
-        "uniques": ["[+3 Culture, +3 Faith] from every [Volcano]",
-            "[+1 Culture, +1 Faith] from every [Volcanic Plains]",
+        "uniques": ["[+2 Culture, +2 Faith] from every [Volcano]",
+            "[+1 Food, +1 Faith] from every [Volcanic Plains]",
             "[+1 Food, +1 Faith] from every [Hydrothermal Vents]",
-        "[+3 Culture, +3 Faith] from every [Volcano] <for [Lithuania] Civilizations> <hidden from users>",
-        "[+1 Culture, +1 Faith] from every [Volcanic Plains] <for [Lithuania] Civilizations> <hidden from users>",
-        "[+1 Food, +1 Faith] from every [Hydrothermal Vents] <for [Lithuania] Civilizations> <hidden from users>"]
+            "[+2 Culture, +2 Faith] from every [Orodruin] <hidden from users>",
+            "[+2 Culture, +2 Faith] from every [Krakatoa] <hidden from users>",
+            "[+2 Culture, +2 Faith] from every [Mount Vesuvius] <hidden from users>",
+        "[+2 Culture, +2 Faith] from every [Volcano] <for [Lithuania] Civilizations> <hidden from users>",
+        "[+1 Food, +1 Faith] from every [Volcanic Plains] <for [Lithuania] Civilizations> <hidden from users>",
+        "[+1 Food, +1 Faith] from every [Hydrothermal Vents] <for [Lithuania] Civilizations> <hidden from users>",
+        "[+2 Culture, +2 Faith] from every [Orodruin] <for [Lithuania] Civilizations> <hidden from users>",
+        "[+2 Culture, +2 Faith] from every [Krakatoa] <for [Lithuania] Civilizations> <hidden from users>",
+        "[+2 Culture, +2 Faith] from every [Mount Vesuvius] <for [Lithuania] Civilizations> <hidden from users>"]
     },
     {
         "name": "God-King",
