@@ -1825,7 +1825,23 @@
         "requiredTech": "Ecology",
         "uniques": [
             "Must be next to [Desert]",
-            "Only available <in cities without a [Nuclear Plant]>"
+            "Only available <in cities without a [Nuclear Plant]>",
+			"Only available <in cities without a [Geothermal Plant]>"
+        ]
+    },
+    {
+        "name": "Geothermal Plant",
+        "production": 5,
+        "percentStatBonus": {
+            "production": 15
+        },
+        "requiredBuilding": "Factory",
+        "maintenance": 3,
+        "requiredTech": "Ecology",
+        "uniques": [
+            "Must have an owned [Volcano] within [2] tiles",
+            "Only available <in cities without a [Nuclear Plant]>",
+			"Only available <in cities without a [Solar Plant]>"
         ]
     },
     {
@@ -1864,7 +1880,8 @@
         "requiredResource": "Uranium",
         "requiredTech": "Nuclear Fission",
         "uniques": [
-            "Only available <in cities without a [Solar Plant]>"
+            "Only available <in cities without a [Solar Plant]>",
+			"Only available <in cities without a [Geothermal Plant]>"
         ]
     },
     {
