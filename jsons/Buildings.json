@@ -10,9 +10,9 @@
         "cost": 0,
         "uniques": [
             "Indicates the capital city",
-            "Provides [2] [Horses] <after discovering [Animal Husbandry]>",
-            "Provides [2] [Iron] <after discovering [Iron Working]>",
-            "Provides [2] [Coal] <after discovering [Industrialization]>",
+            "Provides [1] [Horses] <after discovering [Animal Husbandry]>",
+            "Provides [1] [Iron] <after discovering [Iron Working]>",
+            "Provides [1] [Coal] <after discovering [Industrialization]>",
             "Provides [1] [Oil] <after discovering [Biology]>",
             "Provides [1] [Aluminum] <after discovering [Electricity]>"
         ]
