@@ -2114,19 +2114,18 @@
         ],
         "movement": 2
     },
-    {
-        "name": "Great Admiral",
-        "unitType": "Civilian Water",
-        "uniques": [
+	{
+		"name": "Great Admiral",
+		"unitType": "Civilian Water",
+		"uniques": [
+            "May Paradrop to [{your} {Coastal} {City center}] tiles up to [25] tiles away <in [City center] tiles>",
             "[+15]% Strength bonus for [{Military} {Water}] units within [2] tiles",
-            "Unbuildable",
-            "Uncapturable",
-            "Can be earned through combat <for [Water] units>",
-            "Great Person - [Navy]",
-            "Can instantly construct a [Dry Dock] improvement <by consuming this unit>"
-        ],
-        "movement": 6
-    },
+			"Can be earned through combat <for [Water] units>",
+            "Is part of Great Person group [Admiral]",
+            "[This Unit] gets a name from the [Admiral] group",
+            "Great Person - [War]", "Unbuildable", "Uncapturable"],
+		"movement": 5
+	},
     {
         "name": "Great Scientist",
         "unitType": "Civilian",
