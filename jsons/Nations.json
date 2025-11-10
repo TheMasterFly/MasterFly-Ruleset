@@ -997,7 +997,7 @@
             "[+1] Sight <for [{Military} {Land}] units>",
             "[-50]% Gold cost of acquiring tiles [in all cities]",
 			"[+25]% Production when constructing [All] buildings [in all cities] <during a Golden Age>",
-			"[+10]% Production when constructing [Wonder] buildings [in all cities] <during a Golden Age>"
+			"[+10]% Production when constructing [All] wonders [in all cities] <during a Golden Age>"
         ],
         "cities": [
             "Washington",
