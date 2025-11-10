@@ -1329,7 +1329,7 @@
 			"[+2 Food, +1 Production] from every [Mountain] <in tiles adjacent to [City center] tiles>",
 			"[+1 Faith] from every [Mountain] <starting from the [Classical era]> <in tiles adjacent to [City center] tiles>",
 			"[+1 Production] from every [Mountain] <starting from the [Renaissance era]> <in tiles adjacent to [City center] tiles>",
-            "Comment [Units may cross [Mountain] tiles when adjacent to city tiles\nLand units gain +20% strength and earn 25% of killed unit's cost as [Faith] within 2 tiles of a [Mountain]]"
+            "Comment [Units may cross [Mountain] tiles when adjacent to city tiles\nLand units gain +10% strength in and per adjacent [Mountain], +5% strength in and per adjacent [Hill] and earn 25% of killed unit's cost as [Faith]]"
         ],
         "cities": [
             "Tbilisi","Kutaisi","Batumi","Sokhumi","Zugdidi","Rust'avi","P'ot'i","Gori","Ts'khinvali","Samtredia",
@@ -3722,7 +3722,7 @@
             226
         ],
         "uniqueName": "Roof Of The World",
-        "uniqueText": "Land units may cross [Mountain] tiles after the first [Great Prophet] is earned\n[All] units gain double movement in [Hill], [Mountain]\nCivilian units take no damage from ending turn in [Mountain]\n[Melee]/[Ranged] units gain +10%/+8% strength in and per adjacent [Mountain], +5%/+4% strength in and per adjacent [Hill] and takes 10/15 damage from ending turn in [Mountain]\nRanged units heal 0 HP in [Mountain] tiles",
+        "uniqueText": "Land units may cross [Mountain] tiles after the first [Great Prophet] is earned\n[All] units gain double movement in [Hill], [Mountain]\nCivilian units take no damage from ending turn in [Mountain]\n[Melee]/[Ranged] units gain +15%/+10% strength in [Mountain] and [Hill] tiles and takes 20/34 damage from ending turn in [Mountain]\nRanged units heal 0 HP in [Mountain] tiles",
         "uniques": [
             "Land units may cross [Mountain] tiles after the first [Great Prophet] is earned",
             "[Land] units gain the [Tibetan Mountain Ability] promotion",
