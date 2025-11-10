@@ -2122,7 +2122,6 @@
             "[+15]% Strength bonus for [{Military} {Water}] units within [2] tiles",
 			"Can be earned through combat <for [Water] units>",
             "Is part of Great Person group [Admiral]",
-            "[This Unit] gets a name from the [Admiral] group",
             "Great Person - [War]", "Unbuildable", "Uncapturable"],
 		"movement": 5
 	},
