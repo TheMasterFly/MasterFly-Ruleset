@@ -16,21 +16,23 @@
     {
         "name": "Desert Folklore",
         "type": "Pantheon",
-        "uniques": ["[+1 Food, +1 Faith] from every [Desert]",
-        "[+1 Food, +1 Faith] from every [Desert] <for [Lithuania] Civilizations> <hidden from users>"]
+        "uniques": ["[+1 Faith] from every [Desert]",
+        "[+1 Food] from every [Desert] <starting from the [Medieval era]>",
+        "[+1 Faith] from every [Desert] <for [Lithuania] Civilizations> <hidden from users>",
+        "[+1 Food] from every [Desert] <for [Lithuania] Civilizations> <starting from the [Medieval era]> <hidden from users>"]
     },
     {
         "name": "Faith Healers",
         "type": "Pantheon",
-        "uniques": ["[All] Units adjacent to this city heal [+30] HP per turn when healing",
-        "[All] Units adjacent to this city heal [+30] HP per turn when healing <for [Lithuania] Civilizations> <hidden from users>"]
+        "uniques": ["[All] Units adjacent to this city heal [+25] HP per turn when healing",
+        "[All] Units adjacent to this city heal [+25] HP per turn when healing <for [Lithuania] Civilizations> <hidden from users>"]
     },
     {
         "name": "Fertility Rites",
         "type": "Pantheon",
-        "uniques": ["[+10]% growth [in this city]",
+        "uniques": ["[+15]% growth [in this city]",
         "[+2 Food] [in this city]",
-        "[+10]% growth [in this city] <for [Lithuania] Civilizations> <hidden from users>",
+        "[+15]% growth [in this city] <for [Lithuania] Civilizations> <hidden from users>",
         "[+2 Food] [in this city] <for [Lithuania] Civilizations> <hidden from users>"]
     },
     {
