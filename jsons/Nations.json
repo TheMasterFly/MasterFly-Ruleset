@@ -1372,6 +1372,7 @@
         "uniqueName": "German Manufacturing",
         "uniques": [
 			"[+100]% [Coal] resource production",
+			"[+100]% [Aluminum] resource production",
 			"[+3 Production] from every [Manufactory]",
 			"[+1 Production] from every [Mine] <starting from the [Industrial era]>"
         ],
