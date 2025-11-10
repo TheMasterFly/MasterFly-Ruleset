@@ -992,10 +992,13 @@
             255
         ],
         "favoredReligion": "Christianity",
-        "uniqueName": "Manifest Destiny",
+        "uniqueName": "Manifest Destiny/Capitalism",
         "uniques": [
             "[+1] Sight <for [{Military} {Land}] units>",
-            "[-50]% Gold cost of acquiring tiles [in all cities]"
+            "[-50]% Gold cost of acquiring tiles [in all cities]",
+			"[+1 Gold, +1 Production] from all [Market] buildings",
+			"[+1 Gold, +1 Production] from all [Bank] buildings",
+			"[+1 Gold, +1 Production] from all [Stock Exchange] buildings"
         ],
         "cities": [
             "Washington",
