@@ -32,7 +32,7 @@
         "replaces": "Settler",
         "movement": 2,
         "cost": 40,
-		"strength": 3
+		"strength": 3,
         "uniques": [
             "Founds a new city <by consuming this unit>",
             "All tiles cost 1 movement <if [Palace] is not constructed>",
@@ -551,15 +551,15 @@
         "uniqueTo": "Armenia",
         "replaces": "Horseman",
         "movement": 4,
-        "strength": 16,
+        "strength": 13,
         "cost": 75,
         "requiredTech": "Horseback Riding",
         "requiredResource": "Horses",
         "upgradesTo": "Cavalry",
         "obsoleteTech": "Military Science",
         "uniques": [
-            "Comment [Gains 10 Strength and costs the same as a Knight upon discovering [Chivalry]]",
-            "[+63]% Strength <after discovering [Chivalry]> <hidden from users>",
+            "Comment [Gains 8 Strength and costs the same as a Knight upon discovering [Chivalry]]",
+            "[+62]% Strength <after discovering [Chivalry]> <hidden from users>",
             "[60]% production cost <after discovering [Chivalry]> <hidden from users>",
             "Can move after attacking",
             "[-33]% Strength <vs cities> <when attacking>"
@@ -573,8 +573,8 @@
         "uniqueTo": "Byzantium",
         "replaces": "Horseman",
         "movement": 3,
-        "strength": 18,
-        "cost": 90,
+        "strength": 16,
+        "cost": 80,
         "requiredTech": "Horseback Riding",
         "upgradesTo": "Knight",
         "obsoleteTech": "Chivalry",
@@ -815,8 +815,8 @@
         "upgradesTo": "Landship",
         "obsoleteTech": "Combustion",
         "uniques": [
-            "Comment [Gains 11 Strength and costs the same as a Cavalry upon discovering [Military Science]]",
-            "[+59]% Strength <after discovering [Military Science]> <hidden from users>",
+            "Comment [Gains 12 Strength and costs the same as a Cavalry upon discovering [Military Science]]",
+            "[+55]% Strength <after discovering [Military Science]> <hidden from users>",
             "[87]% production cost <after discovering [Military Science]> <hidden from users>",
             "[+25]% Strength <in [Desert] tiles>",
             "Can move after attacking",
@@ -1494,7 +1494,7 @@
         "replaces": "Cavalry",
         "uniqueTo": "Russia",
         "movement": 4,
-        "strength": 34,
+        "strength": 36,
         "cost": 225,
         "requiredTech": "Military Science",
         "obsoleteTech": "Combustion",
@@ -1503,7 +1503,8 @@
         "uniques": [
             "Can move after attacking",
             "No defensive terrain bonus",
-            "[-33]% Strength <vs cities> <when attacking>"
+            "[-33]% Strength <vs cities> <when attacking>",
+			"[+20]% to Flank Attack bonuses"
         ],
         "promotions": [
             "[Cossack] ability"
