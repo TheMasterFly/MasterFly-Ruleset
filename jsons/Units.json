@@ -26,6 +26,30 @@
         "hurryCostModifier": 15
     },
     {
+        "name": "Pioneer",
+        "unitType": "Scout",
+        "uniqueTo": "America",
+        "replaces": "Settler",
+        "movement": 2,
+        "cost": 40,
+		"strength": 3
+        "uniques": [
+            "Founds a new city <by consuming this unit>",
+            "All tiles cost 1 movement <if [Palace] is not constructed>",
+            "[2] Movement <if [Palace] is not constructed>",
+            "Excess Food converted to Production when under construction",
+            "Requires at least [2] population",
+            "Cost increases by [20] when built",
+			"Capturable",
+			"[+100]% Strength <starting from the [Classical era]> <hidden from users>",
+			"[+50]% Strength <starting from the [Medieval era]> <hidden from users>",
+			"[+50]% Strength <starting from the [Renaissance era]> <hidden from users>",
+			"[+30]% Strength <starting from the [Industrial era]> <hidden from users>",
+			"[+30]% Strength <starting from the [Modern era]> <hidden from users>"
+        ],
+        "hurryCostModifier": 15
+    },
+    {
         "name": "Scout",
         "unitType": "Scout",
         "movement": 2,
