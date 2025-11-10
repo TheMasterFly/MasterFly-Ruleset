@@ -1522,7 +1522,9 @@
             "[-1] Movement <in [Mountain] tiles>",
             "[+10]% Strength <for every adjacent [Mountain]>",
             "[+5]% Strength <for every adjacent [Hill]>",
-            "Earn [25]% of killed [All] unit's [Cost] as [Faith] <within [2] tiles of a [Mountain]>"]
+            "[+10]% Strength <in [Mountain] tiles>",
+            "[+5]% Strength <in [Hill] tiles>",
+            "Earn [25]% of killed [All] unit's [Cost] as [Faith]"]
     },
     {
         "name": "Nisean Mounts",
