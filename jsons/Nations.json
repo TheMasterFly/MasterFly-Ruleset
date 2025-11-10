@@ -711,7 +711,8 @@
         "uniqueName": "Social Reforms",
         "uniques": [
             "Each city founded increases culture cost of policies [33]% less than normal",
-			"[-15]% Culture cost of adopting new Policies",
+			"[+1 Culture] [in all cities]",
+			"[+1 Culture] [in all cities] <starting from the [Renaissance era]>",
 			"Comment [+15% Strength for [Military] units for 30 turns after completing a Policy Tree - varies with game speed]",
 			"[+15]% Strength <for [Military] units> <after adopting [Tradition Complete]> <for [30] turns> <(modified by game speed)> <hidden from users>",
 			"[+15]% Strength <for [Military] units> <after adopting [Liberty Complete]> <for [30] turns> <(modified by game speed)> <hidden from users>",
