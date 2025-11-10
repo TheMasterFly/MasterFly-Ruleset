@@ -1090,7 +1090,8 @@
         "culture": 3,
         "requiredBuilding": "Library",
         "uniques": [
-            "[+3 Science] from [Jungle] tiles [in this city]"
+            "[+3 Science] from [Jungle] tiles [in this city]",
+			"Comment [+1 Artist specialist slots]"
         ],
         "requiredTech": "Education"
     },
