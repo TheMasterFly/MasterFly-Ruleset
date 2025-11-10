@@ -335,11 +335,11 @@
         "uniqueTo": "Russia",
         "hurryCostModifier": 25,
         "maintenance": 1,
+        "cityStrength": 5,
         "uniques": [
-            "[-25]% Culture cost of natural border growth [in this city]",
-            "[-25]% Gold cost of acquiring tiles [in this city]",
-            "New [Military] units start with [15] XP [in this city]",
-            "Destroyed when the city is captured"
+            "[-33]% Culture cost of natural border growth [in this city]",
+            "[-33]% Gold cost of acquiring tiles [in this city]",
+            "New [Military] units start with [15] XP [in this city]"
         ],
         "requiredTech": "Bronze Working"
     },
@@ -1084,12 +1084,13 @@
             "science": 33
         },
         "specialistSlots": {
-            "Scientist": 2
+            "Scientist": 2,
+			"Artist": 1
         },
         "culture": 3,
         "requiredBuilding": "Library",
         "uniques": [
-            "[+2 Science] from [Jungle] tiles [in this city]"
+            "[+3 Science] from [Jungle] tiles [in this city]"
         ],
         "requiredTech": "Education"
     },
