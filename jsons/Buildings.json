@@ -245,7 +245,7 @@
         "hurryCostModifier": 25,
         "maintenance": 1,
         "percentStatBonus": {
-            "food": 15
+            "food": 10
         },
         "requiredTech": "The Wheel"
     },
@@ -254,13 +254,13 @@
         "replaces": "Water Mill",
         "uniqueTo": "Almoravids",
         "maintenance": 2,
-        "food": 1,
+		"production": 1,
+        "food": 2,
         "faith": 1,
         "hurryCostModifier": 25,
         "uniques": [
             "[+1 Faith] from [Oasis] tiles [in this city]",
             "[+1 Food] from [{Desert} {Fresh water}] tiles [in this city]",
-            "[+1 Production] from [Desert] tiles [in this city]",
             "Must be next to [Fresh water]"
         ],
         "requiredTech": "The Wheel"
