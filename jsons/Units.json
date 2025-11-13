@@ -767,7 +767,7 @@
         "cost": 105,
         "requiredTech": "Metallurgy",
         "requiredResource": "Horses",
-        "uniques": [
+        "uniques": ["No movement cost to pillage",
             "Can move after attacking",
             "[+15]% Strength <vs [Ranged] units>",
             "[+15]% to Flank Attack bonuses",
