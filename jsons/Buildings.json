@@ -261,8 +261,8 @@
         "uniques": [
             "[+1 Faith, +1 Food] from [Oasis] tiles [in this city]",
             "[+1 Food] from [Flood plains] tiles [in this city]",
-			"[+1 Food] <in tiles adjacent to [City center] tiles> <in tiles not adjacent to [Oasis] tiles> <in [non-[Flood plains]] tiles> <hidden from users>",
-			"[+1 Food] <in tiles adjacent to [Oasis] tiles> <in tiles not adjacent to [City center] tiles> <in [non-[Flood plains]] tiles> <hidden from users>",
+			"[+1 Food] <in [Desert] tiles> <in tiles adjacent to [City center] tiles> <in tiles not adjacent to [Oasis] tiles> <in [non-[Flood plains]] tiles> <hidden from users>",
+			"[+1 Food] <in [Desert] tiles> <in tiles adjacent to [Oasis] tiles> <in tiles not adjacent to [City center] tiles> <in [non-[Flood plains]] tiles> <hidden from users>",
 			"Comment [+1 Food from [Desert] tiles adjacent to [City center], [Oasis] and [River]]",
             "Must be next to [Fresh water]"
         ],
