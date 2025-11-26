@@ -472,7 +472,7 @@
         "innerColor": [0, 222, 255],
         "favoredReligion": "Taoism",
         "uniqueName": "Dragon of the Silk Road",
-        "uniques": ["Comment [All [Military] units gain +20% Strength within 2 tiles of a friendly [City center]]",
+        "uniques": ["Comment [All [Military] units gain +15% Strength within 2 tiles of a friendly [City center]]",
 			"[+1 Food, +1 Production, +1 Culture, +1 Faith, +1 Science, +1 Gold, +1 Happiness] from each Trade Route",
 			"[Military] units gain the [Tang Ability] promotion <hidden from users>"],
         "cities": ["Chang'an","Luoyang","Yangzhou","Guangzhou","Dunhuang","Chengdu","Fuzhou","Suzhou","Taiyuan","Xi'an","Kaifeng","Hangzhou","Nanjing","Lanzhou","Quanzhou","Hefei","Wenzhou","Ganzhou","Shangqiu","Jingzhou"],
