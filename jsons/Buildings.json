@@ -259,8 +259,11 @@
         "faith": 1,
         "hurryCostModifier": 25,
         "uniques": [
-            "[+1 Faith] from [Oasis] tiles [in this city]",
-            "[+1 Food] from [{Desert} {Fresh water}] tiles [in this city]",
+            "[+1 Faith, +1 Food] from [Oasis] tiles [in this city]",
+            "[+1 Food] from [Desert] tiles [in this city] <in tiles adjacent to [City center] tiles> <hidden from users>",
+			"[+1 Food] from [Desert] tiles [in this city] <in tiles adjacent to [{Oasis} {non-[City center]} {non-[River]}] tiles> <hidden from users>",
+			"[+1 Food] from [Desert] tiles [in this city] <in tiles adjacent to [{River} {non-[City center]} {non-[Oasis]}] tiles> <hidden from users>",
+			"Comment [+1 Food from [Desert] tiles adjacent to [City center], [Oasis] and [River]]",
             "Must be next to [Fresh water]"
         ],
         "requiredTech": "The Wheel"
