@@ -171,7 +171,8 @@
         "techRequired": "Engineering",
         "uniques": [
             "Can be built outside your borders",
-            "Gives a defensive bonus of [50]%"
+            "Gives a defensive bonus of [75]% <vs [non-[Siege]] units>",
+            "Gives a defensive bonus of [33]% <vs [Siege] units>"
         ],
         "shortcutKey": "O"
     },
@@ -190,11 +191,12 @@
 		"culture": 1,
         "uniques": [
             "Can be built just outside your borders",
-            "Gives a defensive bonus of [100]%",
+            "Gives a defensive bonus of [150]% <vs [non-[Siege]] units>",
+            "Gives a defensive bonus of [75]% <vs [Siege] units>",
 			"Cannot be built on [Mountain] tiles <hidden from users>",
             "Removes removable features when built",
             "Tile provides yield without assigned population",
-			"Must be next to [The Great Wall] <within [999] tiles of a [The Great Wall]>",
+			"Must be next to [The Great Wall]",
 			"Unavailable <if [Great Wall] is not constructed>"
         ],
         "shortcutKey": "O"
