@@ -594,11 +594,6 @@
         "uniques": ["Not shown on world screen <for [non-[Timurids]] Civilizations>", "Cannot be traded", "Stockpiled"]
     },
     {
-        "name": "Great Wall Foundation", 
-        "resourceType": "Strategic",
-        "uniques": ["Not shown on world screen", "Cannot be traded", "Stockpiled"]
-    },
-    {
         "name": "Great Wall Points", 
         "resourceType": "Strategic",
         "uniques": ["Not shown on world screen", "Cannot be traded", "Stockpiled"]
