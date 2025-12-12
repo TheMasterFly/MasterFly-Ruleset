@@ -189,7 +189,6 @@
         "techRequired": "Engineering",
 		"culture": 1,
         "uniques": [
-			"Consumes [1] [Great Wall Points]",
             "Can be built just outside your borders",
             "Gives a defensive bonus of [100]%",
 			"Cannot be built on [Mountain] tiles <hidden from users>",
