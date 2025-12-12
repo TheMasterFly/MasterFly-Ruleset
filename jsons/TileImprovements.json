@@ -196,7 +196,7 @@
 			"Cannot be built on [Mountain] tiles <hidden from users>",
             "Removes removable features when built",
             "Tile provides yield without assigned population",
-			"Only available <if [Great Wall] is constructed> <for [Worker] units> <within [1] tiles of a [The Great Wall]>"
+			"Only available <for [non-[Great Wall Builder]] units> <if [Great Wall] is constructed> <within [1] tiles of a [The Great Wall]>"
         ],
         "shortcutKey": "O"
     },
