@@ -1,4 +1,4 @@
-Behold mine mod. Archers are weaker, swordsmen might have a place now and civ balance has been kicked out of the house, despite my best efforts to rehabilitate it. Here's a list of the standouts, and please note the bigget changes are in this top list:
+Behold mine mod. Archers are weaker, swordsmen might have a place now and civ balance has been kicked out of the house, despite my best efforts to rehabilitate it. Here's a list of the standouts, and please note the biggest changes are in this top list:
 
 **Biggest Changes:**
 1) Workers can now improve water tile, while Work Boats have lost that ability. Instead, they can 'fish' by ending their turn on a Fishing Boats improvement/improved water resource tile. Once this has been done 3 times in tiles next to a City center or 4 times in tiles not adjacent, they acquire a 'Fish Harvest' promotion, where they must return to a city and can consume themselves to give a large food buff to the city. This buff is increased by roughly 33% for fishing done in tiles not adjacent to City centers.
@@ -15,13 +15,12 @@ Oil-Provider City States (Gold secondary yield)
 
 5) Rationalim is nerfed, Liberty, Commerce and Piety is (over?) buffed. Exploration has been added.
 
-6) New Natural Wonders!
+6) New Natural Wonders! These include the Pink and White Terraces, Socotra, Mount Vesuvius and the elusive Orodruin itself.
 
 If you have any questions, I am in the Unciv Discord as 'MasterFly'. I'd especially love to hear feedback on civ balance :trollface:
 
 **Added Civs:**
-Almoravids, Armenia, Crusader States, Dai Viet, Georgia, Kilwa Sultanate, Lithuania, Norway, Papal States, Portugal, Timurids
-
-There are few civs I have yet to adjust, but most have been changed.
+Almoravids, Armenia, Crusader States, Dai Viet, Georgia, Kilwa, Lithuania, Norway, Papal States, Portugal, Timurids
+Additionally, China has been split into the Tang and Song dynasties with the Tang being wide and trade-focused and the Song being tall and specialist-focused
 
 Finally, this mod is very compatible with the More Luxuries mod. I'd like to add my own sprites eventually, but until then I use that add-on in conjunction with this one.
