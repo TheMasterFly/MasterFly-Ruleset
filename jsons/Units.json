@@ -2348,7 +2348,7 @@
     {
         "name": "Great Wall Builder",
         "unitType": "Civilian",
-        "uniques": [
+        "uniques": ["Great Person",
             "Can instantly construct a [The Great Wall] improvement <by consuming this unit>",
             "Unbuildable",
 			"Uncapturable"
