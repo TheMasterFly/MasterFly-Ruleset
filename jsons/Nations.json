@@ -1540,12 +1540,12 @@
         ]
     },
     {
-        "name": "Kilwa Sultanate",
+        "name": "Kilwa",
         "leaderName": "Ali ibn al-Hassan Shirazi",
         "adjective": ["Kilwan"],
         "startBias": ["Coast"],
         "startIntroPart1": "Greetings to you, resourceful Ali ibn al-Hassan Shirazi. You are the founder of the mighty Kilwa Sultanate, a proud people of the sea. Originally one of 7 princes in line to the throne of Persia, you were driven from your home by their plots. After much travelling, you found and purchased the island which would become your capital for mere cloth after your unlawful ostracism at the hands of your brothers, and built it into a proud city, the envy of the known world. From this new capital, your people, proud traders by nature, travelled the length of the African coast, spreading the influence of your sultanate. The Kilwa are a tolerant people, indeed those cities under your rule feature many separate beliefs, languages and peoples - a venerable melting pot of cultures which together forged the identity of the Swahili people who to this day occupy the lands of your former sultanate.",
-        "startIntroPart2": "The empire lasted long after your death, with your descendants ruling for many more centuries, expanding the rule of the Kilwa Sultanate far and wide, falling only to an invasion of superior weaponry at the hands of European colonials. Yet none could compare to you, wise leader. Your people call for you to lead them to greatness across the seas. Will you answer their call? Can you build a civilization that will stand the test of time?",
+        "startIntroPart2": "The empire lasted long after your death, with your descendants ruling for many more centuries, expanding the rule of the Kilwa far and wide, falling only to an invasion of superior weaponry at the hands of European colonials. Yet none could compare to you, wise leader. Your people call for you to lead them to greatness across the seas. Will you answer their call? Can you build a civilization that will stand the test of time?",
         "declaringWar": "It is horrible both you and I have to resort to war. But what's done is done.",
         "attacked": "That such a breakdown of peace should occur is testament to your savagery.",
         "defeated": "To fall in battle is nobler than to be stabbed in the back by a brother or vizier...",

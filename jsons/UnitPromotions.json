@@ -48,8 +48,8 @@
     {
         "name": "Continue Shallows Fishing 2",
         "uniques": ["Comment [This unit has nearly finished fishing. End its turn in a Fishing Boats tile to continue]",
-            "[This Unit] gains the [Shallows Fish Harvest] promotion <upon ending a turn in a [Fishing Boats] tile> <for [non-[Kilwa Sultanate]] Civilizations> <in tiles adjacent to [City center] tiles>",
-            "[This Unit] gains the [Swahili Shallows Fish Harvest] promotion <upon ending a turn in a [Fishing Boats] tile> <for [Kilwa Sultanate] Civilizations> <in tiles adjacent to [City center] tiles>",
+            "[This Unit] gains the [Shallows Fish Harvest] promotion <upon ending a turn in a [Fishing Boats] tile> <for [non-[Kilwa]] Civilizations> <in tiles adjacent to [City center] tiles>",
+            "[This Unit] gains the [Swahili Shallows Fish Harvest] promotion <upon ending a turn in a [Fishing Boats] tile> <for [Kilwa] Civilizations> <in tiles adjacent to [City center] tiles>",
             "[This Unit] loses the [Continue Shallows Fishing 2] promotion <upon ending a turn in a [Fishing Boats] tile> <in tiles adjacent to [City center] tiles>"]
     },
     {
@@ -83,8 +83,8 @@
     {
         "name": "Continue Deepwater Fishing 3",
         "uniques": ["Comment [This unit has almost finished fishing. End its turn in a Fishing Boats tile not adjacent to a [City center] to continue]",
-            "[This Unit] gains the [Deepwater Fish Harvest] promotion <upon ending a turn in a [Fishing Boats] tile> <for [non-[Kilwa Sultanate]] Civilizations> <in tiles not adjacent to [City center] tiles>",
-            "[This Unit] gains the [Swahili Deepwater Fish Harvest] promotion <upon ending a turn in a [Fishing Boats] tile> <for [Kilwa Sultanate] Civilizations> <in tiles not adjacent to [City center] tiles>",
+            "[This Unit] gains the [Deepwater Fish Harvest] promotion <upon ending a turn in a [Fishing Boats] tile> <for [non-[Kilwa]] Civilizations> <in tiles not adjacent to [City center] tiles>",
+            "[This Unit] gains the [Swahili Deepwater Fish Harvest] promotion <upon ending a turn in a [Fishing Boats] tile> <for [Kilwa] Civilizations> <in tiles not adjacent to [City center] tiles>",
             "[This Unit] loses the [Continue Deepwater Fishing 3] promotion <upon ending a turn in a [Fishing Boats] tile>"]
     },
     {

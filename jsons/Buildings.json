@@ -43,7 +43,7 @@
     },
 	{
 		"name": "Kilwan Port",
-		"uniqueTo": "Kilwa Sultanate",
+		"uniqueTo": "Kilwa",
 		"uniques": ["Connects trade routes over water <starting from the [Classical era]>",
 			"[+1 Production] from [Strategic resource] tiles [in this city] <in tiles adjacent to [City center] tiles>",
 			"[+1 Culture] from [Luxury resource] tiles [in this city] <in tiles adjacent to [City center] tiles>",
@@ -679,7 +679,7 @@
     {
         "name": "Kilwan Mint",
         "replaces": "Mint",
-        "uniqueTo": "Kilwa Sultanate",
+        "uniqueTo": "Kilwa",
         "maintenance": 0,
         "hurryCostModifier": 25,
         "uniques": ["Comment [Doesn't require [Gold Ore] or [Silver] tiles to be built]",
