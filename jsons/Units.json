@@ -2349,7 +2349,7 @@
         "name": "Great Wall Builder",
         "unitType": "Civilian",
         "uniques": [
-            "Can instantly construct a [The Great Wall] improvement <by consuming this unit>",
+            "Turn this tile into a [The Great Wall] tile <after which this unit is consumed>",
             "Unbuildable",
 			"Uncapturable"
         ],
