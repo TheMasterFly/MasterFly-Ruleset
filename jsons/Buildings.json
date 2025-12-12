@@ -754,7 +754,7 @@
         "uniques": ["Free [Great Wall Builder] appears",
 			"Comment [Upon building, gain a Great Wall Builder. Place it on the tile where you wish to start your Great Wall.\nYou can then extend The Wall from this point (and this point only!) by the amount of Great Wall Points you have (+3 from the city the [Great Wall] is built in, +1 per additional city)]",
             "Gain a free [Walls] [in this city]",
-			"Provides [2] [Great Wall Points]",
+			"Instantly gain [2] [Great Wall Points]",
 			"Gain a free [Great Wall Point Provider] [in all cities] <hidden from users>",
 			"Enemy [Land] units must spend [4] extra movement points when inside your territory <in [The Great Wall] tiles>"
         ],
@@ -763,11 +763,12 @@
     },
 		{
 			"name": "Great Wall Point Provider",
-			"uniques": ["Provides [1] [Great Wall Points]",
+			"uniques": ["Instantly gain [1] [Great Wall Points]",
 				"Will not be displayed in Civilopedia",
 				"Unbuildable",
 				"Cannot be purchased",
 				"Unsellable",
+				"Instantly gain [-1] [Great Wall Points] <upon losing a city>",
 				"Destroyed when the city is captured"]
 		},
     {
