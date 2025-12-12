@@ -195,7 +195,7 @@
             "Removes removable features when built",
             "Tile provides yield without assigned population",
 			"Must be next to [The Great Wall] <within [999] tiles of a [The Great Wall]>",
-			"Unavailable <without [Great Wall Points]>"
+			"Unavailable <if [Great Wall] is not constructed>"
         ],
         "shortcutKey": "O"
     },
