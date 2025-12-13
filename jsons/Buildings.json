@@ -4,7 +4,7 @@
         "isNationalWonder": true,
         "production": 3,
         "science": 3,
-        "gold": 3,
+        "gold": 39,
         "culture": 1,
         "cityStrength": 2.5,
         "cost": 0,
@@ -14,7 +14,8 @@
             "Provides [1] [Iron] <after discovering [Iron Working]>",
             "Provides [1] [Coal] <after discovering [Industrialization]>",
             "Provides [1] [Oil] <after discovering [Biology]>",
-            "Provides [1] [Aluminum] <after discovering [Electricity]>"
+            "Provides [1] [Aluminum] <after discovering [Electricity]>",
+			"[+300 Science, +300 Production] <if [Great Wall] is not constructed>"
         ]
     },
     {
@@ -30,9 +31,9 @@
         "cost": 0,
         "uniques": [
             "Indicates the capital city",
-            "Provides [2] [Horses] <after discovering [Animal Husbandry]>",
-            "Provides [2] [Iron] <after discovering [Iron Working]>",
-            "Provides [2] [Coal] <after discovering [Industrialization]>",
+            "Provides [3] [Horses] <after discovering [Animal Husbandry]>",
+            "Provides [1] [Iron] <after discovering [Iron Working]>",
+            "Provides [1] [Coal] <after discovering [Industrialization]>",
             "Provides [1] [Oil] <after discovering [Biology]>",
             "Provides [1] [Aluminum] <after discovering [Electricity]>",
             "[+2 Culture, +2 Science, +2 Happiness] [in capital] <for every [Skull Pyramids]>",
