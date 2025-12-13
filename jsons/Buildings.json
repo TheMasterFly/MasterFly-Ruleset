@@ -765,6 +765,7 @@
 		{
 			"name": "Great Wall Point Provider",
 			"uniques": ["Instantly gain [1] [Great Wall Points]",
+				"Instantly gain [-1] [Great Wall Points] <if [Great Wall] is constructed> <upon losing a city> <in this city>",
 				"Will not be displayed in Civilopedia",
 				"Unbuildable",
 				"Cannot be purchased",
