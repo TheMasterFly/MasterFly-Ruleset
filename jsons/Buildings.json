@@ -755,6 +755,7 @@
 			"Comment [Upon building, gain a Great Wall Builder. Place it on the tile where you wish to start your Great Wall.\nYou can then extend The Wall from this point (and this point only!) by the amount of Great Wall Points you have (+3 from the city the [Great Wall] is built in, +1 per additional city)]",
             "Gain a free [Walls] [in this city]",
 			"Instantly gain [2] [Great Wall Points]",
+			"Instantly gain [-1] [Great Wall Points] <if [Great Wall] is constructed> <upon building a [The Great Wall] improvement> <hidden from users>",
 			"Gain a free [Great Wall Point Provider] [in all cities] <hidden from users>",
 			"Enemy [Land] units must spend [4] extra movement points when inside your territory <in [The Great Wall] tiles>"
         ],
