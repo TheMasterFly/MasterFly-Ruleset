@@ -1,11 +1,13 @@
 [
     {
         "name": "Civilian",
-        "movementType": "Land"
+        "movementType": "Land",
+        "uniques": "[[-3] Movement] <if [Great Wall] is not constructed> <in [The Great Wall] tiles>"
     },
     {
         "name": "Sword",
-        "movementType": "Land"
+        "movementType": "Land",
+        "uniques": "[[-3] Movement] <if [Great Wall] is not constructed> <in [The Great Wall] tiles>"
     },
     {
         "name": "Gunpowder",
@@ -123,3 +125,4 @@
     }
 
 ]
+
