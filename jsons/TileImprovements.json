@@ -178,6 +178,7 @@
     },
     {
         "name": "The Great Wall",
+		"movementCost": 4,
         "terrainsCanBeBuiltOn": ["Plains",
             "Grassland",
             "Desert",
