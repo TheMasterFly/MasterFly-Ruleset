@@ -13,7 +13,6 @@
         "[+20]% [Production] [in all cities] <during a Golden Age>",
         "[+20]% growth [in all cities] <during We Love The King Day>",
         "[-25]% [Science] [in puppeted cities]",
-        "[-25]% [Culture] [in puppeted cities]",
-        "[1] Movement <in [The Great Wall] tiles> <for [non-[Friendly]] units>"
+        "[-25]% [Culture] [in puppeted cities]"
     ]
 }
