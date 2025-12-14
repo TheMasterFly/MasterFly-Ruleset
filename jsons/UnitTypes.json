@@ -2,12 +2,12 @@
     {
         "name": "Civilian",
         "movementType": "Land",
-        "uniques": ["[-3] Movement <if [Great Wall] is not constructed> <in [The Great Wall] tiles>"]
+        "uniques": ["[This Unit] loses [3] movement <if [Great Wall] is not constructed> <in [The Great Wall] tiles>"]
     },
     {
         "name": "Sword",
         "movementType": "Land",
-        "uniques": ["[-3] Movement <if [Great Wall] is not constructed> <in [The Great Wall] tiles>"]
+        "uniques": ["[This Unit] loses [3] movement <if [Great Wall] is not constructed> <in [The Great Wall] tiles>"]
 
     },
     {
@@ -125,5 +125,6 @@
         "movementType": "Air"
     }
 ]
+
 
 
