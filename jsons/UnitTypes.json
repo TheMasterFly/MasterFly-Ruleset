@@ -2,12 +2,14 @@
     {
         "name": "Civilian",
         "movementType": "Land",
-        "uniques": ["[This Unit] loses [3] movement <if [Great Wall] is not constructed> <upon entering a [The Great Wall] tile>"]
+        "uniques": ["[This Unit] loses [3] movement <if [Great Wall] is not constructed> <upon entering a [The Great Wall] tile>",
+            "[This Unit] loses [3] movement <if [Great Wall] is not constructed> <in [The Great Wall] tiles>"]
     },
     {
         "name": "Sword",
         "movementType": "Land",
-        "uniques": ["[This Unit] loses [3] movement <if [Great Wall] is not constructed> <upon entering a [The Great Wall] tile>"]
+        "uniques": ["[This Unit] loses [3] movement <if [Great Wall] is not constructed> <upon entering a [The Great Wall] tile>",
+            "[This Unit] loses [3] movement <if [Great Wall] is not constructed> <in [The Great Wall] tiles>"]
 
     },
     {
@@ -125,6 +127,7 @@
         "movementType": "Air"
     }
 ]
+
 
 
 
