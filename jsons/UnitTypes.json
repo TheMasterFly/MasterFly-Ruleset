@@ -14,35 +14,51 @@
     },
     {
         "name": "Gunpowder",
-        "movementType": "Land"
+        "movementType": "Land",
+        "uniques": ["[This Unit] loses [3] movement <if [Great Wall] is not constructed> <upon entering a [The Great Wall] tile>",
+            "[-3] Movement <if [Great Wall] is not constructed> <in [The Great Wall] tiles>"]
     },
     {
         "name": "Archery",
-        "movementType": "Land"
+        "movementType": "Land",
+        "uniques": ["[This Unit] loses [3] movement <if [Great Wall] is not constructed> <upon entering a [The Great Wall] tile>",
+            "[-3] Movement <if [Great Wall] is not constructed> <in [The Great Wall] tiles>"]
     },
     {
         "name": "Ranged Gunpowder",
-        "movementType": "Land"
+        "movementType": "Land",
+        "uniques": ["[This Unit] loses [3] movement <if [Great Wall] is not constructed> <upon entering a [The Great Wall] tile>",
+            "[-3] Movement <if [Great Wall] is not constructed> <in [The Great Wall] tiles>"]
     },
     {
         "name": "Scout",
-        "movementType": "Land"
+        "movementType": "Land",
+        "uniques": ["[This Unit] loses [3] movement <if [Great Wall] is not constructed> <upon entering a [The Great Wall] tile>",
+            "[-3] Movement <if [Great Wall] is not constructed> <in [The Great Wall] tiles>"]
     },
     {
         "name": "Mounted",
-        "movementType": "Land"
+        "movementType": "Land",
+        "uniques": ["[This Unit] loses [3] movement <if [Great Wall] is not constructed> <upon entering a [The Great Wall] tile>",
+            "[-3] Movement <if [Great Wall] is not constructed> <in [The Great Wall] tiles>"]
     },
     {
         "name": "Ranged Mounted",
-        "movementType": "Land"
+        "movementType": "Land",
+        "uniques": ["[This Unit] loses [3] movement <if [Great Wall] is not constructed> <upon entering a [The Great Wall] tile>",
+            "[-3] Movement <if [Great Wall] is not constructed> <in [The Great Wall] tiles>"]
     },
     {
         "name": "Armored",
-        "movementType": "Land"
+        "movementType": "Land",
+        "uniques": ["[This Unit] loses [3] movement <if [Great Wall] is not constructed> <upon entering a [The Great Wall] tile>",
+            "[-3] Movement <if [Great Wall] is not constructed> <in [The Great Wall] tiles>"]
     },
     {
         "name": "Siege",
-        "movementType": "Land"
+        "movementType": "Land",
+        "uniques": ["[This Unit] loses [3] movement <if [Great Wall] is not constructed> <upon entering a [The Great Wall] tile>",
+            "[-3] Movement <if [Great Wall] is not constructed> <in [The Great Wall] tiles>"]
     },
     {
         "name": "Civilian Water",
@@ -127,6 +143,7 @@
         "movementType": "Air"
     }
 ]
+
 
 
 
