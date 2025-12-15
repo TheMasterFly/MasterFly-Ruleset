@@ -196,7 +196,7 @@
             "Removes removable features when built",
             "Tile provides yield without assigned population",
 			"Only available <if [Great Wall] is constructed>",
-			"Unavailable <in tiles not adjacent to [The Great Wall] tiles> <for [Worker] units>"
+			"Unavailable <for [Worker] units> <in tiles not adjacent to [The Great Wall] tiles>"
         ]
     },
     {
