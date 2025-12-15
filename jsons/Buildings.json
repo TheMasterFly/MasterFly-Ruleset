@@ -259,8 +259,8 @@
         "faith": 1,
         "hurryCostModifier": 25,
         "uniques": [
-            "[+1 Faith, +1 Food] from [Oasis] tiles [in this city]",
-            "[+1 Production] from [Desert] tiles [in this city]",
+            "[+1 Faith] from [Oasis] tiles [in this city]",
+            "[+1 Food] from [Desert] tiles [in this city] <starting from the [Medieval era]>",
             "Must be next to [Fresh water]"
         ],
         "requiredTech": "The Wheel"
