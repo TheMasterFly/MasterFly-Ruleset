@@ -68,7 +68,7 @@
     {
         "name": "Warrior",
         "unitType": "Sword",
-        "movement": 6,
+        "movement": 2,
         "strength": 8,
         "cost": 40,
         "obsoleteTech": "Metal Casting",
