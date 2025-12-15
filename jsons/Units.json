@@ -69,7 +69,7 @@
         "name": "Warrior",
         "unitType": "Sword",
         "movement": 6,
-        "strength": 80,
+        "strength": 8,
         "cost": 40,
         "obsoleteTech": "Metal Casting",
         "upgradesTo": "Swordsman",
