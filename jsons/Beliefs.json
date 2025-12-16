@@ -2,10 +2,12 @@
     {
         "name": "Ancestor Worship",
         "type": "Pantheon",
-        "uniques": ["[+2 Culture, +2 Faith] from every [Shrine]",
-        "[+2 Culture, +2 Faith, +3 Gold] from every [Temple]",
-        "[+2 Culture, +2 Faith] from every [Shrine] <for [Lithuania] Civilizations> <hidden from users>",
-        "[+2 Culture, +2 Faith, +3 Gold] from every [Temple] <for [Lithuania] Civilizations> <hidden from users>"]
+        "uniques": ["[+1 Culture, +1 Faith] from every [Shrine]",
+        "[+2 Culture, +2 Faith] from every [Temple]",
+        "[+5 Culture, +5 Faith] from every [Grand Temple]",
+        "[+1 Culture, +1 Faith] from every [Shrine] <for [Lithuania] Civilizations> <hidden from users>",
+        "[+2 Culture, +2 Faith] from every [Temple] <for [Lithuania] Civilizations> <hidden from users>",
+        "[+5 Culture, +5 Faith] from every [Grand Temple] <for [Lithuania] Civilizations> <hidden from users>"]
     },
     {
         "name": "Dance of the Aurora",
@@ -62,10 +64,8 @@
         "type": "Pantheon",
         "uniques": ["[+1 Production, +1 Science] from every specialist [in this city]",
         "[+1 Production, +1 Science] from every specialist [in this city] <starting from the [Renaissance era]>",
-        "[-25]% Unhappiness from [Specialists] [in all cities] <after adopting [Higher Craft]>",
         "[+1 Production, +1 Science] from every specialist [in this city] <for [Lithuania] Civilizations> <hidden from users>",
-        "[+1 Production, +1 Science] from every specialist [in this city] <starting from the [Renaissance era]> <for [Lithuania] Civilizations> <hidden from users>",
-        "[-25]% Unhappiness from [Specialists] [in all cities] <after adopting [Higher Craft]> <for [Lithuania] Civilizations> <hidden from users>"]
+        "[+1 Production, +1 Science] from every specialist [in this city] <starting from the [Renaissance era]> <for [Lithuania] Civilizations> <hidden from users>"]
     },
     {
         "name": "God of Death",
