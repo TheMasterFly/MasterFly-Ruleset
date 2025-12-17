@@ -1624,5 +1624,11 @@
     {
         "name": "Tang Ability",
         "uniques": ["[+15]% Strength <within [2] tiles of a [City center]> <in [Friendly] tiles>"]
+    },
+    {
+        "name": "Faith Healers Ability",
+        "uniques": [
+            "[+10] HP when healing"
+        ]
     }
 ]
