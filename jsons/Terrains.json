@@ -769,7 +769,7 @@
 		"type": "NaturalWonder",
 		"production": 2,
 		"culture": 2,
-		"gold": 4,
+		"gold": 2,
 		"defenceBonus": 0.2,
 		"occursOn": ["Desert"],
 		"uniques": ["Must be adjacent to [0] [Coast] tiles",
