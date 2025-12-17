@@ -63,10 +63,10 @@
     {
         "name": "God-King",
         "type": "Pantheon",
-        "uniques": ["[+1 Production, +1 Food, +1 Culture, +1 Faith, +1 Science, +1 Gold, +1 Happiness] [in capital]",
-        "[[+10]% [Production], [+10]% [Food], [+10]% [Culture], [+10]% [Faith], [+10]% [Science], [+10]% [Gold], [+10]% [Happiness]] [in capital]",
-        "[+1 Production, +1 Food, +1 Culture, +1 Faith, +1 Science, +1 Gold, +1 Happiness] [in capital] <for [Lithuania] Civilizations> <hidden from users>",
-        "[[+10]% [Production], [+10]% [Food], [+10]% [Culture], [+10]% [Faith], [+10]% [Science], [+10]% [Gold], [+10]% [Happiness]] [in capital] <for [Lithuania] Civilizations> <hidden from users>"
+        "uniques": ["[+1 Production, +1 Food, +1 Culture, +1 Faith, +1 Science, +1 Gold, +1 Happiness] from every [Palace]",
+        "[[+10]% [Production], [+10]% [Food], [+10]% [Culture], [+10]% [Faith], [+10]% [Science], [+10]% [Gold], [+10]% [Happiness]] from every [Palace]",
+        "[+1 Production, +1 Food, +1 Culture, +1 Faith, +1 Science, +1 Gold, +1 Happiness] from every [Palace] <for [Lithuania] Civilizations> <hidden from users>",
+        "[[+10]% [Production], [+10]% [Food], [+10]% [Culture], [+10]% [Faith], [+10]% [Science], [+10]% [Gold], [+10]% [Happiness]] from every [Palace] <for [Lithuania] Civilizations> <hidden from users>"
         ]
     },
     {
@@ -331,21 +331,9 @@
         "uniques": ["[+2 Production, +2 Science, +2 Culture] [in cities following this religion] <in cities with at least [5] [Followers of this Religion]>"]
     },
     {
-        "name": "God's Fleet",
-        "type": "Follower",
-        "uniques": ["May buy [{Military} {Water}] units with [Faith] for [2] times their normal Production cost <before the [Industrial era]>",
-             "May buy [{Military} {Water}] units with [Faith] for [3] times their normal Production cost <starting from the [Industrial era]>"]
-    },
-    {
         "name": "Higher Craft",
         "type": "Follower",
         "uniques": ["[+1 Production, +1 Food] from every specialist [in this city] <in cities with at least [3] [Specialists]> <in cities with at least [5] [Followers of this Religion]>"]
-    },
-    {
-        "name": "Holy Warriors",
-        "type": "Follower",
-        "uniques": ["May buy [{Military} {Land}] units with [Faith] for [2] times their normal Production cost <before the [Industrial era]>",
-             "May buy [{Military} {Land}] units with [Faith] for [3] times their normal Production cost <starting from the [Industrial era]>"]
     },
     {
         "name": "Liturgical Drama",
@@ -470,37 +458,30 @@
     {
         "name": "Inner Discipline",
         "type": "Enhancer",
-        "uniques": ["New [Military] units start with [30] XP [in this city]"]
+        "uniques": ["New [Military] units start with [10] XP [in this city]",
+            "May buy [Military] units with [Faith] for [2] times their normal Production cost <before the [Industrial era]>",
+            "May buy [Military] units with [Faith] for [3] times their normal Production cost <starting from the [Industrial era]>"]
     },
     {
         "name": "Dharma",
         "type": "Enhancer",
-        "uniques": ["[+10 Science] from every [Grand Temple]"]
+        "uniques": ["[+10 Science] from every [Grand Temple]",
+            "[+10]% [Science] from every [Grand Temple]"]
     },
     {
         "name": "Disciples",
         "type": "Enhancer",
-        "uniques": ["[+2 Gold, +2 Culture] from every [Great Improvement]"]
-    },
-    {
-        "name": "Hajj",
-        "type": "Enhancer",
-        "uniques": ["[+3 Food, +3 Production, +3 Culture, +3 Science] [in capital]"]
+        "uniques": ["[+2 Science, +2 Culture] from every [Great Improvement]"]
     },
     {
         "name": "Holy Order",
         "type": "Enhancer",
-        "uniques": ["[Faith] cost of purchasing [Missionary] units [-30]%", "[Faith] cost of purchasing [Inquisitor] units [-30]%"]
+        "uniques": ["[Faith] cost of purchasing [Missionary] units [-30]%", "[Faith] cost of purchasing [Inquisitor] units [-40]%"]
     },
     {
         "name": "Itinerant Preachers",
         "type": "Enhancer",
         "uniques": ["Religion naturally spreads to cities [+3] tiles away"]
-    },
-    {
-        "name": "Jizya",
-        "type": "Enhancer",
-        "uniques": ["[+6 Production, +6 Gold] from every [Grand Temple]"]
     },
     {
         "name": "Just War",
@@ -511,12 +492,14 @@
     {
         "name": "Karma",
         "type": "Enhancer",
-        "uniques": ["[+8 Culture] [in holy cities]"]
+        "uniques": ["[+10 Culture] [in holy cities]",
+            "[+20]% [Culture] [in holy cities]"]
     },
     {
         "name": "Kotel",
         "type": "Enhancer",
-        "uniques": ["[+8 Happiness] [in capital]"]
+        "uniques": ["[+5 Happiness] [in holy cities]",
+            "[-20]% [Unhappiness] [in holy cities]"]
     },
     {
         "name": "Messiah",
@@ -545,7 +528,7 @@
     {
         "name": "Reliquary",
         "type": "Enhancer",
-        "uniques": ["Gain [150] [Faith] <upon expending a [Great Person] unit> <(modified by game speed)>"]
+        "uniques": ["Gain [200] [Faith] <upon expending a [Great Person] unit> <(modified by game speed)>"]
     },
     {
         "name": "Houses of Worship",
@@ -561,19 +544,23 @@
 
 
     {
-        "name": "Apostolic Palace",
+        "name": "Hajj",
         "type": "Enhancer",
-        "uniques": [
-            "[+4 Production, +4 Gold, +4 Food, +4 Science, +4 Culture, +4 Faith, +4 Happiness] from every [Grand Temple]",
-            "Only available <after adopting [Reformation]>"
-        ]
+        "uniques": ["[+1 Production, +1 Food, +1 Culture, +1 Faith, +1 Science, +1 Gold, +1 Happiness] from every [Grand Temple]",
+            "[[+10]% [Production], [+10]% [Food], [+10]% [Culture], [+10]% [Faith], [+10]% [Science], [+10]% [Gold], [+10]% [Happiness]] from every [Grand Temple]",
+            "Only available <after adopting [Reformation]>"]
     },
     {
-        "name": "City of God",
+        "name": "Garden of Eden",
         "type": "Enhancer",
         "uniques": [
-            "[+2 Food, +2 Science] from every [Holy site]",
-            "Free [Great Prophet] appears",
+            "Gain a free [Walls] [in all cities]",
+            "Gain a free [Garden] [in all cities]",
+            "Gain a free [Water Mill] [in all cities]",
+            "[+1 Gold] [in capital] <for every [[Walls] Buildings]>",
+            "[+1 Food] [in capital] <for every [[Garden] Buildings]>",
+            "[+1 Production] [in capital] <for every [[Water Mill] Buildings]>",
+            "Free [Missionary] appears",
             "Only available <after adopting [Reformation]>"
         ]
     },
@@ -613,15 +600,17 @@
         "name": "Sanctified Innovations",
         "type": "Enhancer",
         "uniques": [
-            "[+1 Production, +1 Food, +1 Culture, +1 Faith, +1 Science, +1 Gold, +1 Happiness] from every [National Wonder]"
-        ]
-    },
-    {
-        "name": "Swords into Ploughshares",
-        "type": "Enhancer",
-        "uniques": [
-            "[+20]% growth [in cities following this religion]",
-            "Only available <after adopting [Reformation]>"
+            "[+25]% Production when constructing [National Wonder] buildings [in all cities]",
+            "[+25]% Production when constructing [Colosseum] buildings [in all cities]",
+            "[+25]% Production when constructing [Barracks] buildings [in all cities]",
+            "[+25]% Production when constructing [Opera House] buildings [in all cities]",
+            "[+25]% Production when constructing [Market] buildings [in all cities]",
+            "[+25]% Production when constructing [Temple] buildings [in all cities]",
+            "[+25]% Production when constructing [Workshop] buildings [in all cities]",
+            "[+25]% Production when constructing [Library] buildings [in all cities]",
+            "[+25]% Production when constructing [Monument] buildings [in all cities]",
+            "[+25]% Production when constructing [Police Station] buildings [in all cities]",
+            "[+25]% Production when constructing [University] buildings [in all cities]"
         ]
     },
     {
@@ -646,7 +635,7 @@
     {
         "name": "Unity of the Prophets",
         "type": "Enhancer",
-        "uniques": ["[+4 Gold, +4 Production] from every [Holy site]",
+        "uniques": ["[+1 Production, +1 Food, +1 Culture, +1 Faith, +1 Science, +1 Gold, +1 Happiness] from every [Holy site]",
                 "Free [Great Prophet] appears"]
     }
 ]
