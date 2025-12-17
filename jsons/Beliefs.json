@@ -64,9 +64,22 @@
         "name": "God-King",
         "type": "Pantheon",
         "uniques": ["[+1 Production, +1 Food, +1 Culture, +1 Faith, +1 Science, +1 Gold, +1 Happiness] from every [Palace]",
-        "[[+10]% [Production], [+10]% [Food], [+10]% [Culture], [+10]% [Faith], [+10]% [Science], [+10]% [Gold], [+10]% [Happiness]] from every [Palace]",
+        "[+10]% [Production] from every [Palace] <hidden from users>",
+        "[+10]% [Food] from every [Palace] <hidden from users>",
+        "[+10]% [Culture] from every [Palace] <hidden from users>",
+        "[+10]% [Faith] from every [Palace] <hidden from users>",
+        "[+10]% [Science] from every [Palace] <hidden from users>",
+        "[+10]% [Gold] from every [Palace] <hidden from users>",
+        "[+10]% [Happiness] from every [Palace] <hidden from users>",
+        "Comment [+10% [Production], [Food], [Culture], [Faith], [Science], [Gold] and [Happiness] from every [Palace]]",
         "[+1 Production, +1 Food, +1 Culture, +1 Faith, +1 Science, +1 Gold, +1 Happiness] from every [Palace] <for [Lithuania] Civilizations> <hidden from users>",
-        "[[+10]% [Production], [+10]% [Food], [+10]% [Culture], [+10]% [Faith], [+10]% [Science], [+10]% [Gold], [+10]% [Happiness]] from every [Palace] <for [Lithuania] Civilizations> <hidden from users>"
+        "[+10]% [Production] from every [Palace] <for [Lithuania] Civilizations> <hidden from users>",
+        "[+10]% [Food] from every [Palace] <for [Lithuania] Civilizations> <hidden from users>",
+        "[+10]% [Culture] from every [Palace] <for [Lithuania] Civilizations> <hidden from users>",
+        "[+10]% [Faith] from every [Palace] <for [Lithuania] Civilizations> <hidden from users>",
+        "[+10]% [Science] from every [Palace] <for [Lithuania] Civilizations> <hidden from users>",
+        "[+10]% [Gold] from every [Palace] <for [Lithuania] Civilizations> <hidden from users>",
+        "[+10]% [Happiness] from every [Palace] <for [Lithuania] Civilizations> <hidden from users>"
         ]
     },
     {
@@ -234,12 +247,10 @@
     {
         "name": "One with Nature",
         "type": "Pantheon",
-        "uniques": ["[+50 Gold] for discovering a Natural Wonder (bonus enhanced to [+250 Gold] if first to discover it)",
-        "[+1 Happiness] for every known Natural Wonder",
-        "[+50]% Yield from every [Natural Wonder]",
-        "[+50 Gold] for discovering a Natural Wonder (bonus enhanced to [+250 Gold] if first to discover it) <for [Lithuania] Civilizations> <hidden from users>",
-        "[+1 Happiness] for every known Natural Wonder <for [Lithuania] Civilizations> <hidden from users>",
-        "[+50]% Yield from every [Natural Wonder] <for [Lithuania] Civilizations> <hidden from users>"]
+        "uniques": ["Gain [100] [Gold] <upon discovering a Natural Wonder>",
+        "[+100]% Yield from every [Natural Wonder]",
+        "Gain [100] [Gold] <upon discovering a Natural Wonder> <for [Lithuania] Civilizations> <hidden from users>",
+        "[+100]% Yield from every [Natural Wonder] <for [Lithuania] Civilizations> <hidden from users>"]
     },
     {
         "name": "Oral Tradition",
@@ -499,7 +510,7 @@
         "name": "Kotel",
         "type": "Enhancer",
         "uniques": ["[+5 Happiness] [in holy cities]",
-            "[-20]% [Unhappiness] [in holy cities]"]
+            "[+20]% [Happiness] [in holy cities]"]
     },
     {
         "name": "Messiah",
@@ -547,7 +558,14 @@
         "name": "Hajj",
         "type": "Enhancer",
         "uniques": ["[+1 Production, +1 Food, +1 Culture, +1 Faith, +1 Science, +1 Gold, +1 Happiness] from every [Grand Temple]",
-            "[[+10]% [Production], [+10]% [Food], [+10]% [Culture], [+10]% [Faith], [+10]% [Science], [+10]% [Gold], [+10]% [Happiness]] from every [Grand Temple]",
+            "[+10]% [Production] from every [Grand Temple] <hidden from users>",
+            "[+10]% [Food] from every [Grand Temple] <hidden from users>",
+            "[+10]% [Culture] from every [Grand Temple] <hidden from users>",
+            "[+10]% [Faith] from every [Grand Temple] <hidden from users>",
+            "[+10]% [Science] from every [Grand Temple] <hidden from users>",
+            "[+10]% [Gold] from every [Grand Temple] <hidden from users>",
+            "[+10]% [Happiness] from every [Grand Temple] <hidden from users>",
+            "Comment [+10% [Production], [Food], [Culture], [Faith], [Science], [Gold] and [Happiness] from every [Grand Temple]]",
             "Only available <after adopting [Reformation]>"]
     },
     {
