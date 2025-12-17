@@ -2061,5 +2061,14 @@
             "Unbuildable",
             "Only available <when religion is enabled>"
         ]
-    }
+    },
+	{
+		"name": "One With Nature Ability",
+		"uniqueTo": "Kilwa",
+		"uniques": ["Reveal up to [5] [Natural wonder] within a [30] tile radius",
+			"Will not be displayed in Civilopedia",
+			"Unbuildable",
+			"Cannot be purchased",
+			"Unsellable"]
+	}
 ]
