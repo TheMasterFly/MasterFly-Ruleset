@@ -518,9 +518,9 @@
             {
                 "name": "Protectionism",
                 "uniques": [
-                    "[+1 Food] from every [Trading post]",
+                    "[+1 Gold, +1 Science] from every [Trading post]",
                     "[+1 Science, +1 Culture, +4 Gold] from every [Customs house]",
-                    "[+2 Gold, +1 Culture] from every [Luxury resource]"
+                    "[+1 Gold, +1 Culture] from every [Luxury resource]"
                 ],
                 "requires": ["Mercantilism"],
                 "row": 3,
