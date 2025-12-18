@@ -251,7 +251,8 @@
         "Gain [100] [Gold] <upon discovering a Natural Wonder>",
         "[+100]% Yield from every [Natural Wonder]",
         "Gain [100] [Gold] <upon discovering a Natural Wonder> <for [Lithuania] Civilizations> <hidden from users>",
-        "[+100]% Yield from every [Natural Wonder] <for [Lithuania] Civilizations> <hidden from users>"]
+        "[+100]% Yield from every [Natural Wonder] <for [Lithuania] Civilizations> <hidden from users>",
+        "Comment [Reveals up to 5 Natural Wonders within a 30 tile radius]"]
     },
     {
         "name": "Oral Tradition",
@@ -579,7 +580,6 @@
             "[+1 Gold] [in capital] <for every [[Walls] Buildings]>",
             "[+1 Food] [in capital] <for every [[Garden] Buildings]>",
             "[+1 Production] [in capital] <for every [[Water Mill] Buildings]>",
-            "Free [Missionary] appears",
             "Only available <after adopting [Reformation]>"
         ]
     },
@@ -587,7 +587,7 @@
         "name": "Indulgences",
         "type": "Enhancer",
         "uniques": [
-            "[+1 Food, +1 Culture, +1 Production, +1 Gold, +1 Faith, +1 Happiness, +1 Science] [in cities following this religion]",
+            "[+2 Food, +2 Culture, +2 Production, +2 Gold, +2 Faith, +2 Happiness, +2 Science] [in cities following this religion]",
             "Only available <after adopting [Reformation]>"
         ]
     },
