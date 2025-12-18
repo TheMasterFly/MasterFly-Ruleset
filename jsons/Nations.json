@@ -3474,7 +3474,8 @@
         "favoredReligion": "Christianity",
         "uniqueName": "Druidic Lore",
         "uniques": [
-			"[+1 Faith] from every [Forest]"
+			"[+1 Faith] from every [Forest]",
+			"[+1 Faith] from every [Grassland Forest]"
         ],
         "cities": [
             "Edinburgh",
