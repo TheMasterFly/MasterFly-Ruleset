@@ -1291,6 +1291,23 @@
         "attackSound": "shipCannonVolley"
     },
     {
+        "name": "Jong",
+        "uniqueTo": "Majapahit",
+        "replaces": "Frigate",
+        "unitType": "Ranged Water",
+		"range": 1,
+        "movement": 5,
+        "strength": 35,
+        "rangedStrength": 35,
+        "cost": 230,
+        "requiredResource": "Iron",
+        "requiredTech": "Navigation",
+        "obsoleteTech": "Electronics",
+        "upgradesTo": "Battleship",
+        "hurryCostModifier": 20,
+        "attackSound": "shipCannonVolley"
+    },
+    {
         "name": "Nau",
         "uniqueTo": "Portugal",
         "replaces": "Frigate",
