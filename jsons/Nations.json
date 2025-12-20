@@ -3887,6 +3887,36 @@
                         "Phan Thiết","Cà Mau","Tuy Hòa","Long Xuyên","Phan Rang","Châu Đốc","Tháp Chàm","Thái Bình","Cẩm Phả","Sa Đéc","Pleiku"],
 		"spyNames": ["Nguyễn Tuấn", "Hồ Chí Minh", "Nguyễn Thị Minh Khai", "Phan Hằng", "Ngô Đông", "Trần Vân", "Lê An", "Đặng Kim", "Lý Chiến", "Đỗ Phương"]
 	},
+	{
+		"name": "Majapahit",
+		"leaderName": "Hayam Wuruk",
+		"adjective": ["Indonesian"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Cultural",
+		"favoredReligion": "Hinduism",
+
+		"startIntroPart1": "Honour be with you, oh great hero Gajah Mada, prime minister of Majapahit and uniter of the Indonesian archipelago. The stories of your heroism on the battlefield are bested only by the legends of your sworn oath to unite the far-flung islands of Indonesia under one banner. Serving your queen and empire with loyalty, you not only strive to fulfill your oath and conquered any who stood in your path, but you succeeded in capturing what was then the entirety of the known archipelago, the first to unite what is today modern Indonesia.",
+		"startIntroPart2": "Mighty warrior Gajah Mada, your people yearn for a strong leader who can return them to prosperity! Will you set out to conquer the neighboring kingdoms, further expanding your glory of your empire? Will you build a civilization that can stand the test of time?",
+		"declaringWar": "You stand between my army and their destiny... Prepare for war!",
+		"attacked": "You dare attack the great Gajah Mada?!",
+		"defeated": "I'm impressed by your victory, even if it came at my expense.",
+		"denounced": "Your words ring hollow.",
+		"introduction": "You stand before the great Gajah Mada of Indonesia! What brings you to my empire?",
+		"neutralHello": "Welcome.",
+		"hateHello": "Are you a male concubine, stranger?",
+		"tradeRequest": "What if we make a deal, you and me?",
+
+		"outerColor": [101,211,220],
+		"innerColor": [167,52,31],
+		"uniqueName": "Spice Islanders",
+		"uniques": [
+			"Preferred Ideology: Freedom"
+		],
+		"uniqueText": "The first 3 cities founded on continents other than where Indonesia started each provide 2 copies of [Cloves], [Pepper], or [Nutmeg].",
+		"spyNames": ["Adityawarman", "Airlangga", "Citra", "Halayudha", "Jayakatwang", "Lingga", "Mahendradatta", "Prapana", "Raden", "Davi"],
+		"cities": ["Wilwatikta", "Kahuripan", "Kediri", "Tumapel", "Janggala", "Pajang", "Lasem", "Tuban", "Gresik", "Surabaya", "Palembang", "Jambi", "Lamuri", "Barus", "Samudera", "Melayu", "Bakulapura", "Kapuas", "Kutai", "Gelgel"]
+	},
+
     {
         "name": "Brussels",
         "adjective": [
