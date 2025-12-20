@@ -588,6 +588,34 @@
 		"improvementStats": { "gold": 1 }
 	},
 
+	{
+		"name": "Nutmeg",
+		"gold": 2,
+		"resourceType": "Luxury",
+		"uniques": [
+			"Doesn't generate naturally",
+			"Excluded from map editor"
+		]
+	},
+	{
+		"name": "Cloves",
+		"gold": 2,
+		"resourceType": "Luxury",
+		"uniques": [
+			"Doesn't generate naturally",
+			"Excluded from map editor"
+		]
+	},
+	{
+		"name": "Pepper",
+		"gold": 2,
+		"resourceType": "Luxury",
+		"uniques": [
+			"Doesn't generate naturally",
+			"Excluded from map editor"
+		]
+	},
+
     {
         "name": "Skull Pyramids", 
         "resourceType": "Strategic",
