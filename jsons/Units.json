@@ -1291,7 +1291,7 @@
         "attackSound": "shipCannonVolley"
     },
     {
-        "name": "Jong",
+        "name": "Djong",
         "uniqueTo": "Majapahit",
         "replaces": "Frigate",
         "unitType": "Ranged Water",
@@ -1303,7 +1303,7 @@
         "requiredTech": "Navigation",
         "obsoleteTech": "Electronics",
 		"uniques": ["[+10]% Strength bonus for [{Friendly} {Water}] units within [1] tiles",
-			"[-5]% Strength bonus for [{Friendly} {Jong}] units within [1] tiles",
+			"[-5]% Strength bonus for [{Friendly} {Djong}] units within [1] tiles",
 			"[-20]% Strength for enemy [Water] units in adjacent [Water] tiles"
 			],
         "upgradesTo": "Battleship",
