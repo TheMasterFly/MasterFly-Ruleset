@@ -2,9 +2,9 @@
     {
         "name": "Ancestor Worship",
         "type": "Pantheon",
-        "uniques": ["[+1 Culture, +1 Faith] from every [Shrine]",
+        "uniques": ["[+2 Culture, +2 Faith] from every [Shrine]",
         "[+2 Culture, +2 Faith] from every [Temple]",
-        "[+5 Culture, +5 Faith] from every [Grand Temple]",
+        "[+12 Culture, +6 Faith] from every [Grand Temple]",
         "[+1 Culture, +1 Faith] from every [Shrine] <for [Lithuania] Civilizations> <hidden from users>",
         "[+2 Culture, +2 Faith] from every [Temple] <for [Lithuania] Civilizations> <hidden from users>",
         "[+5 Culture, +5 Faith] from every [Grand Temple] <for [Lithuania] Civilizations> <hidden from users>"]
@@ -21,7 +21,7 @@
         "uniques": ["[+1 Faith] from every [Desert]",
         "[+1 Food] from [Desert] tiles without [Flood plains] [in this city] <starting from the [Medieval era]>",
         "[+1 Faith] from every [Desert] <for [Lithuania] Civilizations> <hidden from users>",
-        "[+1 Food] from [Desert] tiles without [Flood plains] [in this city] <starting from the [Medieval era]> <hidden from users>"]
+        "[+1 Food] from [Desert] tiles without [Flood plains] [in this city] <starting from the [Medieval era]> <for [Lithuania] Civilizations> <hidden from users>"]
     },
     {
         "name": "Faith Healers",
