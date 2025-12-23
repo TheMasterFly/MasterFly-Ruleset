@@ -511,6 +511,7 @@
         "requiredTech": "Philosophy",
         "uniques": ["Comment [Increases the bonus to water unit production when a [Lumber mill] is within 2 tiles from 15% to 25%]",
             "[+10]% Production when constructing [Water] units [in this city] <before discovering [Electronics]> <within [2] tiles of a [{Friendly} {Lumber mill}]> <hidden from users>",
+			"[+10]% Production when constructing [Djong] units [in this city]",
 			"[+1 Gold] from [Fishing Boats] tiles [in all cities]",
 			"[-40]% Culture cost of natural border growth [in this city]"
         ]
