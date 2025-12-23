@@ -2092,7 +2092,7 @@
 			"Provides [2] [Cloves]",
 			"Only available <in cities without a [Palace]> <hidden from users>",
 			"Only available <in cities without a [Nutmeg]> <hidden from users>",
-			"Only available <in cities without a [Pepper]> <hidden from users>",
+			"Only available <in cities without a [Mace]> <hidden from users>",
 			"Automatically built in all cities where it is buildable <hidden from users>",
 			"Must be next to [Coast]",
 			"Only available <on foreign continents>",
@@ -2110,7 +2110,7 @@
 			"Provides [2] [Nutmeg]",
 			"Only available <in cities without a [Palace]> <hidden from users>",
 			"Only available <in cities without a [Cloves]> <hidden from users>",
-			"Only available <in cities without a [Pepper]> <hidden from users>",
+			"Only available <in cities without a [Mace]> <hidden from users>",
 			"Automatically built in all cities where it is buildable <hidden from users>",
 			"Must be next to [Coast]",
 			"Only available <on foreign continents>",
@@ -2121,11 +2121,11 @@
 		]
     },
     {
-        "name": "Pepper",
+        "name": "Mace",
         "uniqueTo": "Majapahit",
         "cost": 1,
         "uniques": [
-			"Provides [2] [Pepper]",
+			"Provides [2] [Mace]",
 			"Only available <in cities without a [Palace]> <hidden from users>",
 			"Only available <in cities without a [Nutmeg]> <hidden from users>",
 			"Only available <in cities without a [Cloves]> <hidden from users>",
