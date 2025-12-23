@@ -190,8 +190,8 @@
         "techRequired": "Engineering",
 		"culture": 1,
         "uniques": [
-            "Gives a defensive bonus of [150]% <vs [non-[Siege]] units>",
-            "Gives a defensive bonus of [75]% <vs [Siege] units>",
+            "Gives a defensive bonus of [80]% <vs [non-[Siege]] units>",
+            "Gives a defensive bonus of [33]% <vs [Siege] units>",
 			"Cannot be built on [Mountain] tiles <hidden from users>",
             "Removes removable features when built",
             "Tile provides yield without assigned population",
