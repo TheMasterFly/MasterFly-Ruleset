@@ -473,7 +473,7 @@
         "favoredReligion": "Taoism",
         "uniqueName": "Dragon of the Silk Road",
         "uniques": ["Comment [All [Military] units gain +15% Strength within 2 tiles of a friendly [City center]]",
-			"[+1 Food, +1 Production, +1 Culture, +1 Faith, +1 Science, +1 Gold, +1 Happiness] from each Trade Route",
+			"[+1 Food, +1 Production, +1 Culture, +1 Faith, +1 Science, +1 Gold, +1 Happiness] [in all cities connected to capital]",
 			"[Military] units gain the [Tang Ability] promotion <hidden from users>"],
         "cities": ["Chang'an","Luoyang","Yangzhou","Guangzhou","Dunhuang","Chengdu","Fuzhou","Suzhou","Taiyuan","Kaifeng","Hangzhou","Nanjing","Lanzhou","Quanzhou","Hefei","Wenzhou","Ganzhou","Shangqiu","Jingzhou","Dongbei"],
         "spyNames": [
@@ -3475,7 +3475,7 @@
         "uniqueName": "Druidic Lore",
         "uniques": [
 			"[+1 Faith] from every [Forest]",
-			"[+1 Faith] from every [Grassland Forest]"
+			"[+1 Faith] from every [Jungle]"
         ],
         "cities": [
             "Edinburgh",
