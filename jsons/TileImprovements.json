@@ -438,10 +438,12 @@
         "uniques": [
             "Great Improvement",
             "[+1 Gold] <after discovering [Economics]>",
+			"Improves [Luxury] resource in this tile",
+            "Improves [Bonus] resource in this tile",
             "Cannot be built on [Mountain] tiles <hidden from users>",
             "Removes removable features when built",
             "Will not be replaced by automated units",
-            "Pillaging this improvement yields approximately [+20 Gold]"
+            "Pillaging this improvement yields approximately [+50 Gold]"
         ]
     },
     {
