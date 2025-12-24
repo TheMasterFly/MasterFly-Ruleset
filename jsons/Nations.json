@@ -3909,7 +3909,7 @@
 		"outerColor": [101,211,220],
 		"innerColor": [167,52,31],
 		"uniqueName": "Spice Islanders",
-		"uniqueText": "The first 3 cities founded on continents other than where Indonesia started each provide 2 copies of [Cloves], [Pepper], or [Nutmeg].",
+		"uniqueText": "The first 3 cities founded on continents other than where Indonesia started each provide 2 copies of [Cloves], [Mace], or [Nutmeg].",
 		"spyNames": ["Adityawarman", "Airlangga", "Citra", "Halayudha", "Jayakatwang", "Lingga", "Mahendradatta", "Prapana", "Raden", "Davi"],
 		"cities": ["Wilwatikta", "Kahuripan", "Kediri", "Tumapel", "Janggala", "Pajang", "Lasem", "Tuban", "Gresik", "Surabaya", "Palembang", "Jambi", "Lamuri", "Barus", "Samudera", "Melayu", "Bakulapura", "Kapuas", "Kutai", "Gelgel"]
 	},
