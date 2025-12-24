@@ -587,7 +587,7 @@
         "name": "Indulgences",
         "type": "Enhancer",
         "uniques": [
-            "[+2 Food, +2 Culture, +2 Production, +2 Gold, +2 Faith, +2 Happiness, +2 Science] [in cities following this religion]",
+            "[+1 Food, +1 Culture, +1 Production, +1 Gold, +1 Faith, +1 Happiness, +1 Science] [in cities following this religion]",
             "Only available <after adopting [Reformation]>"
         ]
     },
