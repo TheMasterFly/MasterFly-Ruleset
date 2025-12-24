@@ -158,10 +158,10 @@
         "era": "Ancient era",
         "priorities": {
             "Neutral": 5,
-            "Cultural": 5,
-            "Diplomatic": 5,
-            "Domination": 5,
-            "Scientific": 5
+            "Cultural": 3,
+            "Diplomatic": 4,
+            "Domination": 8,
+            "Scientific": 2
         },
         "uniques": [
             "[+33]% Strength <vs [Barbarian] units>",
@@ -173,7 +173,7 @@
             {
                 "name": "Warrior Code",
                 "uniques": [
-                    "[+15]% Production when constructing [Melee] units [in all cities]",
+                    "[+10]% Production when constructing [Military] units [in all cities]",
                     "Free [Great General] appears"
                 ],
                 "row": 1,
@@ -182,7 +182,8 @@
             {
                 "name": "Discipline",
                 "uniques": [
-                    "[+15]% Strength <for [Melee] units> <when adjacent to a [Melee] unit>"
+                    "[+10]% Strength <for [{Land} {Military}] units> <when adjacent to a [{Land} {Military}] unit>",
+					"[+10]% Strength <for [{Water} {Military}] units> <when adjacent to a [{Water} {Military}] unit>"
                 ],
                 "row": 1,
                 "column": 4
@@ -201,7 +202,7 @@
             {
                 "name": "Military Caste",
                 "uniques": [
-                    "[+1 Happiness, +2 Culture] [in all cities with a garrison]"
+                    "[+1 Happiness, +1 Production] [in all cities with a garrison]"
                 ],
                 "requires": [
                     "Discipline"
@@ -227,7 +228,8 @@
             {
                 "name": "Honor Complete",
                 "uniques": [
-                    "Earn [10]% of killed [Military] unit's [Cost] as [Gold]"
+                    "Empire enters golden age",
+					"Empire enters golden age <upon conquering a city>"
                 ]
             }
         ]
@@ -236,10 +238,10 @@
         "name": "Piety",
         "era": "Ancient era",
         "priorities": {
-            "Neutral": 3,
-            "Cultural": 4,
+            "Neutral": 5,
+            "Cultural": 7,
             "Diplomatic": 3,
-            "Domination": 3,
+            "Domination": 4,
             "Scientific": 0
         },
         "uniques": [
