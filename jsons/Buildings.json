@@ -705,6 +705,20 @@
         ],
         "requiredTech": "Currency"
     },
+	{ 
+		"name": "Great Zimbabwe",
+		"gold": 2,
+		"culture": 1,
+		"isWonder": true,
+		"greatPersonPoints": {"Great Merchant": 2},
+		"uniques": ["Must be on [Hill]",
+			"Gain a free [Market] [in this city]",
+			"Gain a free [Walls] [in this city]",
+			"[+1 Culture, +2 Gold] from [Luxury resource] tiles [in this city]",
+			"Provides 1 extra copy of each improved luxury resource near this City"],
+		"requiredTech": "Currency",
+		"quote": "'Among the gold mines of the inland plains between the Limpopo and Zambezi rivers there is a fortress built of stones of marvelous size, and there appears to be no mortar joining them ...\nThis edifice is almost surrounded by hills, upon which are others resembling it in the fashioning of stone and the absence of mortar, and one of them is a tower more than 12 fathoms high.\nThe natives of the country call these edifices Symbaoe, which according to their language signifies court.' - Vicente Pegado"
+	},
     {
         "name": "Petra",
         "culture": 1,
@@ -735,8 +749,10 @@
             "[+1 Faith, +1 Culture] from [Desert] tiles [in this city]",
             "Gain a free [Amphitheater] [in this city]"
         ],
-        "requiredTech": "Currency"
+        "requiredTech": "Currency",
+		"quote": "'O People of the Book! Do not exaggerate in your religion...God is only One God' - Quran"
     },
+	
     {
         "name": "Aqueduct",
         "maintenance": 1,
@@ -1418,6 +1434,20 @@
         ],
         "requiredTech": "Navigation"
     },
+	{
+		"name": "Fort Saint Elmo",
+		"culture": 2,
+		"production": 2,
+        "cityStrength": 10,
+        "cityHealth": 50,
+		"greatPersonPoints": {"Great Engineer": 4},
+		"isWonder": true,
+		"uniques": ["Enemy [Water] units must spend [1] extra movement points when inside your territory <in this city> <in [Water] tiles> <Suppress warning [*contains a conditional on a unit movement unique*]>",
+			"Gain a free [Walls] [in this city]",
+			"Gain a free [Castle] [in this city]"],
+		"requiredTech": "Navigation",
+		"quote": "'Every new reinforcement sent into the fort is lost. It is cruelty, therefore, to send any more men to die here' - Captain de Miranda during the Siege of Malta"
+	},
     {
         "name": "Hermitage",
         "cost": 125,
