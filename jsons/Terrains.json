@@ -152,6 +152,7 @@
 		"type": "Land",
 		"science": 1,
 		"culture": 1,
+		"faith": 1,
 		"overrideStats": true,
 		"impassable": true,
 		"unbuildable": true,
