@@ -3,6 +3,7 @@
     "uniques": [
         "Requires establishing embassies to conduct advanced diplomacy",
         "[-75]% growth [in all cities] <when between [-10] and [-1] [Happiness]>",
+        "[-75]% Production when constructing [Settler] units [in all cities] <when between [-10] and [-1] [Happiness]>",
         "Nullifies Growth [in all cities] <when below [-10] [Happiness]>",
         "[-50]% [Production] [in all cities] <when below [-10] [Happiness]>",
         "[-33]% Strength <for [All] units> <when below [-10] [Happiness]>",
@@ -14,6 +15,7 @@
         "[+20]% growth [in all cities] <during We Love The King Day>",
         "[-25]% [Science] [in puppeted cities]",
         "[-25]% [Culture] [in puppeted cities]",
-        "[+15]% Production when constructing [Water] units [in this city] <before discovering [Electronics]> <within [2] tiles of a [{Friendly} {Lumber mill}]>"
+        "[+15]% Production when constructing [Water] units [in this city] <before discovering [Electronics]> <within [2] tiles of a [{Friendly} {Lumber mill}]>",
+        "[+100]% Unhappiness from [Unemployed] [in all cities]"
     ]
 }
