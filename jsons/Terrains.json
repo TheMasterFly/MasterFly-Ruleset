@@ -48,7 +48,8 @@
             "Considered [Food] when determining start locations <in [Grassland] Regions>",
             "Considered [Food] when determining start locations <in [Hybrid] Regions>",
             "Every [30] tiles with this terrain will receive a major deposit of a strategic resource.",
-			"Becomes [Volcanic Plains] when adjacent to [Volcano]"]
+			"Becomes [Volcanic Plains] when adjacent to [Volcano]",
+			"Becomes [Volcanic Plains] when adjacent to [Mount Vesuvius]"]
     },
 	{
 		"name": "Plains",
@@ -77,7 +78,8 @@
             "Considered [Food] when determining start locations <in [Plains] Regions>",
             "Considered [Food] when determining start locations <in [Hybrid] Regions>",
             "Every [30] tiles with this terrain will receive a major deposit of a strategic resource.",
-			"Becomes [Volcanic Plains] when adjacent to [Volcano]"]
+			"Becomes [Volcanic Plains] when adjacent to [Volcano]",
+			"Becomes [Volcanic Plains] when adjacent to [Mount Vesuvius]"]
 	},
 	{
 		"name": "Tundra",
@@ -585,7 +587,7 @@
 		"name": "Sri Pada",
 		"type": "NaturalWonder",
 		"food": 2,
-		"faith": 4,
+		"faith": 2,
 		"happiness": 2,
 		"occursOn": ["Plains","Grassland"],
 		"uniques": ["Must be adjacent to [0] [Tundra] tiles",
@@ -800,9 +802,9 @@
 	{
 		"name": "Mount Vesuvius",
 		"type": "NaturalWonder",
-		"culture": 2,
-		"faith": 2,
-		"science": 2,
+		"culture": 3,
+		"faith": 3,
+		"science": 3,
 		"occursOn": ["Grassland","Plains"],
 		"uniques": ["Must be adjacent to [2] [Coast] tiles",
 			"Must be adjacent to [0] [Tundra] tiles",
