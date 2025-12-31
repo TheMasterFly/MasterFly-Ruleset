@@ -2397,8 +2397,9 @@
         "favoredReligion": "Tengriism",
         "uniqueName": "Mongol Terror",
         "uniques": [
-            "[+30]% Strength <vs [City-States]>",
+            "[+20]% Strength <vs [City-States]>",
             "[+1] Movement <for [Mounted] units>",
+			"[+1] Movement <for [Ranged Mounted] units>",
 			"Great General provides double combat bonus"
         ],
         "cities": [
@@ -2791,6 +2792,7 @@
             "[+1 Production] from every [Pasture]",
             "Cities are razed [2] times as fast",
             "Starts with [Animal Husbandry]",
+			"Upon capturing a city, receive [10] times its [Gold] production as [Gold] immediately",
             "\"Borrows\" city names from other civilizations in the game"
         ],
         "cities": [
@@ -3793,12 +3795,10 @@
         "outerColor": [40, 40, 40],
         "innerColor": [255, 38, 0],
         "uniqueName": "Timur's Peace",
-        "uniqueText": "No growth penalty while above -10 [Happiness]\nNo combat and [Production] penalty while between -10 and -20 [Happiness]\nCannot build [Settler] units while below 0 [Happiness]\nUpon capturing a city, receive 4 times its [Production] as [Golden Age points]",
+        "uniqueText": "No combat penalty while above -20 [Happiness]\nGain a free [Courthouse] in all annexed cities\nUpon capturing a city, receive 4 times its [Production] as [Golden Age points]",
         "uniques": [
-            "[+150]% growth [in all cities] <when between [-10] and [-1] [Happiness]>",
-            "[+100]% [Production] [in all cities] <when between [-11] and [-20] [Happiness]>",
-            "[+66]% Strength <for [All] units> <when between [-11] and [-20] [Happiness]>",
-            "Cannot build [Settler] units <when below [0] [Happiness]>",
+			"Gain a free [Courthouse] [in annexed cities]",
+	        "[-33]% Strength <for [All] units> <when below [-20] [Happiness]>",
             "Upon capturing a city, receive [4] times its [Production] production as [Golden Age points] immediately",
             "Instantly gain [1] [Skull Pyramids] <upon conquering a city>"
         ],
