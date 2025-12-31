@@ -574,10 +574,8 @@
         "name": "Garden of Eden",
         "type": "Enhancer",
         "uniques": [
-            "Gain a free [Walls] [in all cities]",
             "Gain a free [Garden] [in all cities]",
             "Gain a free [Water Mill] [in all cities]",
-            "[+1 Gold] [in capital] <for every [[Walls] Buildings]>",
             "[+1 Food] [in capital] <for every [[Garden] Buildings]>",
             "[+1 Production] [in capital] <for every [[Water Mill] Buildings]>",
             "Only available <after adopting [Reformation]>"
