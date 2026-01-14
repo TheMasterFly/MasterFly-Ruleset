@@ -112,6 +112,7 @@
         "unitTypes": [
             "Siege",
             "Archery",
+            "Ranged Mounted",
             "Ranged Gunpowder"
         ],
         "column": 1,
@@ -128,6 +129,7 @@
         "unitTypes": [
             "Siege",
             "Archery",
+            "Ranged Mounted",
             "Ranged Gunpowder"
         ],
         "column": 1,
@@ -144,6 +146,7 @@
         "unitTypes": [
             "Siege",
             "Archery",
+            "Ranged Mounted",
             "Ranged Gunpowder"
         ],
         "column": 1,
@@ -158,6 +161,7 @@
         "unitTypes": [
             "Siege",
             "Archery",
+            "Ranged Mounted",
             "Ranged Gunpowder"
         ],
         "column": 2,
@@ -174,6 +178,7 @@
         "unitTypes": [
             "Siege",
             "Archery",
+            "Ranged Mounted",
             "Ranged Gunpowder"
         ],
         "column": 2,
@@ -190,6 +195,7 @@
         "unitTypes": [
             "Siege",
             "Archery",
+            "Ranged Mounted",
             "Ranged Gunpowder"
         ],
         "column": 2,
@@ -224,6 +230,7 @@
         ],
         "unitTypes": [
             "Archery",
+            "Ranged Mounted",
             "Ranged Gunpowder",
             "Siege",
             "Ranged Water",
@@ -245,6 +252,7 @@
         ],
         "unitTypes": [
             "Archery",
+            "Ranged Mounted",
             "Ranged Gunpowder",
             "Siege",
             "Ranged Water"
@@ -1139,6 +1147,7 @@
             "Sword",
             "Gunpowder",
             "Archery",
+            "Ranged Mounted",
             "Ranged Gunpowder",
             "Siege"
         ],
@@ -1157,6 +1166,7 @@
             "Sword",
             "Gunpowder",
             "Archery",
+            "Ranged Mounted",
             "Ranged Gunpowder",
             "Siege"
         ],
@@ -1178,6 +1188,7 @@
             "Sword",
             "Gunpowder",
             "Archery",
+            "Ranged Mounted",
             "Ranged Gunpowder",
             "Siege",
             "Mounted"
@@ -1255,6 +1266,7 @@
         ],
         "unitTypes": [
             "Archery",
+            "Ranged Mounted",
             "Ranged Gunpowder",
             "Siege",
             "Melee Water",
