@@ -3795,7 +3795,6 @@
         "outerColor": [40, 40, 40],
         "innerColor": [255, 38, 0],
         "uniqueName": "Timur's Peace",
-        "uniqueText": "No combat penalty while above -20 [Happiness]\nGain a free [Courthouse] in all annexed cities\nUpon capturing a city, receive 4 times its [Production] as [Golden Age points]",
         "uniques": [
 			"[-50]% Unhappiness from [Population] [in resisting cities]",
 	        "[-33]% Strength <for [All] units> <when below [-20] [Happiness]>",
