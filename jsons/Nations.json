@@ -2791,8 +2791,8 @@
         "uniques": [
             "[+1 Production] from every [Pasture]",
             "Cities are razed [2] times as fast",
+			"[-33]% Strength <for [All] units> <when below [-20] [Happiness]>",
             "Starts with [Animal Husbandry]",
-			"Upon capturing a city, receive [10] times its [Gold] production as [Gold] immediately",
             "\"Borrows\" city names from other civilizations in the game"
         ],
         "cities": [
@@ -3795,43 +3795,15 @@
         "outerColor": [40, 40, 40],
         "innerColor": [255, 38, 0],
         "uniqueName": "Timur's Peace",
+        "uniqueText": "-25% Unhappiness from population in resisting cities\nCities are razed 2 times as fast\nUpon capturing a city, receive 4 times its [Production] as [Golden Age points]",
         "uniques": [
-			"[-50]% Unhappiness from [Population] [in resisting cities]",
-	        "[-33]% Strength <for [All] units> <when below [-20] [Happiness]>",
+			"[-25]% Unhappiness from [Population] [in resisting cities]",
             "Upon capturing a city, receive [4] times its [Production] production as [Golden Age points] immediately",
+			"Cities are razed [2] times as fast",
             "Instantly gain [1] [Skull Pyramids] <upon conquering a city>"
         ],
         "cities": [
-            "Samarkand",
-            "Herat",
-            "Balkh",
-            "Bukhara",
-            "Kabul",
-            "Nishapur",
-            "Urgench",
-            "Merv",
-            "Ghazni",
-            "Kandahar",
-            "Tashkent",
-            "Tabriz",
-            "Tiflis",
-            "Isfahan",
-            "Tehran",
-            "Kashgar",
-            "Peshawar",
-            "Multan",
-            "Lahore",
-            "Mosul",
-            "Hanadan",
-            "Ray",
-            "Kirman",
-            "Zarani",
-            "Shirazv",
-            "Baghdad",
-            "Basra",
-            "Ashgabat",
-            "Bishkek",
-            "Dushanbe"
+            "Samarkand","Herat","Balkh","Bukhara","Kabul","Nishapur","Urgench","Merv","Ghazni","Kandahar","Tashkent","Tabriz","Tiflis","Isfahan","Tehran","Kashgar","Peshawar","Multan","Lahore","Mosul","Hanadan","Ray","Kirman","Zarani","Shirazv","Baghdad","Basra","Ashgabat","Bishkek","Dushanbe"
         ],
         "spyNames": [
             "Adapa",
