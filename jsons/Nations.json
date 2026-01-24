@@ -1375,7 +1375,7 @@
 			"[+100]% [Coal] resource production",
 			"[+100]% [Aluminum] resource production",
 			"[+3 Production] from every [Manufactory]",
-			"[+1 Production] from every [Mine] <starting from the [Industrial era]>"
+			"[+1 Production] from every [Mine]"
         ],
         "cities": [
             "Berlin",
@@ -2134,10 +2134,15 @@
         "favoredReligion": "Buddhism",
         "uniqueName": "Father Governs Children",
         "uniques": [
-            "[+50]% [Food] from City-States",
-            "[+50]% [Culture] from City-States",
-            "[+50]% [Faith] from City-States",
-            "Military Units gifted from City-States start with [+20] XP"
+            "[+50]% [Food] from City-States <hidden from users>",
+			"[+50]% [Gold] from City-States <hidden from users>",
+			"[+50]% [Science] from City-States <hidden from users>",
+			"[+50]% [Production] from City-States <hidden from users>",
+            "[+50]% [Culture] from City-States <hidden from users>",
+            "[+50]% [Faith] from City-States <hidden from users>",
+			"[+50]% [Happiness] from City-States <hidden from users>",
+			"Comment [+50% extra [Food], [Production], [Gold], [Faith], [Science], [Culture] and [Happiness] from City-States]",
+            "Military Units gifted from City-States start with [+15] XP"
         ],
         "cities": [
             "Sukhothai",
