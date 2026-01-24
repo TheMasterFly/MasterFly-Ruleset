@@ -334,6 +334,16 @@
             "[+1 Happiness] from every [Wonder]"]
     },
     {
+        "name": "Doomsday Adventists",
+        "type": "Follower",
+        "uniques": ["[+50]% [Production] [in all cities] <when below [-10] [Happiness]> <hidden from users>",
+            "[+33]% Strength <for [All] units> <when below [-10] [Happiness]> <for [non-[The Huns]] Civilizations> <hidden from users>",
+            "[-33]% Strength <for [All] units> <when below [-20] [Happiness]> <for [non-[The Huns]] Civilizations> <hidden from users>",
+            "[+33]% Strength <for [All] units> <when below [-20] [Happiness]> <for [The Huns] Civilizations> <hidden from users>",
+            "[-33]% Strength <for [All] units> <when below [-30] [Happiness]> <for [The Huns] Civilizations> <hidden from users>",
+            "Comment [Production debuff when below -10 [Happiness] is removed\nNegative [Happiness] threshold for unit combat debuff is lowered by 10 to -20 for non-[The Huns] civilisations and to -30 for [The Huns]]"]
+    },
+    {
         "name": "Feed the World",
         "type": "Follower",
         "uniques": ["[+1 Food, +1 Production] from every [Granary]", "[+1 Food, +1 Production] from every [Shrine]", "[+1 Food, +1 Production] from every [Temple]"]
@@ -391,7 +401,7 @@
     {
         "name": "Swords into Ploughshares",
         "type": "Follower",
-        "uniques": ["[+10]% growth [in this city] <when not at war>",
+        "uniques": ["[+15]% growth [in this city] <when not at war>",
             "[+3 Food] [in this city] <when not at war>"]
     },
     {
@@ -405,12 +415,12 @@
     {
         "name": "Ceremonial Burial",
         "type": "Founder",
-        "uniques": ["[+1 Happiness] for each global city following this religion"]
+        "uniques": ["[+1 Happiness, +1 Faith] for each global city following this religion"]
     },
     {
         "name": "Church Property",
         "type": "Founder",
-        "uniques": ["[+4 Gold] for each global city following this religion"]
+        "uniques": ["[+5 Gold] for each global city following this religion"]
     },
     {
         "name": "Initiation Rites",
@@ -442,7 +452,7 @@
     {
         "name": "Holy Caravans",
         "type": "Founder",
-        "uniques": ["[+2 Culture, +2 Science, +2 Gold] from each Trade Route"]
+        "uniques": ["[+2 Culture, +2 Science] [in all cities connected to capital]"]
     },
     {
         "name": "Tithe",
