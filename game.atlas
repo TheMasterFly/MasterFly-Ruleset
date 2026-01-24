@@ -1,132 +1,214 @@
-
 game.png
-size: 512, 256
-format: RGBA8888
-filter: MipMapLinearLinear, MipMapLinearLinear
-repeat: none
+size:2048,128
+filter:MipMapLinearLinear,MipMapLinearLinear
+repeat:none
+NationIcons/Almoravids
+rotate: false
+xy: 920, 26
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+NationIcons/Armenia
+rotate: false
+xy: 2, 26
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
 TileSets/HexaRealm/Tiles/Chocolate Hills
-  rotate: false
-  xy: 4, 152
-  size: 68, 60
-  orig: 68, 60
-  offset: 0, 0
-  index: -1
+rotate: false
+xy: 1502, 66
+size: 68, 60
+orig: 68, 60
+offset: 0, 0
+index: -1
 TileSets/HexaRealm/Tiles/Chomolungma
-  rotate: false
-  xy: 308, 68
-  size: 64, 68
-  orig: 64, 68
-  offset: 0, 0
-  index: -1
+rotate: false
+xy: 1296, 58
+size: 64, 68
+orig: 64, 68
+offset: 0, 0
+index: -1
 TileSets/HexaRealm/Tiles/Coast
-  rotate: false
-  xy: 80, 20
-  size: 64, 56
-  orig: 64, 56
-  offset: 0, 0
-  index: -1
+rotate: false
+xy: 1778, 70
+size: 64, 56
+orig: 64, 56
+offset: 0, 0
+index: -1
+NationIcons/Crusader States
+rotate: false
+xy: 818, 26
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+NationIcons/Georgia
+rotate: false
+xy: 1022, 26
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
 TileSets/HexaRealm/Tiles/Grassland Forest
-  rotate: false
-  xy: 152, 20
-  size: 64, 56
-  orig: 64, 56
-  offset: 0, 0
-  index: -1
+rotate: false
+xy: 1844, 70
+size: 64, 56
+orig: 64, 56
+offset: 0, 0
+index: -1
 TileSets/HexaRealm/Tiles/Great Blue Hole
-  rotate: false
-  xy: 224, 18
-  size: 64, 56
-  orig: 64, 56
-  offset: 0, 0
-  index: -1
+rotate: false
+xy: 1712, 70
+size: 64, 56
+orig: 64, 56
+offset: 0, 0
+index: -1
 TileSets/HexaRealm/Tiles/Hydrothermal Vents
-  rotate: false
-  xy: 296, 4
-  size: 64, 56
-  orig: 64, 56
-  offset: 0, 0
-  index: -1
+rotate: false
+xy: 1712, 12
+size: 64, 56
+orig: 64, 56
+offset: 0, 0
+index: -1
 TileSets/HexaRealm/Tiles/Kelp Forest
-  rotate: false
-  xy: 368, 4
-  size: 64, 56
-  orig: 64, 56
-  offset: 0, 0
-  index: -1
+rotate: false
+xy: 1778, 12
+size: 64, 56
+orig: 64, 56
+offset: 0, 0
+index: -1
+NationIcons/Kilwa
+rotate: false
+xy: 410, 26
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
 TileSets/HexaRealm/Tiles/King Solomon's Mines
-  rotate: false
-  xy: 4, 84
-  size: 68, 60
-  orig: 68, 60
-  offset: 0, 0
-  index: -1
+rotate: false
+xy: 1642, 66
+size: 68, 60
+orig: 68, 60
+offset: 0, 0
+index: -1
 TileSets/HexaRealm/Tiles/Lake Hillier
-  rotate: false
-  xy: 80, 150
-  size: 68, 62
-  orig: 68, 62
-  offset: 0, 0
-  index: -1
+rotate: false
+xy: 1432, 64
+size: 68, 62
+orig: 68, 62
+offset: 0, 0
+index: -1
 TileSets/HexaRealm/Tiles/Lake Victoria
-  rotate: false
-  xy: 4, 16
-  size: 68, 60
-  orig: 68, 60
-  offset: 0, 0
-  index: -1
+rotate: false
+xy: 1432, 2
+size: 68, 60
+orig: 68, 60
+offset: 0, 0
+index: -1
+NationIcons/Lithuania
+rotate: false
+xy: 614, 26
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+NationIcons/Majapahit
+rotate: false
+xy: 716, 26
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
 TileSets/HexaRealm/Tiles/Mount Kilimanjaro
-  rotate: false
-  xy: 156, 152
-  size: 68, 60
-  orig: 68, 60
-  offset: 0, 0
-  index: -1
+rotate: false
+xy: 1362, 2
+size: 68, 60
+orig: 68, 60
+offset: 0, 0
+index: -1
 TileSets/HexaRealm/Tiles/Mount Vesuvius
-  rotate: false
-  xy: 232, 152
-  size: 68, 60
-  orig: 68, 60
-  offset: 0, 0
-  index: -1
+rotate: false
+xy: 1502, 4
+size: 68, 60
+orig: 68, 60
+offset: 0, 0
+index: -1
 TileSets/HexaRealm/Tiles/Orodruin
-  rotate: false
-  xy: 308, 144
-  size: 68, 68
-  orig: 68, 68
-  offset: 0, 0
-  index: -1
+rotate: false
+xy: 1226, 58
+size: 68, 68
+orig: 68, 68
+offset: 0, 0
+index: -1
 TileSets/HexaRealm/Tiles/Pink and White Terraces
-  rotate: false
-  xy: 384, 152
-  size: 68, 60
-  orig: 68, 60
-  offset: 0, 0
-  index: -1
+rotate: false
+xy: 1642, 4
+size: 68, 60
+orig: 68, 60
+offset: 0, 0
+index: -1
+NationIcons/Portugal
+rotate: false
+xy: 512, 26
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
 TileSets/HexaRealm/Tiles/Socotra
-  rotate: false
-  xy: 440, 18
-  size: 64, 56
-  orig: 64, 56
-  offset: 0, 0
-  index: -1
+rotate: false
+xy: 1844, 12
+size: 64, 56
+orig: 64, 56
+offset: 0, 0
+index: -1
+NationIcons/Song
+rotate: false
+xy: 104, 26
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+NationIcons/Tang
+rotate: false
+xy: 1124, 26
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+NationIcons/Tibet
+rotate: false
+xy: 206, 26
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
+NationIcons/Timurids
+rotate: false
+xy: 308, 26
+size: 100, 100
+orig: 100, 100
+offset: 0, 0
+index: -1
 TileSets/HexaRealm/Tiles/Volcanic Plains
-  rotate: false
-  xy: 384, 84
-  size: 68, 60
-  orig: 68, 60
-  offset: 0, 0
-  index: -1
+rotate: false
+xy: 1572, 4
+size: 68, 60
+orig: 68, 60
+offset: 0, 0
+index: -1
 TileSets/HexaRealm/Tiles/Volcano
-  rotate: false
-  xy: 156, 84
-  size: 68, 60
-  orig: 68, 60
-  offset: 0, 0
-  index: -1
+rotate: false
+xy: 1572, 66
+size: 68, 60
+orig: 68, 60
+offset: 0, 0
+index: -1
 TileSets/HexaRealm/Tiles/Zhangye Danxia
-  rotate: false
-  xy: 232, 82
-  size: 68, 62
-  orig: 68, 62
-  offset: 0, 0
-  index: -1
+rotate: false
+xy: 1362, 64
+size: 68, 62
+orig: 68, 62
+offset: 0, 0
+index: -1
