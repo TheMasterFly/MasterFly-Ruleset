@@ -188,9 +188,7 @@
             "Armenian"
         ],
         "startBias": [
-            "Hill",
             "Mountain",
-            "Avoid [Jungle]",
             "Avoid [Coast]"
         ],
         "preferredVictoryType": "Domination",
@@ -217,7 +215,7 @@
         "uniques": [
             "[Mounted] units gain the [Nisean Mounts] promotion",
             "[+1 Food, +1 Production] from every [Mountain]",
-			"[+2 Faith] [in capital] <after founding a Pantheon> <before founding a religion>",
+			"[+2 Faith] [in capital] <after founding a Pantheon>",
 			"[+1 Faith] from every [Mountain] <after founding a religion>"
         ],
         "cities": [
@@ -1330,9 +1328,8 @@
         "innerColor": [220,0,0],
         "uniqueName": "Jewel of the Caucasus",
         "uniques": ["[Land] units gain the [Mountain Guardians] promotion <hidden from users>",
-			"[+2 Food, +1 Production] from every [Mountain] <in tiles adjacent to [City center] tiles>",
+			"[+1 Food, +2 Production] from every [Mountain] <in tiles adjacent to [City center] tiles>",
 			"[+1 Faith] from every [Mountain] <starting from the [Classical era]> <in tiles adjacent to [City center] tiles>",
-			"[+1 Production] from every [Mountain] <starting from the [Renaissance era]> <in tiles adjacent to [City center] tiles>",
             "Comment [Units may cross [Mountain] tiles when adjacent to city tiles\nLand units gain +10% strength in and per adjacent [Mountain], +5% strength in and per adjacent [Hill] and earn 25% of killed unit's cost as [Faith]]"
         ],
         "cities": [
@@ -1557,8 +1554,8 @@
         "outerColor": [255,205,0],
         "innerColor": [203,6,6],
         "uniqueName": "Traders of the Swahili Coast",
-		"uniqueText": "All coastal cities gain city connections automatically upon entering the Classical Era\n+1 [Culture] from Luxury, +1 [Production] from Strategic and +1 [Gold] from Fishing Boats and Atoll tiles adjacent to/on a [City center] tile",
-        "uniques": ["Gain a free [Kilwan Port] [in all coastal cities] <hidden from users>",
+		"uniqueText": "All coastal cities gain city connections automatically upon entering the Classical Era\n+1 [Food] from Luxury, +1 [Production] from Strategic and +1 [Culture] from Fishing Boats and [Atoll], [Kelp Forest] and [Hydrothermal Vents] tiles adjacent to/on a [City center] tile",
+        "uniques": ["Gain a free [Kilwan Ability] [in all cities] <hidden from users>",
 			"Gifts of Gold to City-States generate [+33]% more Influence"
         ],
         "cities": [
