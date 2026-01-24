@@ -1554,7 +1554,7 @@
         "outerColor": [255,205,0],
         "innerColor": [203,6,6],
         "uniqueName": "Traders of the Swahili Coast",
-		"uniqueText": "All coastal cities gain city connections automatically upon entering the Classical Era\n+1 [Food] from Luxury, +1 [Production] from Strategic and +1 [Culture] from Fishing Boats and [Atoll], [Kelp Forest] and [Hydrothermal Vents] tiles adjacent to/on a [City center] tile",
+		"uniqueText": "All coastal cities gain city connections automatically upon entering the Classical Era\n+1 [Food] from Luxury, +1 [Production] from Strategic and +1 [Culture] from [Fishing Boats] and [Atoll], [Kelp Forest] and [Hydrothermal Vents] tiles adjacent to/on a [City center] tile",
         "uniques": ["Gain a free [Kilwan Ability] [in all cities] <hidden from users>",
 			"Gifts of Gold to City-States generate [+33]% more Influence"
         ],
