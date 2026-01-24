@@ -334,16 +334,6 @@
             "[+1 Happiness] from every [Wonder]"]
     },
     {
-        "name": "Doomsday Adventists",
-        "type": "Follower",
-        "uniques": ["[+50]% [Production] [in all cities] <when below [-10] [Happiness]> <hidden from users>",
-            "[+33]% Strength <for [All] units> <when below [-10] [Happiness]> <for [non-[The Huns]] Civilizations> <hidden from users>",
-            "[-33]% Strength <for [All] units> <when below [-20] [Happiness]> <for [non-[The Huns]] Civilizations> <hidden from users>",
-            "[+33]% Strength <for [All] units> <when below [-20] [Happiness]> <for [The Huns] Civilizations> <hidden from users>",
-            "[-33]% Strength <for [All] units> <when below [-30] [Happiness]> <for [The Huns] Civilizations> <hidden from users>",
-            "Comment [Production debuff when below -10 [Happiness] is removed\nNegative [Happiness] threshold for unit combat debuff is lowered by 10 to -20 for non-[The Huns] civilisations and to -30 for [The Huns]]"]
-    },
-    {
         "name": "Feed the World",
         "type": "Follower",
         "uniques": ["[+1 Food, +1 Production] from every [Granary]", "[+1 Food, +1 Production] from every [Shrine]", "[+1 Food, +1 Production] from every [Temple]"]
