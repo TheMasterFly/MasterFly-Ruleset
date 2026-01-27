@@ -5161,9 +5161,9 @@
             12
         ],
         "uniques": [
-            "Can only heal by pillaging",
             "Excluded from map editor",
-            "[Water] units gain the [Unable to pillage tiles] promotion"
+			"Comment [Yes, they are harder now...]",
+			"[Military] units gain the [Barbarian Strength] promotion"
         ]
     }
 ]
