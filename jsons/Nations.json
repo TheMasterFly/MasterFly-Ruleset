@@ -1330,7 +1330,7 @@
         "uniques": ["[Land] units gain the [Mountain Guardians] promotion <hidden from users>",
 			"[+1 Food, +2 Production] from every [Mountain] <in tiles adjacent to [City center] tiles>",
 			"[+1 Faith] from every [Mountain] <starting from the [Classical era]> <in tiles adjacent to [City center] tiles>",
-            "Comment [Units may cross [Mountain] tiles when adjacent to city tiles\nLand units gain +10% strength in and per adjacent [Mountain], +5% strength in and per adjacent [Hill] and earn 25% of killed unit's cost as [Faith]]"
+            "Comment [Units may cross [Mountain] tiles when adjacent to city tiles\nLand units gain +10% strength in and per adjacent [Mountain], +5% strength in and per adjacent [Hill]]"
         ],
         "cities": [
             "Tbilisi","Kutaisi","Batumi","Sokhumi","Zugdidi","Rust'avi","P'ot'i","Gori","Ts'khinvali","Samtredia",
