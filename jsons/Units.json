@@ -1060,21 +1060,6 @@
         ]
     },
     {
-        "name": "Voi Chiến",
-        "unitType": "Ranged Mounted",
-        "uniqueTo": "Đại Việt",
-        "replaces": "Crossbowman",
-        "movement": 2,
-        "strength": 22,
-        "rangedStrength": 7,
-        "cost": 150,
-        "uniques": ["[2] additional attacks per turn"],
-        "requiredTech": "Machinery",
-        "upgradesTo": "Gatling Gun",
-        "obsoleteTech": "Industrialization",
-        "attackSound": "crossbow"
-    },
-    {
         "name": "Trebuchet",
         "unitType": "Siege",
         "movement": 2,
