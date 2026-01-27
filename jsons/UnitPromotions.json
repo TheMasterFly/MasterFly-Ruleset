@@ -1531,12 +1531,12 @@
     {
         "name": "Mountain Guardians",
         "uniques": ["Can pass through impassable tiles <within [1] tiles of a [City center]>",
+            "[This Unit] loses [1] movement <upon entering a [Mountain] tile>",
             "[-1] Movement <in [Mountain] tiles>",
             "[+10]% Strength <for every adjacent [Mountain]>",
             "[+5]% Strength <for every adjacent [Hill]>",
             "[+10]% Strength <in [Mountain] tiles>",
-            "[+5]% Strength <in [Hill] tiles>",
-            "Earn [25]% of killed [All] unit's [Cost] as [Faith]"]
+            "[+5]% Strength <in [Hill] tiles>"]
     },
     {
         "name": "Nisean Mounts",
