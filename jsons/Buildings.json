@@ -1384,9 +1384,9 @@
     {
         "name": "Water Puppet Theatre",
         "replaces": "Theatre",
-        "uniqueTo": "Đại Việt",
+        "uniqueTo": "Dai Viet",
         "happiness": 1,
-        "hurryCostModifier": 25,
+        "hurryCostModifier": 30,
         "maintenance": 2,
         "uniques": ["Comment [Unlocked by [Drama and Poetry]]",
             "[+1 Culture] from [Fresh Water] tiles [in this city]",
