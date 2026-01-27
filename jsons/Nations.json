@@ -3821,7 +3821,7 @@
         ]
     },
 	{
-		"name": "Đại Việt",
+		"name": "Dai Viet",
 		"leaderName": "Lê Thánh Tông",
 		"adjective": ["Vietnamese"],
 		"startBias": ["Jungle", "Marsh", "Coast"],
@@ -3851,9 +3851,8 @@
         "outerColor": [0,204,126],
         "innerColor": [128,3,28],
 		"uniqueName": "People of the Nine Dragon River Delta",
-        "uniques": ["[+1 Science] from every [Jungle]",
-			"[+1 Food, +2 Production] from every [Marsh]",
-            "[Land] units gain the [Vietnamese Guerilla Tactics] promotion"],
+		"uniqueText": "Land units gain double movement in [Jungle] and [Marsh] tiles\nLand units gain +10% Strength in Friendly tiles and +30% Strength in [Marsh] tiles",
+        "uniques": ["[Land] units gain the [Vietnamese Guerilla Tactics] promotion <hidden from users>"],
 
 		"favoredReligion": "Buddhism",
 		"cities": ["Thăng Long","Huế","Hoa Lư","Trà Kiệu","Đồng Hới","Quảng Trị","Đà Nẵng","Cần Thơ","Con Cuông","Hội An",
