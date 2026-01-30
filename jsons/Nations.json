@@ -3851,7 +3851,7 @@
         "outerColor": [0,204,126],
         "innerColor": [128,3,28],
 		"uniqueName": "People of the Nine Dragon River Delta",
-		"uniqueText": "Land units gain double movement in [Jungle] and [Marsh] tiles\nLand units gain +10% Strength in Friendly tiles and +30% Strength in [Marsh] tiles",
+		"uniqueText": "Land units gain double movement in [Jungle] and [Marsh] tiles\nLand units gain +10% Strength in [Jungle] tiles and +30% Strength in [Marsh] tiles",
         "uniques": ["[Land] units gain the [Vietnamese Guerilla Tactics] promotion <hidden from users>"],
 
 		"favoredReligion": "Buddhism",
