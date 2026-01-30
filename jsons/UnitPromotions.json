@@ -1647,8 +1647,8 @@
         "name": "Vietnamese Guerilla Tactics",
         "uniques": ["Double movement in [Jungle]",
             "Double movement in [Marsh]",
-            "[+10]% Strength <when fighting in [Friendly] tiles>",
-            "[+30]% Strength <when fighting in [Marsh] tiles>"]
+            "[+10]% Strength <when fighting in [Jungle] tiles>",
+            "[+35]% Strength <when fighting in [Marsh] tiles>"]
     },
     {
         "name": "Fire Lance Infantry Ability",
