@@ -878,7 +878,7 @@
         },
         "uniques": [
             "Gain a free [Follower] belief <for [non-[Lithuania]] Civilizations>",
-            "[+2 Faith] [in all cities] <for [Lithuania] Civilizations>",
+            "Gain enough Faith for [100]% of a Great Prophet <for [Lithuania] Civilizations>",
             "Gain a free [Temple] [in this city]"
         ],
         "requiredTech": "Drama and Poetry",
