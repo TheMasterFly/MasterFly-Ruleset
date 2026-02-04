@@ -35,7 +35,8 @@
     {
         "name": "Barbarian Strength",
         "uniques": [
-            "[+20]% Strength <within [1] tiles of a [Barbarian encampment]>"
+            "[+20]% Strength <within [1] tiles of a [Barbarian encampment]>",
+            "Unavailable <for [non-[Barbarian]] Civilizations>"
         ],
         "unitTypes": [
             "Sword",
