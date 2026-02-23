@@ -1618,17 +1618,14 @@
     {
         "name": "Tibetan Mountain Ability",
         "uniques": [
-            "Double movement in [Hill]",
-            "[-1] Movement <in [Mountain] tiles>",
-            "[This Unit] heals [50] HP <upon ending a turn in a [Mountain] tile>"
+            "Double movement in [Hill]"
         ]
     },
     {
         "name": "Tibetan Military Ability",
         "uniques": [
             "[+10]% Strength <in [Mountain] tiles>",
-            "[+10]% Strength <in [Hill] tiles>",
-            "[This Unit] takes [25] damage <upon ending a turn in a [Mountain] tile>"
+            "[+10]% Strength <in [Hill] tiles>"
         ]
     },
     {
