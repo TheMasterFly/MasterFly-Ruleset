@@ -3733,10 +3733,10 @@
             226
         ],
         "uniqueName": "Roof Of The World",
-        "uniqueText": "Land units may cross [Mountain] tiles after the first [Great Prophet] is earned\n[All] units gain double movement in [Hill], [Mountain]\nCivilian units take no damage from ending turn in [Mountain] if above 50% HP\n[Military] units gain +10% strength in [Mountain] and [Hill] tiles and takes half damage from ending turn in [Mountain] if above 50% HP",
+        "uniqueText": "Land units may cross [Mountain] tiles after the first [Great Prophet] is earned\n[All] units gain double movement in [Hill], [Mountain]\nCivilian units take no damage from ending turn in [Mountain] if above 50% HP\n[Military] units gain +10% strength in [Mountain] and [Hill] tiles",
         "uniques": [
             "Land units may cross [Mountain] tiles after the first [Great Prophet] is earned",
-            "[Land] units gain the [Tibetan Mountain Ability] promotion",
+            "[Civilian] units gain the [Tibetan Civilian Ability] promotion",
             "[Military] units gain the [Tibetan Military Ability] promotion"
         ],
         "cities": [
