@@ -143,7 +143,7 @@
 		"uniques": ["Rough terrain",
             "Has an elevation of [2] for visibility calculations",
             "Occurs in chains at high elevations",
-            "Units ending their turn on this terrain take [50] damage <for [non-[Tibet]] Civilizations>",
+            "Units ending their turn on this terrain take [50] damage",
             "Always Fertility [-2] for Map Generation",
             "Considered [Undesirable] when determining start locations",
 			"Becomes [Volcano] when adjacent to [Grassland] <with [5]% chance>",
