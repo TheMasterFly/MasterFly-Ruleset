@@ -2348,15 +2348,5 @@
             "Can be added to [The Spaceship] in the Capital",
             "Limited to [1] per Civilization"
         ]
-    },
-    {
-        "name": "Great Wall Builder",
-        "unitType": "Civilian",
-        "uniques": ["Great Person",
-            "Can instantly construct a [The Great Wall] improvement <by consuming this unit>",
-            "Unbuildable",
-			"Uncapturable"
-        ],
-        "movement": 3
     }
 ]
