@@ -2,63 +2,63 @@
     {
         "name": "Civilian",
         "movementType": "Land",
-        "uniques": ["[This Unit] loses [3] movement <if [Great Wall] is not constructed> <upon entering a [The Great Wall] tile>",
-            "[-3] Movement <if [Great Wall] is not constructed> <in [The Great Wall] tiles>"]
+        "uniques": ["[This Unit] loses [3] movement <upon entering a [Crusader Castle] tile> <for [non-[Crusader States]] Civilizations>",
+            "[-3] Movement <in [Crusader Castle] tiles> <for [non-[Crusader States]] Civilizations>"]
     },
     {
         "name": "Sword",
         "movementType": "Land",
-        "uniques": ["[This Unit] loses [3] movement <if [Great Wall] is not constructed> <upon entering a [The Great Wall] tile>",
-            "[-3] Movement <if [Great Wall] is not constructed> <in [The Great Wall] tiles>"]
+        "uniques": ["[This Unit] loses [3] movement <upon entering a [Crusader Castle] tile> <for [non-[Crusader States]] Civilizations>",
+            "[-3] Movement <in [Crusader Castle] tiles> <for [non-[Crusader States]] Civilizations>"]
 
     },
     {
         "name": "Gunpowder",
         "movementType": "Land",
-        "uniques": ["[This Unit] loses [3] movement <if [Great Wall] is not constructed> <upon entering a [The Great Wall] tile>",
-            "[-3] Movement <if [Great Wall] is not constructed> <in [The Great Wall] tiles>"]
+        "uniques": ["[This Unit] loses [3] movement <upon entering a [Crusader Castle] tile> <for [non-[Crusader States]] Civilizations>",
+            "[-3] Movement <in [Crusader Castle] tiles> <for [non-[Crusader States]] Civilizations>"]
     },
     {
         "name": "Archery",
         "movementType": "Land",
-        "uniques": ["[This Unit] loses [3] movement <if [Great Wall] is not constructed> <upon entering a [The Great Wall] tile>",
-            "[-3] Movement <if [Great Wall] is not constructed> <in [The Great Wall] tiles>"]
+        "uniques": ["[This Unit] loses [3] movement <upon entering a [Crusader Castle] tile> <for [non-[Crusader States]] Civilizations>",
+            "[-3] Movement <in [Crusader Castle] tiles> <for [non-[Crusader States]] Civilizations>"]
     },
     {
         "name": "Ranged Gunpowder",
         "movementType": "Land",
-        "uniques": ["[This Unit] loses [3] movement <if [Great Wall] is not constructed> <upon entering a [The Great Wall] tile>",
-            "[-3] Movement <if [Great Wall] is not constructed> <in [The Great Wall] tiles>"]
+        "uniques": ["[This Unit] loses [3] movement <upon entering a [Crusader Castle] tile> <for [non-[Crusader States]] Civilizations>",
+            "[-3] Movement <in [Crusader Castle] tiles> <for [non-[Crusader States]] Civilizations>"]
     },
     {
         "name": "Scout",
         "movementType": "Land",
-        "uniques": ["[This Unit] loses [3] movement <if [Great Wall] is not constructed> <upon entering a [The Great Wall] tile>",
-            "[-3] Movement <if [Great Wall] is not constructed> <in [The Great Wall] tiles>"]
+        "uniques": ["[This Unit] loses [3] movement <upon entering a [Crusader Castle] tile> <for [non-[Crusader States]] Civilizations>",
+            "[-3] Movement <in [Crusader Castle] tiles> <for [non-[Crusader States]] Civilizations>"]
     },
     {
         "name": "Mounted",
         "movementType": "Land",
-        "uniques": ["[This Unit] loses [3] movement <if [Great Wall] is not constructed> <upon entering a [The Great Wall] tile>",
-            "[-3] Movement <if [Great Wall] is not constructed> <in [The Great Wall] tiles>"]
+        "uniques": ["[This Unit] loses [3] movement <upon entering a [Crusader Castle] tile> <for [non-[Crusader States]] Civilizations>",
+            "[-3] Movement <in [Crusader Castle] tiles> <for [non-[Crusader States]] Civilizations>"]
     },
     {
         "name": "Ranged Mounted",
         "movementType": "Land",
-        "uniques": ["[This Unit] loses [3] movement <if [Great Wall] is not constructed> <upon entering a [The Great Wall] tile>",
-            "[-3] Movement <if [Great Wall] is not constructed> <in [The Great Wall] tiles>"]
+        "uniques": ["[This Unit] loses [3] movement <upon entering a [Crusader Castle] tile> <for [non-[Crusader States]] Civilizations>",
+            "[-3] Movement <in [Crusader Castle] tiles> <for [non-[Crusader States]] Civilizations>"]
     },
     {
         "name": "Armored",
         "movementType": "Land",
-        "uniques": ["[This Unit] loses [3] movement <if [Great Wall] is not constructed> <upon entering a [The Great Wall] tile>",
-            "[-3] Movement <if [Great Wall] is not constructed> <in [The Great Wall] tiles>"]
+        "uniques": ["[This Unit] loses [3] movement <upon entering a [Crusader Castle] tile> <for [non-[Crusader States]] Civilizations>",
+            "[-3] Movement <in [Crusader Castle] tiles> <for [non-[Crusader States]] Civilizations>"]
     },
     {
         "name": "Siege",
         "movementType": "Land",
-        "uniques": ["[This Unit] loses [3] movement <if [Great Wall] is not constructed> <upon entering a [The Great Wall] tile>",
-            "[-3] Movement <if [Great Wall] is not constructed> <in [The Great Wall] tiles>"]
+        "uniques": ["[This Unit] loses [3] movement <upon entering a [Crusader Castle] tile> <for [non-[Crusader States]] Civilizations>",
+            "[-3] Movement <in [Crusader Castle] tiles> <for [non-[Crusader States]] Civilizations>"]
     },
     {
         "name": "Civilian Water",
