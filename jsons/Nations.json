@@ -3224,7 +3224,12 @@
             "May buy [Mosque] buildings with [Faith] [in all cities]",
             "May buy [Pagoda] buildings with [Faith] [in all cities]",
             "May buy [Stupa] buildings with [Faith] [in all cities]",
-            "[+10]% [Science] [in capital] <in cities with a [Cathedral]> <in cities with a [Mosque]> <in cities with a [Pagoda]> <in cities with a [Stupa]> <hidden from users>"
+            "[-1 Faith] from all [Cathedral] buildings <hidden from users>",
+            "[-1 Faith] from all [Mosque] buildings <hidden from users>",
+            "[-1 Faith] from all [Pagoda] buildings <hidden from users>",
+            "[-1 Faith] from all [Stupa] buildings <hidden from users>",
+            "[+10]% [Science] [in capital] <in cities with a [Cathedral]> <in cities with a [Mosque]> <in cities with a [Pagoda]> <in cities with a [Stupa]> <hidden from users>",
+            "[Military] units gain the [Stratiotiki Ekpaidefsi] promotion <in [in capital] cities> <in cities with a [Cathedral]> <in cities with a [Mosque]> <in cities with a [Pagoda]> <in cities with a [Stupa]> <hidden from users>"
         ],
         "cities": [
             "Constantinople",
