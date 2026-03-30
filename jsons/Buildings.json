@@ -2098,8 +2098,7 @@
     },
 	{
 		"name": "One With Nature Ability",
-		"uniqueTo": "Kilwa",
-		"uniques": ["Reveal up to [5] [Natural Wonder] within a [30] tile radius",
+		"uniques": ["Reveal up to [5] [Natural Wonder] within a [50] tile radius",
 			"Will not be displayed in Civilopedia",
 			"Unbuildable",
 			"Cannot be purchased",
