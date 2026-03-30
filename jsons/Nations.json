@@ -3218,7 +3218,7 @@
         ],
         "favoredReligion": "Christianity",
         "uniqueName": "Center of the World",
-        "uniqueText": "May buy [Cathedral], [Mosque], [Pagoda] and [Stupa] buildings with [Faith] without needing their respective religious belief\n+10% [Science] in Capital when all 4 are built",
+        "uniqueText": "May buy [Cathedral], [Mosque], [Pagoda] and [Stupa] buildings with [Faith] without needing their respective religious belief\n+Gain 10% [Science] and all newly trained [Military] units gain the [Stratiotiki Ekpaidefsi] promotion in Capital when all 4 are built",
         "uniques": [
             "May buy [Cathedral] buildings with [Faith] [in all cities]",
             "May buy [Mosque] buildings with [Faith] [in all cities]",
@@ -3229,7 +3229,7 @@
             "[-1 Faith] from all [Pagoda] buildings <hidden from users>",
             "[-1 Faith] from all [Stupa] buildings <hidden from users>",
             "[+10]% [Science] [in capital] <in cities with a [Cathedral]> <in cities with a [Mosque]> <in cities with a [Pagoda]> <in cities with a [Stupa]> <hidden from users>",
-            "[Military] units gain the [Stratiotiki Ekpaidefsi] promotion <in [in capital] cities> <in cities with a [Cathedral]> <in cities with a [Mosque]> <in cities with a [Pagoda]> <in cities with a [Stupa]> <hidden from users>"
+			"All newly-trained [Military] units [in capital] receive the [Stratiotiki Ekpaidefsi] promotion <in cities with a [Cathedral]> <in cities with a [Mosque]> <in cities with a [Pagoda]> <in cities with a [Stupa]> <hidden from users>"
         ],
         "cities": [
             "Constantinople",
