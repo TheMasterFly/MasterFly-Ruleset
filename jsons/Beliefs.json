@@ -252,7 +252,7 @@
         "[+100]% Yield from every [Natural Wonder]",
         "Gain [100] [Gold] <upon discovering a Natural Wonder> <for [Lithuania] Civilizations> <hidden from users>",
         "[+100]% Yield from every [Natural Wonder] <for [Lithuania] Civilizations> <hidden from users>",
-        "Comment [Reveals up to 5 Natural Wonders within a 30 tile radius]"]
+        "Comment [Reveals up to 5 Natural Wonders within a 50 tile radius]"]
     },
     {
         "name": "Oral Tradition",
