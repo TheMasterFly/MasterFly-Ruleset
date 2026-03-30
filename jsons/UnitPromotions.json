@@ -1656,7 +1656,7 @@
             "[This Unit] heals [50] HP <upon ending a turn in a [Mountain] tile>"
         ],
         "outerColor": [202, 37, 193],
-        "innerColor": [198, 217, 226]
+        "innerColor": [153, 255, 255]
     },
     {
         "name": "Tibetan Military Ability",
@@ -1666,7 +1666,7 @@
             "[+10]% Strength <in [Hill] tiles>"
         ],
         "outerColor": [202, 37, 193],
-        "innerColor": [198, 217, 226]
+        "innerColor": [255, 153, 153]
     },
     {
         "name": "Altitude Training",
