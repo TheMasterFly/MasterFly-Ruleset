@@ -68,20 +68,26 @@
         "uniques": ["Comment [Once this unit ends its turn in a [Fishing Boats] tile, it will begin fishing. Greater yields are obtained from [Fishing Boats] tiles not adjacent to [City center] tiles]",
             "[This Unit] gains the [Continue Shallows Fishing 1] promotion <upon ending a turn in a [Fishing Boats] tile> <in tiles adjacent to [City center] tiles>",
             "[This Unit] gains the [Continue Deepwater Fishing 1] promotion <upon ending a turn in a [Fishing Boats] tile> <in tiles not adjacent to [City center] tiles>",
-            "[This Unit] loses the [Start Fishing] promotion <upon ending a turn in a [Fishing Boats] tile>"]
+            "[This Unit] loses the [Start Fishing] promotion <upon ending a turn in a [Fishing Boats] tile>"],
+            "outerColor": [0, 0, 0],
+            "innerColor": [255, 0, 0]
     },
     {
         "name": "Continue Shallows Fishing 1",
         "uniques": ["Comment [This unit has started fishing. End its turn in a Fishing Boats tile to continue]",
             "[This Unit] gains the [Continue Shallows Fishing 2] promotion <upon ending a turn in a [Fishing Boats] tile> <in tiles adjacent to [City center] tiles>",
-            "[This Unit] loses the [Continue Shallows Fishing 1] promotion <upon ending a turn in a [Fishing Boats] tile> <in tiles adjacent to [City center] tiles>"]
+            "[This Unit] loses the [Continue Shallows Fishing 1] promotion <upon ending a turn in a [Fishing Boats] tile> <in tiles adjacent to [City center] tiles>"],
+            "outerColor": [0, 0, 0],
+            "innerColor": [255, 153, 51]
     },
     {
         "name": "Continue Shallows Fishing 2",
         "uniques": ["Comment [This unit has nearly finished fishing. End its turn in a Fishing Boats tile to continue]",
             "[This Unit] gains the [Shallows Fish Harvest] promotion <upon ending a turn in a [Fishing Boats] tile> <for [non-[Kilwa]] Civilizations> <in tiles adjacent to [City center] tiles>",
             "[This Unit] gains the [Swahili Shallows Fish Harvest] promotion <upon ending a turn in a [Fishing Boats] tile> <for [Kilwa] Civilizations> <in tiles adjacent to [City center] tiles>",
-            "[This Unit] loses the [Continue Shallows Fishing 2] promotion <upon ending a turn in a [Fishing Boats] tile> <in tiles adjacent to [City center] tiles>"]
+            "[This Unit] loses the [Continue Shallows Fishing 2] promotion <upon ending a turn in a [Fishing Boats] tile> <in tiles adjacent to [City center] tiles>"],
+            "outerColor": [0, 0, 0],
+            "innerColor": [255, 255, 51]
     },
     {
         "name": "Shallows Fish Harvest",
@@ -89,7 +95,9 @@
             "[This Unit] is destroyed <costs [-20 Food] stats> <in [City center] tiles> <for all movement> <before discovering [Astronomy]>",
             "[This Unit] is destroyed <costs [-35 Food] stats> <in [City center] tiles> <for all movement> <after discovering [Astronomy]> <before discovering [Refrigeration]>",
             "[This Unit] is destroyed <costs [-50 Food] stats> <in [City center] tiles> <for all movement> <after discovering [Refrigeration]> <before discovering [Ecology]>",
-            "[This Unit] is destroyed <costs [-65 Food] stats> <in [City center] tiles> <for all movement> <after discovering [Ecology]>"]
+            "[This Unit] is destroyed <costs [-65 Food] stats> <in [City center] tiles> <for all movement> <after discovering [Ecology]>"],
+        "outerColor": [0, 0, 0],
+        "innerColor": [153, 255, 51]
     },
     {
         "name": "Swahili Shallows Fish Harvest",
@@ -97,26 +105,34 @@
             "[This Unit] is destroyed <costs [-20 Food, -10 Gold] stats> <in [City center] tiles> <for all movement> <before discovering [Astronomy]>",
             "[This Unit] is destroyed <costs [-35 Food, -20 Gold] stats> <in [City center] tiles> <for all movement> <after discovering [Astronomy]> <before discovering [Refrigeration]>",
             "[This Unit] is destroyed <costs [-50 Food, -25 Gold] stats> <in [City center] tiles> <for all movement> <after discovering [Refrigeration]> <before discovering [Ecology]>",
-            "[This Unit] is destroyed <costs [-65 Food, -40 Gold] stats> <in [City center] tiles> <for all movement> <after discovering [Ecology]>"]
+            "[This Unit] is destroyed <costs [-65 Food, -40 Gold] stats> <in [City center] tiles> <for all movement> <after discovering [Ecology]>"],
+            "outerColor": [0, 0, 0],
+            "innerColor": [102, 255, 255]
     },
     {
         "name": "Continue Deepwater Fishing 1",
         "uniques": ["Comment [This unit has started fishing. End its turn in a Fishing Boats tile not adjacent to a [City center] to continue]",
             "[This Unit] gains the [Continue Deepwater Fishing 2] promotion <upon ending a turn in a [Fishing Boats] tile> <in tiles not adjacent to [City center] tiles>",
-            "[This Unit] loses the [Continue Deepwater Fishing 1] promotion <upon ending a turn in a [Fishing Boats] tile> <in tiles not adjacent to [City center] tiles>"]
+            "[This Unit] loses the [Continue Deepwater Fishing 1] promotion <upon ending a turn in a [Fishing Boats] tile> <in tiles not adjacent to [City center] tiles>"],
+            "outerColor": [0, 0, 0],
+            "innerColor": [153, 0, 0]
     },
     {
         "name": "Continue Deepwater Fishing 2",
         "uniques": ["Comment [This unit is mid-way through fishing. End its turn in a Fishing Boats tile not adjacent to a [City center] to continue]",
             "[This Unit] gains the [Continue Deepwater Fishing 3] promotion <upon ending a turn in a [Fishing Boats] tile> <in tiles not adjacent to [City center] tiles>",
-            "[This Unit] loses the [Continue Deepwater Fishing 2] promotion <upon ending a turn in a [Fishing Boats] tile> <in tiles not adjacent to [City center] tiles>"]
+            "[This Unit] loses the [Continue Deepwater Fishing 2] promotion <upon ending a turn in a [Fishing Boats] tile> <in tiles not adjacent to [City center] tiles>"],
+            "outerColor": [0, 0, 0],
+            "innerColor": [204, 102, 0]
     },
     {
         "name": "Continue Deepwater Fishing 3",
         "uniques": ["Comment [This unit has almost finished fishing. End its turn in a Fishing Boats tile not adjacent to a [City center] to continue]",
             "[This Unit] gains the [Deepwater Fish Harvest] promotion <upon ending a turn in a [Fishing Boats] tile> <for [non-[Kilwa]] Civilizations> <in tiles not adjacent to [City center] tiles>",
             "[This Unit] gains the [Swahili Deepwater Fish Harvest] promotion <upon ending a turn in a [Fishing Boats] tile> <for [Kilwa] Civilizations> <in tiles not adjacent to [City center] tiles>",
-            "[This Unit] loses the [Continue Deepwater Fishing 3] promotion <upon ending a turn in a [Fishing Boats] tile>"]
+            "[This Unit] loses the [Continue Deepwater Fishing 3] promotion <upon ending a turn in a [Fishing Boats] tile>"],
+            "outerColor": [0, 0, 0],
+            "innerColor": [204, 204, 0]
     },
     {
         "name": "Deepwater Fish Harvest",
@@ -124,7 +140,9 @@
             "[This Unit] is destroyed <costs [-30 Food] stats> <in [City center] tiles> <for all movement> <before discovering [Astronomy]>",
             "[This Unit] is destroyed <costs [-50 Food] stats> <in [City center] tiles> <for all movement> <after discovering [Astronomy]> <before discovering [Refrigeration]>",
             "[This Unit] is destroyed <costs [-70 Food] stats> <in [City center] tiles> <for all movement> <after discovering [Refrigeration]> <before discovering [Ecology]>",
-            "[This Unit] is destroyed <costs [-90 Food] stats> <in [City center] tiles> <for all movement> <after discovering [Ecology]>"]
+            "[This Unit] is destroyed <costs [-90 Food] stats> <in [City center] tiles> <for all movement> <after discovering [Ecology]>"],
+            "outerColor": [0, 0, 0],
+            "innerColor": [102, 204, 0]
     },
     {
         "name": "Swahili Deepwater Fish Harvest",
@@ -132,7 +150,9 @@
             "[This Unit] is destroyed <costs [-30 Food, -30 Gold] stats> <in [City center] tiles> <for all movement> <before discovering [Astronomy]>",
             "[This Unit] is destroyed <costs [-50 Food, -30 Gold, -30 Culture] stats> <in [City center] tiles> <for all movement> <after discovering [Astronomy]> <before discovering [Refrigeration]>",
             "[This Unit] is destroyed <costs [-70 Food, -30 Gold, -30 Culture, -30 Science] stats> <in [City center] tiles> <for all movement> <after discovering [Refrigeration]> <before discovering [Ecology]>",
-            "[This Unit] is destroyed <costs [-90 Food, -60 Gold, -60 Culture, -60 Science] stats> <in [City center] tiles> <for all movement> <after discovering [Ecology]>"]
+            "[This Unit] is destroyed <costs [-90 Food, -60 Gold, -60 Culture, -60 Science] stats> <in [City center] tiles> <for all movement> <after discovering [Ecology]>"],
+            "outerColor": [0, 0, 0],
+            "innerColor": [0, 204, 204]
     },
     {
         "name": "Accuracy I",
