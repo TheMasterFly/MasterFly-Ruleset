@@ -1666,7 +1666,7 @@
             "[+10]% Strength <in [Hill] tiles>"
         ],
         "outerColor": [202, 37, 193],
-        "innerColor": [255, 153, 153]
+        "innerColor": [255, 204, 153]
     },
     {
         "name": "Altitude Training",
