@@ -1565,13 +1565,17 @@
             "Comment [Adjacent enemy units with Defender Of The Faith/Just War lose their combat buff]",
             "[+20]% Strength <when fighting in [Forest] tiles>",
             "Double movement in [Forest]"
-        ]
+        ],
+        "outerColor": [203, 84, 58],
+        "innerColor": [78, 26, 69]
     },
     {
         "name": "East India Company",
         "uniques": [
             "Gain [100]-[400] [Gold] <(modified by game speed)> <in [Major] tiles> <in tiles without [The Netherlands]> <for all movement> <once>"
-        ]
+        ],
+        "outerColor": [216, 120, 0],
+        "innerColor": [255, 255, 255]
     },
     {
         "name": "Mercenary",
@@ -1587,7 +1591,9 @@
             "[+10]% Strength <for every adjacent [Mountain]>",
             "[+5]% Strength <for every adjacent [Hill]>",
             "[+10]% Strength <in [Mountain] tiles>",
-            "[+5]% Strength <in [Hill] tiles>"]
+            "[+5]% Strength <in [Hill] tiles>"],
+        "outerColor": [255, 255, 255],
+        "innerColor": [220, 0, 0]
     },
     {
         "name": "Nisean Mounts",
@@ -1596,7 +1602,9 @@
             "[+20]% Strength <within [2] tiles of a [Mountain]>",
             "[+50]% Strength <vs [Spear Unit Ability]>",
             "No defensive terrain penalty"
-        ]
+        ],
+        "outerColor": [137, 0, 68],
+        "innerColor": [252, 231, 95]
     },
     {
         "name": "[Norwegian Ski Infantry] Ability",
@@ -1607,7 +1615,9 @@
             "Double movement in [Snow]",
             "Double movement in [Tundra]",
             "Double movement in [Hill]"
-        ]
+        ],
+        "outerColor": [8, 30, 87],
+        "innerColor": [238, 180, 0]
     },
     {
         "name": "No Defensive Terrain Penalty",
@@ -1620,7 +1630,9 @@
         "uniques": [
             "[+15]% Strength <when fighting in [Forest] tiles>",
             "Double movement in [Forest]"
-        ]
+        ],
+        "outerColor": [54, 54, 72],
+        "innerColor": [246, 205, 137]
     },
     {
         "name": "Spear Unit Ability",
@@ -1633,14 +1645,18 @@
         "name": "Stratiotiki Ekpaidefsi",
         "uniques": [
             "Earn [50]% of killed [Military] unit's [Cost] as [Faith]"
-        ]
+        ],
+        "outerColor": [88, 145, 228],
+        "innerColor": [80, 23, 135]
     },
     {
         "name": "Tibetan Civilian Ability",
         "uniques": [
             "Double movement in [Hill]",
             "[This Unit] heals [50] HP <upon ending a turn in a [Mountain] tile>"
-        ]
+        ],
+        "outerColor": [202, 37, 193],
+        "innerColor": [198, 217, 226]
     },
     {
         "name": "Tibetan Military Ability",
@@ -1648,7 +1664,9 @@
             "Double movement in [Hill]",
             "[+10]% Strength <in [Mountain] tiles>",
             "[+10]% Strength <in [Hill] tiles>"
-        ]
+        ],
+        "outerColor": [202, 37, 193],
+        "innerColor": [198, 217, 226]
     },
     {
         "name": "Altitude Training",
@@ -1660,7 +1678,9 @@
         "uniques": ["Double movement in [Jungle]",
             "Double movement in [Marsh]",
             "[+10]% Strength <when fighting in [Jungle] tiles>",
-            "[+35]% Strength <when fighting in [Marsh] tiles>"]
+            "[+35]% Strength <when fighting in [Marsh] tiles>"],
+        "outerColor": [0, 204, 126],
+        "innerColor": [128, 3, 28]
     },
     {
         "name": "Fire Lance Infantry Ability",
@@ -1669,15 +1689,21 @@
             "[+50]% Strength <vs [Water] units> <when attacking>",
             "[+50]% Strength <vs [Siege] units> <when attacking>",
             "[This Unit] gains the [Fire Lance Infantry Second Attack] status for [1] turn(s) <upon entering combat>",
-            "[This Unit] loses the [Fire Lance Infantry Ability] promotion <upon entering combat>"]
+            "[This Unit] loses the [Fire Lance Infantry Ability] promotion <upon entering combat>"],
+        "outerColor": [9, 112, 84],
+        "innerColor": [255, 255, 255]
     },
     {
         "name": "Fire Lance Infantry Second Attack",
-        "uniques": ["[1] additional attacks per turn"]
+        "uniques": ["[1] additional attacks per turn"],
+        "outerColor": [153, 45, 0],
+        "innerColor": [255, 255, 255]
     },
     {
         "name": "Tang Ability",
-        "uniques": ["[+15]% Strength <within [2] tiles of a [City center]> <in [Friendly] tiles>"]
+        "uniques": ["[+15]% Strength <within [2] tiles of a [City center]> <in [Friendly] tiles>"],
+        "outerColor": [165, 90, 0],
+        "innerColor": [0, 222, 255]
     },
     {
         "name": "Faith Healers Ability",
