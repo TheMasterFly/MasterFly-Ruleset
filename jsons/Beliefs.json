@@ -405,7 +405,7 @@
     {
         "name": "Ceremonial Burial",
         "type": "Founder",
-        "uniques": ["[+1 Happiness, +1 Faith] for each global city following this religion"]
+        "uniques": ["[+1 Happiness, +1 Faith, +1 Gold] for each global city following this religion"]
     },
     {
         "name": "Church Property",
@@ -415,29 +415,39 @@
     {
         "name": "Initiation Rites",
         "type": "Founder",
-        "uniques": ["[+150 Gold] when a city adopts this religion for the first time <(modified by game speed)>"]
+        "uniques": ["[+150 Gold] when a city adopts this religion for the first time <(modified by game speed)>",
+            "Instantly gain [200] [Gold] <upon entering a new era>"]
     },
     {
         "name": "Interfaith Dialogue",
         "type": "Founder",
-        "uniques": ["When spreading religion to a city, gain [10] times the amount of followers of other religions as [Science]"]
+        "uniques": ["When spreading religion to a city, gain [13] times the amount of followers of other religions as [Science]"]
     },
     {
         "name": "Papal Primacy",
         "type": "Founder",
-        "uniques": ["Resting point for Influence with City-States following this religion [+20]",
+        "uniques": ["Resting point for Influence with City-States following this religion [+5] <hidden from users>",
+            "Resting point for Influence with City-States following this religion [+5] <starting from the [Classical era]> <hidden from users>",
+            "Resting point for Influence with City-States following this religion [+5] <starting from the [Medieval era]> <hidden from users>",
+            "Resting point for Influence with City-States following this religion [+5] <starting from the [Renaissance era]> <hidden from users>",
+            "Resting point for Influence with City-States following this religion [+10] <starting from the [Industrial era]> <hidden from users>",
+            "Resting point for Influence with City-States following this religion [+10] <starting from the [Modern era]> <hidden from users>",
+            "Resting point for Influence with City-States following this religion [+10] <starting from the [Atomic era]> <hidden from users>",
+            "Resting point for Influence with City-States following this religion [+10] <starting from the [Information era]> <hidden from users>",
+            "Resting point for Influence with City-States following this religion [+120] <starting from the [Future era]> <hidden from users>",
             "[-100]% weight to this choice for AI decisions <when number of [Remaining [City-State] Civilizations] is less than [4]>",
-            "[-50]% weight to this choice for AI decisions <when number of [Remaining [City-State] Civilizations] is less than [6]>"]
+            "[-50]% weight to this choice for AI decisions <when number of [Remaining [City-State] Civilizations] is less than [6]>",
+            "Comment [Resting point for Influence with City-States following this religion increases by 5 per era before the Industrial era and by 10 per era including and after the Industrial era]"]
     },
     {
         "name": "Peace Loving",
         "type": "Founder",
-        "uniques": ["[+1 Happiness] from every [4] global followers [in non-enemy foreign cities]"]
+        "uniques": ["[+1 Happiness] from every [3] global followers [in non-enemy foreign cities]"]
     },
     {
         "name": "Pilgrimage",
         "type": "Founder",
-        "uniques": ["[+2 Faith] for each global city following this religion"]
+        "uniques": ["[+3 Faith] for each global city following this religion"]
     },
     {
         "name": "Holy Caravans",
@@ -469,16 +479,10 @@
         "[-20]% Strength <for [All] units> <when fighting in [Friendly Land] tiles> <vs [Bajorija Knight Ability]> <hidden from users>"]
     },
     {
-        "name": "Inner Discipline",
+        "name": "Eyes of God",
         "type": "Enhancer",
-        "uniques": ["New [Military] units start with [10] XP [in this city]",
-            "May buy [Military] units with [Faith] for [2] times their normal Production cost <before the [Industrial era]>",
-            "May buy [Military] units with [Faith] for [3] times their normal Production cost <starting from the [Industrial era]>"]
-    },
-    {
-        "name": "Dharma",
-        "type": "Enhancer",
-        "uniques": ["[+10 Science] from every [Grand Temple]",
+        "uniques": ["[+4 Science] [in holy cities]",
+            "[+1 Science] from every [Temple]",
             "[+10]% [Science] from every [Grand Temple]"]
     },
     {
@@ -505,43 +509,51 @@
     {
         "name": "Karma",
         "type": "Enhancer",
-        "uniques": ["[+10 Culture] [in holy cities]",
-            "[+20]% [Culture] [in holy cities]"]
+        "uniques": ["[+4 Culture] [in holy cities]",
+            "[+1 Culture] from every [Shrine]",
+            "[+1 Culture] from every [Temple]",
+            "[+20]% [Culture] from every [Grand Temple]"]
     },
     {
         "name": "Kotel",
         "type": "Enhancer",
-        "uniques": ["[+5 Happiness] [in holy cities]",
-            "[+20]% [Happiness] [in holy cities]"]
+        "uniques": ["[+7 Happiness] [in holy cities]",
+            "[+1 Happiness] from every [Shrine]",
+            "[+1 Happiness] from every [Temple]"]
     },
     {
         "name": "Messiah",
         "type": "Enhancer",
-        "uniques": ["[+25]% Spread Religion Strength <for [Great Prophet] units>", "[-25]% Faith cost of generating Great Prophet equivalents"]
+        "uniques": ["[+25]% Spread Religion Strength <for [Great Prophet] units>",
+            "[-25]% Faith cost of generating Great Prophet equivalents",
+            "Gain enough Faith for [75]% of a Great Prophet"]
     },
     {
         "name": "Missionary Zeal",
         "type": "Enhancer",
         "uniques": ["[+25]% Spread Religion Strength <for [Missionary] units> <in [non-[Lithuania]] tiles> <hidden from users>",
-        "Comment [+25% Spread Religion Strength for [Missionary] units]"]
+        "Comment [+25% Spread Religion Strength for [Missionary] units]",
+        "Gain enough Faith for [50]% of a Great Prophet"]
     },
     {
         "name": "Religious Texts",
         "type": "Enhancer",
-        "uniques": ["[+34]% Natural religion spread [in all cities] <for [non-[Lithuania]] Civilizations>",
-            "[+34]% Natural religion spread [in all cities] <after discovering [Printing Press]> <for [non-[Lithuania]] Civilizations>"]
+        "uniques": ["[+25]% Natural religion spread [in all cities] <for [non-[Lithuania]] Civilizations> <hidden from users>",
+            "[+25]% Natural religion spread [in all cities] <after discovering [Printing Press]> <for [non-[Lithuania]] Civilizations> <hidden from users>",
+            "Comment [+25% Natural religion spread in all cities. Gain an additional +25% after discovering [Printing Press]]"]
     },
     {
         "name": "Religious Unity",
         "type": "Enhancer",
         "uniques": ["[+100]% Natural religion spread [in City-State cities]",
-            "[-100]% weight to this choice for AI decisions <when number of [Remaining [City-State] Civilizations] is less than [3]>",
-            "[-50]% weight to this choice for AI decisions <when number of [Remaining [City-State] Civilizations] is less than [5]>"]
+            "[-100]% weight to this choice for AI decisions <when number of [Remaining [City-State] Civilizations] is less than [4]>",
+            "[-50]% weight to this choice for AI decisions <when number of [Remaining [City-State] Civilizations] is less than [7]>"]
     },
     {
         "name": "Reliquary",
         "type": "Enhancer",
-        "uniques": ["Gain [200] [Faith] <upon expending a [Great Person] unit> <(modified by game speed)>"]
+        "uniques": ["Gain [250] [Faith] <upon expending a [Great Person] unit> <(modified by game speed)>",
+            "Gain enough Faith for [100]% of a Great Prophet"]
     },
     {
         "name": "Houses of Worship",
@@ -553,9 +565,21 @@
             "May buy [Broadcast Tower] buildings for [400] [Faith] [in cities following this religion]"
         ]
     },
+    {
+        "name": "Unity of the Prophets",
+        "type": "Enhancer",
+        "uniques": ["[+1 Production, +1 Food, +1 Culture, +1 Faith, +1 Science, +1 Gold, +1 Happiness] from every [Holy site]",
+                "Free [Great Prophet] appears"]
+    },
 
 
-
+    {
+        "name": "Inner Discipline",
+        "type": "Enhancer",
+        "uniques": ["May buy [Military] units with [Faith] for [2] times their normal Production cost <before the [Industrial era]>",
+            "May buy [Military] units with [Faith] for [3] times their normal Production cost <starting from the [Industrial era]>",
+            "Only available <after adopting [Reformation]>"]
+    },
     {
         "name": "Hajj",
         "type": "Enhancer",
@@ -576,16 +600,8 @@
         "uniques": [
             "Gain a free [Garden] [in all cities]",
             "Gain a free [Water Mill] [in all cities]",
-            "[+1 Food] [in capital] <for every [[Garden] Buildings]>",
-            "[+1 Production] [in capital] <for every [[Water Mill] Buildings]>",
-            "Only available <after adopting [Reformation]>"
-        ]
-    },
-    {
-        "name": "Indulgences",
-        "type": "Enhancer",
-        "uniques": [
-            "[+1 Food, +1 Culture, +1 Production, +1 Gold, +1 Faith, +1 Happiness, +1 Science] [in cities following this religion]",
+            "[+1 Faith] [in capital] <for every [[Garden] Buildings]>",
+            "[+1 Gold] [in capital] <for every [[Water Mill] Buildings]>",
             "Only available <after adopting [Reformation]>"
         ]
     },
@@ -617,17 +633,18 @@
         "name": "Sanctified Innovations",
         "type": "Enhancer",
         "uniques": [
-            "[+25]% Production when constructing [National Wonder] buildings [in all cities]",
-            "[+25]% Production when constructing [Colosseum] buildings [in all cities]",
-            "[+25]% Production when constructing [Barracks] buildings [in all cities]",
-            "[+25]% Production when constructing [Opera House] buildings [in all cities]",
-            "[+25]% Production when constructing [Market] buildings [in all cities]",
-            "[+25]% Production when constructing [Temple] buildings [in all cities]",
-            "[+25]% Production when constructing [Workshop] buildings [in all cities]",
-            "[+25]% Production when constructing [Library] buildings [in all cities]",
-            "[+25]% Production when constructing [Monument] buildings [in all cities]",
-            "[+25]% Production when constructing [Police Station] buildings [in all cities]",
-            "[+25]% Production when constructing [University] buildings [in all cities]"
+            "[+33]% Production when constructing [National Wonder] buildings [in all cities]",
+            "[+33]% Production when constructing [Colosseum] buildings [in all cities]",
+            "[+33]% Production when constructing [Barracks] buildings [in all cities]",
+            "[+33]% Production when constructing [Opera House] buildings [in all cities]",
+            "[+33]% Production when constructing [Market] buildings [in all cities]",
+            "[+33]% Production when constructing [Temple] buildings [in all cities]",
+            "[+33]% Production when constructing [Workshop] buildings [in all cities]",
+            "[+33]% Production when constructing [Library] buildings [in all cities]",
+            "[+33]% Production when constructing [Monument] buildings [in all cities]",
+            "[+33]% Production when constructing [Police Station] buildings [in all cities]",
+            "[+33]% Production when constructing [University] buildings [in all cities]",
+            "Only available <after adopting [Reformation]>"
         ]
     },
     {
@@ -648,11 +665,5 @@
             "[+1 Science] from every [4] global followers [in cities following this religion]",
             "Only available <after adopting [Reformation]>"
         ]
-    },
-    {
-        "name": "Unity of the Prophets",
-        "type": "Enhancer",
-        "uniques": ["[+1 Production, +1 Food, +1 Culture, +1 Faith, +1 Science, +1 Gold, +1 Happiness] from every [Holy site]",
-                "Free [Great Prophet] appears"]
     }
 ]
