@@ -556,13 +556,14 @@
         "upgradesTo": "Cavalry",
         "obsoleteTech": "Military Science",
         "uniques": [
-            "Comment [Gains 9 Strength and costs 210 [Production] upon discovering [Chivalry]\nGains 15 Strength and costs 290 [Production] upon discovering [Military Science]\nDouble [Horses] cost and triple Maintenance costs]",
+            "Comment [Gains 9 Strength and costs 210 [Production] upon discovering [Chivalry]\nGains 15 Strength and costs 290 [Production] upon discovering [Military Science]\nBonus damage from Spear units halved\nDouble [Horses] cost and triple Maintenance costs]",
 			"Consumes [2] [Horses] <hidden from users>",
             "[+53]% Strength <after discovering [Chivalry]> <hidden from users>",
             "[75]% production cost <after discovering [Chivalry]> <hidden from users>",
             "[+58]% Strength <after discovering [Military Science]> <hidden from users>",
             "[38]% production cost <after discovering [Military Science]> <hidden from users>",
 			"[+200]% maintenance costs <hidden from users>",
+			"[+25]% Strength <vs [Spear Unit Ability]> <hidden from users>",
 			"[-33]% Strength <vs cities> <when attacking>",
             "Can move after attacking"
         ],
