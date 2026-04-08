@@ -550,18 +550,20 @@
         "uniqueTo": "Armenia",
         "replaces": "Horseman",
         "movement": 4,
-        "strength": 13,
-        "cost": 75,
+        "strength": 18,
+        "cost": 120,
         "requiredTech": "Horseback Riding",
-        "requiredResource": "Horses",
         "upgradesTo": "Cavalry",
         "obsoleteTech": "Military Science",
         "uniques": [
-            "Comment [Gains 8 Strength and costs the same as a Knight upon discovering [Chivalry]]",
-            "[+62]% Strength <after discovering [Chivalry]> <hidden from users>",
-            "[60]% production cost <after discovering [Chivalry]> <hidden from users>",
-            "Can move after attacking",
-            "[-33]% Strength <vs cities> <when attacking>"
+            "Comment [Gains 9 Strength and costs 210 [Production] upon discovering [Chivalry]\nGains 13 Strength and costs 290 [Production] upon discovering [Military Science]\nDouble [Horses] cost and triple Maintenance costs]",
+			"Consumes [2] [Horses] <hidden from users>",
+            "[+50]% Strength <after discovering [Chivalry]> <hidden from users>",
+            "[75]% production cost <after discovering [Chivalry]> <hidden from users>",
+            "[+48]% Strength <after discovering [Military Science]> <hidden from users>",
+            "[38]% production cost <after discovering [Military Science]> <hidden from users>",
+			"[+200]% maintenance costs <hidden from users>",
+            "Can move after attacking"
         ],
         "hurryCostModifier": 20,
         "attackSound": "horse"
