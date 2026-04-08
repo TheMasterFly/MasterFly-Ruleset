@@ -1596,17 +1596,6 @@
         "innerColor": [220, 0, 0]
     },
     {
-        "name": "Nisean Mounts",
-        "uniques": [
-            "Comment [Bonus damage from spear units nullified]",
-            "[+20]% Strength <within [2] tiles of a [Mountain]>",
-            "[+50]% Strength <vs [Spear Unit Ability]>",
-            "No defensive terrain penalty"
-        ],
-        "outerColor": [137, 0, 68],
-        "innerColor": [252, 231, 95]
-    },
-    {
         "name": "[Norwegian Ski Infantry] Ability",
         "uniques": [
             "[+25]% Strength <when fighting in [Snow] tiles>",
