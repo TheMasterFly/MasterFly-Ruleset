@@ -3800,12 +3800,12 @@
         "outerColor": [40, 40, 40],
         "innerColor": [255, 38, 0],
         "uniqueName": "Timur's Peace",
-        "uniqueText": "-25% Unhappiness from population in resisting cities\nCities are razed 2 times as fast\nUpon capturing a city, receive 4 times its [Production] as [Golden Age points]",
+        "uniqueText": "Cities are razed 2 times as fast\nUpon capturing a city, receive 4 times its [Production] as [Golden Age points]\nAll units gain +2% Strength per city captured",
         "uniques": [
-			"[-25]% Unhappiness from [Population] [in resisting cities]",
             "Upon capturing a city, receive [4] times its [Production] production as [Golden Age points] immediately",
 			"Cities are razed [2] times as fast",
-            "Instantly gain [1] [Skull Pyramids] <upon conquering a city>"
+            "Instantly gain [1] [Skull Pyramids] <upon conquering a city>",
+			"[+2]% Strength <for every [Skull Pyramids]>"
         ],
         "cities": [
             "Samarkand","Herat","Balkh","Bukhara","Kabul","Nishapur","Urgench","Merv","Ghazni","Kandahar","Tashkent","Tabriz","Tiflis","Isfahan","Tehran","Kashgar","Peshawar","Multan","Lahore","Mosul","Hanadan","Ray","Kirman","Zarani","Shirazv","Baghdad","Basra","Ashgabat","Bishkek","Dushanbe"
