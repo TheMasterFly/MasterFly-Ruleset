@@ -488,7 +488,20 @@
     {
         "name": "Disciples",
         "type": "Enhancer",
-        "uniques": ["[+2 Science, +2 Culture] from every [Great Improvement]"]
+        "uniques": ["[+2 Science, +2 Culture, +2 Faith] from every [Great Improvement]"]
+    },
+    {
+        "name": "Garden of Eden",
+        "type": "Enhancer",
+        "uniques": [
+            "Gain a free [Garden] [in capital]",
+            "Gain a free [Water Mill] [in capital]",
+            "[+100]% Production when constructing [Garden] buildings [in all cities]",
+            "[+100]% Production when constructing [Water Mill] buildings [in all cities]",
+            "[+1 Faith] [in capital] <for every [[Garden] Buildings]>",
+            "[+1 Food] [in capital] <for every [[Water Mill] Buildings]>",
+            "[+2 Faith, +2 Food] [in capital]"
+        ]
     },
     {
         "name": "Holy Order",
@@ -593,17 +606,6 @@
             "[+10]% [Happiness] from every [Grand Temple] <hidden from users>",
             "Comment [+10% [Production], [Food], [Culture], [Faith], [Science], [Gold] and [Happiness] from every [Grand Temple]]",
             "Only available <after adopting [Reformation]>"]
-    },
-    {
-        "name": "Garden of Eden",
-        "type": "Enhancer",
-        "uniques": [
-            "Gain a free [Garden] [in all cities]",
-            "Gain a free [Water Mill] [in all cities]",
-            "[+1 Faith] [in capital] <for every [[Garden] Buildings]>",
-            "[+1 Gold] [in capital] <for every [[Water Mill] Buildings]>",
-            "Only available <after adopting [Reformation]>"
-        ]
     },
     {
         "name": "Jesuit Education",
