@@ -469,7 +469,7 @@
         "innerColor": [0, 222, 255],
         "favoredReligion": "Taoism",
         "uniqueName": "Dragon of the Silk Road",
-        "uniques": ["[+1 Food, +1 Production, +1 Culture, +1 Faith, +1 Science, +1 Gold, +1 Happiness] [in all cities connected to capital] <hidden from users>"],
+        "uniques": ["[+1 Food, +1 Production, +1 Culture, +1 Faith, +1 Science, +1 Gold, +1 Happiness] [in all cities connected to capital]"],
         "cities": ["Chang'an","Luoyang","Yangzhou","Guangzhou","Dunhuang","Chengdu","Fuzhou","Suzhou","Taiyuan","Kaifeng","Hangzhou","Nanjing","Lanzhou","Quanzhou","Hefei","Wenzhou","Ganzhou","Shangqiu","Jingzhou","Dongbei"],
         "spyNames": [
             "Li",
