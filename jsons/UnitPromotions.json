@@ -1706,5 +1706,12 @@
             "[+1] Movement",
             "No movement cost to pillage",
             "[+1] Sight"]
+    },
+    {
+        "name": "Lamtuna Rider Ability",
+        "uniques": ["[+1] Movement <in [Desert] tiles>",
+            "[+10]% Strength <in [Flood plains] tiles>",
+            "[+10]% Strength <in [Oasis] tiles>",
+            "[+20]% Strength <in [Desert] tiles>"]
     }
 ]
