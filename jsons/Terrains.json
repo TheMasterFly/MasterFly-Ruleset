@@ -50,8 +50,8 @@
             "Every [30] tiles with this terrain will receive a major deposit of a strategic resource.",
 			"Becomes [Volcanic Plains] when adjacent to [Volcano]",
 			"Becomes [Volcanic Plains] when adjacent to [Mount Vesuvius]",
-			"Becomes [Marsh] when adjacent to [{Lakes}{Coast}] <with [33]% chance>",
-			"Becomes [Marsh] when adjacent to [{Lakes}{Coast}{River}] <with [80]% chance>"]
+			"Becomes [Marsh] when adjacent to [{Lakes} {Coast}] <with [33]% chance>",
+			"Becomes [Marsh] when adjacent to [{Lakes} {Coast} {River}] <with [80]% chance>"]
     },
 	{
 		"name": "Plains",
