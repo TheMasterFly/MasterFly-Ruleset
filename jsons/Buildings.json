@@ -252,22 +252,6 @@
         "requiredTech": "The Wheel"
     },
     {
-        "name": "Riad",
-        "replaces": "Water Mill",
-        "uniqueTo": "Almoravids",
-        "maintenance": 2,
-		"production": 1,
-        "food": 2,
-        "faith": 1,
-        "hurryCostModifier": 25,
-        "uniques": [
-            "[+1 Faith] from [Oasis] tiles [in this city]",
-            "[+1 Food] from [Desert] tiles [in this city] <starting from the [Medieval era]>",
-            "Must be next to [Fresh water]"
-        ],
-        "requiredTech": "The Wheel"
-    },
-    {
         "name": "Walls",
         "cityStrength": 5,
         "cityHealth": 50,
@@ -769,9 +753,9 @@
         "name": "Roman Aqueduct",
         "uniqueTo": "Rome",
         "replaces": "Aqueduct",
-        "maintenance": 0,
+        "maintenance": 1,
         "happiness": 1,
-        "hurryCostModifier": 0,
+        "hurryCostModifier": 10,
         "uniques": [
             "[40]% Food is carried over after population increases [in this city]",
             "Comment [Required Tech: Mathematics]"
@@ -785,7 +769,7 @@
             "Great Engineer": 1
         },
         "isWonder": true,
-		"uniques": ["Enemy [Land] units must spend [1] extra movement points when inside your territory <Suppress warning [*contains a conditional on a unit movement unique*]>",
+		"uniques": ["Enemy [Land] units must spend [1] extra movement points when inside your territory <in this city> <Suppress warning [*contains a conditional on a unit movement unique*]>",
 			"Gain a free [Walls] [in this city]"],
         "requiredTech": "Engineering",
         "quote": "'The art of war teaches us to rely not on the likelihood of the enemy's not attacking, but rather on the fact that we have made our position unassailable.' - Sun Tzu"
@@ -826,6 +810,21 @@
         ],
         "hurryCostModifier": 25,
         "maintenance": 1,
+        "requiredTech": "Theology"
+    },
+    {
+        "name": "Riad",
+        "replaces": "Garden",
+        "uniqueTo": "Almoravids",
+        "culture": 1,
+        "uniques": [
+            "[+25]% Great Person generation [in this city]",
+            "[+1 Faith] from [Oasis] tiles [in this city]",
+            "[+1 Food] from [{Desert}{Fresh water}] tiles without [Flood plains] [in this city] <starting from the [Medieval era]>",
+            "Must be next to [Fresh water]"
+        ],
+        "hurryCostModifier": 25,
+        "maintenance": 2,
         "requiredTech": "Theology"
     },
     {
