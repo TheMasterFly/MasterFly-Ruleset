@@ -1689,12 +1689,6 @@
         "innerColor": [255, 255, 255]
     },
     {
-        "name": "Tang Ability",
-        "uniques": ["[+15]% Strength <within [2] tiles of a [City center]> <in [Friendly] tiles>"],
-        "outerColor": [165, 90, 0],
-        "innerColor": [0, 222, 255]
-    },
-    {
         "name": "Faith Healers Ability",
         "uniques": [
             "[+10] HP when healing"
