@@ -1699,5 +1699,12 @@
         "uniques": [
             "[+10] HP when healing"
         ]
+    },
+    {
+        "name": "Stone Thrower Ability",
+        "uniques": ["Consumes [1] [Horses]",
+            "[+1] Movement",
+            "No movement cost to pillage",
+            "[+1] Sight"]
     }
 ]
