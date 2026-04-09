@@ -613,6 +613,27 @@
         "attackSound": "throw"
     },
     {
+        "name": "Mounted Stone-Thrower",
+        "replaces": "Catapult",
+        "uniqueTo": "Timurids",
+        "unitType": "Siege",
+        "movement": 2,
+        "strength": 10,
+        "rangedStrength": 8,
+        "cost": 85,
+        "requiredTech": "Mathematics",
+        "obsoleteTech": "Chemistry",
+        "upgradesTo": "Trebuchet",
+        "uniques": [
+            "[+200]% Strength <vs cities> <when attacking>",
+            "No defensive terrain bonus",
+            "Must set up to ranged attack"
+        ],
+        "promotions": ["Stone Thrower Ability"],
+        "hurryCostModifier": 20,
+        "attackSound": "throw"
+    },
+    {
         "name": "Composite Bowman",
         "unitType": "Archery",
         "movement": 2,
@@ -1044,24 +1065,6 @@
             "Extended Range"
         ],
         "attackSound": "arrow"
-    },
-    {
-        "name": "Tarkhan",
-        "uniqueTo": "Timurids",
-        "unitType": "Ranged Mounted",
-        "movement": 4,
-        "cost": 120,
-        "replaces": "Crossbowman",
-        "strength": 14,
-        "rangedStrength": 21,
-        "range": 2,
-        "requiredTech": "Machinery",
-        "obsoleteTech": "Flight",
-        "upgradesTo": "Gatling Gun",
-        "requiredResource": "Horses",
-        "uniques": [
-            "Can move after attacking"
-        ]
     },
     {
         "name": "Trebuchet",
