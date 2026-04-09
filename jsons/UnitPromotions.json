@@ -111,11 +111,11 @@
     },
     {
         "name": "Continue Deepwater Fishing 1",
-        "uniques": ["Comment [This unit has started fishing. End its turn in a Fishing Boats tile not adjacent to a [City center] to continue] <Suppress warning [*Continue Deepwater Fishing 1's colors do not contrast enough - it is unreadable!*]>",
+        "uniques": ["Comment [This unit has started fishing. End its turn in a Fishing Boats tile not adjacent to a [City center] to continue]",
             "[This Unit] gains the [Continue Deepwater Fishing 2] promotion <upon ending a turn in a [Fishing Boats] tile> <in tiles not adjacent to [City center] tiles>",
             "[This Unit] loses the [Continue Deepwater Fishing 1] promotion <upon ending a turn in a [Fishing Boats] tile> <in tiles not adjacent to [City center] tiles>"],
-            "outerColor": [0, 0, 0],
-            "innerColor": [153, 0, 0]
+            "outerColor": [3, 3, 3],
+            "innerColor": [173, 51, 51]
     },
     {
         "name": "Continue Deepwater Fishing 2",
