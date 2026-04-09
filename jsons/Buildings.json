@@ -820,7 +820,7 @@
         "uniques": [
             "[+25]% Great Person generation [in this city]",
             "[+1 Faith] from [Oasis] tiles [in this city]",
-            "[+1 Food] from [{Desert}{Fresh water}] tiles without [Flood plains] [in this city] <starting from the [Medieval era]>",
+            "[+1 Food] from [{Desert} {Fresh water}] tiles without [Flood plains] [in this city] <starting from the [Medieval era]>",
             "Must be next to [Fresh water]"
         ],
         "hurryCostModifier": 25,
