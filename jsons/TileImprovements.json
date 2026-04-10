@@ -539,8 +539,6 @@
         "uniques": [
             "Can be built outside your borders",
             "Turn this tile into a [Forest] tile",
-			"Does not need removal of [Trading post]",
-			"Does not need removal of [Camp]",
             "Cannot be built on [Desert] tiles <hidden from users>",
             "Cannot be built on [Snow] tiles <hidden from users>",
             "Cannot be built on [Mountain] tiles <hidden from users>"
