@@ -3798,12 +3798,17 @@
         "outerColor": [40, 40, 40],
         "innerColor": [255, 38, 0],
         "uniqueName": "Timur's Peace",
-        "uniqueText": "Cities are razed 2 times as fast\nUpon capturing a city, receive 4 times its [Production] as [Golden Age points]\nAll units gain +2% Strength per city captured",
+        "uniqueText": "Cities are razed 2 times as fast\nAll units gain +5/4/3% Strength for first 1/2/3 cities conquered, then additional 2% for each conquered city thereafter",
         "uniques": [
-            "Upon capturing a city, receive [4] times its [Production] production as [Golden Age points] immediately",
 			"Cities are razed [2] times as fast",
             "Instantly gain [1] [Skull Pyramids] <upon conquering a city>",
-			"[+2]% Strength <for every [Skull Pyramids]>"
+			"[+2 Culture, +2 Science, +2 Happiness] [in capital] <for every [Skull Pyramids]>",
+			"[+2]% Strength <for every [Skull Pyramids]>",
+			"[+3]% Strength <when number of [Skull Pyramids] is more than [0]>",
+			"[+2]% Strength <when number of [Skull Pyramids] is more than [1]>",
+			"[+1]% Strength <when number of [Skull Pyramids] is more than [2]>",
+            "[+33]% Production when constructing [Monument] buildings [in all cities] <for [15] turns> <upon conquering a city>",
+			"[+33]% Production when constructing [{Library} {Amphitheater}] buildings [in all cities] <for [15] turns> <upon conquering a city>"
         ],
         "cities": [
             "Samarkand","Herat","Balkh","Bukhara","Kabul","Nishapur","Urgench","Merv","Ghazni","Kandahar","Tashkent","Tabriz","Tiflis","Isfahan","Tehran","Kashgar","Peshawar","Multan","Lahore","Mosul","Hanadan","Ray","Kirman","Zarani","Shirazv","Baghdad","Basra","Ashgabat","Bishkek","Dushanbe"
