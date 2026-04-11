@@ -34,11 +34,7 @@
             "Provides [1] [Iron] <after discovering [Iron Working]>",
             "Provides [1] [Coal] <after discovering [Industrialization]>",
             "Provides [1] [Oil] <after discovering [Biology]>",
-            "Provides [1] [Aluminum] <after discovering [Electricity]>",
-            "[+2 Culture, +2 Science, +2 Happiness] [in capital] <for every [Skull Pyramids]>",
-            "Comment [[Skull Pyramids] are gained by conquering cities]",
-            "[+33]% Production when constructing [{Monument} {Amphitheater} {Opera House} {Museum} {Library} {University} {Observatory}] buildings [in all cities] <for [15] turns> <upon conquering a city>",
-            "[+33]% Production when constructing [{Monument} {Amphitheater} {Opera House} {Museum} {Library} {University} {Observatory}] buildings [in all cities] <during a Golden Age>"
+            "Provides [1] [Aluminum] <after discovering [Electricity]>"
         ]
     },
 	{
