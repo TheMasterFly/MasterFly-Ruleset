@@ -644,7 +644,8 @@
         "uniques": [
             "[+200]% Strength <vs cities> <when attacking>",
             "No defensive terrain bonus",
-            "Must set up to ranged attack"
+            "Must set up to ranged attack",
+			"Unavailable <when number of [Horses] is less than [1]>"
         ],
         "promotions": ["Stone Thrower Ability"],
         "hurryCostModifier": 20,
