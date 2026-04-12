@@ -1707,5 +1707,11 @@
             "[+10]% Strength <in [Flood plains] tiles>",
             "[+10]% Strength <in [Oasis] tiles>",
             "[+20]% Strength <in [Desert] tiles>"]
+    },
+    {
+        "name": "Silver Spirits",
+        "uniques": [
+            "Earn [50]% of killed [Military] unit's [Cost] as [Gold]"
+        ]
     }
 ]
