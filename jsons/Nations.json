@@ -1168,9 +1168,9 @@
 	    "uniqueName": "Steppe and Plow",
 	    "uniqueText": "+1 [Production] and -33% building time for [Pasture], [Camp] and [Farm] tile improvements",
 	    "uniques": [
-	        "[+1 Production] from [Pasture] tiles",
-			"[+1 Production] from [Camp] tiles",
-			"[+1 Production] from [Farm] tiles",
+	        "[+1 Production] from [Pasture] tiles [in all cities]",
+			"[+1 Production] from [Camp] tiles [in all cities]",
+			"[+1 Production] from [Farm] tiles [in all cities]",
 			"Can build [Pasture] improvements at a [+33]% rate",
 			"Can build [Camp] improvements at a [+33]% rate",
 			"Can build [Farm] improvements at a [+33]% rate"],
