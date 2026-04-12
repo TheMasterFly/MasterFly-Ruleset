@@ -65,6 +65,24 @@
         "attackSound": "nonmetalhit"
     },
     {
+        "name": "Chihou",
+        "unitType": "Ranged Mounted",
+        "uniqueTo": "Liao",
+        "replaces": "Scout",
+        "movement": 2,
+        "strength": 3,
+        "rangedStrength": 5,
+        "cost": 35,
+        "obsoleteTech": "Scientific Theory",
+        "uniques": ["May upgrade to [Archer] through ruins-like effects",
+			"Unavailable <when number of [Horses] is less than [1]>"],
+        "promotions": [
+            "Ignore terrain cost",
+			"Chihou Ability"
+        ],
+        "attackSound": "nonmetalhit"
+    },
+    {
         "name": "Warrior",
         "unitType": "Sword",
         "movement": 2,
