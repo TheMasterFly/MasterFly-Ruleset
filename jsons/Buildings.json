@@ -1265,7 +1265,7 @@
         "requiredBuilding": "Amphitheater",
         "maintenance": 2,
         "requiredTech": "Acoustics",
-        "uniques": [
+        "uniques": ["All newly-trained [{[Land]} {Military}] units [in this city] receive the [Pictish Courage] promotion",
             "Destroyed when the city is captured"
         ]
     },
