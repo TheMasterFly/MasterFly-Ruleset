@@ -2787,12 +2787,13 @@
         ],
         "favoredReligion": "Tengriism",
         "uniqueName": "Scourge of God",
-        "uniques": [
-            "[+1 Production] from every [Pasture]",
-            "Cities are razed [2] times as fast",
-			"[-33]% Strength <for [All] units> <when below [-20] [Happiness]>",
-            "Starts with [Animal Husbandry]",
-            "\"Borrows\" city names from other civilizations in the game"
+        "uniques": ["Comment [+1 [Production] from every [Pasture]\nCities are razed 2 times as fast\nAll units lose 33% Strength when below -20 [Happiness] (instead of -10)\nStarts with [Animal Husbandry] and [Archery]\n'Borrows' city names from other Civilisations in the game]",
+            "[+1 Production] from every [Pasture] <hidden from users>",
+            "Cities are razed [2] times as fast <hidden from users>",
+			"[-33]% Strength <for [All] units> <when below [-20] [Happiness]> <hidden from users>",
+            "Starts with [Animal Husbandry] <hidden from users>",
+			"Starts with [Archery] <hidden from users>",
+            "\"Borrows\" city names from other civilizations in the game <hidden from users>"
         ],
         "cities": [
             "Attila's Court"
@@ -3798,7 +3799,7 @@
         "outerColor": [40, 40, 40],
         "innerColor": [255, 38, 0],
         "uniqueName": "Iron Will/Timurid Renaissance",
-        "uniqueText": "Cities are razed 2 times as fast\nAll units gain +5/4/3% Strength for first 1/2/3 cities conquered, then additional 2% for each conquered city thereafter\nGain 33% [Production] towards [Monument], [Amphitheater], [Opera House], [Library], [University] and [Observatory] buildings for 15 turns upon conquering a city",
+        "uniqueText": "Cities are razed 2 times as fast\nAll units gain +5/4/3% Strength for first 1/2/3 cities conquered, then additional 2% for each conquered city thereafter\nGain 50% [Production] towards [Monument], [Amphitheater], [Opera House], [Library], [University] and [Observatory] buildings for 15 turns upon conquering a city",
         "uniques": [
 			"Cities are razed [2] times as fast",
             "Instantly gain [1] [Skull Pyramids] <upon conquering a city>",
@@ -3807,12 +3808,12 @@
 			"[+3]% Strength <when number of [Skull Pyramids] is more than [0]>",
 			"[+2]% Strength <when number of [Skull Pyramids] is more than [1]>",
 			"[+1]% Strength <when number of [Skull Pyramids] is more than [2]>",
-            "[+33]% Production when constructing [Monument] buildings [in all cities] <for [15] turns> <upon conquering a city>",
-			"[+33]% Production when constructing [Amphitheater] buildings [in all cities] <for [15] turns> <upon conquering a city>",
-			"[+33]% Production when constructing [Opera House] buildings [in all cities] <for [15] turns> <upon conquering a city>",
-			"[+33]% Production when constructing [Library] buildings [in all cities] <for [15] turns> <upon conquering a city>",
-			"[+33]% Production when constructing [University] buildings [in all cities] <for [15] turns> <upon conquering a city>",
-			"[+33]% Production when constructing [Observatory] buildings [in all cities] <for [15] turns> <upon conquering a city>"
+            "[+50]% Production when constructing [Monument] buildings [in all cities] <for [15] turns> <upon conquering a city>",
+			"[+50]% Production when constructing [Amphitheater] buildings [in all cities] <for [15] turns> <upon conquering a city>",
+			"[+50]% Production when constructing [Opera House] buildings [in all cities] <for [15] turns> <upon conquering a city>",
+			"[+50]% Production when constructing [Library] buildings [in all cities] <for [15] turns> <upon conquering a city>",
+			"[+50]% Production when constructing [University] buildings [in all cities] <for [15] turns> <upon conquering a city>",
+			"[+50]% Production when constructing [Observatory] buildings [in all cities] <for [15] turns> <upon conquering a city>"
         ],
         "cities": [
             "Samarkand","Herat","Balkh","Bukhara","Kabul","Nishapur","Urgench","Merv","Ghazni","Kandahar","Tashkent","Tabriz","Tiflis","Isfahan","Tehran","Kashgar","Peshawar","Multan","Lahore","Mosul","Hanadan","Ray","Kirman","Zarani","Shirazv","Baghdad","Basra","Ashgabat","Bishkek","Dushanbe"
