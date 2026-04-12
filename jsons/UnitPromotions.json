@@ -363,8 +363,7 @@
     {
         "name": "Drill I",
         "uniques": [
-            "[+15]% Strength <when fighting in [Rough terrain] tiles>",
-            "[-90]% weight to this choice for AI decisions"
+            "[+15]% Strength <when fighting in [Rough terrain] tiles>"
         ],
         "unitTypes": [
             "Sword",
@@ -1712,6 +1711,13 @@
         "name": "Silver Spirits",
         "uniques": [
             "Earn [50]% of killed [Military] unit's [Cost] as [Gold]"
+        ]
+    },
+    {
+        "name": "Hoplite Ability",
+        "uniques": [
+            "[+25]% to Flank Attack bonuses",
+            "[+15]% Strength <when fighting in [Open terrain] tiles>"
         ]
     }
 ]
