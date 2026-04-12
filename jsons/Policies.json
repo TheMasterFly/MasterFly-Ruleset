@@ -206,9 +206,10 @@
             {
                 "name": "Military Caste",
                 "uniques": [
-                    "[+3 Production] [in all cities with a garrison]",
+                    "[+1 Culture, +1 Gold, +1 Production] [in all cities with a garrison]",
 					"Units in cities cost no Maintenance",
-					"Comment [Unlocks [Landsknecht] once [Currency] is researched]"
+					"[Gold] cost of purchasing [Military] units [-15]%",
+					"[Faith] cost of purchasing [Military] units [-15]%"
                 ],
                 "requires": [
                     "Discipline"
