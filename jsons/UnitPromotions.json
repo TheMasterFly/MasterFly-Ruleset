@@ -1697,7 +1697,6 @@
     {
         "name": "Stone Thrower Ability",
         "uniques": ["Consumes [1] [Horses]",
-            "Unavailable <when number of [Horses] is less than [1]>",
             "[+1] Movement",
             "No movement cost to pillage",
             "[+1] Sight"]
