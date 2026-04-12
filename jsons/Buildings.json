@@ -17,26 +17,6 @@
             "Provides [1] [Aluminum] <after discovering [Electricity]>"
         ]
     },
-    {
-        "name": "Ulugh Beg's Observatory",
-        "replaces": "Palace",
-        "uniqueTo": "Timurids",
-        "isNationalWonder": true,
-        "production": 3,
-        "science": 3,
-        "gold": 3,
-        "culture": 1,
-        "cityStrength": 2.5,
-        "cost": 0,
-        "uniques": [
-            "Indicates the capital city",
-            "Provides [2] [Horses] <after discovering [Animal Husbandry]>",
-            "Provides [1] [Iron] <after discovering [Iron Working]>",
-            "Provides [1] [Coal] <after discovering [Industrialization]>",
-            "Provides [1] [Oil] <after discovering [Biology]>",
-            "Provides [1] [Aluminum] <after discovering [Electricity]>"
-        ]
-    },
 	{
 		"name": "Kilwan Ability",
 		"uniqueTo": "Kilwa",
