@@ -171,7 +171,7 @@
         "unitType": "Archery",
         "movement": 2,
         "strength": 5,
-        "rangedStrength": 7,
+        "rangedStrength": 9,
         "cost": 40,
 		"promotions": ["Atlatlist Ability"],
         "requiredTech": "Agriculture",
