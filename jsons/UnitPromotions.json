@@ -1725,12 +1725,5 @@
         "uniques": ["Double movement in [Forest]",
             "Double movement in [Jungle]",
             "Can move after attacking"]
-    },
-    {
-        "name": "Chihou Ability",
-        "uniques": ["Consumes [1] [Horses]",
-            "No defensive terrain bonus",
-            "[+1] Movement",
-            "[+4] Strength"]
     }
 ]
