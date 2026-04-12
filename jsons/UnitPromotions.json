@@ -1719,5 +1719,11 @@
             "[+25]% to Flank Attack bonuses",
             "[+15]% Strength <when fighting in [Open terrain] tiles>"
         ]
+    },
+    {
+        "name": "Atlatlist Ability",
+        "uniques": ["Double movement in [Forest]",
+            "Double movement in [Jungle]",
+            "Can move after attacking"]
     }
 ]
