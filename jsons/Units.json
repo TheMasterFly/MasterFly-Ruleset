@@ -371,7 +371,7 @@
         "cost": 56,
         "requiredTech": "The Wheel",
         "upgradesTo": "Crossbowman",
-        "obsoleteTech": "Chivalry",
+        "obsoleteTech": "Machinery",
         "uniques": [
             "No defensive terrain bonus"
         ],
@@ -391,7 +391,7 @@
         "cost": 72,
         "requiredTech": "The Wheel",
         "upgradesTo": "Crossbowman",
-        "obsoleteTech": "Chivalry",
+        "obsoleteTech": "Machinery",
         "uniques": [
             "No defensive terrain bonus"
         ],
