@@ -992,7 +992,7 @@
         "uniqueTo": "Timurids",
         "movement": 4,
         "strength": 24,
-        "cost": 135,
+        "cost": 120,
         "requiredTech": "Chivalry",
         "obsoleteTech": "Combustion",
         "upgradesTo": "Cavalry",
