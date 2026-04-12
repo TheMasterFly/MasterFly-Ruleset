@@ -754,12 +754,11 @@
         "strength": 15,
         "cost": 60,
         "requiredTech": "Currency",
-        "uniques": [
-            "Unavailable <before adopting [Commerce]>",
+        "uniques": ["Only available <after adopting [Commerce]> <before discovering [Currency]>",
+			"Only available <after adopting [Military Caste]> <before discovering [Currency]>",
             "Can move immediately once bought",
 			"[+25]% Strength <vs [Mounted] units>",
-			"[+33]% Strength <vs [Ranged Mounted] units>"
-        ],
+			"[+33]% Strength <vs [Ranged Mounted] units>"],
         "upgradesTo": "Musketman",
         "obsoleteTech": "Rifling",
         "attackSound": "metalhit"
