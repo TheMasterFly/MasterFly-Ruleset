@@ -732,7 +732,7 @@
             "[+1 Faith, +1 Culture] from [Desert] tiles [in this city]",
             "Gain a free [Amphitheater] [in this city]"
         ],
-        "requiredTech": "Currency",
+        "requiredTech": "Drama and Poetry",
 		"quote": "'O People of the Book! Do not exaggerate in your religion...God is only One God' - Quran"
     },
 	
