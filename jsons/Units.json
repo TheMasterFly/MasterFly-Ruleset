@@ -161,7 +161,7 @@
         "rangedStrength": 7,
         "cost": 40,
         "requiredTech": "Archery",
-        "obsoleteTech": "Construction",
+        "obsoleteTech": "Machinery",
         "upgradesTo": "Composite Bowman",
         "promotions": [
             "Slinger Withdraw"
@@ -291,7 +291,7 @@
             "Stratiotiki Ekpaidefsi"
         ],
         "upgradesTo": "Galleass",
-        "obsoleteTech": "Astronomy",
+        "obsoleteTech": "Navigation",
         "attackSound": "arrow"
     },
     {
@@ -307,7 +307,7 @@
             "Can move after attacking"
         ],
         "upgradesTo": "Caravel",
-        "obsoleteTech": "Astronomy",
+        "obsoleteTech": "Navigation",
         "attackSound": "nonmetalhit"
     },
     {
@@ -370,7 +370,7 @@
         "rangedStrength": 10,
         "cost": 56,
         "requiredTech": "The Wheel",
-        "upgradesTo": "Knight",
+        "upgradesTo": "Crossbowman",
         "obsoleteTech": "Chivalry",
         "uniques": [
             "No defensive terrain bonus"
@@ -390,7 +390,7 @@
         "rangedStrength": 10,
         "cost": 72,
         "requiredTech": "The Wheel",
-        "upgradesTo": "Knight",
+        "upgradesTo": "Crossbowman",
         "obsoleteTech": "Chivalry",
         "uniques": [
             "No defensive terrain bonus"
@@ -422,9 +422,9 @@
         "requiredTech": "Bronze Working",
         "obsoleteTech": "Civil Service",
         "upgradesTo": "Pikeman",
-        "uniques": ["[+33]% to Flank Attack bonuses"],
         "promotions": [
-            "Spear Unit Ability"
+            "Spear Unit Ability",
+			"Hoplite Ability"
         ],
         "attackSound": "metalhit"
     },
@@ -437,7 +437,7 @@
         "strength": 14,
         "cost": 56,
         "requiredTech": "Bronze Working",
-        "obsoleteTech": "Civil Service",
+        "obsoleteTech": "Metallurgy",
         "upgradesTo": "Pikeman",
         "promotions": [
             "[Persian Immortal] ability",
@@ -477,7 +477,7 @@
         "strength": 11,
         "cost": 56,
         "requiredTech": "Bronze Working",
-        "obsoleteTech": "Civil Service",
+        "obsoleteTech": "Metallurgy",
         "upgradesTo": "Pikeman",
         "uniques": [
             "Earn [50]% of killed [Military] unit's [Strength] as [Faith]"
@@ -531,7 +531,7 @@
         "cost": 100,
         "requiredTech": "Horseback Riding",
         "upgradesTo": "Knight",
-        "obsoleteTech": "Chivalry",
+        "obsoleteTech": "Military Science",
         "promotions": [
             "Great Generals II"
         ],
@@ -580,7 +580,7 @@
         "cost": 80,
         "requiredTech": "Horseback Riding",
         "upgradesTo": "Knight",
-        "obsoleteTech": "Chivalry",
+        "obsoleteTech": "Military Science",
         "requiredResource": "Horses",
         "uniques": [
             "Can move after attacking",
@@ -689,7 +689,7 @@
         "cost": 120,
         "requiredTech": "Metal Casting",
         "upgradesTo": "Musketman",
-        "obsoleteTech": "Metallurgy",
+        "obsoleteTech": "Rifling",
         "requiredResource": "Iron",
         "promotions": [
             "Amphibious"
@@ -751,18 +751,17 @@
         "name": "Landsknecht",
         "unitType": "Sword",
         "movement": 2,
-        "strength": 16,
-        "cost": 45,
-        "requiredTech": "Civil Service",
+        "strength": 15,
+        "cost": 60,
+        "requiredTech": "Currency",
         "uniques": [
-            "Unbuildable",
-            "Can move immediately once bought"
+            "Unavailable <before adopting [Commerce]>",
+            "Can move immediately once bought",
+			"[+25]% Strength <vs [Mounted] units>",
+			"[+33]% Strength <vs [Ranged Mounted] units>"
         ],
-        "upgradesTo": "Lancer",
-        "obsoleteTech": "Metallurgy",
-        "promotions": [
-            "Spear Unit Ability"
-        ],
+        "upgradesTo": "Musketman",
+        "obsoleteTech": "Rifling",
         "attackSound": "metalhit"
     },
     {
@@ -935,8 +934,8 @@
         "replaces": "Knight",
         "uniqueTo": "Siam",
         "movement": 3,
-        "strength": 28,
-        "cost": 150,
+        "strength": 31,
+        "cost": 160,
         "requiredTech": "Chivalry",
         "obsoleteTech": "Military Science",
         "upgradesTo": "Cavalry",
@@ -987,6 +986,26 @@
             "Quick Study"
         ],
         "attackSound": "arrow"
+    },
+    {
+        "name": "Lamellar Lancer",
+        "unitType": "Mounted",
+        "replaces": "Knight",
+        "uniqueTo": "Timurids",
+        "movement": 4,
+        "strength": 24,
+        "cost": 135,
+        "requiredTech": "Chivalry",
+        "obsoleteTech": "Combustion",
+        "upgradesTo": "Cavalry",
+        "requiredResource": "Horses",
+        "uniques": ["[+20]% Strength <when attacking>",
+			"[-20]% Strength <when defending>",
+            "Can move after attacking",
+            "No defensive terrain bonus",
+            "[-20]% Strength <vs cities> <when attacking>"
+        ],
+        "attackSound": "horse"
     },
     {
         "name": "Templar Knight",
