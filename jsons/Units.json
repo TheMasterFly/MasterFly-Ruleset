@@ -163,9 +163,7 @@
         "requiredTech": "Archery",
         "obsoleteTech": "Machinery",
         "upgradesTo": "Composite Bowman",
-        "promotions": [
-            "Slinger Withdraw"
-        ],
+        "promotions": ["Slinger Withdraw"],
         "attackSound": "arrow"
     },
     {
@@ -174,9 +172,10 @@
         "movement": 2,
         "strength": 5,
         "rangedStrength": 7,
-        "cost": 36,
+        "cost": 40,
+		"promotions": ["Atlatlist Ability"],
         "requiredTech": "Agriculture",
-        "obsoleteTech": "Construction",
+        "obsoleteTech": "Machinery",
         "replaces": "Archer",
         "uniqueTo": "The Maya",
         "upgradesTo": "Composite Bowman",
