@@ -1147,10 +1147,9 @@
 	    "name": "Liao",
 	    "leaderName": "Yelü Abaoji",
 	    "adjective": ["Khitan"],
-	    "startBias": [
-	        "Plains",
-	        "Desert"
-	    ],
+	    "startBias": ["Plains",
+	        "Desert",
+			"Horses"],
 	    "preferredVictoryType": "Domination",
 	    "favoredReligion": "Buddhism",
 	    "startIntroPart1": "Great Khan and Emperor, your people call upon your wisdom! Born a chieftain of the Yelu clan, you united the eight Khitan tribes and proclaimed the Liao Dynasty in 916 CE. You created a dual-administration system—the Northern Administration for nomadic steppe traditions and the Southern Administration for Chinese-style governance. Your armies of mounted archers and heavy cavalry dominated northern China, Mongolia, and the Silk Road for two centuries, until the rebellion of your vassals, the Jurchens, led to your demise and the rise of the Jin Dynasty, while the Qara-Khitai/Western Liao were eventually defeated and absorbed by the Mongol Empire.",
@@ -2443,7 +2442,8 @@
             "Mongolian"
         ],
         "startBias": [
-            "Plains"
+            "Plains",
+			"Horses"
         ],
         "preferredVictoryType": "Domination",
         "personality": "Genghis Khan",
@@ -2835,7 +2835,8 @@
         ],
         "startBias": [
             "Avoid [Jungle]",
-            "Avoid [Forest]"
+            "Avoid [Forest]",
+			"Horses"
         ],
         "preferredVictoryType": "Domination",
         "personality": "Attila the Hun",
@@ -3858,7 +3859,8 @@
             "Timurid"
         ],
         "startBias": [
-            "Avoid [Coast]"
+            "Avoid [Coast]",
+			"Horses"
         ],
         "preferredVictoryType": "Domination",
         "startIntroPart1": "Tremble before Timur, the Scourge of Asia, whose armies toppled kingdoms and left pyramids of skulls. Your ruthless genius brought fear and glory from Delhi to Damascus.",
