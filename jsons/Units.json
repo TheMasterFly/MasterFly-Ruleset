@@ -350,7 +350,7 @@
         "requiredTech": "The Wheel",
         "requiredResource": "Horses",
         "upgradesTo": "Cavalry Archer",
-        "obsoleteTech": "Horseback Riding",
+        "obsoleteTech": "Engineering",
         "uniques": [
             "No defensive terrain bonus",
             "Rough terrain penalty",
@@ -904,7 +904,7 @@
         "cost": 120,
         "requiredTech": "Engineering",
         "requiredResource": "Horses",
-        "upgradesTo": "Cavalry",
+        "upgradesTo": "Gatling Gun",
         "obsoleteTech": "Industrialization",
         "uniques": [
             "Can move after attacking",
@@ -1115,7 +1115,7 @@
         "rangedStrength": 27,
 		"range": 1,
         "cost": 160,
-        "requiredTech": "Gundpowder",
+        "requiredTech": "Gunpowder",
         "upgradesTo": "Gatling Gun",
         "obsoleteTech": "Industrialization",
         "uniques": ["No defensive terrain bonus",
