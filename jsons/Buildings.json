@@ -591,11 +591,11 @@
     {
         "name": "National Epic",
         "cost": 125,
-        "culture": 1,
+        "culture": 5,
         "isNationalWonder": true,
         "uniques": [
             "Only available <if [Monument] is constructed in all [non-[Puppeted]] cities>",
-            "[+25]% Great Person generation [in this city]",
+            "[+25]% Great Person generation [in all cities]",
             "Cost increases by [30] per owned city"
         ],
         "requiredTech": "Drama and Poetry"
