@@ -369,7 +369,7 @@
         "cost": 56,
         "requiredTech": "The Wheel",
         "upgradesTo": "Cavalry Archer",
-        "obsoleteTech": "Gunpowder",
+        "obsoleteTech": "Banking",
         "uniques": ["No defensive terrain bonus",
 			"Can move after attacking"],
         "promotions": [
@@ -404,7 +404,7 @@
         "cost": 115,
         "requiredTech": "Nomadic Innovations",
         "upgradesTo": "Dragoon",
-        "obsoleteTech": "Gunpowder",
+        "obsoleteTech": "Banking",
         "uniques": ["No defensive terrain bonus",
 			"Can move after attacking"],
         "attackSound": "arrow"
@@ -1115,7 +1115,7 @@
         "rangedStrength": 27,
 		"range": 1,
         "cost": 160,
-        "requiredTech": "Gunpowder",
+        "requiredTech": "Banking",
         "upgradesTo": "Gatling Gun",
         "obsoleteTech": "Industrialization",
         "uniques": ["No defensive terrain bonus",
