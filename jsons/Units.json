@@ -79,7 +79,7 @@
 			"Can move after attacking"],
         "promotions": ["Ignore terrain cost"],
 		"upgradesTo": "Cavalry Archer",
-        "attackSound": "nonmetalhit"
+        "attackSound": "arrow"
     },
     {
         "name": "Warrior",
@@ -350,7 +350,7 @@
         "requiredTech": "The Wheel",
         "requiredResource": "Horses",
         "upgradesTo": "Cavalry Archer",
-        "obsoleteTech": "Engineering",
+        "obsoleteTech": "Nomadic Innovations",
         "uniques": [
             "No defensive terrain bonus",
             "Rough terrain penalty",
@@ -402,11 +402,30 @@
         "strength": 13,
         "rangedStrength": 15,
         "cost": 115,
-        "requiredTech": "Engineering",
+        "requiredTech": "Nomadic Innovations",
         "upgradesTo": "Dragoon",
         "obsoleteTech": "Gunpowder",
         "uniques": ["No defensive terrain bonus",
 			"Can move after attacking"],
+        "attackSound": "arrow"
+    },
+    {
+        "name": "Camel Archer",
+        "unitType": "Ranged Mounted",
+        "replaces": "Cavalry Archer",
+        "uniqueTo": "Arabia",
+        "movement": 4,
+        "strength": 15,
+        "rangedStrength": 18,
+        "cost": 120,
+        "requiredTech": "Nomadic Innovations",
+        "requiredResource": "Horses",
+        "upgradesTo": "Gatling Gun",
+        "obsoleteTech": "Industrialization",
+        "uniques": [
+            "Can move after attacking",
+            "No defensive terrain bonus"
+        ],
         "attackSound": "arrow"
     },
     {
@@ -892,25 +911,6 @@
             "Bajorija Knight Ability"
         ],
         "attackSound": "horse"
-    },
-    {
-        "name": "Camel Archer",
-        "unitType": "Ranged Mounted",
-        "replaces": "Cavalry Archer",
-        "uniqueTo": "Arabia",
-        "movement": 4,
-        "strength": 15,
-        "rangedStrength": 18,
-        "cost": 120,
-        "requiredTech": "Engineering",
-        "requiredResource": "Horses",
-        "upgradesTo": "Gatling Gun",
-        "obsoleteTech": "Industrialization",
-        "uniques": [
-            "Can move after attacking",
-            "No defensive terrain bonus"
-        ],
-        "attackSound": "arrow"
     },
     {
         "name": "Conquistador",
