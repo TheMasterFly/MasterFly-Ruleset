@@ -70,23 +70,15 @@
         "uniqueTo": "Liao",
         "replaces": "Scout",
         "movement": 3,
-        "strength": 2,
-        "rangedStrength": 3,
+        "strength": 6,
+        "rangedStrength": 7,
 		"requiredResource": "Horses",
         "cost": 35,
         "obsoleteTech": "Industrialization",
         "uniques": ["No defensive terrain bonus",
-			"Can move after attacking",
-			"Double movement in [Forest]",
-			"Double movement in [Hill]",
-			"[-50]% Strength <vs cities> <when defending>",
-			"Comment [Gains 3 Strength and costs 50 [Production] upon discovering [Animal Husbandry]\nGains 4 Strength and costs 85 [Production] upon discovering [Horseback Riding]\nGains 5 Strength and costs 125 [Production] upon discovering [Chivalry]]",
-			"[+3] Strength <after discovering [Animal Husbandry]> <hidden from users>",
-			"[43]% production cost <after discovering [Animal Husbandry]> <hidden from users>",
-            "[+4] Strength <after discovering [Horseback Riding]> <hidden from users>",
-            "[70]% production cost <after discovering [Horseback Riding]> <hidden from users>",
-            "[+6] Strength <after discovering [Chivalry]> <hidden from users>",
-            "[47]% production cost <after discovering [Chivalry]> <hidden from users>"],
+			"Can move after attacking"],
+        "promotions": ["Ignore terrain cost"],
+		"upgradesTo": "Cavalry Archer",
         "attackSound": "nonmetalhit"
     },
     {
@@ -357,12 +349,31 @@
         "cost": 56,
         "requiredTech": "The Wheel",
         "requiredResource": "Horses",
-        "upgradesTo": "Knight",
-        "obsoleteTech": "Chivalry",
+        "upgradesTo": "Cavalry Archer",
+        "obsoleteTech": "Horseback Riding",
         "uniques": [
             "No defensive terrain bonus",
             "Rough terrain penalty",
             "Never appears as a Barbarian unit"
+        ],
+        "attackSound": "arrow"
+    },
+    {
+        "name": "Horse Archer",
+        "unitType": "Ranged Mounted",
+        "uniqueTo": "The Huns",
+        "replaces": "Chariot Archer",
+        "movement": 4,
+        "strength": 7,
+        "rangedStrength": 10,
+        "cost": 56,
+        "requiredTech": "The Wheel",
+        "upgradesTo": "Cavalry Archer",
+        "obsoleteTech": "Gunpowder",
+        "uniques": ["No defensive terrain bonus",
+			"Can move after attacking"],
+        "promotions": [
+            "Accuracy I"
         ],
         "attackSound": "arrow"
     },
@@ -385,23 +396,17 @@
         "attackSound": "arrow"
     },
     {
-        "name": "Horse Archer",
+        "name": "Cavalry Archer",
         "unitType": "Ranged Mounted",
-        "uniqueTo": "The Huns",
-        "replaces": "Chariot Archer",
         "movement": 4,
-        "strength": 7,
-        "rangedStrength": 10,
-        "cost": 56,
-        "requiredTech": "The Wheel",
-        "upgradesTo": "Crossbowman",
-        "obsoleteTech": "Machinery",
-        "uniques": [
-            "No defensive terrain bonus"
-        ],
-        "promotions": [
-            "Accuracy I"
-        ],
+        "strength": 13,
+        "rangedStrength": 15,
+        "cost": 115,
+        "requiredTech": "Engineering",
+        "upgradesTo": "Dragoon",
+        "obsoleteTech": "Gunpowder",
+        "uniques": ["No defensive terrain bonus",
+			"Can move after attacking"],
         "attackSound": "arrow"
     },
     {
@@ -1058,7 +1063,7 @@
         "movement": 2,
         "strength": 12,
         "rangedStrength": 16,
-        "cost": 110,
+        "cost": 105,
         "uniques": [
             "No defensive terrain bonus"
         ],
@@ -1101,6 +1106,21 @@
             "Extended Range"
         ],
         "attackSound": "arrow"
+    },
+    {
+        "name": "Dragoon",
+        "unitType": "Ranged Mounted",
+        "movement": 4,
+        "strength": 23,
+        "rangedStrength": 27,
+		"range": 1,
+        "cost": 160,
+        "requiredTech": "Gundpowder",
+        "upgradesTo": "Gatling Gun",
+        "obsoleteTech": "Industrialization",
+        "uniques": ["No defensive terrain bonus",
+			"Can move after attacking"],
+        "attackSound": "shot"
     },
     {
         "name": "Trebuchet",
