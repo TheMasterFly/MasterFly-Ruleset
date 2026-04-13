@@ -173,7 +173,7 @@
 			},
 			{
 				"name": "Nomadic Innovations",
-				"row": 7,
+				"row": 5,
 				"prerequisites": ["Horseback Riding"],
 				"quote": "'Conquering the world is easy; it is dismounting and governing that is hard' - Genghis Khan"
 			},
