@@ -172,6 +172,12 @@
 				"quote": "'What is drama but life with the dull bits cut out.' - Alfred Hitchcock"
 			},
 			{
+				"name": "Nomadic Innovations",
+				"row": 7,
+				"prerequisites": ["Horseback Riding"],
+				"quote": "'Conquering the world is easy; it is dismounting and governing that is hard' - Genghis Khan"
+			},
+			{
 				"name": "Currency",
 				"row": 7,
 				"prerequisites": ["Mathematics"],
@@ -203,7 +209,7 @@
 			{
 				"name": "Civil Service",
 				"row": 5,
-				"prerequisites": ["Currency","Horseback Riding","Drama and Poetry"],
+				"prerequisites": ["Currency","Nomadic Innovations","Drama and Poetry"],
 				"uniques": ["Enables Open Borders agreements","[+100]% weight to this choice for AI decisions"],
 				"quote": "'The only thing that saves us from the bureaucracy is its inefficiency' - Eugene McCarthy"
 			},
