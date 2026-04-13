@@ -896,16 +896,16 @@
     {
         "name": "Camel Archer",
         "unitType": "Ranged Mounted",
-        "replaces": "Knight",
+        "replaces": "Cavalry Archer",
         "uniqueTo": "Arabia",
         "movement": 4,
-        "strength": 18,
+        "strength": 15,
         "rangedStrength": 18,
         "cost": 120,
-        "requiredTech": "Chivalry",
+        "requiredTech": "Engineering",
         "requiredResource": "Horses",
         "upgradesTo": "Cavalry",
-        "obsoleteTech": "Military Science",
+        "obsoleteTech": "Industrialization",
         "uniques": [
             "Can move after attacking",
             "No defensive terrain bonus"
