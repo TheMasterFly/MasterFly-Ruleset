@@ -1199,10 +1199,11 @@
         },
         "isWonder": true,
         "percentStatBonus": {
-            "culture": 20
+            "culture": 25
         },
         "uniques": [
             "All newly-trained [relevant] units [in this city] receive the [Drill I] promotion",
+			"All newly-trained [relevant] units [in this city] receive the [Barrage I] promotion",
             "Gain a free [Castle] [in this city]"
         ],
         "requiredTech": "Chivalry",
