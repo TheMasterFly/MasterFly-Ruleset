@@ -2862,13 +2862,12 @@
         ],
         "favoredReligion": "Tengriism",
         "uniqueName": "Scourge of God",
-        "uniques": ["Comment [+1 [Production] from every [Pasture]\n+50% yield from pillaging tiles\nCities are razed 2 times as fast\nAll units lose 33% Strength when below -20 [Happiness] (instead of -10 [Happiness])\nStarts with [Animal Husbandry] and [Archery]\n'Borrows' city names from other Civilisations in the game]",
+        "uniques": ["Comment [+1 [Production] from every [Pasture]\n+50% yield from pillaging tiles\nCities are razed 2 times as fast\nAll units lose 33% Strength when below -20 [Happiness] (instead of -10 [Happiness])\nStarts with [Animal Husbandry]\n'Borrows' city names from other Civilisations in the game]",
             "[+1 Production] from every [Pasture] <hidden from users>",
 			"[+50]% Yield from pillaging tiles <hidden from users>",
             "Cities are razed [2] times as fast <hidden from users>",
 			"[-33]% Strength <for [All] units> <when below [-20] [Happiness]> <hidden from users>",
             "Starts with [Animal Husbandry] <hidden from users>",
-			"Starts with [Archery] <hidden from users>",
             "\"Borrows\" city names from other civilizations in the game <hidden from users>"
         ],
         "cities": [
