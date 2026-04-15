@@ -73,11 +73,11 @@
         "strength": 6,
         "rangedStrength": 7,
 		"requiredResource": "Horses",
-        "cost": 35,
+        "cost": 32,
         "obsoleteTech": "Industrialization",
         "uniques": ["No defensive terrain bonus",
-			"Can move after attacking"],
-        "promotions": ["Ignore terrain cost"],
+			"Can move after attacking",
+			"Ignores terrain cost"],
 		"upgradesTo": "Cavalry Archer",
         "attackSound": "arrow"
     },
@@ -190,7 +190,7 @@
         "strength": 5,
         "rangedStrength": 9,
         "cost": 40,
-		"promotions": ["Atlatlist Ability"],
+		"promotions": ["[Atlatlist] ability"],
         "requiredTech": "Agriculture",
         "obsoleteTech": "Machinery",
         "replaces": "Archer",
@@ -365,9 +365,10 @@
         "replaces": "Chariot Archer",
         "movement": 4,
         "strength": 7,
-        "rangedStrength": 10,
+        "rangedStrength": 11,
         "cost": 56,
         "requiredTech": "The Wheel",
+		"requiredResource": "Horses",
         "upgradesTo": "Cavalry Archer",
         "obsoleteTech": "Banking",
         "uniques": ["No defensive terrain bonus",
@@ -455,7 +456,7 @@
         "obsoleteTech": "Civil Service",
         "upgradesTo": "Pikeman",
         "promotions": [
-            "Spear Unit Ability"
+            "Spear Unit ability"
         ],
         "attackSound": "metalhit"
     },
@@ -471,8 +472,8 @@
         "obsoleteTech": "Civil Service",
         "upgradesTo": "Pikeman",
         "promotions": [
-            "Spear Unit Ability",
-			"Hoplite Ability"
+            "Spear Unit ability",
+			"[Hoplite] ability"
         ],
         "attackSound": "metalhit"
     },
@@ -489,7 +490,7 @@
         "upgradesTo": "Pikeman",
         "promotions": [
             "[Persian Immortal] ability",
-            "Spear Unit Ability"
+            "Spear Unit ability"
         ],
         "attackSound": "metalhit"
     },
@@ -547,7 +548,7 @@
         "obsoleteTech": "Civil Service",
         "upgradesTo": "Pikeman",
         "promotions": [
-            "Spear Unit Ability"
+            "Spear Unit ability"
         ],
         "attackSound": "metalhit"
     },
@@ -604,14 +605,14 @@
         "upgradesTo": "Cavalry",
         "obsoleteTech": "Military Science",
         "uniques": [
-            "Comment [Gains 9 Strength and costs 210 [Production] upon discovering [Chivalry]\nGains 15 Strength and costs 290 [Production] upon discovering [Military Science]\nBonus damage from Spear units halved\nDouble [Horses] cost and triple Maintenance costs]",
+            "Comment [Gains 9 Strength and costs 210 [Production] upon discovering [Chivalry]\nGains 15 Strength and costs 290 [Production] upon discovering [Military Science]\nBonus damage from Spear units halved\nDouble [Horses] cost and +200% Maintenance costs]",
 			"Consumes [2] [Horses] <hidden from users>",
             "[+9] Strength <after discovering [Chivalry]> <hidden from users>",
             "[75]% production cost <after discovering [Chivalry]> <hidden from users>",
             "[+15]% Strength <after discovering [Military Science]> <hidden from users>",
             "[38]% production cost <after discovering [Military Science]> <hidden from users>",
 			"[+200]% maintenance costs <hidden from users>",
-			"[+50]% Strength <vs [Spear Unit Ability]> <hidden from users>",
+			"[+25]% Strength <vs [Spear Unit ability]> <hidden from users>",
 			"[-50]% Strength <vs cities> <when attacking>",
             "Can move after attacking"
         ],
@@ -632,7 +633,7 @@
         "requiredResource": "Horses",
         "uniques": [
             "Can move after attacking",
-            "[+50]% Strength <vs [Spear Unit Ability]>"
+            "[+50]% Strength <vs [Spear Unit ability]>"
         ],
         "promotions": [
             "Stratiotiki Ekpaidefsi"
@@ -654,7 +655,7 @@
         "obsoleteTech": "Military Science",
         "uniques": ["Can move after attacking",
             "[-33]% Strength <vs cities> <when attacking>"],
-		"promotions": ["Lamtuna Rider Ability"],
+		"promotions": ["[Lamtuna Rider] ability"],
         "attackSound": "horse"
     },
     {
@@ -695,7 +696,7 @@
             "Must set up to ranged attack",
 			"Unavailable <when number of [Horses] is less than [1]>"
         ],
-        "promotions": ["Stone Thrower Ability"],
+        "promotions": ["[Mounted Stone-Thrower] ability"],
         "hurryCostModifier": 20,
         "attackSound": "throw"
     },
@@ -791,7 +792,7 @@
         "upgradesTo": "Lancer",
         "obsoleteTech": "Metallurgy",
         "promotions": [
-            "Spear Unit Ability"
+            "Spear Unit ability"
         ],
         "attackSound": "metalhit"
     },
@@ -908,7 +909,7 @@
             "Never appears as a Barbarian unit"
         ],
         "promotions": [
-            "Bajorija Knight Ability"
+            "[Bajorija Knight] ability"
         ],
         "attackSound": "horse"
     },
@@ -968,7 +969,7 @@
         "upgradesTo": "Cavalry",
         "uniques": [
             "No defensive terrain bonus",
-            "[-25]% Strength <vs cities> <when attacking>"
+            "[-66]% Strength <vs cities> <when attacking>"
         ],
         "attackSound": "elephant"
     },
@@ -1020,17 +1021,17 @@
         "replaces": "Knight",
         "uniqueTo": "Timurids",
         "movement": 4,
-        "strength": 24,
+        "strength": 23,
         "cost": 120,
         "requiredTech": "Chivalry",
         "obsoleteTech": "Combustion",
         "upgradesTo": "Cavalry",
         "requiredResource": "Horses",
-        "uniques": ["[+20]% Strength <when attacking>",
+        "uniques": ["[+25]% Strength <when attacking>",
 			"[-20]% Strength <when defending>",
             "Can move after attacking",
             "No defensive terrain bonus",
-            "[-20]% Strength <vs cities> <when attacking>"
+            "[-25]% Strength <vs cities> <when attacking>"
         ],
         "attackSound": "horse"
     },
@@ -1225,8 +1226,8 @@
         "upgradesTo": "Musketman",
         "obsoleteTech": "Gunpowder",
         "uniques": ["Comment [Cannot capture cities, doesn't take damage from attacking. Has special one-use attack that deals bonus damage, increased against [Siege] and [Water] units, resetting on kills]",
-            "[This Unit] gains the [Fire Lance Infantry Ability] promotion <upon defeating a [All] unit>",
-            "[This Unit] gains the [Fire Lance Infantry Ability] promotion <once>"],
+            "[This Unit] gains the [Fire Lance Infantry ability] promotion <upon defeating a [All] unit>",
+            "[This Unit] gains the [Fire Lance Infantry ability] promotion <once>"],
         "attackSound": "metalhit"
     },
     {
@@ -1497,7 +1498,7 @@
         "obsoleteTech": "Replaceable Parts",
         "upgradesTo": "Great War Infantry",
         "promotions": [
-            "[Norwegian Ski Infantry] Ability",
+            "[Norwegian Ski Infantry] ability",
             "Drill I",
             "Drill II"
         ],
@@ -1678,8 +1679,8 @@
         "requiredTech": "Replaceable Parts",
         "upgradesTo": "Infantry",
         "obsoleteTech": "Plastics",
-        "uniques": [
-            "[+20]% Strength <when fighting in [Foreign Land] tiles>"
+        "promotions": [
+            "[Foreign Legion] ability"
         ],
         "attackSound": "shot"
     },
