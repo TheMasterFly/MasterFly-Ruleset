@@ -77,8 +77,8 @@
         "obsoleteTech": "Nomadic Innovations",
         "uniques": ["May upgrade to [Chariot Archer] through ruins-like effects",
 			"No defensive terrain bonus",
-			"Can move after attacking",
-			"Ignores terrain cost"],
+			"Can move after attacking"],
+        "promotions": ["Ignore terrain cost"],
 		"upgradesTo": "Cavalry Archer",
         "attackSound": "arrow"
     },
