@@ -1559,7 +1559,7 @@
         ]
     },
     {
-        "name": "[Bajorija Knight] Ability",
+        "name": "[Bajorija Knight] ability",
         "uniques": [
             "Comment [Adjacent enemy units with Defender Of The Faith/Just War lose their combat buff]",
             "[+20]% Strength <when fighting in [Forest] tiles>",
@@ -1674,8 +1674,8 @@
             "[-50]% Strength <when attacking>",
             "[+50]% Strength <vs [Water] units> <when attacking>",
             "[+50]% Strength <vs [Siege] units> <when attacking>",
-            "[This Unit] gains the [Fire Lance Infantry Second Attack] status for [1] turn(s) <upon entering combat>",
-            "[This Unit] loses the [Fire Lance Infantry Ability] promotion <upon entering combat>"],
+            "[This Unit] gains the [[Fire Lance Infantry] Second Attack] status for [1] turn(s) <upon entering combat>",
+            "[This Unit] loses the [[Fire Lance Infantry] ability] promotion <upon entering combat>"],
         "outerColor": [9, 112, 84],
         "innerColor": [255, 255, 255]
     },
