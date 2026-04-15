@@ -85,10 +85,8 @@
     {
         "name": "God of Craftsman",
         "type": "Pantheon",
-        "uniques": ["[+1 Production, +1 Science] from every specialist [in this city]",
-        "[+1 Production, +1 Science] from every specialist [in this city] <starting from the [Renaissance era]>",
-        "[+1 Production, +1 Science] from every specialist [in this city] <for [Lithuania] Civilizations> <hidden from users>",
-        "[+1 Production, +1 Science] from every specialist [in this city] <starting from the [Renaissance era]> <for [Lithuania] Civilizations> <hidden from users>"]
+        "uniques": ["[+1 Production, +1 Science, +1 Culture] from every specialist [in this city]",
+        "[+1 Production, +1 Science, +1 Culture] from every specialist [in this city] <for [Lithuania] Civilizations> <hidden from users>"]
     },
     {
         "name": "God of Death",
@@ -113,8 +111,8 @@
     {
         "name": "God of the Open Sky",
         "type": "Pantheon",
-        "uniques": ["[+1 Production, +1 Culture, +1 Gold] from every [Pasture]",
-        "[+1 Production, +1 Culture, +1 Gold] from every [Pasture] <for [Lithuania] Civilizations> <hidden from users>"]
+        "uniques": ["[+1 Production, +1 Culture, +1 Faith] from every [Pasture]",
+        "[+1 Production, +1 Culture, +1 Culture] from every [Pasture] <for [Lithuania] Civilizations> <hidden from users>"]
     },
     {
         "name": "God of the Harvest",
@@ -151,11 +149,11 @@
     {
         "name": "God of War",
         "type": "Pantheon",
-        "uniques": ["New [Military] units start with [10] XP [in this city]",
+        "uniques": ["New [Military] units start with [15] XP [in this city]",
         "[+1 Culture, +1 Happiness] from every [Barracks]",
         "[+1 Culture, +1 Happiness] from every [Armory]",
         "[+1 Culture, +1 Happiness] from every [Military Academy]",
-        "New [Military] units start with [10] XP [in this city] <for [Lithuania] Civilizations> <hidden from users>",
+        "New [Military] units start with [15] XP [in this city] <for [Lithuania] Civilizations> <hidden from users>",
         "[+1 Culture, +1 Happiness] from every [Barracks] <for [Lithuania] Civilizations> <hidden from users>",
         "[+1 Culture, +1 Happiness] from every [Armory] <for [Lithuania] Civilizations> <hidden from users>",
         "[+1 Culture, +1 Happiness] from every [Military Academy] <for [Lithuania] Civilizations> <hidden from users>"]
@@ -207,14 +205,14 @@
     {
         "name": "Goddess of the Hunt",
         "type": "Pantheon",
-        "uniques": ["[+1 Production, +1 Culture, +1 Gold] from every [Camp]",
-        "[+1 Culture, +1 Production, +1 Gold] from every [Camp] <for [Lithuania] Civilizations> <hidden from users>"]
+        "uniques": ["[+1 Production, +1 Culture, +1 Faith] from every [Camp]",
+        "[+1 Culture, +1 Production, +1 Faith] from every [Camp] <for [Lithuania] Civilizations> <hidden from users>"]
     },
     {
         "name": "King Under The Mountain",
         "type": "Pantheon",
-        "uniques": ["[+1 Food, +1 Production] from every [Mountain]",
-        "[+1 Food, +1 Production] from every [Mountain] <for [Lithuania] Civilizations> <hidden from users>"]
+        "uniques": ["[+1 Food, +1 Production, +1 Faith] from every [Mountain]",
+        "[+1 Food, +1 Production, +1 Faith] from every [Mountain] <for [Lithuania] Civilizations> <hidden from users>"]
     },
     {
         "name": "Messenger of the Gods",
@@ -257,26 +255,26 @@
     {
         "name": "Oral Tradition",
         "type": "Pantheon",
-        "uniques": ["[+1 Culture, +1 Production, +1 Gold] from every [Plantation]",
-        "[+1 Culture, +1 Production, +1 Gold] from every [Plantation] <for [Lithuania] Civilizations> <hidden from users>"]
+        "uniques": ["[+1 Culture, +1 Production, +1 Faith] from every [Plantation]",
+        "[+1 Culture, +1 Production, +1 Faith] from every [Plantation] <for [Lithuania] Civilizations> <hidden from users>"]
     },
     {
         "name": "Rain Dancing",
         "type": "Pantheon",
-        "uniques": ["[+2 Culture, +1 Faith, +1 Gold] from every [Lakes]",
-        "[+2 Culture, +1 Faith, +1 Gold] from every [Oasis]",
-        "[+2 Culture, +1 Faith, +1 Gold] from every [Lakes] <for [Lithuania] Civilizations> <hidden from users>",
-        "[+2 Culture, +1 Faith, +1 Gold] from every [Oasis] <for [Lithuania] Civilizations> <hidden from users>"]
+        "uniques": ["[+2 Culture, +2 Faith] from every [Lakes]",
+        "[+2 Culture, +2 Faith] from every [Oasis]",
+        "[+2 Culture, +2 Faith] from every [Lakes] <for [Lithuania] Civilizations> <hidden from users>",
+        "[+2 Culture, +2 Faith] from every [Oasis] <for [Lithuania] Civilizations> <hidden from users>"]
     },
     {
         "name": "Religious Idols",
         "type": "Pantheon",
-        "uniques": ["[+2 Culture, +2 Faith, +2 Gold] from every [Gold Ore]",
-        "[+2 Culture, +2 Faith, +2 Gold] from every [Silver]",
-        "[+2 Culture, +2 Faith, +2 Gold] from every [Lapis Lazuli]",
-        "[+2 Culture, +2 Faith, +2 Gold] from every [Gold Ore] <for [Lithuania] Civilizations> <hidden from users>",
-        "[+2 Culture, +2 Faith, +2 Gold] from every [Silver] <for [Lithuania] Civilizations> <hidden from users>",
-        "[+2 Culture, +2 Faith, +2 Gold] from every [Lapis Lazuli] <for [Lithuania] Civilizations> <hidden from users>"]
+        "uniques": ["[+2 Culture, +2 Faith] from every [Gold Ore]",
+        "[+2 Culture, +2 Faith] from every [Silver]",
+        "[+2 Culture, +2 Faith] from every [Lapis Lazuli]",
+        "[+2 Culture, +2 Faith] from every [Gold Ore] <for [Lithuania] Civilizations> <hidden from users>",
+        "[+2 Culture, +2 Faith] from every [Silver] <for [Lithuania] Civilizations> <hidden from users>",
+        "[+2 Culture, +2 Faith] from every [Lapis Lazuli] <for [Lithuania] Civilizations> <hidden from users>"]
     },
     {
         "name": "Religious Settlements",
@@ -289,10 +287,8 @@
     {
         "name": "Sacred Path",
         "type": "Pantheon",
-        "uniques": ["[+1 Production] from every [Jungle]",
-        "[+1 Culture] from every [Jungle] <starting from the [Renaissance era]>",
-        "[+1 Production] from every [Jungle] <for [Lithuania] Civilizations> <hidden from users>",
-        "[+1 Culture] from every [Jungle] <starting from the [Renaissance era]> <for [Lithuania] Civilizations> <hidden from users>"]
+        "uniques": ["[+1 Production, +1 Faith] from every [Jungle]",
+        "[+1 Production, +1 Faith] from every [Jungle] <for [Lithuania] Civilizations> <hidden from users>"]
     },
     {
         "name": "Sacred Waters",
@@ -314,7 +310,7 @@
     {
         "name": "Asceticism",
         "type": "Follower",
-        "uniques": ["[+1 Happiness] from every [Monument]", "[+1 Happiness] from every [Shrine]"]
+        "uniques": ["[+1 Happiness, +1 Gold] from every [Monument]", "[+1 Happiness, +1 Gold] from every [Shrine]"]
     },
     {
         "name": "Cathedrals",
@@ -346,7 +342,7 @@
     {
         "name": "Higher Craft",
         "type": "Follower",
-        "uniques": ["[+1 Production, +1 Food] from every specialist [in this city] <in cities with at least [3] [Specialists]> <in cities with at least [5] [Followers of this Religion]>"]
+        "uniques": ["[+1 Production, +1 Science, +1 Culture] from every specialist [in this city] <in cities with at least [3] [Specialists]> <in cities with at least [5] [Followers of this Religion]>"]
     },
     {
         "name": "Liturgical Drama",
@@ -381,7 +377,7 @@
     {
         "name": "Religious Center",
         "type": "Follower",
-        "uniques": ["[+1 Happiness] from every [Shrine]", "[+1 Culture, +1 Gold, +1 Happiness] from every [Temple]" ]
+        "uniques": ["[+1 Happiness, +1 Gold, +1 Culture] from every [Shrine]", "[+1 Culture, +1 Gold, +1 Happiness] from every [Temple]" ]
     },
     {
         "name": "Religious Community",
@@ -392,7 +388,7 @@
         "name": "Swords into Ploughshares",
         "type": "Follower",
         "uniques": ["[+15]% growth [in this city] <when not at war>",
-            "[+3 Food] [in this city] <when not at war>"]
+            "[+4 Food] [in this city] <when not at war>"]
     },
     {
         "name": "Stupas",
