@@ -28,7 +28,7 @@
         "type": "Pantheon",
         "uniques": ["[All] Units adjacent to this city heal [+25] HP per turn when healing",
         "[All] Units adjacent to this city heal [+25] HP per turn when healing <for [Lithuania] Civilizations> <hidden from users>",
-        "[All] units gain the [Faith Healers Ability] promotion"]
+        "[All] units gain the [Faith Healers ability] promotion"]
     },
     {
         "name": "Fertility Rites",
@@ -472,7 +472,7 @@
         "name": "Defender of the Faith",
         "type": "Enhancer",
         "uniques": ["[+20]% Strength <for [All] units> <when fighting in [Friendly Land] tiles>",
-        "[-20]% Strength <for [All] units> <when fighting in [Friendly Land] tiles> <vs [Bajorija Knight Ability]> <hidden from users>"]
+        "[-20]% Strength <for [All] units> <when fighting in [Friendly Land] tiles> <vs [Bajorija Knight ability]> <hidden from users>"]
     },
     {
         "name": "Eyes of God",
@@ -513,7 +513,7 @@
         "name": "Just War",
         "type": "Enhancer",
         "uniques": ["[+20]% Strength <for [All] units> <when fighting in [Enemy Land] tiles>",
-        "[-20]% Strength <for [All] units> <when fighting in [Enemy Land] tiles> <vs [Bajorija Knight Ability]> <hidden from users>"]
+        "[-20]% Strength <for [All] units> <when fighting in [Enemy Land] tiles> <vs [Bajorija Knight ability]> <hidden from users>"]
     },
     {
         "name": "Karma",
