@@ -337,7 +337,7 @@
     {
         "name": "Guruship",
         "type": "Follower",
-        "uniques": ["[+2 Production, +2 Science, +2 Culture] [in cities following this religion] <in cities with at least [5] [Followers of this Religion]>"]
+        "uniques": ["[+3 Production, +3 Science, +3 Culture] [in cities following this religion] <in cities with at least [5] [Followers of this Religion]>"]
     },
     {
         "name": "Higher Craft",
