@@ -1397,7 +1397,7 @@
     },
     {
         "name": "Leaning Tower of Pisa",
-        "culture": 1,
+        "culture": 3,
         "isWonder": true,
         "greatPersonPoints": {
             "Great Artist": 1
@@ -1417,10 +1417,8 @@
         "greatPersonPoints": {
             "Great Engineer": 2
         },
-        "uniques": [
-            "Must be on [Hill]",
-            "May buy [Military] units with [Faith] [in this city]"
-        ],
+        "uniques": ["Must be on [Hill]",
+            "May buy [Military] units with [Faith] for [3] times their normal Production cost"],
         "requiredTech": "Gunpowder",
         "quote": "'Bushido is realized in the presence of death. This means choosing death whenever there is a choice between life and death. There is no other reasoning.' - Yamamoto Tsunetomo"
     },
