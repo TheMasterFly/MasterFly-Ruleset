@@ -74,7 +74,7 @@
         "rangedStrength": 7,
 		"requiredResource": "Horses",
         "cost": 32,
-        "obsoleteTech": "Chivalry",
+        "obsoleteTech": "Nomadic Innovations",
         "uniques": ["May upgrade to [Chariot Archer] through ruins-like effects",
 			"No defensive terrain bonus",
 			"Can move after attacking"],
