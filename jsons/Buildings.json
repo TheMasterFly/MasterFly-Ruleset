@@ -617,7 +617,7 @@
         "replaces": "Market",
         "uniqueTo": "Greece",
         "gold": 2,
-		"culture": 1,
+		"culture": 2,
         "specialistSlots": {
             "Merchant": 1
         },
@@ -625,7 +625,7 @@
         "percentStatBonus": {
             "gold": 25
         },
-		"uniques": ["New [Military] units start with [10] XP [in this city]",
+		"uniques": ["New [Melee] units start with [15] XP [in this city]",
 			"Resting point for Influence with City-States is increased by [2]"],
         "requiredTech": "Currency"
     },
