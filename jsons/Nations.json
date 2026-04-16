@@ -1165,14 +1165,14 @@
 	    "outerColor": [200, 175, 0],
 	    "innerColor": [90, 60, 0],
 	    "uniqueName": "Steppe and Plow",
-	    "uniqueText": "+1 [Production] and -33% building time for [Pasture], [Camp] and [Farm] tile improvements",
+	    "uniqueText": "+1 [Production] and -25% building time for [Pasture], [Camp] and [Farm] tile improvements",
 	    "uniques": [
 	        "[+1 Production] from [Pasture] tiles [in all cities]",
 			"[+1 Production] from [Camp] tiles [in all cities]",
 			"[+1 Production] from [Farm] tiles [in all cities]",
-			"Can build [Pasture] improvements at a [+33]% rate",
-			"Can build [Camp] improvements at a [+33]% rate",
-			"Can build [Farm] improvements at a [+33]% rate"],
+			"Can build [Pasture] improvements at a [+25]% rate",
+			"Can build [Camp] improvements at a [+25]% rate",
+			"Can build [Farm] improvements at a [+25]% rate"],
 	    "spyNames": [
 	        "Yelü Bei",
 	        "Yelü Dashi",
@@ -2470,7 +2470,8 @@
         "favoredReligion": "Tengriism",
         "uniqueName": "Mongol Terror",
         "uniques": [
-            "[+20]% Strength <vs [City-States]>",
+            "[+25]% Strength <vs [City-States]>",
+			"[+1] Movement <for [Worker] units>",
             "[+1] Movement <for [Mounted] units>",
 			"[+1] Movement <for [Ranged Mounted] units>",
 			"Great General provides double combat bonus"
