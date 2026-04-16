@@ -74,12 +74,12 @@
         "rangedStrength": 7,
 		"requiredResource": "Horses",
         "cost": 32,
-        "obsoleteTech": "Nomadic Innovations",
+        "obsoleteTech": "Chivalry",
         "uniques": ["May upgrade to [Chariot Archer] through ruins-like effects",
 			"No defensive terrain bonus",
 			"Can move after attacking"],
         "promotions": ["Ignore terrain cost"],
-		"upgradesTo": "Cavalry Archer",
+		"upgradesTo": "Chariot Archer",
         "attackSound": "arrow"
     },
     {
@@ -394,39 +394,6 @@
         "uniques": [
             "No defensive terrain bonus",
             "Rough terrain penalty"
-        ],
-        "attackSound": "arrow"
-    },
-    {
-        "name": "Cavalry Archer",
-        "unitType": "Ranged Mounted",
-        "movement": 4,
-        "strength": 13,
-        "rangedStrength": 15,
-        "cost": 115,
-        "requiredTech": "Nomadic Innovations",
-        "upgradesTo": "Dragoon",
-        "obsoleteTech": "Banking",
-        "uniques": ["No defensive terrain bonus",
-			"Can move after attacking"],
-        "attackSound": "arrow"
-    },
-    {
-        "name": "Camel Archer",
-        "unitType": "Ranged Mounted",
-        "replaces": "Cavalry Archer",
-        "uniqueTo": "Arabia",
-        "movement": 4,
-        "strength": 15,
-        "rangedStrength": 18,
-        "cost": 120,
-        "requiredTech": "Nomadic Innovations",
-        "requiredResource": "Horses",
-        "upgradesTo": "Gatling Gun",
-        "obsoleteTech": "Industrialization",
-        "uniques": [
-            "Can move after attacking",
-            "No defensive terrain bonus"
         ],
         "attackSound": "arrow"
     },
@@ -873,6 +840,60 @@
         "attackSound": "horse"
     },
     {
+        "name": "Cavalry Archer",
+        "unitType": "Ranged Mounted",
+        "movement": 4,
+        "strength": 13,
+        "rangedStrength": 15,
+        "cost": 120,
+        "requiredTech": "Nomadic Innovations",
+        "upgradesTo": "Dragoon",
+        "obsoleteTech": "Banking",
+        "uniques": ["Can move after attacking",
+			"No defensive terrain bonus"],
+        "attackSound": "arrow"
+    },
+    {
+        "name": "Camel Archer",
+        "unitType": "Ranged Mounted",
+        "replaces": "Cavalry Archer",
+        "uniqueTo": "Arabia",
+        "movement": 4,
+        "strength": 15,
+        "rangedStrength": 18,
+        "cost": 120,
+        "requiredTech": "Nomadic Innovations",
+        "requiredResource": "Horses",
+        "upgradesTo": "Gatling Gun",
+        "obsoleteTech": "Industrialization",
+        "uniques": ["Can move after attacking",
+            "No defensive terrain bonus"],
+        "attackSound": "arrow"
+    },
+    {
+        "name": "Keshik",
+        "unitType": "Ranged Mounted",
+        "replaces": "Cavalry Archer",
+        "uniqueTo": "Mongolia",
+        "movement": 5,
+        "strength": 15,
+        "rangedStrength": 16,
+        "cost": 120,
+        "requiredTech": "Chivalry",
+        "requiredResource": "Horses",
+        "upgradesTo": "Gatling Gun",
+        "obsoleteTech": "Industrialization",
+        "uniques": [
+            "Can move after attacking",
+            "No defensive terrain bonus"
+        ],
+        "promotions": [
+            "Great Generals I",
+            "Quick Study"
+        ],
+        "attackSound": "arrow"
+    },
+    {
         "name": "Knight",
         "unitType": "Mounted",
         "movement": 4,
@@ -991,30 +1012,6 @@
             "No defensive terrain bonus"
         ],
         "attackSound": "horse"
-    },
-    {
-        "name": "Keshik",
-        "unitType": "Ranged Mounted",
-        "replaces": "Knight",
-        "uniqueTo": "Mongolia",
-        "range": 2,
-        "movement": 5,
-        "strength": 16,
-        "rangedStrength": 16,
-        "cost": 120,
-        "requiredTech": "Chivalry",
-        "requiredResource": "Horses",
-        "upgradesTo": "Cavalry",
-        "obsoleteTech": "Military Science",
-        "uniques": [
-            "Can move after attacking",
-            "No defensive terrain bonus"
-        ],
-        "promotions": [
-            "Great Generals I",
-            "Quick Study"
-        ],
-        "attackSound": "arrow"
     },
     {
         "name": "Lamellar Lancer",
