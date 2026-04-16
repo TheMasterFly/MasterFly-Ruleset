@@ -371,13 +371,8 @@
         "name": "Ordu",
         "replaces": "Stable",
         "uniqueTo": "Liao",
-        "maintenance": 1,
-        "requiredNearbyImprovedResources": [
-            "Horses",
-            "Sheep",
-            "Cattle"
-        ],
-        "hurryCostModifier": 25,
+        "maintenance": 2,
+        "hurryCostModifier": 35,
         "uniques": [
             "[+15]% Production when constructing [Mounted] units [in this city]",
 			"Provides [2] [Horses]",
