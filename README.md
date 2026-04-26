@@ -1,4 +1,4 @@
-Behold mine mod. Archers are weaker, swordsmen might have a place now and civ balance has been kicked out of the house, despite my best efforts to rehabilitate it. Here's a list of the standouts, and please note the biggest changes are in this top list:
+Behold mine mod. Archers are weaker, swordsmen might have a place now and civ balance has been kicked out of the house, despite my best efforts to rehabilitate it. Here's a list of the standouts, and please note the biggest changes are in this list:
 
 **Biggest Changes:**
 1) Workers can now improve water tile, while Work Boats have lost that ability. Instead, they can 'fish' by ending their turn on a Fishing Boats improvement/improved water resource tile. Once this has been done 3 times in tiles next to a City center or 4 times in tiles not adjacent, they acquire a 'Fish Harvest' promotion, where they must return to a city and can consume themselves to give a large food buff to the city. This buff is increased by roughly 33% for fishing done in tiles not adjacent to City centers.
@@ -7,20 +7,16 @@ Behold mine mod. Archers are weaker, swordsmen might have a place now and civ ba
 
 2) Your very first Settler now ignores terrain costs and has 4 movement, to encourage flexibility in starts.
 
-3) Archers are nerfed, infantry is buffed and cavalry are... adjusted. If you know AOE2's system of units, then that is what I am basing it off of.
+3) Archers are nerfed, infantry is buffed and cavalry are... adjusted - cavalry archers are now a thing. If you know AOE2's system of units, then that is what I am basing it off of.
 
 4) New City-States added! These are:
 Horse & Iron-providing City States (Gold secondary yield),
 Oil-Provider City States (Gold secondary yield)
 
-5) Rationalim is nerfed, Liberty, Commerce and Piety is (over?) buffed. Exploration has been added.
+5) Rationalim is nerfed, Liberty, Commerce and Piety is (over?) buffed. Exploration has been added. I haven't touched Autocracy/Order/Freedom.
 
-6) New Natural Wonders! These include the Pink and White Terraces, Socotra, Mount Vesuvius and the elusive Orodruin itself.
+6) New Natural Wonders! These include the Pink and White Terraces, Socotra, Mount Vesuvius, Lake Hillier and Orodruin.
 
-If you have any questions, I am in the Unciv Discord as 'MasterFly'. I'd especially love to hear feedback on civ balance :trollface:
+7) Obviously there are new civs, but I've adjusted pre-existing ones too to try keep up with my 'balanced' creations.
 
-**Added Civs:**
-Almoravids, Armenia, Crusader States, Dai Viet, Georgia, Kilwa, Lithuania, Norway, Papal States, Portugal, Timurids
-Additionally, China has been split into the Tang and Song dynasties with the Tang being wide and trade-focused and the Song being tall and specialist-focused
-
-Finally, this mod is very compatible with the More Luxuries mod. I'd like to add my own sprites eventually, but until then I use that add-on in conjunction with this one.
+8) All unique units have their obsolete tech extended out, so you can train them and gain things like promotions for longer.
