@@ -77,7 +77,8 @@
         "obsoleteTech": "Civil Service",
         "uniques": ["May upgrade to [Chariot Archer] through ruins-like effects",
 			"No defensive terrain bonus",
-			"Can move after attacking"],
+			"Can move after attacking",
+			"[-25]% Strength <vs cities> <when attacking>"],
         "promotions": ["Ignore terrain cost"],
 		"upgradesTo": "Chariot Archer",
         "attackSound": "arrow"
@@ -373,7 +374,8 @@
         "upgradesTo": "Cavalry Archer",
         "obsoleteTech": "Banking",
         "uniques": ["No defensive terrain bonus",
-			"Can move after attacking"],
+			"Can move after attacking",
+			"[-25]% Strength <vs cities> <when attacking>"],
         "promotions": [
             "Accuracy I"
         ],
@@ -850,7 +852,8 @@
         "upgradesTo": "Dragoon",
         "obsoleteTech": "Banking",
         "uniques": ["Can move after attacking",
-			"No defensive terrain bonus"],
+			"No defensive terrain bonus",
+			"[-25]% Strength <vs cities> <when attacking>"],
         "attackSound": "arrow"
     },
     {
