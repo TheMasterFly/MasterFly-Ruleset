@@ -809,6 +809,7 @@
         "uniqueName": "Siberian Riches",
         "uniques": [
             "[+1 Production] from every [Strategic resource]",
+			"[+1 Gold] from every [Luxury resource]",
             "[+100]% [Horses] resource production",
             "[+100]% [Iron] resource production",
             "[+100]% [Uranium] resource production"
