@@ -2864,11 +2864,13 @@
         ],
         "favoredReligion": "Tengriism",
         "uniqueName": "Scourge of God",
-        "uniques": ["[+100]% [Horses] resource production <hidden from users>",
-			"[+50]% Yield from pillaging tiles <hidden from users>",
-            "Cities are razed [2] times as fast <hidden from users>",
-            "Starts with [Animal Husbandry] <hidden from users>",
-            "\"Borrows\" city names from other civilizations in the game <hidden from users>"
+        "uniques": ["[+100]% [Horses] resource production",
+			"[+200]% Yield from pillaging tiles",
+            "Cities are razed [2] times as fast",
+			"[+1] Sight <for [Mounted] units>",
+			"[+1] Sight <for [Ranged Mounted] units>",
+            "Starts with [Animal Husbandry]",
+            "\"Borrows\" city names from other civilizations in the game"
         ],
         "cities": [
             "Attila's Court"
