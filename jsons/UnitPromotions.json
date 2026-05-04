@@ -1697,7 +1697,7 @@
         "uniques": ["Consumes [1] [Horses]",
             "[+1] Movement",
             "No movement cost to pillage",
-            "[+1] Sight"]
+            "[-50]% Strength <vs [Spear Unit ability] units> <when defending>"]
     },
     {
         "name": "[Lamtuna Rider] ability",
