@@ -1037,6 +1037,19 @@
         "attackSound": "horse"
     },
     {
+        "name": "Templar Knight",
+        "unitType": "Mounted",
+        "movement": 3,
+        "strength": 20,
+        "cost": 100,
+        "requiredTech": "Chivalry",
+        "uniques": ["Unbuildable",
+            "Can move immediately once bought"],
+        "upgradesTo": "Cavalry",
+        "obsoleteTech": "Combustion",
+        "attackSound": "metalhit"
+    },
+    {
         "name": "Crossbowman",
         "unitType": "Archery",
         "movement": 2,
