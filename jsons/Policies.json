@@ -253,7 +253,7 @@
             "Scientific": 3
         },
         "uniques": [
-			"[+1 Culture, +1 Faith] [in capital]",
+			"[+1 Faith] [in capital]",
             "[+100]% Production when constructing [Shrine] buildings [in all cities]",
             "[+100]% Production when constructing [Temple] buildings [in all cities]",
 			"Comment [Unlocks [Great Mosque of Djenne]]",
@@ -286,7 +286,7 @@
             {
                 "name": "Theocracy",
                 "uniques": [
-					"[+1 Happiness] from every [Shrine]",
+					"[+1 Culture] from every [Shrine]",
 					"[+1 Happiness] from every [Temple]",
 					"[+25]% [Gold] from every [Grand Temple]"
                 ],
