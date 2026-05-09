@@ -945,15 +945,13 @@
         "name": "Saint Peter's Basilica",
         "replaces": "Grand Temple",
         "uniqueTo": "Papal States",
-        "cost": 140,
+        "cost": 150,
         "culture": 1,
         "faith": 8,
         "uniques": [
-            "May buy [{Military} {Land}] units with [Faith] for [2] times their normal Production cost <before the [Industrial era]>",
-            "May buy [{Military} {Land}] units with [Faith] for [3] times their normal Production cost <starting from the [Industrial era]>",
+            "May buy [{Military} {Land}] units with [Faith] for [4] times their normal Production cost",
             "Free [Great Prophet] appears",
-            "Cost increases by [45] per owned city",
-            "Enables conversion of city production to [Faith]",
+            "Cost increases by [30] per owned city",
             "[+100]% Natural religion spread [in this city]",
             "Only available <when religion is enabled>",
             "Only available <if [Temple] is constructed in all [non-[Puppeted]] cities>",
@@ -2059,14 +2057,13 @@
     {
         "name": "Monastery",
         "cost": 0,
-        "culture": 2,
-        "faith": 2,
+        "culture": 1,
+        "faith": 1,
+		"happiness": 1,
+		"science": 1,
         "uniques": [
-            "[+1 Culture, +1 Faith] from [Wine] tiles [in this city]",
-            "[+1 Culture, +1 Faith] from [Incense] tiles [in this city]",
             "Unbuildable",
-            "Only available <when religion is enabled>",
-            "Destroyed when the city is captured"
+            "Only available <when religion is enabled>"
         ]
     },
     {
@@ -2086,18 +2083,6 @@
         "culture": 2,
         "faith": 2,
         "happiness": 2,
-        "uniques": [
-            "Unbuildable",
-            "Only available <when religion is enabled>"
-        ]
-    },
-    {
-        "name": "Stupa",
-        "cost": 0,
-        "happiness": 1,
-        "faith": 2,
-        "culture": 1,
-        "science": 1,
         "uniques": [
             "Unbuildable",
             "Only available <when religion is enabled>"
