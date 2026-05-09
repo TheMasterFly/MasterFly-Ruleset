@@ -707,7 +707,6 @@
         "uniques": [
             "Each city founded increases culture cost of policies [33]% less than normal",
 			"[+1 Culture] [in all cities]",
-			"[+1 Culture] [in all cities] <starting from the [Renaissance era]>",
 			"Comment [+15% Strength for [Military] units for 30 turns after completing a Policy Tree - varies with game speed]",
 			"[+15]% Strength <for [Military] units> <after adopting [Tradition Complete]> <for [30] turns> <(modified by game speed)> <hidden from users>",
 			"[+15]% Strength <for [Military] units> <after adopting [Liberty Complete]> <for [30] turns> <(modified by game speed)> <hidden from users>",
@@ -1833,19 +1832,14 @@
             130
         ],
         "uniqueName": "The Holy See",
-        "uniqueText": "May choose 1 additional beliefs of any type when [enhancing] a religion\n+1 [Faith], -1 [Gold] in all cities per era starting from the [Classical] era, increased to 2 starting from the [Industrial] era\n+33% [Faith], -33% [Gold] in all cities starting from the [Medieval] era\nResting point with all City-States following your religion +10",
+        "uniqueText": "May choose 1 additional beliefs of any type when [enhancing] a religion\n+1 [Faith] from [Cathedral], [Monastery], [Mosque] and [Pagoda] buildings\nResting point with all City-States following your religion +10",
         "uniques": [
             "May choose [1] additional belief(s) of any type when [enhancing] a religion",
-            "Resting point for Influence with City-States following this religion [+10]",
-            "[+33]% [Faith] [in all cities] <starting from the [Medieval era]> <hidden from users>",
-            "[-33]% [Gold] [in all cities] <starting from the [Medieval era]> <hidden from users>",
-            "[+1 Faith, -1 Gold] [in all cities] <starting from the [Classical era]> <hidden from users>",
-            "[+1 Faith, -1 Gold] [in all cities] <starting from the [Medieval era]> <hidden from users>",
-            "[+1 Faith, -1 Gold] [in all cities] <starting from the [Renaissance era]> <hidden from users>",
-            "[+2 Faith, -2 Gold] [in all cities] <starting from the [Industrial era]> <hidden from users>",
-            "[+2 Faith, -2 Gold] [in all cities] <starting from the [Modern era]> <hidden from users>",
-            "[+2 Faith, -2 Gold] [in all cities] <starting from the [Atomic era]> <hidden from users>",
-            "[+2 Faith, -2 Gold] [in all cities] <starting from the [Information era]> <hidden from users>"
+            "[+1 Faith] from all [Cathedral] buildings <hidden from users>",
+			"[+1 Faith] from all [Monastery] buildings <hidden from users>",
+            "[+1 Faith] from all [Mosque] buildings <hidden from users>",
+            "[+1 Faith] from all [Pagoda] buildings <hidden from users>",
+            "Resting point for Influence with City-States following this religion [+10]"
         ],
         "cities": [
             "Vatican City",
@@ -3292,18 +3286,18 @@
         ],
         "favoredReligion": "Christianity",
         "uniqueName": "Center of the World",
-        "uniqueText": "May buy [Cathedral], [Mosque], [Pagoda] and [Stupa] buildings with [Faith] without needing their respective religious belief, but lose 1 [Faith] from each\n+Gain 10% [Science] in Capital when all 4 are built\nAll newly trained [Military] units gain the [Stratiotiki Ekpaidefsi] promotion in cities where all 4 are built",
+        "uniqueText": "May buy [Cathedral], [Monastery], [Mosque] and [Pagoda] buildings with [Faith] without needing their respective religious belief, but lose 1 [Faith] from each\n+Gain 10% [Science] in Capital when all 4 are built\nAll newly trained [Military] units gain the [Stratiotiki Ekpaidefsi] promotion in cities where all 4 are built",
         "uniques": [
             "May buy [Cathedral] buildings with [Faith] [in all cities]",
+			"May buy [Monastery] buildings with [Faith] [in all cities]",
             "May buy [Mosque] buildings with [Faith] [in all cities]",
             "May buy [Pagoda] buildings with [Faith] [in all cities]",
-            "May buy [Stupa] buildings with [Faith] [in all cities]",
             "[-1 Faith] from all [Cathedral] buildings <hidden from users>",
+			"[-1 Faith] from all [Monastery] buildings <hidden from users>",
             "[-1 Faith] from all [Mosque] buildings <hidden from users>",
             "[-1 Faith] from all [Pagoda] buildings <hidden from users>",
-            "[-1 Faith] from all [Stupa] buildings <hidden from users>",
-            "[+10]% [Science] [in capital] <in cities with a [Cathedral]> <in cities with a [Mosque]> <in cities with a [Pagoda]> <in cities with a [Stupa]> <hidden from users>",
-			"All newly-trained [Military] units [in all cities] receive the [Stratiotiki Ekpaidefsi] promotion <in cities with a [Cathedral]> <in cities with a [Mosque]> <in cities with a [Pagoda]> <in cities with a [Stupa]> <hidden from users>"
+            "[+10]% [Science] [in capital] <in cities with a [Cathedral]> <in cities with a [Monastery]> <in cities with a [Mosque]> <in cities with a [Pagoda]> <hidden from users>",
+			"All newly-trained [Military] units [in all cities] receive the [Stratiotiki Ekpaidefsi] promotion <in cities with a [Cathedral]> <in cities with a [Monastery]> <in cities with a [Mosque]> <in cities with a [Pagoda]> <hidden from users>"
         ],
         "cities": [
             "Constantinople",
@@ -3876,7 +3870,7 @@
         "outerColor": [40, 40, 40],
         "innerColor": [255, 38, 0],
         "uniqueName": "Iron Will/Timurid Renaissance",
-        "uniqueText": "Cities are razed 2 times as fast\nAll units gain +5/4/3% Strength for first 1/2/3 cities conquered, then additional 2% for each conquered city thereafter\nGain 50% [Production] towards [Monument], [Amphitheater], [Opera House], [Library], [University] and [Observatory] buildings for 15 turns upon conquering a city",
+        "uniqueText": "Cities are razed 2 times as fast\nAll units gain +5/4/3% Strength for first 1/2/3 cities conquered, then additional 2% for each conquered city thereafter\nGain +2 [Happiness], [Science] and [Culture] in capital per conquered city\nGain 40% [Production] towards [Monument], [Amphitheater], [Opera House], [Library], [University] and [Observatory] buildings for 15 turns upon conquering a city",
         "uniques": [
 			"Cities are razed [2] times as fast",
             "Instantly gain [1] [Skull Pyramids] <upon conquering a city>",
@@ -3885,12 +3879,12 @@
 			"[+3]% Strength <when number of [Skull Pyramids] is more than [0]>",
 			"[+2]% Strength <when number of [Skull Pyramids] is more than [1]>",
 			"[+1]% Strength <when number of [Skull Pyramids] is more than [2]>",
-            "[+50]% Production when constructing [Monument] buildings [in all cities] <for [15] turns> <upon conquering a city>",
-			"[+50]% Production when constructing [Amphitheater] buildings [in all cities] <for [15] turns> <upon conquering a city>",
-			"[+50]% Production when constructing [Opera House] buildings [in all cities] <for [15] turns> <upon conquering a city>",
-			"[+50]% Production when constructing [Library] buildings [in all cities] <for [15] turns> <upon conquering a city>",
-			"[+50]% Production when constructing [University] buildings [in all cities] <for [15] turns> <upon conquering a city>",
-			"[+50]% Production when constructing [Observatory] buildings [in all cities] <for [15] turns> <upon conquering a city>"
+            "[+40]% Production when constructing [Monument] buildings [in all cities] <for [15] turns> <upon conquering a city>",
+			"[+40]% Production when constructing [Amphitheater] buildings [in all cities] <for [15] turns> <upon conquering a city>",
+			"[+40]% Production when constructing [Opera House] buildings [in all cities] <for [15] turns> <upon conquering a city>",
+			"[+40]% Production when constructing [Library] buildings [in all cities] <for [15] turns> <upon conquering a city>",
+			"[+40]% Production when constructing [University] buildings [in all cities] <for [15] turns> <upon conquering a city>",
+			"[+40]% Production when constructing [Observatory] buildings [in all cities] <for [15] turns> <upon conquering a city>"
         ],
         "cities": [
             "Samarkand","Herat","Balkh","Bukhara","Kabul","Nishapur","Urgench","Merv","Ghazni","Kandahar","Tashkent","Tabriz","Tiflis","Isfahan","Tehran","Kashgar","Peshawar","Multan","Lahore","Mosul","Hanadan","Ray","Kirman","Zarani","Shirazv","Baghdad","Basra","Ashgabat","Bishkek","Dushanbe"
