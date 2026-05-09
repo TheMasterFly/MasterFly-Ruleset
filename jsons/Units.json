@@ -2319,11 +2319,11 @@
         "uniqueTo": "Papal States",
         "unitType": "Mounted",
         "movement": 4,
-        "cost": 40,
 		"strength": 8,
         "uniques": [
             "Can Spread Religion <for [4] movement> <[2] times> <after which this unit is consumed>",
             "Can be purchased with [Faith] [in all cities in which the majority religion is a major religion]",
+			"May enter foreign tiles without open borders, but loses [150] religious strength each turn it ends there",
             "Unbuildable",
             "Religious Unit",
             "Only available <when religion is enabled>",
@@ -2334,9 +2334,9 @@
 			"Cannot attack <hidden from users>",
 			"Unable to pillage tiles <hidden from users>",
 			"Unable to capture cities <hidden from users>",
-			"Comment [Cannot capture cities, pillage tiles or attack units\nDoes not lose religious strength, but has reduced strength (750 vs 1000)\nGains Military Strength upon researching [Chivalry], [Military Science] and [Combustion]]"
+			"Comment [Cannot capture cities, pillage tiles or attack units\nGains Military Strength upon researching [Chivalry], [Military Science] and [Combustion]\nHas reduced religious strength (900 vs 1000)]"
         ],
-        "religiousStrength": 750
+        "religiousStrength": 900
     },
     {
         "name": "Inquisitor",
