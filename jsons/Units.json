@@ -2329,7 +2329,7 @@
         "religiousStrength": 1000
     },
     {
-        "name": "Templar Missionary",
+        "name": "Hospitaller Missionary",
         "replaces": "Missionary",
         "uniqueTo": "Papal States",
         "unitType": "Mounted",
