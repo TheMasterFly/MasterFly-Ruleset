@@ -390,6 +390,12 @@
         "uniques": ["[+15]% growth [in this city] <when not at war>",
             "[+4 Food] [in this city] <when not at war>"]
     },
+    {
+        "name": "Militant Faithful",
+        "type": "Follower",
+        "uniques": ["May buy [Templar Knight] units with [Faith] [in cities following this religion] <starting from the [Medieval era]>",
+            "May buy [Landsknecht] units with [Faith] [in cities following this religion] <starting from the [Medieval era]>"]
+    },
 
 
 
