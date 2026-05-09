@@ -1037,29 +1037,6 @@
         "attackSound": "horse"
     },
     {
-        "name": "Templar Knight",
-        "replaces": "Knight",
-        "uniqueTo": "Papal States",
-        "unitType": "Mounted",
-        "movement": 3,
-        "strength": 22,
-        "cost": 120,
-        "requiredTech": "Chivalry",
-        "obsoleteTech": "Military Science",
-        "upgradesTo": "Cavalry",
-        "requiredResource": "Horses",
-        "uniques": [
-            "Can remove other religions from cities <in [Friendly] tiles> <for [3] movement> <once>",
-            "Can Spread Religion <for [3] movement> <[1] times>",
-            "[+13]% Strength <when fighting in [Enemy Land] tiles>",
-            "Can move after attacking",
-            "[-33]% Strength <vs cities> <when attacking>",
-            "No defensive terrain bonus",
-            "Never appears as a Barbarian unit"
-        ],
-        "attackSound": "horse"
-    },
-    {
         "name": "Crossbowman",
         "unitType": "Archery",
         "movement": 2,
@@ -2335,6 +2312,31 @@
         ],
         "movement": 4,
         "religiousStrength": 1000
+    },
+    {
+        "name": "Templar Missionary",
+        "replaces": "Missionary",
+        "uniqueTo": "Papal States",
+        "unitType": "Mounted",
+        "movement": 4,
+        "cost": 40,
+		"strength": 8,
+        "uniques": [
+            "Can Spread Religion <for [4] movement> <[2] times> <after which this unit is consumed>",
+            "Can be purchased with [Faith] [in all cities in which the majority religion is a major religion]",
+            "Unbuildable",
+            "Religious Unit",
+            "Only available <when religion is enabled>",
+            "[-100]% Spread Religion Strength <in [Lithuania] tiles> <hidden from users>",
+			"[+5] Strength <after discovering [Chivalry]> <hidden from users>",
+			"[+10] Strength <after discovering [Military Science]> <hidden from users>",
+			"[+12] Strength <after discovering [Combustion]> <hidden from users>",
+			"Cannot attack <hidden from users>",
+			"Unable to pillage tiles <hidden from users>",
+			"Unable to capture cities <hidden from users>",
+			"Comment [Cannot capture cities, pillage tiles or attack units\nDoes not lose religious strength, but has reduced strength (750 vs 1000)\nGains Military Strength upon researching [Chivalry], [Military Science] and [Combustion]]"
+        ],
+        "religiousStrength": 750
     },
     {
         "name": "Inquisitor",
