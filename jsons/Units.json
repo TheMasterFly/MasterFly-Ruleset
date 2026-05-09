@@ -770,16 +770,16 @@
         "name": "Landsknecht",
         "unitType": "Sword",
         "movement": 2,
-        "strength": 15,
-        "cost": 60,
-        "requiredTech": "Currency",
-        "uniques": ["Unavailable <before adopting [Commerce]>",
-            "Can move immediately once bought",
-			"[+25]% Strength <vs [Mounted] units>",
-			"[+33]% Strength <vs [Ranged Mounted] units>"],
-        "upgradesTo": "Musketman",
-        "obsoleteTech": "Rifling",
-        "attackSound": "metalhit"
+        "strength": 16,
+        "cost": 75,
+        "uniques": ["Unbuildable"],
+        "upgradesTo": "Lancer",
+        "obsoleteTech": "Replaceable Parts",
+        "attackSound": "metalhit",
+		"promotions": [
+            "Spear Unit ability",
+			"Mercenary"
+        ]
     },
     {
         "name": "Galleass",
@@ -1043,11 +1043,13 @@
         "strength": 20,
         "cost": 100,
         "requiredTech": "Chivalry",
-        "uniques": ["Unbuildable",
-            "Can move immediately once bought"],
+        "uniques": ["Unbuildable"],
         "upgradesTo": "Cavalry",
         "obsoleteTech": "Combustion",
-        "attackSound": "metalhit"
+        "attackSound": "metalhit",
+		"promotions": [
+			"Mercenary"
+        ]
     },
     {
         "name": "Crossbowman",
