@@ -352,7 +352,7 @@
     {
         "name": "Monasteries",
         "type": "Follower",
-        "uniques": ["May buy [Monastery] buildings for [150] [Faith] [in cities following this religion]"]
+        "uniques": ["May buy [Monastery] buildings with [Faith] [in cities following this religion]"]
     },
     {
         "name": "Mosques",
@@ -389,11 +389,6 @@
         "type": "Follower",
         "uniques": ["[+15]% growth [in this city] <when not at war>",
             "[+4 Food] [in this city] <when not at war>"]
-    },
-    {
-        "name": "Stupas",
-        "type": "Follower",
-        "uniques": ["May buy [Stupa] buildings with [Faith] [in cities following this religion]"]
     },
 
 
@@ -624,7 +619,6 @@
             "[+2 Gold, +2 Culture, +2 Faith] from every [Monastery]",
             "[+2 Gold, +2 Culture, +2 Faith] from every [Mosque]",
             "[+2 Gold, +2 Culture, +2 Faith] from every [Pagoda]",
-            "[+2 Gold, +2 Culture, +2 Faith] from every [Stupa]",
             "Only available <after adopting [Reformation]>"
         ]
     },
