@@ -274,13 +274,11 @@
                 "name": "Mandate Of Heaven",
                 "uniques": [
                     "[Faith] cost of purchasing items in cities [-15]%",
-					"[+1 Happiness] from every [Temple]",
 					"Comment [+1 [Culture] from all buildings purchased with [Faith]]",
 					"[+1 Culture] from every [Monastery] <hidden from users>",
 					"[+1 Culture] from every [Cathedral] <hidden from users>",
 					"[+1 Culture] from every [Mosque] <hidden from users>",
-					"[+1 Culture] from every [Pagoda] <hidden from users>",
-					"[+1 Culture] from every [Stupa] <hidden from users>"
+					"[+1 Culture] from every [Pagoda] <hidden from users>"
                 ],
                 "row": 1,
                 "column": 1
@@ -288,9 +286,9 @@
             {
                 "name": "Theocracy",
                 "uniques": [
-					"[+1 Gold] from every [Shrine]",
-					"[+2 Gold] from every [Temple]",
-					"[+33]% [Gold] from every [Grand Temple]"
+					"[+1 Happiness] from every [Shrine]",
+					"[+1 Happiness] from every [Temple]",
+					"[+25]% [Gold] from every [Grand Temple]"
                 ],
                 "row": 1,
                 "column": 5
