@@ -33,7 +33,7 @@
         "movement": 2,
         "cost": 40,
 		"strength": 3,
-        "uniques": [
+        "uniques": ["Comment [Gains Strength per era, ending at the Modern era]",
             "Founds a new city <by consuming this unit>",
             "All tiles cost 1 movement <if [Palace] is not constructed>",
             "[2] Movement <if [Palace] is not constructed>",
