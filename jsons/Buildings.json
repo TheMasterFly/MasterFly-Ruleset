@@ -1049,6 +1049,23 @@
         "requiredTech": "Metal Casting"
     },
     {
+        "name": "Paper Maker",
+		"replaces": "Workshop",
+		"uniqueTo": "Song",
+        "maintenance": 3,
+        "production": 2,
+		"science": 2,
+        "specialistSlots": {
+            "Engineer": 1
+        },
+        "hurryCostModifier": 25,
+        "percentStatBonus": {
+            "production": 10,
+			"science": 10
+        },
+        "requiredTech": "Metal Casting"
+    },
+    {
         "name": "Forge",
         "maintenance": 1,
         "hurryCostModifier": 25,
@@ -1319,23 +1336,6 @@
         "hurryCostModifier": 15,
         "percentStatBonus": {
             "gold": 25
-        },
-        "requiredBuilding": "Market",
-        "requiredTech": "Banking"
-    },
-    {
-		"name": "Paper Maker",
-		"replaces": "Bank",
-		"uniqueTo": "Song",
-        "gold": 2,
-		"science": 2,
-        "specialistSlots": {
-            "Merchant": 1
-        },
-        "hurryCostModifier": 15,
-        "percentStatBonus": {
-            "gold": 25,
-			"science": 10
         },
         "requiredBuilding": "Market",
         "requiredTech": "Banking"
