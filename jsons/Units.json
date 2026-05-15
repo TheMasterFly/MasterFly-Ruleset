@@ -1012,9 +1012,11 @@
         "obsoleteTech": "Military Science",
         "uniques": [
             "Can move after attacking",
-            "No defensive terrain bonus"
+            "No defensive terrain bonus",
+			"[-33]% Strength <vs cities> <when attacking>"
         ],
-        "attackSound": "horse"
+        "attackSound": "horse",
+		"promotions": ["[Mandekalu Cavalry] ability"]
     },
     {
         "name": "Lamellar Lancer",
