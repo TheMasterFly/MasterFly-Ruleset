@@ -2384,7 +2384,7 @@
             "Receive [+200]% Gold from Barbarian encampments and pillaging Cities",
             "[+100]% Strength <when defending> <for [Embarked] units>",
             "[Land] units gain the [Songhai ability] promotion <hidden from users>",
-			"Comment [Land units lose combat penalty when attacking over water and river tiles\nLand units ignore terrain movement penalties when on [River] tiles]"
+			"Comment [Land units lose combat penalty when attacking over water and river tiles\nLand units gain double movement when on [River] tiles]"
         ],
         "cities": [
             "Gao",
