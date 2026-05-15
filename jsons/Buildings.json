@@ -1327,17 +1327,16 @@
 		"name": "Paper Maker",
 		"replaces": "Bank",
 		"uniqueTo": "Song",
-        "gold": 3,
+        "gold": 2,
+		"science": 2,
         "specialistSlots": {
-            "Merchant": 2,
-            "Engineer": 1,
-			"Scientist": 1
+            "Merchant": 1
         },
         "hurryCostModifier": 15,
         "percentStatBonus": {
-            "gold": 25
+            "gold": 25,
+			"science": 10
         },
-        "uniques": ["Comment [+1 Merchant, +1 Engineer, +1 Scientist specialist slot]"],
         "requiredBuilding": "Market",
         "requiredTech": "Banking"
     },
