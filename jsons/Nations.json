@@ -2383,7 +2383,7 @@
         "uniques": [
             "Receive [+200]% Gold from Barbarian encampments and pillaging Cities",
             "[+100]% Strength <when defending> <for [Embarked] units>",
-            "[{Military} {Land}] units gain the [Amphibious] promotion"
+            "[Land] units gain the [Songhai ability] promotion"
         ],
         "cities": [
             "Gao",
