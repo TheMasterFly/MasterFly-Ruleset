@@ -1734,9 +1734,6 @@
             "Double movement in [{River} {Forest}]",
             "Double movement in [{River} {Jungle}]",
             "Double movement in [{River} {Hill}]"
-        ],
-        "unitTypes": [
-            "Land"
         ]
     },
     {
