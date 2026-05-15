@@ -1734,7 +1734,9 @@
         "uniques": [
             "Eliminates combat penalty for attacking over a river",
             "Eliminates combat penalty for attacking across a coast",
-            "Ignores terrain cost <in [River] tiles>"
+            "Double movement in [{River} {Forest}]",
+            "Double movement in [{River} {Jungle}]",
+            "Double movement in [{River} {Hill}]"
         ],
         "unitTypes": [
             "Land"
