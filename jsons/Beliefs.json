@@ -402,18 +402,18 @@
     {
         "name": "Ceremonial Burial",
         "type": "Founder",
-        "uniques": ["[+1 Happiness, +1 Faith, +1 Gold] for each global city following this religion"]
+        "uniques": ["[+1 Happiness, +1 Gold] for each global city following this religion"]
     },
     {
         "name": "Church Property",
         "type": "Founder",
-        "uniques": ["[+5 Gold] for each global city following this religion"]
+        "uniques": ["[+1 Culture, +1 Faith] for each global city following this religion"]
     },
     {
         "name": "Initiation Rites",
         "type": "Founder",
         "uniques": ["[+150 Gold] when a city adopts this religion for the first time <(modified by game speed)>",
-            "Instantly gain [200] [Gold] <upon entering a new era>"]
+            "Instantly gain [150] [Gold] <upon entering a new era>"]
     },
     {
         "name": "Interfaith Dialogue",
@@ -427,14 +427,14 @@
             "Resting point for Influence with City-States following this religion [+5] <starting from the [Classical era]> <hidden from users>",
             "Resting point for Influence with City-States following this religion [+5] <starting from the [Medieval era]> <hidden from users>",
             "Resting point for Influence with City-States following this religion [+5] <starting from the [Renaissance era]> <hidden from users>",
-            "Resting point for Influence with City-States following this religion [+10] <starting from the [Industrial era]> <hidden from users>",
-            "Resting point for Influence with City-States following this religion [+10] <starting from the [Modern era]> <hidden from users>",
-            "Resting point for Influence with City-States following this religion [+10] <starting from the [Atomic era]> <hidden from users>",
-            "Resting point for Influence with City-States following this religion [+10] <starting from the [Information era]> <hidden from users>",
-            "Resting point for Influence with City-States following this religion [+120] <starting from the [Future era]> <hidden from users>",
+            "Resting point for Influence with City-States following this religion [+5] <starting from the [Industrial era]> <hidden from users>",
+            "Resting point for Influence with City-States following this religion [+5] <starting from the [Modern era]> <hidden from users>",
+            "Resting point for Influence with City-States following this religion [+5] <starting from the [Atomic era]> <hidden from users>",
+            "Resting point for Influence with City-States following this religion [+5] <starting from the [Information era]> <hidden from users>",
+            "Resting point for Influence with City-States following this religion [+5] <starting from the [Future era]> <hidden from users>",
             "[-100]% weight to this choice for AI decisions <when number of [Remaining [City-State] Civilizations] is less than [4]>",
             "[-50]% weight to this choice for AI decisions <when number of [Remaining [City-State] Civilizations] is less than [6]>",
-            "Comment [Resting point for Influence with City-States following this religion increases by 5 per era before the Industrial era and by 10 per era including and after the Industrial era]"]
+            "Comment [Resting point for Influence with City-States following this religion increases by 5 per era]"]
     },
     {
         "name": "Peace Loving",
@@ -491,12 +491,10 @@
         "name": "Garden of Eden",
         "type": "Enhancer",
         "uniques": [
-            "Gain a free [Garden] [in capital]",
-            "Gain a free [Water Mill] [in capital]",
             "[+1 Faith] [in capital] <for every [[Garden] Buildings]>",
             "[+1 Food] [in capital] <for every [[Water Mill] Buildings]>",
-            "May buy [Garden] buildings for [100] [Faith] [in cities following this religion]",
-            "May buy [Water Mill] buildings for [150] [Faith] [in cities following this religion]"
+            "May buy [Garden] buildings for [150] [Faith] [in cities following this religion]",
+            "May buy [Water Mill] buildings for [200] [Faith] [in cities following this religion]"
         ]
     },
     {
