@@ -1739,5 +1739,13 @@
         "unitTypes": [
             "Land"
         ]
+    },
+    {
+        "name": "[Mandekalu Cavalry] ability",
+        "uniques": [
+            "[+33]% Strength <vs cities> <when attacking>"
+        ],
+        "outerColor": [214, 145, 19],
+        "innerColor": [90, 0, 10]
     }
 ]
