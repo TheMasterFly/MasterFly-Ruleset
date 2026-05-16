@@ -49,7 +49,8 @@
             "[+1 Culture, +1 Faith, +1 Gold] from each Trade Route <starting from the [Industrial era]> <hidden from users>",
             "[+1 Culture, +1 Faith, +1 Gold] from each Trade Route <starting from the [Modern era]> <hidden from users>",
             "[+1 Culture, +1 Faith, +1 Gold] from each Trade Route <starting from the [Atomic era]> <hidden from users>",
-            "[+1 Culture, +1 Faith, +1 Gold] from each Trade Route <starting from the [Information era]> <hidden from users>"
+            "[+1 Culture, +1 Faith, +1 Gold] from each Trade Route <starting from the [Information era]> <hidden from users>",
+			"Enemy [Land] units must spend [1] extra movement points when inside your territory <in [Farm] tiles> <Suppress warning [*contains a conditional on a unit movement unique*]>"
         ],
         "spyNames": [
             "el-Krim",
