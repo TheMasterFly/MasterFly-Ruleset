@@ -32,6 +32,7 @@
 			"Will not be displayed in Civilopedia",
 			"Unbuildable",
 			"Cannot be purchased",
+			"Enemy [Land] units must spend [1] extra movement points when inside your territory <in [Farm] tiles> <Suppress warning [*contains a conditional on a unit movement unique*]>",
 			"Unsellable",
 			"Destroyed when the city is captured"]
 	},
