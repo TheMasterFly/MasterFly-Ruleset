@@ -619,7 +619,9 @@
         "uniques": [
             "[+2] Movement <for [Water] units>",
             "[+2] Movement <for [Embarked] units>",
+			"[+2 Gold] [in all coastal cities]",
             "Gain an extra spy <upon entering the [Renaissance era]> <when espionage is enabled>",
+			"Gain an extra spy <upon entering the [Modern era]> <when espionage is enabled>",
             "[+50]% Production when constructing [Courthouse] buildings [in all cities] <when espionage is disabled>"
         ],
         "cities": [
@@ -2914,9 +2916,8 @@
         "favoredReligion": "Christianity",
         "uniqueName": "Dutch East India Company",
         "uniques": [
-            "Retain [50]% of the happiness from a luxury after the last copy has been traded away",
-            "[50]% of excess happiness converted to [Gold]",
-            "[+1 Gold, +1 Happiness] [in all coastal cities]"
+            "Retain [100]% of the happiness from a luxury after the last copy has been traded away",
+            "[50]% of excess happiness converted to [Gold]"
         ],
         "cities": [
             "Amsterdam",
