@@ -1624,7 +1624,7 @@
         "outerColor": [255,205,0],
         "innerColor": [203,6,6],
         "uniqueName": "Traders of the Swahili Coast",
-		"uniqueText": "All coastal cities gain city connections automatically upon entering the Medieval Era\n+1 [Culture] from Luxury, +1 [Science] from Strategic and +1 [Culture] from [Fishing Boats] and [Atoll], [Kelp Forest] and [Hydrothermal Vents] tiles adjacent to/on a [City center] tile",
+		"uniqueText": "All coastal cities gain city connections automatically upon entering the Medieval Era\n+1 [Culture] from Luxury, +1 [Science] from Strategic and +1 [Culture] from water resource/[Fishing Boats] tiles adjacent to/on a [City center] tile",
         "uniques": ["Gain a free [Kilwan Ability] [in all cities] <hidden from users>"],
         "cities": [
             "Kilwa Kiswani","Zanzibar","Mombasa","Malindi","Sofala","Pemba","Mozambique","Mogadishu","Lamu","Mahajanga",
