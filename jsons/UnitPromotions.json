@@ -1476,7 +1476,9 @@
         "name": "[Conquistador] ability",
         "uniques": [
             "[+100]% Strength <when defending> <when [Embarked]>"
-        ]
+        ],
+		"outerColor": [84, 26, 26],
+        "innerColor": [255, 168, 168]
     },
     {
         "name": "[Janissary] ability",
