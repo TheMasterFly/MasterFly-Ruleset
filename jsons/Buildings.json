@@ -408,20 +408,6 @@
         "requiredTech": "Mathematics"
     },
     {
-        "name": "Encomienda",
-        "replaces": "Courthouse",
-        "uniqueTo": "Spain",
-        "gold": 1,
-        "hurryCostModifier": 25,
-        "uniques": [
-            "Removes extra unhappiness from annexed cities",
-            "[+1 Gold] from every [resource] <on foreign continents>",
-            "[+25]% [Gold] <on foreign continents>",
-			"Destroyed when the city is captured"
-        ],
-        "requiredTech": "Mathematics"
-    },
-    {
         "name": "Hanging Gardens",
         "greatPersonPoints": {
             "Great Artist": 1
