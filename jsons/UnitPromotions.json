@@ -1721,5 +1721,14 @@
         ],
         "outerColor": [214, 145, 19],
         "innerColor": [90, 0, 10]
+    },
+    {
+        "name": "[Tercio] ability",
+        "uniques": [
+            "[1] Movement point cost to disembark",
+			"[1] Movement point cost to embark"
+        ],
+        "outerColor": [84, 26, 26],
+        "innerColor": [255, 168, 168]
     }
 ]
