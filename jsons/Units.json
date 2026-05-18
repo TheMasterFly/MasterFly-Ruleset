@@ -928,7 +928,7 @@
         "upgradesTo": "Cavalry",
         "requiredResource": "Horses",
         "uniques": [
-            "Comment [Adjacent enemy units with Defender Of The Faith/Just War lose their combat buff]",
+            "Comment [Ignores enemy unit combat buffs from Just War and Defender Of The Faith]",
             "Can move after attacking",
             "[-33]% Strength <vs cities> <when attacking>",
             "Never appears as a Barbarian unit"
