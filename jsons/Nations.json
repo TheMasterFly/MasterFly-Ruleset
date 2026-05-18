@@ -619,9 +619,9 @@
         "uniques": [
             "[+2] Movement <for [Water] units>",
             "[+2] Movement <for [Embarked] units>",
+			"[+100]% Strength <when defending> <for [Embarked] units>",
 			"[+2 Gold] [in all coastal cities]",
             "Gain an extra spy <upon entering the [Renaissance era]> <when espionage is enabled>",
-			"Gain an extra spy <upon entering the [Modern era]> <when espionage is enabled>",
             "[+50]% Production when constructing [Courthouse] buildings [in all cities] <when espionage is disabled>"
         ],
         "cities": [
@@ -2382,7 +2382,6 @@
         "uniqueName": "River Warlord",
         "uniques": [
             "Receive [+200]% Gold from Barbarian encampments and pillaging Cities",
-            "[+100]% Strength <when defending> <for [Embarked] units>",
             "[Land] units gain the [Songhai ability] promotion <hidden from users>",
 			"Comment [Land units lose combat penalty when attacking over water and river tiles\nLand units gain double movement when on river tiles, excepting movement penalties for crossing rivers]"
         ],
