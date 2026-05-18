@@ -367,7 +367,7 @@
     {
         "name": "Peace Gardens",
         "type": "Follower",
-        "uniques": ["[+2 Food, +2 Culture, +2 Happiness] from every [Garden]"]
+        "uniques": ["[+2 Culture, +2 Happiness] from every [Garden]"]
     },
     {
         "name": "Religion of the Nation",
@@ -382,7 +382,7 @@
     {
         "name": "Religious Community",
         "type": "Follower",
-        "uniques": ["[+2]% [Production] from every follower, up to [30]%"]
+        "uniques": ["[+2]% [Production] from every follower, up to [20]%"]
     },
     {
         "name": "Swords into Ploughshares",
@@ -490,7 +490,7 @@
     {
         "name": "Garden of Eden",
         "type": "Enhancer",
-        "uniques": [
+        "uniques": ["Comment [Allows the building of [Garden] and [Water Mill] buildings without being next to Fresh Water]",
             "[+1 Faith] [in capital] <for every [[Garden] Buildings]>",
             "[+1 Food] [in capital] <for every [[Water Mill] Buildings]>",
             "May buy [Garden] buildings for [150] [Faith] [in cities following this religion]",
