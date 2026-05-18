@@ -206,7 +206,7 @@
         "production": 1,
         "hurryCostModifier": 25,
         "uniques": [
-            "Must be on [River]"
+            "Must be on [River] <before adopting [Garden of Eden]>"
         ],
         "requiredTech": "The Wheel"
     },
@@ -218,7 +218,7 @@
         "production": 1,
         "uniques": [
             "[+2 Food] from [Lakes] tiles [in this city]",
-            "Must be next to [Fresh water]"
+            "Must be next to [Fresh water] <before adopting [Garden of Eden]>"
         ],
         "hurryCostModifier": 25,
         "maintenance": 1,
@@ -786,7 +786,7 @@
         "name": "Garden",
         "uniques": [
             "[+25]% Great Person generation [in this city]",
-            "Must be next to [Fresh water]"
+            "Must be next to [Fresh water] <before adopting [Garden of Eden]>"
         ],
         "hurryCostModifier": 25,
         "maintenance": 1,
@@ -801,7 +801,7 @@
             "[+25]% Great Person generation [in this city]",
             "[+1 Faith] from [Oasis] tiles [in this city]",
             "[+1 Food] from [{Desert} {Fresh water}] tiles without [Flood plains] [in this city] <starting from the [Medieval era]>",
-            "Must be next to [Fresh water]"
+            "Must be next to [Fresh water] <before adopting [Garden of Eden]>"
         ],
         "hurryCostModifier": 25,
         "maintenance": 2,
