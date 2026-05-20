@@ -2333,7 +2333,7 @@
         "name": "Missionary",
         "unitType": "Civilian",
         "uniques": [
-            "Can Spread Religion <for [4] movement> <[2] times> <after which this unit is consumed>",
+            "Can Spread Religion <for [4] movement> <[2] times> <after which this unit is consumed> <in [non-[Lithuania]] tiles> <hidden from users>",
             "May enter foreign tiles without open borders, but loses [250] religious strength each turn it ends there",
             "Can be purchased with [Faith] [in all cities in which the majority religion is a major religion]",
             "[-1] Sight",
