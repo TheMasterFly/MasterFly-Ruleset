@@ -2273,7 +2273,7 @@
         "uniqueTo": "Lithuania",
         "unitType": "Civilian",
         "uniques": [
-            "Can instantly construct a [Sacred Grove] improvement <by consuming this unit> <if it hasn't used other actions yet>",
+            "Can instantly construct a [Holy site] improvement <by consuming this unit> <if it hasn't used other actions yet>",
             "Great Person - [Faith]",
             "Uncapturable",
             "Unbuildable",
@@ -2333,14 +2333,13 @@
         "name": "Missionary",
         "unitType": "Civilian",
         "uniques": [
-            "Can Spread Religion <for [4] movement> <[2] times> <after which this unit is consumed> <in [non-[Lithuania]] tiles> <hidden from users>",
+            "Can Spread Religion <for [4] movement> <[2] times> <after which this unit is consumed> <in [non-[Lithuania]] tiles>",
             "May enter foreign tiles without open borders, but loses [250] religious strength each turn it ends there",
             "Can be purchased with [Faith] [in all cities in which the majority religion is a major religion]",
             "[-1] Sight",
             "Unbuildable",
             "Religious Unit",
-            "Only available <when religion is enabled>",
-            "[-100]% Spread Religion Strength <in [Lithuania] tiles> <hidden from users>"
+            "Only available <when religion is enabled>"
         ],
         "movement": 4,
         "religiousStrength": 1000
@@ -2353,13 +2352,12 @@
         "movement": 4,
 		"strength": 8,
         "uniques": [
-            "Can Spread Religion <for [4] movement> <[2] times> <after which this unit is consumed>",
+            "Can Spread Religion <for [4] movement> <[2] times> <after which this unit is consumed> <in [non-[Lithuania]] tiles>",
             "Can be purchased with [Faith] [in all cities in which the majority religion is a major religion]",
 			"May enter foreign tiles without open borders, but loses [150] religious strength each turn it ends there",
             "Unbuildable",
             "Religious Unit",
             "Only available <when religion is enabled>",
-            "[-100]% Spread Religion Strength <in [Lithuania] tiles> <hidden from users>",
 			"[+5] Strength <after discovering [Chivalry]> <hidden from users>",
 			"[+10] Strength <after discovering [Military Science]> <hidden from users>",
 			"[+12] Strength <after discovering [Combustion]> <hidden from users>",
