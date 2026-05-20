@@ -105,7 +105,7 @@
         "requiredTech": "Pottery",
         "uniques": [
             "Only available <when religion is enabled>",
-			"[+100]% weight to this choice for AI decisions <for [Lithuania] Civilizations>"
+			"[+200]% weight to this choice for AI decisions <for [Lithuania] Civilizations>"
         ]
     },
     {
@@ -161,7 +161,8 @@
             "Great Engineer": 1
         },
         "uniques": [
-            "Gain a free [Pantheon] belief"
+            "Gain a free [Pantheon] belief",
+			"[+200]% weight to this choice for AI decisions <for [Lithuania] Civilizations>"
         ],
         "requiredTech": "Calendar",
         "quote": "'Time crumbles things; everything grows old and is forgotten under the power of time' - Aristotle"
