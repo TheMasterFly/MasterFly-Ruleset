@@ -1249,9 +1249,9 @@
             69
         ],
         "uniqueName": "The Last Pagan Kindgom",
-        "uniqueText": "All Pantheon bonuses are doubled\nReligion spread is heavily reduced in your cities\nMay buy [Krivis] units for 1000 [Faith] [in all cities] at an increasing price of 750 [Faith] starting from the Medieval era",
+        "uniqueText": "All Pantheon bonuses are doubled\nNatural religion spread is heavily reduced in your cities\nMay buy [Krivis] units for 1000 [Faith] [in all cities] at an increasing price of 750 [Faith] starting from the Medieval era",
         "uniques": [
-            "[-400]% Natural religion spread [in all cities] <hidden from users>",
+            "[-300]% Natural religion spread [in all cities] <hidden from users>",
             "May buy [Krivis] units for [1000] [Faith] [in all cities] at an increasing price ([750]) <starting from the [Medieval era]> <hidden from users>"
         ],
         "cities": [
