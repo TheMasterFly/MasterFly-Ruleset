@@ -1169,14 +1169,11 @@
 	    "outerColor": [200, 175, 0],
 	    "innerColor": [90, 60, 0],
 	    "uniqueName": "Steppe and Plow",
-	    "uniqueText": "+1 [Production] and -25% building time for [Pasture], [Camp] and [Farm] tile improvements",
+	    "uniqueText": "+1 [Production] for [Pasture], [Camp] and [Farm] tile improvements",
 	    "uniques": [
 	        "[+1 Production] from [Pasture] tiles [in all cities]",
 			"[+1 Production] from [Camp] tiles [in all cities]",
-			"[+1 Production] from [Farm] tiles [in all cities]",
-			"Can build [Pasture] improvements at a [+25]% rate",
-			"Can build [Camp] improvements at a [+25]% rate",
-			"Can build [Farm] improvements at a [+25]% rate"],
+			"[+1 Production] from [Farm] tiles [in all cities]"],
 	    "spyNames": [
 	        "Yelü Bei",
 	        "Yelü Dashi",
