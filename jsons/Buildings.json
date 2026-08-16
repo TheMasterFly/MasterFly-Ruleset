@@ -17,6 +17,18 @@
             "Provides [1] [Aluminum] <after discovering [Electricity]>"
         ]
     },
+    {
+        "name": "Dragon Blood Resin",
+        "cost": 0,
+        "uniques": [
+            "Provides [1] [Dragon's Blood Resin]",
+            "Cannot be purchased",
+            "Unbuildable",
+            "Unsellable",
+            "Will not be displayed in Civilopedia",
+			"Destroyed when the city is captured"
+        ],
+    },
 	{
 		"name": "Kilwan Ability",
 		"uniqueTo": "Kilwa",
