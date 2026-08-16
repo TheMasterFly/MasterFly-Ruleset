@@ -21,4 +21,4 @@ Oil-Provider City States (Gold secondary yield)
 
 8) All unique units have their obsolete tech delayed, so you can train them and gain things like promotions for longer.
 
-Credits in both code and inspiration to Rekmod, Reforestation & Mythical Wonders
+Credits in both code and inspiration to Rekmod, The Great Unciv Rework, Reforestation & Mythical Wonders.
