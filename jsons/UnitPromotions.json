@@ -1596,7 +1596,7 @@
     {
         "name": "Of The Land",
         "uniques": [
-            "[+15]% Strength <when fighting in [Forest] tiles>",
+            "[+10]% Strength <when fighting in [Forest] tiles>",
             "Double movement in [Forest]"
         ],
         "outerColor": [54, 54, 72],
