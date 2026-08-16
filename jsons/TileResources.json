@@ -618,6 +618,16 @@
 		"improvementStats": { "gold": 1 }
 	},
 
+	
+	{
+		"name": "Dragon's Blood Resin",
+		"gold": 2,
+		"resourceType": "Luxury",
+		"uniques": [
+			"Doesn't generate naturally",
+			"Excluded from map editor"
+		]
+	},
 	{
 		"name": "Nutmeg",
 		"gold": 2,
