@@ -21,7 +21,7 @@
         "name": "Dragon Blood Resin",
         "cost": 0,
         "uniques": [
-            "Provides [1] [Dragon's Blood Resin]",
+            "Provides [2] [Dragon's Blood Resin]",
             "Cannot be purchased",
             "Unbuildable",
             "Unsellable",
@@ -597,13 +597,13 @@
     },
     {
         "name": "Market",
-        "gold": 2,
+        "gold": 3,
         "specialistSlots": {
             "Merchant": 1
         },
         "hurryCostModifier": 25,
         "percentStatBonus": {
-            "gold": 25
+            "gold": 15
         },
         "requiredTech": "Currency"
     },
@@ -611,14 +611,14 @@
         "name": "Agora",
         "replaces": "Market",
         "uniqueTo": "Greece",
-        "gold": 2,
+        "gold": 3,
 		"culture": 2,
         "specialistSlots": {
             "Merchant": 1
         },
         "hurryCostModifier": 25,
         "percentStatBonus": {
-            "gold": 25
+            "gold": 15
         },
 		"uniques": ["New [Melee] units start with [15] XP [in this city]",
 			"Resting point for Influence with City-States is increased by [2]"],
@@ -628,13 +628,13 @@
         "name": "Tang Market",
         "replaces": "Market",
         "uniqueTo": "Tang",
-        "gold": 2,
+        "gold": 3,
         "specialistSlots": {
             "Merchant": 1
         },
         "hurryCostModifier": 25,
         "percentStatBonus": {
-            "gold": 25
+            "gold": 15
         },
         "uniques": [
             "Provides 1 extra copy of each improved luxury resource near this City",
@@ -652,7 +652,7 @@
         },
         "hurryCostModifier": 25,
         "percentStatBonus": {
-            "gold": 25
+            "gold": 15
         },
 		"uniques": ["[+5]% Golden Age length",
 			"[+10]% Golden Age length <in [Capital] cities>"],
@@ -1313,13 +1313,13 @@
     },
     {
         "name": "Bank",
-        "gold": 2,
+        "gold": 3,
         "specialistSlots": {
             "Merchant": 1
         },
         "hurryCostModifier": 15,
         "percentStatBonus": {
-            "gold": 25
+            "gold": 20
         },
         "requiredBuilding": "Market",
         "requiredTech": "Banking"
@@ -1328,14 +1328,14 @@
         "name": "Hanse",
 		"replaces": "Bank",
 		"uniqueTo": "Germany",
-        "gold": 4,
+        "gold": 5,
 		"uniques": ["[+1 Gold, +1 Production] from every specialist [in this city]"],
         "specialistSlots": {
             "Merchant": 1
         },
         "hurryCostModifier": 15,
         "percentStatBonus": {
-            "gold": 25
+            "gold": 20
         },
         "requiredBuilding": "Market",
         "requiredTech": "Banking"
@@ -1647,7 +1647,7 @@
         "name": "Stock Exchange",
         "gold": 3,
         "percentStatBonus": {
-            "gold": 33
+            "gold": 30
         },
         "specialistSlots": {
             "Merchant": 2
@@ -1799,6 +1799,7 @@
             "Scientist": 1
         },
         "requiredBuilding": "Public School",
+        "requiredResource": "Lithium",
         "maintenance": 3,
         "requiredTech": "Plastics"
     },
@@ -1832,6 +1833,20 @@
         ],
         "requiredTech": "Flight",
         "quote": "'What must always be conserved is the spirit of the work, but its life has to depend on the generations it is handed down to and with whom it lives and is incarnated' - Antoni Gaudí"
+    },
+    {
+        "name": "Digital Market",
+        "gold": 5,
+        "percentStatBonus": {
+            "gold": 50
+        },
+        "specialistSlots": {
+            "Merchant": 3
+        },
+        "hurryCostModifier": 15,
+        "requiredBuilding": "Stock Exchange",
+        "requiredResource": "Lithium",
+        "requiredTech": "Electronics"
     },
     {
         "name": "Medical Lab",
@@ -1903,6 +1918,7 @@
         "requiredTech": "Ecology",
         "uniques": [
             "Provides [2] [Aluminum]",
+			"Provides [1] [Lithium]",
             "Limited to [5] per Civilization"
         ]
     },
