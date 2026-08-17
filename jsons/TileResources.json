@@ -98,8 +98,8 @@
 					"Minor deposits generated with weight [100] <in [{Featureless} {Grassland}] tiles> <in [Fresh Water] tiles>",
 					"Minor deposits generated with weight [20] <in [{Featureless} {Grassland}] tiles> <in tiles without [Fresh Water]>",
 					"Minor deposits generated with weight [30] <in [{Featureless} {Plains}] tiles>"],
-		"majorDepositAmount": {"sparse": 4, "default": 4, "abundant": 6},
-		"minorDepositAmount": {"sparse": 1, "default": 2, "abundant": 3}
+		"majorDepositAmount": {"sparse": 4, "default": 5, "abundant": 6},
+		"minorDepositAmount": {"sparse": 2, "default": 3, "abundant": 4}
 	},
 	{
 		"name": "Iron",
@@ -122,8 +122,8 @@
 					"Minor deposits generated with weight [10] <in [{Featureless} {Desert}] tiles>",
 					"Minor deposits generated with weight [10] <in [{Featureless} {Tundra}] tiles>",
 					"Minor deposits generated with weight [10] <in [{Featureless} {Snow}] tiles>"],
-		"majorDepositAmount": {"sparse": 4, "default": 6, "abundant": 9},
-		"minorDepositAmount": {"sparse": 1, "default": 2, "abundant": 3}
+		"majorDepositAmount": {"sparse": 4, "default": 5, "abundant": 6},
+		"minorDepositAmount": {"sparse": 2, "default": 3, "abundant": 4}
 	},
 	{
 		"name": "Coal",
@@ -143,8 +143,8 @@
 					"Minor deposits generated with weight [20] <in [{Plains} {Hill}] tiles>",
 					"Minor deposits generated with weight [35] <in [{Tundra} {Hill}] tiles>",
 					"Minor deposits generated with weight [30] <in [{Snow} {Hill}] tiles>"],
-		"majorDepositAmount": {"sparse": 5, "default": 7, "abundant": 10},
-		"minorDepositAmount": {"sparse": 2, "default": 3, "abundant": 3}
+		"majorDepositAmount": {"sparse": 4, "default": 5, "abundant": 6},
+		"minorDepositAmount": {"sparse": 2, "default": 3, "abundant": 4}
 	},
 	{
 		"name": "Oil",
@@ -166,8 +166,8 @@
 					"Minor deposits generated with weight [30] <in [{Featureless} {Desert}] tiles>",
 					"Minor deposits generated with weight [20] <in [{Featureless} {Tundra}] tiles>",
 					"Minor deposits generated with weight [20] <in [{Featureless} {Snow}] tiles>"],
-		"majorDepositAmount": {"sparse": 5, "default": 7, "abundant": 9},
-		"minorDepositAmount": {"sparse": 2, "default": 3, "abundant": 3}
+		"majorDepositAmount": {"sparse": 4, "default": 5, "abundant": 6},
+		"minorDepositAmount": {"sparse": 2, "default": 3, "abundant": 4}
 	},
 	{
 		"name": "Aluminum",
@@ -182,8 +182,8 @@
 					"Generated with weight [39] <in [Hill] tiles>",
 					"Minor deposits generated with weight [20] <in [Jungle] tiles>",
 					"Minor deposits generated with weight [10] <in [{Featureless} {Desert}] tiles>"],
-		"majorDepositAmount": {"sparse": 5, "default": 8, "abundant": 10},
-		"minorDepositAmount": {"sparse": 2, "default": 3, "abundant": 3}
+		"majorDepositAmount": {"sparse": 4, "default": 5, "abundant": 6},
+		"minorDepositAmount": {"sparse": 2, "default": 3, "abundant": 4}
 	},
 	{
 		"name": "Uranium",
@@ -199,7 +199,7 @@
 					"Minor deposits generated with weight [10] <in [Forest] tiles>",
 					"Minor deposits generated with weight [10] <in [{Featureless} {Tundra}] tiles>",
 					"Minor deposits generated with weight [10] <in [{Featureless} {Snow}] tiles>"],
-		"majorDepositAmount": {"sparse": 2, "default": 4, "abundant": 4},
+		"majorDepositAmount": {"sparse": 2, "default": 3, "abundant": 4},
 		"minorDepositAmount": {"sparse": 1, "default": 2, "abundant": 3}
 	},
 	{
@@ -213,22 +213,6 @@
 		"uniques": ["Generated with weight [35] <in [{Featureless} {Desert}] tiles>",
 					"Generated with weight [20] <in [Hill] tiles>",
 					"Generated with weight [15] <in [Plains] tiles>",
-					"Minor deposits generated with weight [10] <in [{Featureless} {Desert}] tiles>"],
-		"majorDepositAmount": {"sparse": 3, "default": 3, "abundant": 4},
-		"minorDepositAmount": {"sparse": 2, "default": 2, "abundant": 3}
-	},
-	{
-		"name": "Silicon",
-		"resourceType": "Strategic",
-		"revealedBy": "Electronics",
-		"terrainsCanBeFoundOn": ["Desert","Hill","Tundra","Volcanic Plains"],
-		"production": 1,
-		"gold": 2,
-		"improvement": "Mine",
-		"improvementStats": {"production": 1},
-		"uniques": ["Generated with weight [35] <in [{Featureless} {Desert}] tiles>",
-					"Generated with weight [20] <in [Hill] tiles>",
-					"Generated with weight [15] <in [Tundra] tiles>",
 					"Minor deposits generated with weight [10] <in [{Featureless} {Desert}] tiles>"],
 		"majorDepositAmount": {"sparse": 3, "default": 3, "abundant": 4},
 		"minorDepositAmount": {"sparse": 2, "default": 2, "abundant": 3}
