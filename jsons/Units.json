@@ -2078,6 +2078,7 @@
         "rangedStrength": 85,
         "cost": 425,
         "requiredTech": "Telecommunications",
+        "requiredResource": "Uranium",
         "uniques": [
             "[+75]% Strength <when attacking>",
             "Can only attack [Water] tiles",
@@ -2395,7 +2396,6 @@
             "Spaceship part",
             "Cannot be purchased",
             "Only available <if [Apollo Program] is constructed>",
-            "Uncapturable",
             "Can be added to [The Spaceship] in the Capital",
             "Limited to [3] per Civilization"
         ]
@@ -2411,7 +2411,6 @@
             "Spaceship part",
             "Cannot be purchased",
             "Only available <if [Apollo Program] is constructed>",
-            "Uncapturable",
             "Can be added to [The Spaceship] in the Capital",
             "Limited to [1] per Civilization"
         ]
@@ -2427,7 +2426,6 @@
             "Spaceship part",
             "Cannot be purchased",
             "Only available <if [Apollo Program] is constructed>",
-            "Uncapturable",
             "Can be added to [The Spaceship] in the Capital",
             "Limited to [1] per Civilization"
         ]
@@ -2438,12 +2436,11 @@
         "movement": 2,
         "cost": 750,
         "requiredTech": "Nanotechnology",
-        "requiredResource": "Aluminum",
+        "requiredResource": ["Aluminum", "Lithium"],
         "uniques": [
             "Spaceship part",
             "Cannot be purchased",
             "Only available <if [Apollo Program] is constructed>",
-            "Uncapturable",
             "Can be added to [The Spaceship] in the Capital",
             "Limited to [1] per Civilization"
         ]
