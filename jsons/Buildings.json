@@ -14,7 +14,8 @@
             "Provides [1] [Iron] <after discovering [Iron Working]>",
             "Provides [1] [Coal] <after discovering [Industrialization]>",
             "Provides [1] [Oil] <after discovering [Biology]>",
-            "Provides [1] [Aluminum] <after discovering [Electricity]>"
+            "Provides [1] [Aluminum] <after discovering [Electricity]>",
+			"Provides [1] [Lithium] <after discovering [Electronics]>"
         ]
     },
     {
