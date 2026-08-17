@@ -2101,6 +2101,20 @@
         "attackSound": "tankshot"
     },
     {
+        "name": "Drone",
+        "unitType": "Ranged",
+        "range": 1,
+        "movement": 5,
+        "strength": 30,
+        "rangedStrength": 90,
+        "cost": 330,
+        "requiredTech": "Robotics",
+        "upgradesTo": "Mechanized Infantry",
+        "requiredResource": "Aluminum",
+		"uniques": ["Can move after attacking"],
+        "attackSound": "tankshot"
+    },
+    {
         "name": "Missile Cruiser",
         "unitType": "Ranged Water",
         "movement": 7,
