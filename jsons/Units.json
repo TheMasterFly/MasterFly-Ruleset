@@ -2436,8 +2436,8 @@
         "movement": 2,
         "cost": 750,
         "requiredTech": "Nanotechnology",
-        "requiredResource": ["Aluminum", "Lithium"],
-        "uniques": [
+        "requiredResource": "Aluminum",
+        "uniques": ["Consumes [1] [Lithium]",
             "Spaceship part",
             "Cannot be purchased",
             "Only available <if [Apollo Program] is constructed>",
