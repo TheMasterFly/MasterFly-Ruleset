@@ -1650,20 +1650,6 @@
         "innerColor": [128, 3, 28]
     },
     {
-        "name": "[Fire Lance Infantry] ability",
-        "uniques": ["[This Unit] gains the [[Fire Lance Infantry] Second Attack] status for [1] turn(s) <upon entering combat>",
-            "[This Unit] loses the [[Fire Lance Infantry] ability] promotion <upon entering combat>"],
-        "outerColor": [9, 112, 84],
-        "innerColor": [255, 255, 255]
-    },
-    {
-        "name": "[Fire Lance Infantry] Second Attack",
-        "uniques": ["[1] additional attacks per turn",
-            "Unit will heal every turn, even if it performs an action"],
-        "outerColor": [153, 45, 0],
-        "innerColor": [255, 255, 255]
-    },
-    {
         "name": "Faith Healers ability",
         "uniques": [
             "[+10] HP when healing"
