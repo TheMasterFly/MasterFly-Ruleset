@@ -1228,6 +1228,20 @@
         "attackSound": "metalhit"
     },
     {
+        "name": "Fire Infantry",
+        "unitType": "Sword",
+        "replaces": "Warrior",
+        "uniqueTo": "Song",
+        "movement": 2,
+        "strength": 10,
+        "cost": 40,
+        "requiredTech": "Agriculture",
+        "upgradesTo": "Musketman",
+        "obsoleteTech": "Gunpowder",
+        "uniques": ["Before engaging in combat performs an extra ranged attack with [50]% of melee combat strength"],
+        "attackSound": "metalhit"
+    },
+    {
         "name": "Caravel",
         "unitType": "Melee Water",
         "movement": 4,
