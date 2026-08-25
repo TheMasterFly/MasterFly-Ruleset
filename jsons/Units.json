@@ -2078,7 +2078,6 @@
         "rangedStrength": 85,
         "cost": 425,
         "requiredTech": "Telecommunications",
-        "requiredResource": "Uranium",
         "uniques": [
             "[+75]% Strength <when attacking>",
             "Can only attack [Water] tiles",
