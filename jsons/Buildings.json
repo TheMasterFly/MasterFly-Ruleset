@@ -1314,13 +1314,13 @@
     },
     {
         "name": "Bank",
-        "gold": 3,
+        "gold": 2,
         "specialistSlots": {
             "Merchant": 1
         },
-        "hurryCostModifier": 15,
+        "hurryCostModifier": 25,
         "percentStatBonus": {
-            "gold": 20
+            "gold": 25
         },
         "requiredBuilding": "Market",
         "requiredTech": "Banking"
@@ -1329,14 +1329,14 @@
         "name": "Hanse",
 		"replaces": "Bank",
 		"uniqueTo": "Germany",
-        "gold": 5,
+        "gold": 4,
 		"uniques": ["[+1 Gold, +1 Production] from every specialist [in this city]"],
         "specialistSlots": {
             "Merchant": 1
         },
-        "hurryCostModifier": 15,
+        "hurryCostModifier": 25,
         "percentStatBonus": {
-            "gold": 20
+            "gold": 25
         },
         "requiredBuilding": "Market",
         "requiredTech": "Banking"
@@ -1648,7 +1648,7 @@
         "name": "Stock Exchange",
         "gold": 3,
         "percentStatBonus": {
-            "gold": 30
+            "gold": 33
         },
         "specialistSlots": {
             "Merchant": 2
