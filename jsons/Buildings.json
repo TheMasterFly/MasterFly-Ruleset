@@ -27,7 +27,8 @@
             "Unbuildable",
             "Unsellable",
             "Will not be displayed in Civilopedia",
-			"Destroyed when the city is captured"
+			"Destroyed when the city is captured",
+			"Suppress warning [is both granted free and could possibly be removed by triggers]"
         ]
     },
 	{
