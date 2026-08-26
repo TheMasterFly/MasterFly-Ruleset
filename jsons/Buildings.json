@@ -1448,7 +1448,8 @@
         "uniques": [
             "Free [Great Admiral] appears",
 			"All newly-trained [{Water} {Military}] units [in this city] receive the [Hull Trinity House Guild ability] promotion",
-			"[+2 Science] [in all coastal cities]"
+			"[+2 Science] [in all coastal cities]",
+			"Only available <after adopting [Exploration]>"
         ],
         "requiredTech": "Navigation",
         "quote": "'Whosoever commands the sea, commands the trade; whosoever commands the trade of the world, commands the riches of the world, and consequently the world itself.' - Sir Walter Raleigh"
