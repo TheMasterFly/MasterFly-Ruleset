@@ -408,7 +408,7 @@
         "uniques": [
             "[+1] Movement <for [Water] units>",
             "[+1] Sight <for [Water] units>",
-            "Comment [Unlocks [The Louvre]]"
+            "Comment [Unlocks [Hull Trinity House Guild]]"
         ],
         "era": "Medieval era",
         "policies": [
@@ -447,7 +447,7 @@
                 "uniques": [
 					"[Great Admiral] is earned [+50]% faster",
                     "[+15]% Strength <for [Water] units>",
-                    "[+1] Movement <for [{Military} {Water}] units>"
+                    "[+1] Movement <for [Embarked] units>"
                 ],
                 "requires": ["Maritime Infrastructure","Naval Tradition"],
                 "row": 2,
