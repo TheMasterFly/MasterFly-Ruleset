@@ -1724,12 +1724,6 @@
         "uniques": [
             "Earn [33]% of killed [{Military} {Water}] unit's [Cost] as [Science]",
 			"Earn [33]% of killed [{Military} {Water}] unit's [Cost] as [Gold]"
-        ],
-        "unitTypes": [
-            "Ranged Water",
-			"Melee Water"
-        ],
-        "column": 26,
-        "row": 1
+        ]
     }
 ]
