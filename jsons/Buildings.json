@@ -28,7 +28,7 @@
             "Unsellable",
             "Will not be displayed in Civilopedia",
 			"Destroyed when the city is captured"
-        ],
+        ]
     },
 	{
 		"name": "Kilwan Ability",
@@ -1441,6 +1441,18 @@
 		"requiredTech": "Navigation",
 		"quote": "'Every new reinforcement sent into the fort is lost. It is cruelty, therefore, to send any more men to die here' - Captain de Miranda during the Siege of Malta"
 	},
+    {
+        "name": "Hull Trinity House Guild",
+        "culture": 1,
+        "isWonder": true,
+        "uniques": [
+            "Free [Great Admiral] appears",
+			"All newly-trained [{Water} {Military}] units [in this city] receive the [Hull Trinity House Guild ability] promotion",
+			"[+2 Science] [in all coastal cities]"
+        ],
+        "requiredTech": "Navigation",
+        "quote": "'Whosoever commands the sea, commands the trade; whosoever commands the trade of the world, commands the riches of the world, and consequently the world itself.' - Sir Walter Raleigh"
+    },
     {
         "name": "Hermitage",
         "cost": 125,
