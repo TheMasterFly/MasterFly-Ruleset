@@ -852,16 +852,14 @@
     },
     {
         "name": "Kurultai",
-		"culture": 1,
+		"culture": 5,
         "isWonder": true,
         "uniques": ["Must be next to [Plains]",
-			"Provides [8] [Horses]",
-			"Free [Cavalry Archer] appears",
+			"Provides [5] [Horses]",
 			"Free [Horseman] appears",
-			"Free [Great General] appears",
-			"[+8 Culture] [in this city] <after discovering [Electricity]>"
+			"Free [Great General] appears"
         ],
-        "requiredTech": "Nomadic Innovations"
+        "requiredTech": "Horseback Riding"
     },
     {
         "name": "Ellora Caves",
