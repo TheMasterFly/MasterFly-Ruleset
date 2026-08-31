@@ -17,7 +17,8 @@
             "Provides [1] [Aluminum] <after discovering [Electricity]>",
 			"Provides [1] [Lithium] <after discovering [Electronics]>",
 			"[Great Scientist] is earned [15]% faster <after adopting [Kiomar's Blessing]> <hidden from users>",
-            "[Great Engineer] is earned [15]% faster <after adopting [Kiomar's Blessing]> <hidden from users>"
+            "[Great Engineer] is earned [15]% faster <after adopting [Kiomar's Blessing]> <hidden from users>",
+			"[+10]% Strength <for [All] units> <after adopting [Order of the Qizilbash]> <hidden from users>"
         ]
     },
     {
