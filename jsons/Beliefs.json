@@ -330,7 +330,7 @@
     {
         "name": "Order of the Qizilbash",
         "type": "Follower",
-        "uniques": ["[+10]% Strength <for [All] units>",
+        "uniques": ["[+10]% Strength <for [All] units> <when fighting in [Friendly Land] tiles>",
             "May buy [Mounted] units with [Faith] for [4] times their normal Production cost",
             "Only available <for [Safavids] Civilizations> <hidden from users>"]
     },
@@ -338,8 +338,7 @@
         "name": "Kiomar's Blessing",
         "type": "Follower",
         "uniques": ["Comment [All [Science] buildings gain +1 [Great Scientist] and [Great Engineer] points]",
-            "[Great Scientist] is earned [15]% faster",
-            "[Great Engineer] is earned [15]% faster",
+            "Comment [All [Science] buildings gain +1 [Great Scientist] and [Great Engineer] points]",
             "Only available <for [Safavids] Civilizations> <hidden from users>"]
     },
 
@@ -537,7 +536,7 @@
     {
         "name": "Just War",
         "type": "Enhancer",
-        "uniques": ["[+20]% Strength <for [All] units> <when fighting in [Enemy Land] tiles>",
+        "uniques": ["[+20]% Strength <for [All] units> <when fighting in [] tiles>",
         "[-20]% Strength <for [All] units> <when fighting in [Enemy Land] tiles> <vs [[Bajorija Knight] ability]> <hidden from users>"]
     },
     {
