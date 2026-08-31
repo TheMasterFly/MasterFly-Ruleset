@@ -812,15 +812,16 @@
         "name": "Riad",
         "replaces": "Garden",
         "uniqueTo": "Almoravids",
-        "culture": 1,
+        "culture": 2,
+		"food": 2,
         "uniques": [
+			"Comment [+100% Production when being constructed in cities adjacent to [Desert]]",
             "[+25]% Great Person generation [in this city]",
-            "[+1 Faith] from [Oasis] tiles [in this city]",
-            "[+1 Food] from [{Desert} {Fresh water}] tiles without [Flood plains] [in this city] <starting from the [Medieval era]>",
+            "[+2 Faith] from [Oasis] tiles [in this city]",
             "Must be next to [Fresh water] <before adopting [Garden of Eden]>"
         ],
         "hurryCostModifier": 25,
-        "maintenance": 2,
+        "maintenance": 1,
         "requiredTech": "Theology"
     },
     {
