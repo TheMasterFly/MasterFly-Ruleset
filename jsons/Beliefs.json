@@ -330,7 +330,7 @@
     {
         "name": "Order of the Qizilbash",
         "type": "Follower",
-        "uniques": ["[+10]% Strength <for [All] units> <when fighting in [Friendly Land] tiles>",
+        "uniques": ["[+10% Strength for All units]",
             "May buy [Mounted] units with [Faith] for [4] times their normal Production cost",
             "Only available <for [Safavids] Civilizations> <hidden from users>"]
     },
