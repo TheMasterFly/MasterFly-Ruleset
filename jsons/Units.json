@@ -351,8 +351,8 @@
         "cost": 56,
         "requiredTech": "The Wheel",
         "requiredResource": "Horses",
-        "upgradesTo": "Cavalry Archer",
-        "obsoleteTech": "Nomadic Innovations",
+        "upgradesTo": "Crossbowman",
+        "obsoleteTech": "Machinery",
         "uniques": [
             "No defensive terrain bonus",
             "Rough terrain penalty",
@@ -371,11 +371,11 @@
         "cost": 56,
         "requiredTech": "The Wheel",
 		"requiredResource": "Horses",
-        "upgradesTo": "Cavalry Archer",
+        "upgradesTo": "Crossbowman",
         "obsoleteTech": "Banking",
         "uniques": ["No defensive terrain bonus",
 			"Can move after attacking",
-			"[-25]% Strength <vs cities> <when attacking>"],
+			"[-33]% Strength <vs cities> <when attacking>"],
         "promotions": [
             "Accuracy I"
         ],
@@ -391,8 +391,8 @@
         "rangedStrength": 10,
         "cost": 56,
         "requiredTech": "The Wheel",
-        "upgradesTo": "Knight",
-        "obsoleteTech": "Chivalry",
+        "upgradesTo": "Crossbowman",
+        "obsoleteTech": "Machinery",
         "uniques": [
             "No defensive terrain bonus",
             "Rough terrain penalty"
@@ -843,31 +843,15 @@
         "attackSound": "horse"
     },
     {
-        "name": "Cavalry Archer",
-        "unitType": "Ranged Mounted",
-        "movement": 4,
-        "strength": 13,
-        "rangedStrength": 15,
-        "cost": 120,
-        "requiredTech": "Nomadic Innovations",
-        "upgradesTo": "Dragoon",
-		"requiredResource": "Horses",
-        "obsoleteTech": "Banking",
-        "uniques": ["Can move after attacking",
-			"No defensive terrain bonus",
-			"[-25]% Strength <vs cities> <when attacking>"],
-        "attackSound": "arrow"
-    },
-    {
         "name": "Camel Archer",
         "unitType": "Ranged Mounted",
-        "replaces": "Cavalry Archer",
+        "replaces": "Crossbowman",
         "uniqueTo": "Arabia",
         "movement": 4,
         "strength": 15,
         "rangedStrength": 18,
         "cost": 120,
-        "requiredTech": "Nomadic Innovations",
+        "requiredTech": "Machinery",
         "requiredResource": "Horses",
         "upgradesTo": "Gatling Gun",
         "obsoleteTech": "Industrialization",
@@ -878,7 +862,7 @@
     {
         "name": "Keshik",
         "unitType": "Ranged Mounted",
-        "replaces": "Cavalry Archer",
+        "replaces": "Crossbowman",
         "uniqueTo": "Mongolia",
         "movement": 5,
         "strength": 15,
@@ -1105,22 +1089,6 @@
             "Extended Range"
         ],
         "attackSound": "arrow"
-    },
-    {
-        "name": "Dragoon",
-        "unitType": "Ranged Mounted",
-        "movement": 4,
-        "strength": 23,
-        "rangedStrength": 27,
-		"range": 1,
-        "cost": 160,
-        "requiredTech": "Banking",
-		"requiredResource": "Horses",
-        "upgradesTo": "Gatling Gun",
-        "obsoleteTech": "Industrialization",
-        "uniques": ["No defensive terrain bonus",
-			"Can move after attacking"],
-        "attackSound": "shot"
     },
     {
         "name": "Trebuchet",
