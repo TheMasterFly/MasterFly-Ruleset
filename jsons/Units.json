@@ -1191,7 +1191,7 @@
         "requiredResource": "Iron",
         "upgradesTo": "Musketman",
         "obsoleteTech": "Gunpowder",
-        "uniques": ["Before engaging in combat performs an extra ranged attack with [50]% of melee combat strength"],
+        "uniques": ["Comment [Before engaging in combat performs an extra ranged attack with [50]% of melee combat strength]"],
         "attackSound": "metalhit"
     },
     {
