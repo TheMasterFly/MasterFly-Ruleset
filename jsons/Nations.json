@@ -50,7 +50,8 @@
             "[+1 Culture, +1 Faith, +1 Gold] from each Trade Route <starting from the [Industrial era]> <hidden from users>",
             "[+1 Culture, +1 Faith, +1 Gold] from each Trade Route <starting from the [Modern era]> <hidden from users>",
             "[+1 Culture, +1 Faith, +1 Gold] from each Trade Route <starting from the [Atomic era]> <hidden from users>",
-            "[+1 Culture, +1 Faith, +1 Gold] from each Trade Route <starting from the [Information era]> <hidden from users>"
+            "[+1 Culture, +1 Faith, +1 Gold] from each Trade Route <starting from the [Information era]> <hidden from users>",
+			"[+100]% Production when constructing [Riad] buildings [in all cities] <in tiles adjacent to [Desert] tiles> <hidden from users>"
         ],
         "spyNames": [
             "el-Krim",
