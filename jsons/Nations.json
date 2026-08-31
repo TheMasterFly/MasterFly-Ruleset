@@ -1321,14 +1321,14 @@
         "hateHello": "What do you want?",
         "tradeRequest": "My friend, are you interested in this arrangement?",
         "outerColor": [
-            14,
-            113,
-            4
-        ],
-        "innerColor": [
             230,
             136,
             41
+        ],
+        "innerColor": [
+            14,
+            113,
+            4
         ],
         "favoredReligion": "Hinduism",
         "uniqueName": "Population Growth",
