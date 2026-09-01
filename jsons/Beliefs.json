@@ -535,7 +535,7 @@
     {
         "name": "Just War",
         "type": "Enhancer",
-        "uniques": ["[+20]% Strength <for [All] units> <when fighting in [] tiles>",
+        "uniques": ["[+20]% Strength <for [All] units> <when fighting in [Enemy Land] tiles>",
         "[-20]% Strength <for [All] units> <when fighting in [Enemy Land] tiles> <vs [[Bajorija Knight] ability]> <hidden from users>"]
     },
     {
