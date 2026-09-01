@@ -279,6 +279,18 @@
         "requiredTech": "The Wheel"
     },
     {
+        "name": "Qanat",
+        "replaces": "Water Mill",
+        "uniqueTo": "Safavids",
+        "food": 3,
+        "uniques": [
+            "[+1 Food] from [{Desert} {Fresh water}] tiles without [Flood plains] [in this city] <starting from the [Medieval era]>"
+        ],
+        "hurryCostModifier": 25,
+        "maintenance": 1,
+        "requiredTech": "The Wheel"
+    },
+    {
         "name": "Walls",
         "cityStrength": 5,
         "cityHealth": 50,
