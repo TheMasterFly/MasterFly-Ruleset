@@ -1429,9 +1429,9 @@
         "uniqueTo": "Safavids",
 		"range": 1,
         "movement": 4,
-        "strength": 22,
+        "strength": 21,
 		"rangedStrength": 30,
-        "cost": 185,
+        "cost": 200,
         "requiredTech": "Metallurgy",
         "requiredResource": "Horses",
         "uniques": [
