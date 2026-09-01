@@ -1,4 +1,21 @@
 [
+	    {
+        "name": "Qanat",
+        "uniqueTo": "Safavids",
+        "terrainsCanBeBuiltOn": [
+            "Desert",
+            "Flood plains"
+        ],
+        "food": 1,
+        "turnsToBuild": 10,
+        "techRequired": "Agriculture",
+        "uniques": [
+            "[+1 Food] <after discovering [Civil Service]>",
+            "Cannot be built on [Mountain] tiles <hidden from users>",
+            "Pillaging this improvement yields approximately [+18 Gold]"
+        ],
+        "shortcutKey": "Q"
+    },
     {
         "name": "Farm",
         "terrainsCanBeBuiltOn": [
