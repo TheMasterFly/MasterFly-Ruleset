@@ -9,12 +9,11 @@
         "food": 1,
         "turnsToBuild": 10,
         "techRequired": "Agriculture",
-        "uniques": [
+        "uniques": ["Comment [+1 [Food] from [Desert] tiles adjacent to a Qanat]",
             "[+1 Food] <after discovering [Civil Service]>",
             "Cannot be built on [Mountain] tiles <hidden from users>",
             "Pillaging this improvement yields approximately [+18 Gold]"
-        ],
-        "shortcutKey": "Q"
+        ]
     },
     {
         "name": "Farm",
