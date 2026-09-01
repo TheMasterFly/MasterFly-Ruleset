@@ -1191,7 +1191,7 @@
         "requiredResource": "Iron",
         "upgradesTo": "Musketman",
         "obsoleteTech": "Gunpowder",
-        "uniques": ["Comment [Before engaging in combat performs an extra ranged attack with [50]% of melee combat strength]"],
+        "uniques": ["Before engaging in combat performs an extra ranged attack with [50]% of melee combat strength"],
         "attackSound": "metalhit"
     },
     {
@@ -1421,6 +1421,28 @@
         "upgradesTo": "Anti-Tank Gun",
         "obsoleteTech": "Combined Arms",
         "attackSound": "horse"
+    },
+    {
+        "name": "Zamburakchi",
+        "unitType": "Ranged Mounted",
+        "replaces": "Lancer",
+        "uniqueTo": "Safavids",
+		"range": 1,
+        "movement": 4,
+        "strength": 22,
+		"rangedStrength": 30,
+        "cost": 185,
+        "requiredTech": "Metallurgy",
+        "requiredResource": "Horses",
+        "uniques": [
+            "Can move after attacking",
+            "No defensive terrain bonus",
+			"[-33]% Strength <vs cities>",
+            "Never appears as a Barbarian unit"
+        ],
+        "upgradesTo": "Anti-Tank Gun",
+        "obsoleteTech": "Combined Arms",
+        "attackSound": "cannon"
     },
     {
         "name": "Cannon",
