@@ -1321,14 +1321,14 @@
         "hateHello": "What do you want?",
         "tradeRequest": "My friend, are you interested in this arrangement?",
         "outerColor": [
-            230,
-            136,
-            41
+            233,
+            153,
+            73
         ],
         "innerColor": [
             14,
-            113,
-            4
+            98,
+            5
         ],
         "favoredReligion": "Hinduism",
         "uniqueName": "Population Growth",
@@ -2010,19 +2010,19 @@
         "tradeRequest": "The riches of Iran are offered to you",
         "outerColor": [
             0,
-            128,
+            122,
             0
         ],
         "innerColor": [
             246,
-            183,
-            33
+            186,
+            44
         ],
         "favoredReligion": "Islam",
         "uniqueName": "Twelve Imams",
         "uniques": [
             "Comment [Has access to unique religious beliefs]",
-			"[+1 Food] <in tiles adjacent to [Qanat] tiles> <hidden from users>"
+			"[+1 Food] from [Desert] tiles [in all cities] <in tiles adjacent to [Qanat] tiles> <hidden from users>"
         ],
         "cities": [
 			"Nesf-e-Jahan", "Tabriz", "Shiraz", "Qazvin", "Ardabil", "Mashhad", "Kashan", "Teheran", "Hamadan", "Qom", "Kerman", "Herat", "Kandahar", "Baku", "Derbent", "Tbilisi", "Yerevan", "Astrakhan", "Erzurum", "Kars", "Bandar Abbas"
