@@ -1170,12 +1170,10 @@
 	    "outerColor": [200, 175, 0],
 	    "innerColor": [90, 60, 0],
 	    "uniqueName": "Steppe and Plow",
-	    "uniqueText": "+1 [Production] for [Pasture], [Camp] and [Farm] tile improvements",
-	    "uniques": [
-	        "[+1 Production] from [Pasture] tiles [in all cities] <in tiles adjacent to [City center] tiles> <hidden from users>",
+	    "uniqueText": "+1 [Production] from [Pasture], [Camp] and [Farm] tiles adjacent to your [City center] tiles",
+	    "uniques": ["[+1 Production] from [Pasture] tiles [in all cities] <in tiles adjacent to [City center] tiles> <hidden from users>",
 			"[+1 Production] from [Camp] tiles [in all cities] <in tiles adjacent to [City center] tiles> <hidden from users>",
-			"[+1 Production] from [Farm] tiles [in all cities] <in tiles adjacent to [City center] tiles> <hidden from users>",
-			"Comment [+1 [Production] from [Pasture], [Camp] and [Farm] tiles adjacent to your [City center]]"],
+			"[+1 Production] from [Farm] tiles [in all cities] <in tiles adjacent to [City center] tiles> <hidden from users>"],
 	    "spyNames": [
 	        "Yelü Bei",
 	        "Yelü Dashi",
@@ -2028,7 +2026,7 @@
         "uniques": [
             "Comment [Has access to unique religious beliefs]",
 			"[+1 Food] from [{Desert} {non-[Flood plains]} {non-[Oasis]}] tiles [in all cities] <in tiles adjacent to [Qanat] tiles> <hidden from users>",
-			"[+1 Food] from [{Desert} {non-[Flood plains]} {non-[Oasis]}] tiles [in all cities] <in tiles adjacent to [Qanat] tiles> <starting from the [Renaissance era]> <hidden from users>"
+			"[+1 Food] from [{Desert} {non-[Flood plains]} {non-[Oasis]}] tiles [in all cities] <starting from the [Renaissance era]> <in tiles adjacent to [Qanat] tiles> <hidden from users>"
         ],
         "cities": [
 			"Nesf-e-Jahan", "Tabriz", "Shiraz", "Qazvin", "Ardabil", "Mashhad", "Kashan", "Teheran", "Hamadan", "Qom", "Kerman", "Herat", "Kandahar", "Baku", "Derbent", "Tbilisi", "Yerevan", "Astrakhan", "Erzurum", "Kars", "Bandar Abbas"
