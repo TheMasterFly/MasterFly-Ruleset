@@ -1725,5 +1725,12 @@
             "Earn [33]% of killed [{Military} {Water}] unit's [Cost] as [Science]",
 			"Earn [33]% of killed [{Military} {Water}] unit's [Cost] as [Gold]"
         ]
+    },
+    {
+        "name": "Qizilbash Tradition",
+        "uniques": [
+            "[+10]% Strength <when attacking>",
+			"Earn [50]% of killed [{Military} {Land}] unit's [Cost] as [Faith]"
+        ]
     }
 ]
