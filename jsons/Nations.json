@@ -2027,7 +2027,8 @@
         "uniqueName": "Twelve Imams",
         "uniques": [
             "Comment [Has access to unique religious beliefs]",
-			"[+1 Food] from [Desert] tiles [in all cities] <in tiles adjacent to [Qanat] tiles> <hidden from users>"
+			"[+1 Food] from [{Desert} {non-[Flood plains]} {non-[Oasis]}] tiles [in all cities] <in tiles adjacent to [Qanat] tiles> <hidden from users>",
+			"[+1 Food] from [{Desert} {non-[Flood plains]} {non-[Oasis]}] tiles [in all cities] <in tiles adjacent to [Qanat] tiles> <starting from the [Renaissance era]> <hidden from users>"
         ],
         "cities": [
 			"Nesf-e-Jahan", "Tabriz", "Shiraz", "Qazvin", "Ardabil", "Mashhad", "Kashan", "Teheran", "Hamadan", "Qom", "Kerman", "Herat", "Kandahar", "Baku", "Derbent", "Tbilisi", "Yerevan", "Astrakhan", "Erzurum", "Kars", "Bandar Abbas"
