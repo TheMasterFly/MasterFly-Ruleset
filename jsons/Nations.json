@@ -2022,11 +2022,11 @@
             44
         ],
         "favoredReligion": "Islam",
-        "uniqueName": "Twelve Imams",
+        "uniqueName": "Usul al-Din",
         "uniques": [
-            "Comment [Has access to unique religious beliefs]",
+            "Comment [Has access to 5 unique religious beliefs]",
 			"[+1 Food] from [{Desert} {non-[Flood plains]} {non-[Oasis]}] tiles [in all cities] <in tiles adjacent to [Qanat] tiles> <hidden from users>",
-			"[+1 Food] from [{Desert} {non-[Flood plains]} {non-[Oasis]}] tiles [in all cities] <starting from the [Renaissance era]> <in tiles adjacent to [Qanat] tiles> <hidden from users>"
+			"[+1 Food] from [{Desert} {non-[Flood plains]} {non-[Oasis]}] tiles [in all cities] <after adopting [Al-Ma'ad]> <in tiles adjacent to [Qanat] tiles> <hidden from users>"
         ],
         "cities": [
 			"Nesf-e-Jahan", "Tabriz", "Shiraz", "Qazvin", "Ardabil", "Mashhad", "Kashan", "Teheran", "Hamadan", "Qom", "Kerman", "Herat", "Kandahar", "Baku", "Derbent", "Tbilisi", "Yerevan", "Astrakhan", "Erzurum", "Kars", "Bandar Abbas"
