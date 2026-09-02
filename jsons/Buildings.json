@@ -426,13 +426,11 @@
         "hurryCostModifier": 35,
         "uniques": ["Comment [Doesn't require a [Horses], [Sheep] or [Cattle] tile to be nearby]",
             "[+15]% Production when constructing [Mounted] units [in this city]",
-			"Provides [2] [Horses]",
+			"Provides [1] [Horses]",
             "[+1 Production] from [Cattle] tiles [in this city]",
             "[+1 Production] from [Horses] tiles [in this city]",
             "[+1 Production] from [Sheep] tiles [in this city]",
-			"Free [Horseman] appears <before discovering [Chivalry]>",
-			"Free [Knight] appears <after discovering [Chivalry]> <before discovering [Military Science]>",
-			"Free [Cavalry] appears <after discovering [Military Science]>"
+			"Free [Chihou] appears"
         ],
         "requiredTech": "Horseback Riding"
     },
