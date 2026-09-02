@@ -70,7 +70,7 @@
 			"uniqueTo": "Safavids",
 			"greatPersonPoints": {"Great Scientist": 1, "Great Engineer": 1},
 			"cost": 0,
-			"uniques": ["Only available <in cities with a [Library]> <after adopting [Kiomar's Blessing]>","Destroyed when the city is captured", "Automatically built in all cities where it is buildable",
+			"uniques": ["Only available <in cities with a [Library]> <after adopting [Al-Nubuwwah]>","Destroyed when the city is captured", "Automatically built in all cities where it is buildable",
 						"Unsellable", "Will not be displayed in Civilopedia"]
 	},
 	{
@@ -78,7 +78,7 @@
 			"uniqueTo": "Safavids",
 			"greatPersonPoints": {"Great Scientist": 1, "Great Engineer": 1},
 			"cost": 0,
-			"uniques": ["Only available <in cities with a [University]> <after adopting [Kiomar's Blessing]>","Destroyed when the city is captured", "Automatically built in all cities where it is buildable",
+			"uniques": ["Only available <in cities with a [University]> <after adopting [Al-Nubuwwah]>","Destroyed when the city is captured", "Automatically built in all cities where it is buildable",
 						"Unsellable", "Will not be displayed in Civilopedia"]
 	},
 	{
@@ -86,7 +86,7 @@
 			"uniqueTo": "Safavids",
 			"greatPersonPoints": {"Great Scientist": 1, "Great Engineer": 1},
 			"cost": 0,
-			"uniques": ["Only available <in cities with a [Observatory]> <after adopting [Kiomar's Blessing]>","Destroyed when the city is captured", "Automatically built in all cities where it is buildable",
+			"uniques": ["Only available <in cities with a [Observatory]> <after adopting [Al-Nubuwwah]>","Destroyed when the city is captured", "Automatically built in all cities where it is buildable",
 						"Unsellable", "Will not be displayed in Civilopedia"]
 	},
 	{
@@ -94,7 +94,7 @@
 			"uniqueTo": "Safavids",
 			"greatPersonPoints": {"Great Scientist": 1, "Great Engineer": 1},
 			"cost": 0,
-			"uniques": ["Only available <in cities with a [Public School]> <after adopting [Kiomar's Blessing]>","Destroyed when the city is captured", "Automatically built in all cities where it is buildable",
+			"uniques": ["Only available <in cities with a [Public School]> <after adopting [Al-Nubuwwah]>","Destroyed when the city is captured", "Automatically built in all cities where it is buildable",
 						"Unsellable", "Will not be displayed in Civilopedia"]
 	},
     {
