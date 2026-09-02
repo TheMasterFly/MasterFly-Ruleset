@@ -307,14 +307,7 @@
 
 
     {
-        "name": "Shahnahmeh",
-        "type": "Follower",
-        "uniques": ["[+1 Happiness, +1 Culture] from every [Monument]",
-            "[+25]% [Culture] from every [Monument]",
-            "Only available <for [Safavids] Civilizations> <hidden from users>"]
-    },
-    {
-        "name": "Takht-e Iran",
+        "name": "Al-Tawhid",
         "type": "Follower",
         "uniques": ["[+2 Production, +2 Food, +2 Culture, +2 Faith, +2 Science, +2 Gold, +2 Happiness] from every [Palace]",
             "[+20]% [Production] from every [Palace] <hidden from users>",
@@ -328,19 +321,32 @@
             "Only available <for [Safavids] Civilizations> <hidden from users>"]
     },
     {
-        "name": "Order of the Qizilbash",
+        "name": "Al-Adl",
         "type": "Follower",
         "uniques": ["May buy [Mounted] units with [Faith] for [4] times their normal Production cost",
             "Only available <for [Safavids] Civilizations> <hidden from users>"]
     },
     {
-        "name": "Kiomar's Blessing",
+        "name": "Al-Nubuwwah",
         "type": "Follower",
         "uniques": ["Comment [All [Science] buildings gain +1 [Great Scientist] and [Great Engineer] points]",
             "Comment [All [Science] buildings gain +1 [Great Scientist] and [Great Engineer] points]",
             "Only available <for [Safavids] Civilizations> <hidden from users>"]
     },
-
+    {
+        "name": "Al-Imamah",
+        "type": "Follower",
+        "uniques": ["[+1 Happiness, +1 Culture] from every [Monument]",
+            "[+25]% [Culture] from every [Monument]",
+            "Only available <for [Safavids] Civilizations> <hidden from users>"]
+    },
+    {
+        "name": "Al-Ma'ad",
+        "type": "Follower",
+        "uniques": ["Comment [Doubles adjacent [Food] tile yields from [Qanat]]",
+            "[-33]% construction time for [Qanat] improvements",
+            "Only available <for [Safavids] Civilizations> <hidden from users>"]
+    },
 
     {
         "name": "Asceticism",
