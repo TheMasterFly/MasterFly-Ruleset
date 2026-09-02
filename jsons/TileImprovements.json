@@ -9,7 +9,7 @@
         "food": 1,
         "turnsToBuild": 10,
         "techRequired": "Mathematics",
-        "uniques": ["Comment [+1 [Food] from [{Desert} {non-[Flood plains]} {non-[Oasis]}] tiles adjacent to a Qanat, increased to 2 upon entering the Renaissance era]",
+        "uniques": ["Comment [+1 [Food] in adjacent [{Desert} {non-[Flood plains]} {non-[Oasis]}] tiles]",
             "[+1 Food] <after discovering [Civil Service]>",
             "Cannot be built on [Mountain] tiles <hidden from users>",
             "Pillaging this improvement yields approximately [+20 Gold]"
