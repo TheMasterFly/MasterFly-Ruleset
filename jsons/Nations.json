@@ -1172,9 +1172,10 @@
 	    "uniqueName": "Steppe and Plow",
 	    "uniqueText": "+1 [Production] for [Pasture], [Camp] and [Farm] tile improvements",
 	    "uniques": [
-	        "[+1 Production] from [Pasture] tiles [in all cities]",
-			"[+1 Production] from [Camp] tiles [in all cities]",
-			"[+1 Production] from [Farm] tiles [in all cities]"],
+	        "[+1 Production] from [Pasture] tiles [in all cities] <in tiles adjacent to [City center] tiles> <hidden from users>",
+			"[+1 Production] from [Camp] tiles [in all cities] <in tiles adjacent to [City center] tiles> <hidden from users>",
+			"[+1 Production] from [Farm] tiles [in all cities] <in tiles adjacent to [City center] tiles> <hidden from users>",
+			"Comment [+1 [Production] from [Pasture], [Camp] and [Farm] tiles adjacent to your [City center]]"],
 	    "spyNames": [
 	        "Yelü Bei",
 	        "Yelü Dashi",
