@@ -422,7 +422,7 @@
         "name": "Ordu",
         "replaces": "Stable",
         "uniqueTo": "Liao",
-        "maintenance": 3,
+        "maintenance": 1,
         "hurryCostModifier": 35,
         "uniques": ["Comment [Doesn't require a [Horses], [Sheep] or [Cattle] tile to be nearby]",
             "[+15]% Production when constructing [Mounted] units [in this city]",
