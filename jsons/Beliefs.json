@@ -323,7 +323,9 @@
     {
         "name": "Al-Adl",
         "type": "Follower",
-        "uniques": ["May buy [Mounted] units with [Faith] for [4] times their normal Production cost",
+        "uniques": ["Comment [+10% Strength for [Land] units]",
+            "Comment [Gain [Faith] equal to 50% of cost of defeated [Land] units]",
+            "[{Land} {Military}] units gain the [Qizilbash Tradition] promotion <hidden from users>",
             "Only available <for [Safavids] Civilizations> <hidden from users>"]
     },
     {
