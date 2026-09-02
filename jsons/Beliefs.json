@@ -318,7 +318,7 @@
             "[+20]% [Gold] from every [Palace] <hidden from users>",
             "[+20]% [Happiness] from every [Palace] <hidden from users>",
             "Comment [+20% [Production], [Food], [Culture], [Faith], [Science], [Gold] and [Happiness] from every [Palace]]",
-            "Only available <for [Safavids] Civilizations> <hidden from users>"]
+            "Only available <for [Safavids] Civilizations>"]
     },
     {
         "name": "Al-Adl",
@@ -326,28 +326,27 @@
         "uniques": ["Comment [+10% Strength for [Land] units]",
             "Comment [Gain [Faith] equal to 50% of cost of defeated [Land] units]",
             "[{Land} {Military}] units gain the [Qizilbash Tradition] promotion <hidden from users>",
-            "Only available <for [Safavids] Civilizations> <hidden from users>"]
+            "Only available <for [Safavids] Civilizations>"]
     },
     {
         "name": "Al-Nubuwwah",
         "type": "Follower",
         "uniques": ["Comment [All [Science] buildings gain +1 [Great Scientist] and [Great Engineer] points]",
-            "Comment [[Great Scientist] and [Great Engineer] is earned 10% faster]",
-            "Only available <for [Safavids] Civilizations> <hidden from users>"]
+            "Only available <for [Safavids] Civilizations>"]
     },
     {
         "name": "Al-Imamah",
         "type": "Follower",
-        "uniques": ["[+1 Happiness, +1 Culture] from every [Monument]",
-            "[+25]% [Culture] from every [Monument]",
-            "Only available <for [Safavids] Civilizations> <hidden from users>"]
+        "uniques": ["[+1 Happiness, +1 Gold] from every [Monument]",
+            "[+33]% Golden Age length",
+            "Only available <for [Safavids] Civilizations>"]
     },
     {
         "name": "Al-Ma'ad",
         "type": "Follower",
         "uniques": ["Comment [Doubles adjacent [Food] tile yields from [Qanat]]",
             "Comment [-33% construction time for [Qanat] improvements]",
-            "Only available <for [Safavids] Civilizations> <hidden from users>"]
+            "Only available <for [Safavids] Civilizations>"]
     },
 
     {
