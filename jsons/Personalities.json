@@ -30,6 +30,36 @@
     }
   },
   {
+    "name": "Taizong",
+    "production": 5,
+    "food": 7,
+    "gold": 6,
+    "science": 8,
+    "culture": 8,
+    "happiness": 4,
+    "faith": 3,
+    "military": 4,
+    "aggressive": 4,
+    "declareWar": 4,
+    "commerce": 7,
+    "diplomacy": 7,
+    "loyal": 7,
+    "expansion": 6,
+    "denounceWillingness": 5,
+    "priorities": {
+      "Tradition": 8,
+      "Liberty": 4,
+      "Honor": 3,
+      "Commerce": 4,
+      "Patronage": 5,
+      "Piety": 7,
+      "Rationalism": 8,
+      "Freedom": 6,
+      "Autocracy": 6,
+      "Order": 4
+    }
+  },
+  {
     "name": "Alexander",
     "production": 5,
     "food": 4,
