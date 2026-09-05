@@ -236,7 +236,7 @@
                 "name": "Honor Complete",
                 "uniques": [
                     "Empire enters golden age",
-					"Empire enters golden age <upon conquering a city>",
+					"Empire enters a [4]-turn Golden Age <upon conquering a city>",
 					"Free [Great General] appears"
                 ]
             }
