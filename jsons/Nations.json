@@ -2027,7 +2027,8 @@
             "Comment [Has access to 5 unique religious beliefs]",
 			"[+1 Food] from [{Desert} {non-[Flood plains]} {non-[Oasis]}] tiles [in all cities] <in tiles adjacent to [Qanat] tiles> <hidden from users>",
 			"[+1 Food] from [{Desert} {non-[Flood plains]} {non-[Oasis]}] tiles [in all cities] <after adopting [Al-Ma'ad]> <in tiles adjacent to [Qanat] tiles> <hidden from users>",
-			"[-33]% construction time for [Qanat] improvements <after adopting [Al-Ma'ad]> <hidden from users>"
+			"[-33]% construction time for [Qanat] improvements <after adopting [Al-Ma'ad]> <hidden from users>",
+			"[+33]% Golden Age length <after adopting [Al-Imamah]> <hidden from users>"
         ],
         "cities": [
 			"Nesf-e-Jahan", "Tabriz", "Shiraz", "Qazvin", "Ardabil", "Mashhad", "Kashan", "Teheran", "Hamadan", "Qom", "Kerman", "Herat", "Kandahar", "Baku", "Derbent", "Tbilisi", "Yerevan", "Astrakhan", "Erzurum", "Kars", "Bandar Abbas"
