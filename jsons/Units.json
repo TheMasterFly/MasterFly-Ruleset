@@ -2300,23 +2300,6 @@
         "movement": 2
     },
     {
-        "name": "Crusader Castle Builder",
-        "replaces": "Great General",
-        "uniqueTo": "Crusader States",
-        "unitType": "Civilian",
-        "uniques": [
-            "Can instantly construct a [Crusader Castle] improvement <by consuming this unit>",
-            "Is part of Great Person group [General]",
-            "Great Person - [War]",
-            "Unbuildable",
-            "Can be earned through combat",
-            "Can be purchased for [900] [Gold] [in all cities] <before discovering [Renaissance era]> <hidden from users>",
-            "Can be purchased for [1500] [Gold] [in all cities] <starting from the [Renaissance era]> <before discovering [Modern era]> <hidden from users>",
-            "Can be purchased for [3300] [Gold] [in all cities] <starting from the [Modern era]> <hidden from users>"
-        ],
-        "movement": 2
-    },
-    {
         "name": "Khan",
         "unitType": "Civilian",
         "uniqueTo": "Mongolia",
