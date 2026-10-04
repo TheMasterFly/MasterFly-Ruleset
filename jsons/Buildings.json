@@ -20,28 +20,16 @@
     },
     {
         "name": "Outremer Stronghold",
-        "replaces": "Palace",
         "uniqueTo": "Crusader States",
         "isNationalWonder": true,
-        "production": 3,
-        "science": 3,
-        "gold": 3,
-        "culture": 1,
-        "cityStrength": 3.5,
         "cityHealth": 25,
-        "cost": 0,
         "uniques": [
-            "Indicates the capital city",
             "Limited to [4] per Civilization",
 			"[+1 Faith] [in this city] <starting from the [Classical era]>",
+			"[+50]% City Strength from defensive buildings",
             "New [{Military} {Land}] units start with [15] XP [in this city] <starting from the [Medieval era]>",
-            "Provides [1] [Horses] <after discovering [Animal Husbandry]>",
-            "Provides [1] [Iron] <after discovering [Iron Working]>",
-            "Provides [1] [Coal] <after discovering [Industrialization]>",
-            "Provides [1] [Oil] <after discovering [Biology]>",
-            "Provides [1] [Aluminum] <after discovering [Electricity]>",
-			"Provides [1] [Lithium] <after discovering [Electronics]>",
-			"Destroyed when the city is captured"
+			"Destroyed when the city is captured",
+			"Comment [Counts as a National Wonder]"
         ]
     },
     {
