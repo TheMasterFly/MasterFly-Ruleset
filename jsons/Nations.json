@@ -3470,7 +3470,7 @@
     },
     {
         "name": "Crusader States",
-        "leaderName": "Baldwin I",
+        "leaderName": "Baldwin IV",
         "adjective": [
             "Crusader States"
         ],
@@ -3478,29 +3478,29 @@
             "Coast"
         ],
         "preferredVictoryType": "Domination",
-        "startIntroPart1": "Greetings, mighty Baldwin I! The Counties of Edessa and Tripoli, Principality of Antioch and Kingdom of Jerusalem call await your command.",
+        "startIntroPart1": "Greetings, mighty Baldwin IV! The Counties of Edessa and Tripoli, Principality of Antioch and Kingdom of Jerusalem call await your command.",
         "startIntroPart2": "May you lead the 4 Crusader States into glory!",
-        "declaringWar": "For the Lord!",
-        "attacked": "I'll see you twice; once on the battlefield and once in Hell!",
-        "defeated": "Will I rise or fall?",
-        "introduction": "Greetings!",
-        "neutralHello": "How are you doing?",
+        "declaringWar": "I am sorry that it has come to this.",
+        "attacked": "When I was sixteen, I won a great victory. I felt in that moment I would live to be a hundred. But you will not live to see thirty.",
+        "defeated": "Remember that howsoever you are played or by whom, your soul is in your keeping alone.",
+        "introduction": "Salam alaykum!",
+        "neutralHello": "Greetings",
         "neutralLetsHearIt": [
             "Go on.",
             "What do you say?",
-            "You may begin."
+            "Let us begin."
         ],
         "neutralNo": [
-            "We absolutely refuse.",
-            "No!",
+            "I am sorry to say that I refuse.",
+            "No.",
             "I refuse."
         ],
         "neutralYes": [
             "Very good.",
-            "Of course, yes.",
+            "Of course!",
             "That is very good."
         ],
-        "hateHello": "Speak quickly, for I have more important issues to attend to.",
+        "hateHello": "Speak quickly, for my time here is short",
         "hateLetsHearIt": [
             "Speak!",
             "What do you say?",
@@ -3509,14 +3509,14 @@
         "hateNo": [
             "Impossible.",
             "I refuse.",
-            "A better deal would be offered from Satan himself."
+            "I've heard better from Reynald."
         ],
         "hateYes": [
             "This works.",
             "That is good enough.",
             "Very well."
         ],
-        "afterPeace": "May this peace last.",
+        "afterPeace": "I pray you retire unharmed, now that we may both live.",
         "tradeRequest": "We bestow you the honor of this trade offer.",
         "outerColor": [
             255,
@@ -3535,7 +3535,8 @@
             "Free [Settler] appears <upon discovering [Mathematics] technology>",
             "Free [Swordsman] appears <upon discovering [Mathematics] technology>",
             "Free [Settler] appears <upon discovering [Chivalry] technology>",
-            "Free [Knight] appears <upon discovering [Chivalry] technology>"
+            "Free [Knight] appears <upon discovering [Chivalry] technology>",
+			"[Settler] units gain the [Outremer City Counter] promotion <hidden from users>"
         ],
         "cities": [
             "Jerusalem",
