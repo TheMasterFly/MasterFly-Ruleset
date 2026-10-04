@@ -35,8 +35,9 @@
     {
         "name": "Barbarian Strength",
         "uniques": [
-            "[+20]% Strength <within [1] tiles of a [Barbarian encampment]>",
-            "Unavailable <for [non-[Barbarians]] Civilizations>"
+            "[+25]% Strength <within [1] tiles of a [Barbarian encampment]>",
+            "Unavailable <for [non-[Barbarians]] Civilizations>",
+			 "[Settler] is destroyed <vs [Crusader States] units> <hidden from users>"
         ],
         "unitTypes": [
             "Sword",
