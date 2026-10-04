@@ -24,6 +24,7 @@
         "isNationalWonder": true,
         "cityHealth": 25,
         "uniques": [
+			"Unbuildable",
             "Limited to [4] per Civilization",
 			"[+50]% City Strength from defensive buildings",
 			"[+1 Faith] [in this city] <starting from the [Classical era]>",
