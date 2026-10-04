@@ -1732,5 +1732,12 @@
             "[+10]% Strength <when attacking>",
 			"Earn [50]% of killed [{Military} {Land}] unit's [Cost] as [Faith]"
         ]
+    },
+    {
+        "name": "Outremer City Counter",
+        "uniques": ["Consumes [-1] [Outremer Cities]",
+			"[This Unit] loses the [Outremer City Counter] promotion <for [non-[Crusader States]] Civilizations>"],
+        "outerColor": [255, 255, 255],
+        "innerColor": [0, 0, 0]
     }
 ]
