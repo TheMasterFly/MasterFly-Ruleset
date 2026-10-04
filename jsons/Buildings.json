@@ -32,7 +32,6 @@
         "cost": 0,
         "uniques": [
             "Indicates the capital city",
-			"Provides [1] [Outremer Cities]",
             "Limited to [4] per Civilization",
 			"[+1 Faith] [in this city] <starting from the [Classical era]>",
             "New [{Military} {Land}] units start with [15] XP [in this city] <starting from the [Medieval era]>",
