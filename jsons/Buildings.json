@@ -25,8 +25,8 @@
         "cityHealth": 25,
         "uniques": [
             "Limited to [4] per Civilization",
-			"[+1 Faith] [in this city] <starting from the [Classical era]>",
 			"[+50]% City Strength from defensive buildings",
+			"[+1 Faith] [in this city] <starting from the [Classical era]>",
             "New [{Military} {Land}] units start with [15] XP [in this city] <starting from the [Medieval era]>",
 			"Destroyed when the city is captured"
         ]
