@@ -3539,7 +3539,7 @@
 			"Cannot build [Settler] units <when above [3] [Outremer Cities]>",
 			"Instantly gain [1] [Outremer Cities] <upon constructing [Outremer Stronghold]>",
 			"Instantly gain [1] [Outremer Cities] <upon gaining a [Settler] unit>",
-			"Instantly gain [1] [Outremer Cities] <upon losing a [Settler] unit>"
+			"Instantly gain [-1] [Outremer Cities] <upon losing a [Settler] unit>"
         ],
         "cities": [
             "Jerusalem",
