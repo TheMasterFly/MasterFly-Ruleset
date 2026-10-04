@@ -3530,16 +3530,16 @@
         ],
         "favoredReligion": "Christianity",
         "uniqueName": "Crusades",
-        "uniqueText": "Free [Swordsman] and [Settler] appears upon discovering Mathematics\nFree [Knight] and [Settler] appears upon discovering Chivalry\nMay only puppet conquered cities and found up to 4\nMay buy items in puppet cities",
+        "uniqueText": "Free [Swordsman] appears upon discovering Mathematics\nFree [Knight] appears upon discovering Chivalry\nMay only puppet conquered cities and found up to 4\nMay buy items in puppet cities",
         "uniques": [
-            "Free [Settler] appears <upon discovering [Mathematics] technology>",
             "Free [Swordsman] appears <upon discovering [Mathematics] technology>",
-            "Free [Settler] appears <upon discovering [Chivalry] technology>",
             "Free [Knight] appears <upon discovering [Chivalry] technology>",
 			"May not annex cities",
 			"May buy items in puppet cities",
-			"[Settler] units gain the [Outremer City Counter] promotion",
-			"Cannot build [Settler] units <when above [3] [Outremer Cities]>"
+			"Cannot build [Settler] units <when above [3] [Outremer Cities]>",
+			"Instantly gain [1] [Outremer Cities] <upon constructing [Outremer Stronghold]>",
+			"Instantly gain [1] [Outremer Cities] <upon gaining a [Settler] unit>",
+			"Instantly gain [1] [Outremer Cities] <upon losing a [Settler] unit>"
         ],
         "cities": [
             "Jerusalem",
