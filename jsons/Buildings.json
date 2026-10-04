@@ -26,7 +26,7 @@
         "uniques": [
 			"Unbuildable",
             "Limited to [4] per Civilization",
-			"[+100]% City Strength from defensive buildings <in this city>",
+			"[+100]% Strength for cities <in this city>",
 			"[+1 Faith] [in this city] <starting from the [Classical era]>",
             "New [{Military} {Land}] units start with [15] XP [in this city] <starting from the [Medieval era]>",
 			"Destroyed when the city is captured"
