@@ -1192,7 +1192,7 @@
         "requiredResource": "Iron",
         "upgradesTo": "Musketman",
         "obsoleteTech": "Gunpowder",
-        "uniques": ["Comment [Before engaging in combat performs an extra ranged attack with [50]% of melee combat strength - not implemented yet -_-]"],
+        "uniques": ["Before engaging in combat performs an extra ranged attack with [50]% of melee combat strength"],
         "attackSound": "metalhit"
     },
     {
@@ -1347,10 +1347,11 @@
         "movement": 6,
         "strength": 28,
         "rangedStrength": 28,
-        "cost": 5,
-        "requiredTech": "Agriculture",
+        "cost": 185,
+        "requiredTech": "Navigation",
         "obsoleteTech": "Electronics",
-        "uniques": ["Transfer Movement to [Land]"
+        "uniques": ["Transfer Movement to [Civilian]",
+			"[+5] HP when healing"
         ],
         "upgradesTo": "Battleship",
         "hurryCostModifier": 20,
