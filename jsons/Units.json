@@ -1352,7 +1352,7 @@
         "requiredTech": "Navigation",
         "obsoleteTech": "Electronics",
         "uniques": ["Can Spread Religion <for [4] movement> <[2] times> <in [Friendly] tiles>",
-            "[This Unit] heals [25] HP <costs [-200 Gold] stats> <(modified by game speed)> <for [4] movement> <in [{Coastal} {City-State}] tiles> <once>"
+			"Instantly gain [200] [Gold] <(modified by game speed)> <for [4] movement> <in [{Coastal} {City-State}] tiles> <once>"
         ],
         "upgradesTo": "Battleship",
         "hurryCostModifier": 20,
