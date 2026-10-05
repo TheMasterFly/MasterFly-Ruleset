@@ -22,13 +22,16 @@
         "name": "Outremer Stronghold",
         "uniqueTo": "Crusader States",
         "isNationalWonder": true,
-        "cityHealth": 25,
+		"faith": 1,
+        "cityHealth": 50,
+		"maintenance": 1,
         "uniques": [
 			"Unbuildable",
+			"Comment [Immediately built in all non-puppeted cities]",
+			"Destroyed when the city is captured",
             "Limited to [4] per Civilization",
-			"[+1 Faith] [in this city] <starting from the [Classical era]>",
-            "New [{Military} {Land}] units start with [15] XP [in this city] <starting from the [Medieval era]>",
-			"Destroyed when the city is captured"
+			"[-1 Faith] [in this city] <before the [Classical era]>",
+			"Provides 1 extra copy of each improved luxury resource near this City <if [Market] is constructed>"
         ]
     },
     {
