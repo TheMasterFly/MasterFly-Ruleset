@@ -1351,10 +1351,8 @@
         "requiredResource": "Iron",
         "requiredTech": "Navigation",
         "obsoleteTech": "Electronics",
-        "uniques": ["Comment [Can undertake a trade mission with City-State, giving a medium sum of gold and 10 Influence]",
-            "Can undertake a trade mission with City-State, giving a large sum of gold and [10] Influence <hidden from users>",
-            "[-50]% Gold from Great Merchant trade missions <hidden from users>",
-            "Comment [This will consume the Nau]"
+        "uniques": ["Can Spread Religion <for [4] movement> <[2] times> <in [non-[Hostile]] tiles>",
+            "Instantly gain [200] [Gold] <(modified by game speed)> <for [4] movement> <in [{Coastal} {City-State}] tiles> <once>"
         ],
         "upgradesTo": "Battleship",
         "hurryCostModifier": 20,
