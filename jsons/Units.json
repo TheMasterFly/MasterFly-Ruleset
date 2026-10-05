@@ -1347,11 +1347,11 @@
         "movement": 6,
         "strength": 25,
         "rangedStrength": 30,
-        "cost": 1,
+        "cost": 5,
         "requiredTech": "Agriculture",
         "obsoleteTech": "Electronics",
         "uniques": ["Can Spread Religion <for [4] movement> <[2] times> <in [Friendly] tiles>",
-			"Instantly gain [200] [Gold] <(modified by game speed)> <for [4] movement> <in [{Coastal} {City-State}] tiles> <once>"
+			"Can carry [1] [Worker] units"
         ],
         "upgradesTo": "Battleship",
         "hurryCostModifier": 20,
