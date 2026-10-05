@@ -1345,13 +1345,12 @@
         "replaces": "Frigate",
         "unitType": "Ranged Water",
         "movement": 6,
-        "strength": 25,
-        "rangedStrength": 30,
+        "strength": 28,
+        "rangedStrength": 28,
         "cost": 5,
         "requiredTech": "Agriculture",
         "obsoleteTech": "Electronics",
-        "uniques": ["Can Spread Religion <for [4] movement> <[2] times> <in [Friendly] tiles>",
-			"Can carry [1] [Worker] units"
+        "uniques": ["Transfer Movement to [Land]"
         ],
         "upgradesTo": "Battleship",
         "hurryCostModifier": 20,
