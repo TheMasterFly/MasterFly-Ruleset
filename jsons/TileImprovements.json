@@ -560,11 +560,12 @@
             "Land"
         ],
         "turnsToBuild": 6,
-        "gold": 3,
+        "gold": 1,
         "techRequired": "Astronomy",
-        "uniques": [
+        "uniques": ["[-1 Gold] <hidden from users>",
             "Comment [Connects adjacent [Luxury resource] to your empire]",
-            "Gives a defensive bonus of [67]%",
+            "Gives a defensive bonus of [50]%",
+			"Gives a defensive bonus of [50]% <vs cities>",
             "Can only be built on [{Coastal} {City-State}] tiles",
             "Must be next to [Luxury resource]",
             "Cannot be built on [resource] tiles <hidden from users>",
