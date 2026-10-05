@@ -1348,7 +1348,6 @@
         "strength": 25,
         "rangedStrength": 30,
         "cost": 1,
-        "requiredResource": "Iron",
         "requiredTech": "Agriculture",
         "obsoleteTech": "Electronics",
         "uniques": ["Can Spread Religion <for [4] movement> <[2] times> <in [Friendly] tiles>",
