@@ -26,12 +26,12 @@
         "cityHealth": 50,
 		"maintenance": 1,
         "uniques": [
+			"[-1 Faith] [in this city] <before the [Classical era]>",
+			"Provides 1 extra copy of each improved luxury resource near this City <if [Market] is constructed>",
 			"Unbuildable",
 			"Comment [Immediately built in all non-puppeted cities]",
 			"Destroyed when the city is captured",
-            "Limited to [4] per Civilization",
-			"[-1 Faith] [in this city] <before the [Classical era]>",
-			"Provides 1 extra copy of each improved luxury resource near this City <if [Market] is constructed>"
+            "Limited to [4] per Civilization"
         ]
     },
     {
