@@ -1388,7 +1388,7 @@
     {
         "name": "Sipahi",
         "unitType": "Mounted",
-        "replaces": "Light Cavalry",
+        "replaces": "Lancer",
         "uniqueTo": "The Ottomans",
         "movement": 5,
         "strength": 25,
