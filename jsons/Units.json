@@ -799,51 +799,6 @@
         "attackSound": "arrow"
     },
     {
-        "name": "Light Cavalry",
-        "unitType": "Mounted",
-        "movement": 4,
-        "strength": 15,
-        "cost": 105,
-        "requiredTech": "Metal Casting",
-        "obsoleteTech": "Metallurgy",
-        "upgradesTo": "Lancer",
-        "requiredResource": "Horses",
-        "uniques": ["No movement cost to pillage",
-            "Can move after attacking",
-            "[+10]% Strength <vs [Ranged] units>",
-            "[+10]% to Flank Attack bonuses",
-            "[+20]% Health from pillaging tiles",
-            "[-80]% Strength <vs cities> <when attacking>"
-        ],
-        "attackSound": "horse"
-    },
-    {
-        "name": "Sipahi",
-        "unitType": "Mounted",
-        "replaces": "Light Cavalry",
-        "uniqueTo": "The Ottomans",
-        "movement": 4,
-        "strength": 16,
-        "cost": 105,
-        "requiredTech": "Metallurgy",
-        "requiredResource": "Horses",
-        "uniques": ["No movement cost to pillage",
-            "Can move after attacking",
-            "[+15]% Strength <vs [Ranged] units>",
-            "[+15]% to Flank Attack bonuses",
-            "[+25]% Health from pillaging tiles",
-            "[-66]% Strength <vs cities> <when attacking>",
-            "[+1] Sight"
-        ],
-        "promotions": [
-            "[Sipahi] ability",
-            "Formation I"
-        ],
-        "upgradesTo": "Anti-Tank Gun",
-        "obsoleteTech": "Combined Arms",
-        "attackSound": "horse"
-    },
-    {
         "name": "Camel Archer",
         "unitType": "Ranged Mounted",
         "replaces": "Crossbowman",
@@ -1424,6 +1379,29 @@
         ],
         "promotions": [
             "[Hakkapeliitta] ability",
+            "Formation I"
+        ],
+        "upgradesTo": "Anti-Tank Gun",
+        "obsoleteTech": "Combined Arms",
+        "attackSound": "horse"
+    },
+    {
+        "name": "Sipahi",
+        "unitType": "Mounted",
+        "replaces": "Light Cavalry",
+        "uniqueTo": "The Ottomans",
+        "movement": 5,
+        "strength": 25,
+        "cost": 185,
+        "requiredTech": "Metallurgy",
+        "requiredResource": "Horses",
+        "uniques": [
+            "Can move after attacking",
+            "No defensive terrain bonus",
+            "Never appears as a Barbarian unit"
+        ],
+        "promotions": [
+			"[Sipahi] ability",
             "Formation I"
         ],
         "upgradesTo": "Anti-Tank Gun",
