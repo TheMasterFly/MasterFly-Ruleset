@@ -535,13 +535,23 @@
         "uniqueTo": "Tibet",
         "faith": 2,
 		"culture": 1,
-        "requiredBuilding": "Shrine",
+        "requiredBuilding": "Palace",
         "maintenance": 2,
         "hurryCostModifier": 25,
-        "requiredTech": "Philosophy",
-        "uniques": [
-			"[+1 Faith] for each adjacent [Hill]",
-			"[+1 Culture] for each adjacent [Mountain]"
+        "requiredTech": "Agriculture",
+        "uniques": ["Comment [+1 [Faith] per adjacent [Hill] tiles, +1 [Culture] per adjacent [Mountain] tiles]",
+			"[+1 Faith] <with [1] to [1] neighboring [Hill] tiles> <hidden from users>",
+			"[+2 Faith] <with [2] to [2] neighboring [Hill] tiles> <hidden from users>",
+			"[+3 Faith] <with [3] to [3] neighboring [Hill] tiles> <hidden from users>",
+			"[+4 Faith] <with [4] to [4] neighboring [Hill] tiles> <hidden from users>",
+			"[+5 Faith] <with [5] to [5] neighboring [Hill] tiles> <hidden from users>",
+			"[+6 Faith] <with [6] to [6] neighboring [Hill] tiles> <hidden from users>",
+			"[+1 Culture] <with [1] to [1] neighboring [Mountain] tiles> <hidden from users>",
+			"[+2 Culture] <with [2] to [2] neighboring [Mountain] tiles> <hidden from users>",
+			"[+3 Culture] <with [3] to [3] neighboring [Mountain] tiles> <hidden from users>",
+			"[+4 Culture] <with [4] to [4] neighboring [Mountain] tiles> <hidden from users>",
+			"[+5 Culture] <with [5] to [5] neighboring [Mountain] tiles> <hidden from users>",
+			"[+6 Culture] <with [5] to [5] neighboring [Mountain] tiles> <hidden from users>"
         ]
     },
     {
