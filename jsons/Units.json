@@ -1119,14 +1119,15 @@
         "uniqueTo": "Korea",
         "movement": 2,
         "strength": 11,
-        "rangedStrength": 26,
+        "rangedStrength": 24,
         "cost": 120,
         "requiredTech": "Physics",
         "obsoleteTech": "Chemistry",
         "upgradesTo": "Cannon",
         "uniques": [
             "No defensive terrain bonus",
-            "Must set up to ranged attack"
+            "Must set up to ranged attack",
+			"[+50]% Strength <vs cities> <when attacking>"
         ],
         "attackSound": "throw"
     },
