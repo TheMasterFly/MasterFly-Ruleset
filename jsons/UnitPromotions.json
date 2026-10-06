@@ -1618,24 +1618,6 @@
         "innerColor": [80, 23, 135]
     },
     {
-        "name": "Tibetan Civilian ability",
-        "uniques": [
-            "[This Unit] heals [50] HP <upon ending a turn in a [Mountain] tile>",
-            "Double movement in [Hill]"
-        ],
-        "outerColor": [202, 37, 193],
-        "innerColor": [153, 255, 255]
-    },
-    {
-        "name": "Tibetan Military ability",
-        "uniques": ["Double movement in [Hill]",
-            "[+10]% Strength <in [Mountain] tiles>",
-            "[+10]% Strength <in [Hill] tiles>"
-        ],
-        "outerColor": [202, 37, 193],
-        "innerColor": [255, 204, 153]
-    },
-    {
         "name": "Altitude Training",
         "uniques": ["Double movement in [Hill]",
             "[+10]% Strength <when fighting in [Hill] tiles>"]
