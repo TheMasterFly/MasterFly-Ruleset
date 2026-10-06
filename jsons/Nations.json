@@ -3530,7 +3530,7 @@
         ],
         "favoredReligion": "Christianity",
         "uniqueName": "Crusades",
-        "uniqueText": "May only puppet conquered cities and found up to 4\nMay buy items in puppet cities\nAll founded cities gain:\n+30 health and +1 strength\n+1 [Faith] if [Shrine] is constructed\nDouble yield from improved luxury resources if [Market] is constructed\nUnits gain the [Morale] promotion if [Heroic Epic] is built in any city",
+        "uniqueText": "May only puppet conquered cities and found up to 4\nMay buy items in puppet cities\nA free [Templar Knight] appears in each founded city upon entering the Medieval era",
         "uniques": [
 			"May not annex cities",
 			"May buy items in puppet cities",
