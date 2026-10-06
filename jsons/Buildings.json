@@ -25,7 +25,6 @@
 		"faith": 1,
 		"cityStrength": 1,
         "cityHealth": 30,
-		"maintenance": 1,
         "uniques": [
 			"[-1 Faith] [in this city] <if [Shrine] is not constructed>",
 			"Provides 1 extra copy of each improved luxury resource near this City <if [Market] is constructed>",
