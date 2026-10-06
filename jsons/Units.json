@@ -772,7 +772,7 @@
         "unitType": "Sword",
         "movement": 2,
         "strength": 16,
-        "cost": 75,
+        "cost": 90,
         "uniques": ["Unbuildable",
 			"Unavailable <before adopting [Militant Faithful]>"],
         "upgradesTo": "Lancer",
@@ -795,46 +795,6 @@
         "upgradesTo": "Frigate",
         "uniques": [
             "Cannot enter ocean tiles"
-        ],
-        "attackSound": "arrow"
-    },
-    {
-        "name": "Camel Archer",
-        "unitType": "Ranged Mounted",
-        "replaces": "Crossbowman",
-        "uniqueTo": "Arabia",
-        "movement": 4,
-        "strength": 15,
-        "rangedStrength": 18,
-        "cost": 120,
-        "requiredTech": "Machinery",
-        "requiredResource": "Horses",
-        "upgradesTo": "Gatling Gun",
-        "obsoleteTech": "Industrialization",
-        "uniques": ["Can move after attacking",
-            "No defensive terrain bonus"],
-        "attackSound": "arrow"
-    },
-    {
-        "name": "Keshik",
-        "unitType": "Ranged Mounted",
-        "replaces": "Crossbowman",
-        "uniqueTo": "Mongolia",
-        "movement": 5,
-        "strength": 15,
-        "rangedStrength": 16,
-        "cost": 120,
-        "requiredTech": "Chivalry",
-        "requiredResource": "Horses",
-        "upgradesTo": "Gatling Gun",
-        "obsoleteTech": "Industrialization",
-        "uniques": [
-            "Can move after attacking",
-            "No defensive terrain bonus"
-        ],
-        "promotions": [
-            "Great Generals I",
-            "Quick Study"
         ],
         "attackSound": "arrow"
     },
@@ -961,23 +921,22 @@
 		"promotions": ["[Mandekalu Cavalry] ability"]
     },
     {
-        "name": "Lamellar Lancer",
+        "name": "Timurid Cavalry",
         "unitType": "Mounted",
         "replaces": "Knight",
         "uniqueTo": "Timurids",
         "movement": 4,
-        "strength": 23,
-        "cost": 120,
+        "strength": 20,
+        "cost": 130,
         "requiredTech": "Chivalry",
         "obsoleteTech": "Combustion",
         "upgradesTo": "Cavalry",
         "requiredResource": "Horses",
-        "uniques": ["[+25]% Strength <when attacking>",
-			"[-20]% Strength <when defending>",
+        "uniques": ["Before engaging in combat performs an extra ranged attack with [50]% of melee combat strength",
+			"[+20]% Strength <when attacking>",
+			"[-40]% Strength <when defending>",
             "Can move after attacking",
-            "No defensive terrain bonus",
-            "[-25]% Strength <vs cities> <when attacking>"
-        ],
+            "No defensive terrain bonus"],
         "attackSound": "horse"
     },
     {
@@ -1054,6 +1013,63 @@
             "Extended Range"
         ],
         "attackSound": "arrow"
+    },
+    {
+        "name": "Camel Archer",
+        "unitType": "Ranged Mounted",
+        "replaces": "Crossbowman",
+        "uniqueTo": "Arabia",
+        "movement": 4,
+        "strength": 15,
+        "rangedStrength": 18,
+        "cost": 120,
+        "requiredTech": "Machinery",
+        "requiredResource": "Horses",
+        "upgradesTo": "Gatling Gun",
+        "obsoleteTech": "Industrialization",
+        "uniques": ["Can move after attacking"],
+        "attackSound": "arrow"
+    },
+    {
+        "name": "Keshik",
+        "unitType": "Ranged Mounted",
+        "replaces": "Crossbowman",
+        "uniqueTo": "Mongolia",
+        "movement": 5,
+        "strength": 15,
+        "rangedStrength": 16,
+        "cost": 120,
+        "requiredTech": "Chivalry",
+        "requiredResource": "Horses",
+        "upgradesTo": "Gatling Gun",
+        "obsoleteTech": "Industrialization",
+        "uniques": [
+            "Can move after attacking",
+            "No defensive terrain bonus"
+        ],
+        "promotions": [
+            "Great Generals I",
+            "Quick Study"
+        ],
+        "attackSound": "arrow"
+    },
+    {
+        "name": "Turcopole",
+        "unitType": "Ranged Mounted",
+        "movement": 4,
+        "strength": 15,
+        "rangedStrength": 15,
+        "cost": 120,
+        "uniques": [
+			"Can move after attacking",
+			"Unbuildable",
+			"Unavailable <before adopting [Militant Faithful]>",
+            "No defensive terrain bonus"
+        ],
+        "requiredTech": "Machinery",
+        "upgradesTo": "Gatling Gun",
+        "obsoleteTech": "Industrialization",
+        "attackSound": "crossbow"
     },
     {
         "name": "Trebuchet",
