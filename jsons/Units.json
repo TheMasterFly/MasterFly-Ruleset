@@ -630,6 +630,28 @@
         "attackSound": "horse"
     },
     {
+        "name": "Lamellar Lancer",
+        "uniqueTo": "Tibet",
+        "replaces": "Horseman",
+        "unitType": "Mounted",
+        "movement": 3,
+        "strength": 12,
+        "cost": 85,
+        "requiredTech": "Horseback Riding",
+        "requiredResource": "Horses",
+        "upgradesTo": "Knight",
+        "obsoleteTech": "Chivalry",
+        "uniques": [
+            "Can move after attacking",
+            "[-33]% Strength <vs cities> <when attacking>"
+        ],
+        "hurryCostModifier": 20,
+        "promotions": [
+            "Altitude Training"
+        ],
+        "attackSound": "horse"
+    },
+    {
         "name": "Catapult",
         "unitType": "Siege",
         "movement": 2,
