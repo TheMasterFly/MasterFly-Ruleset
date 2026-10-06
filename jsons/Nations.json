@@ -3044,7 +3044,7 @@
         "uniqueName": "Nordic Bounty",
         "uniques": [
             "[+1 Faith] from every [Water resource]",
-            "[+2 Food, +1 Production] from every [Snow]"
+            "[+1 Food, +1 Faith] from every [Snow]"
         ],
         "cities": [
             "Oslo",
