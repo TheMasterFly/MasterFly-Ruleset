@@ -1028,18 +1028,25 @@
     {
         "name": "Templar Knight",
         "unitType": "Mounted",
+        "replaces": "Knight",
+        "uniqueTo": "Crusader States",
         "movement": 3,
         "strength": 20,
-        "cost": 100,
+        "cost": 135,
         "requiredTech": "Chivalry",
-        "uniques": ["Unbuildable",
-			"Unavailable <before adopting [Militant Faithful]>"],
-        "upgradesTo": "Cavalry",
         "obsoleteTech": "Combustion",
-        "attackSound": "metalhit",
-		"promotions": [
-			"Mercenary"
-        ]
+        "upgradesTo": "Cavalry",
+        "requiredResource": "Horses",
+        "uniques": ["Can Spread Religion <for [3] movement> <[2] times> <in [non-[Lithuania]] tiles>",
+            "Can be purchased with [Faith] [in all cities in which the majority religion is a major religion]",
+			"[+33]% Strength <when defending> <vs [non-[Spear Unit ability]]>",
+            "Can move after attacking",
+            "No defensive terrain bonus",
+            "[-33]% Strength <vs cities> <when attacking>",
+            "Never appears as a Barbarian unit"
+        ],
+        "attackSound": "horse",
+		"religiousStrength": 1000
     },
     {
         "name": "Crossbowman",
@@ -2334,7 +2341,7 @@
     {
         "name": "Hospitaller Missionary",
         "replaces": "Missionary",
-        "uniqueTo": "Crusader States",
+        "uniqueTo": "Papal States",
         "unitType": "Civilian",
         "movement": 4,
 		"strength": 8,
