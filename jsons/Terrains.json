@@ -661,7 +661,7 @@
 			"Must be adjacent to [0] [Tundra] tiles",
 			"Must be adjacent to [2] to [6] [Hill] tiles",
 			"Must be adjacent to [0] to [2] [Mountain] tiles",
-			"Grants [Altitude Training] ([double movement and +10% Strength in hills]) to adjacent [Land] units for the rest of the game",
+			"Grants [Altitude training] ([double movement and +10% Strength in hills]) to adjacent [Land] units for the rest of the game",
 			"Tile provides yield without assigned population"],
 		"weight": 10
 	},
@@ -692,7 +692,7 @@
 		"uniques": ["Grants [+50 Faith] to the first civilization to discover it",
 			"Must be adjacent to [3] to [6] [Mountain] tiles",
 			"Must be adjacent to [0] [Coast] tiles",
-			"Grants [Altitude Training] ([double movement and +10% Strength in hills]) to adjacent [Land] units for the rest of the game",
+			"Grants [Altitude training] ([double movement and +10% Strength in hills]) to adjacent [Land] units for the rest of the game",
 			"Tile provides yield without assigned population"],
 		"turnsInto": "Mountain",
 		"impassable": true,
