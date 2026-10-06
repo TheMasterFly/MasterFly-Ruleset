@@ -1618,7 +1618,7 @@
         "innerColor": [80, 23, 135]
     },
     {
-        "name": "Altitude Training",
+        "name": "Altitude training",
         "uniques": ["Double movement in [Hill]",
             "[+10]% Strength <when fighting in [Hill] tiles>"]
     },
