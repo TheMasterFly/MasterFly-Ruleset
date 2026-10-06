@@ -628,25 +628,6 @@
 		]
 	},
     {
-        "name": "Kobresia Pasture",
-        "uniqueTo": "Tibet",
-        "replaces": "Pasture",
-        "terrainsCanBeBuiltOn": [
-            "Mountain"
-        ],
-        "culture": 1,
-        "turnsToBuild": 8,
-        "techRequired": "Animal Husbandry",
-        "uniques": [
-            "[+1 Food] <after discovering [Fertilizer]>",
-            "[+1 Food] <in tiles adjacent to [Kobresia Pasture] tiles>",
-            "Improves [Cattle] resource in this tile",
-            "Improves [Horses] resource in this tile",
-            "Improves [Sheep] resource in this tile",
-            "Pillaging this improvement yields approximately [+10 Gold]"
-        ]
-    },
-    {
         "name": "Vank",
         "uniqueTo": "Armenia",
         "terrainsCanBeBuiltOn": [
