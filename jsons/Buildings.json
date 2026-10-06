@@ -535,10 +535,10 @@
         "uniqueTo": "Tibet",
         "faith": 2,
 		"culture": 1,
-        "requiredBuilding": "Palace",
+        "requiredBuilding": "Shrine",
         "maintenance": 2,
         "hurryCostModifier": 25,
-        "requiredTech": "Agriculture",
+        "requiredTech": "Philosophy",
         "uniques": ["Comment [+1 [Faith] per adjacent [Hill] tiles, +1 [Culture] per adjacent [Mountain] tiles]",
 			"[+1 Faith] <with [1] to [1] neighboring [Hill] tiles> <hidden from users>",
 			"[+2 Faith] <with [2] to [2] neighboring [Hill] tiles> <hidden from users>",
@@ -551,7 +551,14 @@
 			"[+3 Culture] <with [3] to [3] neighboring [Mountain] tiles> <hidden from users>",
 			"[+4 Culture] <with [4] to [4] neighboring [Mountain] tiles> <hidden from users>",
 			"[+5 Culture] <with [5] to [5] neighboring [Mountain] tiles> <hidden from users>",
-			"[+6 Culture] <with [5] to [5] neighboring [Mountain] tiles> <hidden from users>"
+			"[+6 Culture] <with [5] to [5] neighboring [Mountain] tiles> <hidden from users>",
+			"[+1 Culture] <with [1] to [1] neighboring [Volcano] tiles> <hidden from users>",
+			"[+2 Culture] <with [2] to [2] neighboring [Volcano] tiles> <hidden from users>",
+			"[+3 Culture] <with [3] to [3] neighboring [Volcano] tiles> <hidden from users>",
+			"[+4 Culture] <with [4] to [4] neighboring [Volcano] tiles> <hidden from users>",
+			"[+5 Culture] <with [5] to [5] neighboring [Volcano] tiles> <hidden from users>",
+			"[+6 Culture] <with [5] to [5] neighboring [Volcano] tiles> <hidden from users>",
+			"[+3 Culture] <with [1] to [1] neighboring [Chomolungma] tiles> <hidden from users>"
         ]
     },
     {
