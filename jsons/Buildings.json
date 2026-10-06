@@ -8,7 +8,7 @@
         "culture": 1,
         "cityStrength": 2.5,
         "cost": 0,
-        "uniques": [
+        "uniques": ["[+100 Faith]",
             "Indicates the capital city",
             "Provides [1] [Horses] <after discovering [Animal Husbandry]>",
             "Provides [1] [Iron] <after discovering [Iron Working]>",
