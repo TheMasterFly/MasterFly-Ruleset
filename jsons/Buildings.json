@@ -533,18 +533,15 @@
         "name": "Gompa",
         "replaces": "Temple",
         "uniqueTo": "Tibet",
-        "faith": 1,
-        "culture": 1,
+        "faith": 2,
+		"culture": 1,
         "requiredBuilding": "Shrine",
-        "maintenance": 3,
+        "maintenance": 2,
         "hurryCostModifier": 25,
-        "specialistSlots": {
-            "Scientist": 1
-        },
         "requiredTech": "Philosophy",
         "uniques": [
-            "Comment [+1 Scientist specialist slot]",
-            "[+1 Faith] from [Mountain] tiles [in this city]"
+			"[+1 Faith] for each adjacent [Hill]",
+			"[+1 Culture] for each adjacent [Mountain]"
         ]
     },
     {
