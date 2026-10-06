@@ -8,7 +8,7 @@
         "culture": 1,
         "cityStrength": 2.5,
         "cost": 0,
-        "uniques": ["[+100 Faith]",
+        "uniques": [
             "Indicates the capital city",
             "Provides [1] [Horses] <after discovering [Animal Husbandry]>",
             "Provides [1] [Iron] <after discovering [Iron Working]>",
@@ -23,10 +23,11 @@
         "uniqueTo": "Crusader States",
         "isNationalWonder": true,
 		"faith": 1,
+		"cityStrength": 1,
         "cityHealth": 50,
 		"maintenance": 1,
         "uniques": [
-			"[-1 Faith] [in this city] <before the [Classical era]>",
+			"[+1 Faith] [in this city] <if [Shrine] is constructed>",
 			"Provides 1 extra copy of each improved luxury resource near this City <if [Market] is constructed>",
 			"Unbuildable",
 			"Comment [Immediately built in all non-puppeted cities]",
