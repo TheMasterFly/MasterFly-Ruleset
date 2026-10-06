@@ -29,6 +29,8 @@
         "uniques": [
 			"[-1 Faith] [in this city] <if [Shrine] is not constructed>",
 			"Provides 1 extra copy of each improved luxury resource near this City <if [Market] is constructed>",
+			"All newly-trained [non-[Air]] units [in this city] receive the [Morale] promotion <if [Heroic Epic] is constructed in at least [1] of [in all cities] cities>",
+			"Will not be displayed in Civilopedia",
 			"Unbuildable",
 			"Comment [Immediately built in all non-puppeted cities]",
 			"Destroyed when the city is captured",
