@@ -24,7 +24,7 @@
         "isNationalWonder": true,
 		"faith": 1,
 		"cityStrength": 1,
-        "cityHealth": 50,
+        "cityHealth": 30,
 		"maintenance": 1,
         "uniques": [
 			"[-1 Faith] [in this city] <if [Shrine] is not constructed>",
