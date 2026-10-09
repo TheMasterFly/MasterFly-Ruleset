@@ -545,7 +545,7 @@
             "Tundra"
         ],
         "turnsToBuild": 7,
-        "techRequired": "Agriculture",
+        "techRequired": "Metal Casting",
         "uniques": [
             "Can be built outside your borders",
             "Turn this tile into a [Forest] tile",
