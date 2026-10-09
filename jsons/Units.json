@@ -1085,7 +1085,6 @@
         "uniques": [
 			"Can move after attacking",
 			"Unbuildable",
-			"Comment ["Unavailable <before adopting [Militant Faithful]>"]",
             "No defensive terrain bonus"
         ],
         "requiredTech": "Machinery",
