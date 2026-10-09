@@ -430,12 +430,6 @@
         "uniques": ["[+15]% growth [in this city] <when not at war>",
             "[+4 Food] [in this city] <when not at war>"]
     },
-    {
-        "name": "Militant Faithful",
-        "type": "Follower",
-        "uniques": ["May buy [Templar Knight] units with [Faith] [in cities following this religion] <starting from the [Medieval era]>",
-            "May buy [Landsknecht] units with [Faith] [in cities following this religion] <starting from the [Medieval era]>"]
-    },
 
 
 
@@ -626,10 +620,8 @@
         "name": "Garden of Eden",
         "type": "Enhancer",
         "uniques": ["Comment [Allows the building of [Garden] and [Water Mill] buildings without being next to Fresh Water]",
-            "[+1 Faith] [in capital] <for every [[Garden] Buildings]>",
-            "[+1 Food] [in capital] <for every [[Water Mill] Buildings]>",
-            "May buy [Garden] buildings for [150] [Faith] [in cities following this religion]",
-            "May buy [Water Mill] buildings for [200] [Faith] [in cities following this religion]",
+            "May buy [Garden] buildings for [250] [Faith] [in cities following this religion]",
+            "May buy [Water Mill] buildings for [300] [Faith] [in cities following this religion]",
             "Only available <after adopting [Reformation]>"]
     },
     {
