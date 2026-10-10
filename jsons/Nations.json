@@ -1398,11 +1398,13 @@
         "outerColor": [255,255,255],
         "innerColor": [220,0,0],
         "uniqueName": "Jewel of the Caucasus",
-        "uniques": ["[Land] units gain the [Mountain Guardians] promotion <hidden from users>",
-			"[Civilian] units gain the [Mountain Guardians] promotion <for units without [Mountain Guardians]> <hidden from users>",
+        "uniques": [
 			"[+1 Food, +2 Production] from every [Mountain] <in tiles adjacent to [City center] tiles>",
 			"[+1 Faith] from every [Mountain] <starting from the [Classical era]> <in tiles adjacent to [City center] tiles>",
-            "Comment [Units may cross [Mountain] tiles when adjacent to city tiles]"
+            "Comment [Units may cross [Mountain] tiles when adjacent to city tiles]",
+			"Can pass through impassable tiles <within [1] tiles of a [City center]>",
+            "[This Unit] loses [1] movement <upon entering a [Mountain] tile>",
+            "[-1] Movement <in [Mountain] tiles>"
         ],
         "cities": [
             "Tbilisi","Kutaisi","Batumi","Sokhumi","Zugdidi","Rust'avi","P'ot'i","Gori","Ts'khinvali","Samtredia",
