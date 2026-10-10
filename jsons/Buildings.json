@@ -979,7 +979,7 @@
         "cityStrength": 2.5,
         "cityHealth": 50,
         "uniques": [
-			"[-1 Faith] <for [14] turns>",
+			"[-1 Faith] <for [14] turns> <(modified by game speed)>",
 			"[+3 Faith] <after founding a Pantheon>",
 			"[+1 Faith, +1 Culture] <after founding a religion>",
 			"Provides [5] [Horses] <after discovering [Animal Husbandry]> <after founding a religion>",
