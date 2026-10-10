@@ -628,32 +628,6 @@
 		]
 	},
     {
-        "name": "Vank",
-        "uniqueTo": "Armenia",
-        "terrainsCanBeBuiltOn": [
-            "Hill"
-        ],
-        "faith": 1,
-        "turnsToBuild": 8,
-        "techRequired": "Philosophy",
-        "uniques": [
-            "[+1 Faith] for each adjacent [Mountain]",
-            "[+1 Science] <after discovering [Theology]>",
-			"[+1 Science] <after discovering [Astronomy]>",
-            "Provides [1] [Horses]",
-            "Gives a defensive bonus of [15]%",
-            "Unavailable <in [{Grassland} {non-[Hill]}] tiles> <hidden from users>",
-            "Unavailable <in [{Plains} {non-[Hill]}] tiles> <hidden from users>",
-            "Unavailable <in [{Desert} {non-[Hill]}] tiles> <hidden from users>",
-            "Unavailable <in [Flood plains] tiles> <hidden from users>",
-            "Improves [Bonus] resource in this tile",
-			"Improves [Horses] resource in this tile",
-            "Unavailable <within [3] tiles of a [Vank]>",
-			"Cannot be built on [Water] tiles <hidden from users>",
-            "Pillaging this improvement yields approximately [+35 Gold]"
-        ]
-    },
-    {
         "name": "Moai",
         "uniqueTo": "Polynesia",
         "terrainsCanBeBuiltOn": [
