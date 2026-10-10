@@ -1399,6 +1399,7 @@
         "innerColor": [220,0,0],
         "uniqueName": "Jewel of the Caucasus",
         "uniques": ["[Land] units gain the [Mountain Guardians] promotion <hidden from users>",
+			"[Civilian] units gain the [Mountain Guardians] promotion <for units without [Mountain Guardians]> <hidden from users>",
 			"[+1 Food, +2 Production] from every [Mountain] <in tiles adjacent to [City center] tiles>",
 			"[+1 Faith] from every [Mountain] <starting from the [Classical era]> <in tiles adjacent to [City center] tiles>",
             "Comment [Units may cross [Mountain] tiles when adjacent to city tiles]"
