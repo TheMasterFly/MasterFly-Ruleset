@@ -1563,16 +1563,6 @@
         ]
     },
     {
-        "name": "Mountain Guardians",
-        "uniques": ["Can pass through impassable tiles <within [1] tiles of a [City center]>",
-            "[This Unit] loses [1] movement <upon entering a [Mountain] tile>",
-            "[-1] Movement <in [Mountain] tiles>",
-			"[This Unit] loses the [Mountain Guardians] promotion <upon turn end> <for [non-[Georgia]] Civilizations>",
-			"[Target Unit] gains the [Mountain Guardians] promotion <for [Civilian] units>"],
-        "outerColor": [255, 255, 255],
-        "innerColor": [220, 0, 0]
-    },
-    {
         "name": "[Norwegian Ski Infantry] ability",
         "uniques": [
             "[+25]% Strength <when fighting in [Snow] tiles>",
