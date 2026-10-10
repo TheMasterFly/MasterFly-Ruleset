@@ -213,11 +213,19 @@
             231,
             95
         ],
-        "uniqueName": "The Mountain Kingdom",
+        "uniqueName": "Mamikonian Resilience",
+		"uniqueText": "+20% Strength <when fighting units from a Civilization with more Cities than you\nGain a large amount of [Faith], increasing with Era and game speed, upon losing a city",
         "uniques": [
-            "[+1 Food, +1 Production] from every [Mountain]",
-			"[+2 Faith] [in capital] <after founding a Pantheon>",
-			"[+1 Faith] from every [Mountain] <after founding a religion>"
+			"[+20]% Strength <when fighting units from a Civilization with more Cities than you>",
+			"Gain [150] [Faith] <(modified by game speed)> <upon losing a city> <during the [Ancient era]>",
+			"Gain [250] [Faith] <(modified by game speed)> <upon losing a city> <during the [Classical era]>",
+			"Gain [360] [Faith] <(modified by game speed)> <upon losing a city> <during the [Medieval era]>",
+			"Gain [500] [Faith] <(modified by game speed)> <upon losing a city> <during the [Renaissance era]>",
+			"Gain [700] [Faith] <(modified by game speed)> <upon losing a city> <during the [Industrial era]>",
+			"Gain [1000] [Faith] <(modified by game speed)> <upon losing a city> <during the [Modern era]>",
+			"Gain [1200] [Faith] <(modified by game speed)> <upon losing a city> <during the [Atomic era]>",
+			"Gain [1500] [Faith] <(modified by game speed)> <upon losing a city> <during the [Information era]>",
+			"Gain [2000] [Faith] <(modified by game speed)> <upon losing a city> <during the [Future era]>"
         ],
         "cities": [
             "Yerevan",
