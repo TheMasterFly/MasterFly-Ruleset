@@ -1306,9 +1306,9 @@
         "hurryCostModifier": 15,
         "requiredBuilding": "Library",
         "uniques": [
-            "[+5 Science] from [Mountain] tiles [in this city]",
+            "[+2 Science] from [Mountain] tiles [in this city]",
             "[+1 Science] from [Tundra] tiles [in this city]",
-			"[+5 Science] from [Volcano] tiles [in this city]"
+			"[+2 Science] from [Volcano] tiles [in this city]"
         ],
         "requiredTech": "Astronomy"
     },
@@ -1374,13 +1374,14 @@
 		"replaces": "Bank",
 		"uniqueTo": "Germany",
         "gold": 4,
-		"uniques": ["[+1 Gold, +1 Production] from every specialist [in this city]"],
+		"uniques": ["[+1 Gold, +1 Production] from every specialist [in this city]",
+			"Comment [+1 Merchant specialist slot]"],
         "specialistSlots": {
-            "Merchant": 1
+            "Merchant": 2
         },
         "hurryCostModifier": 25,
         "percentStatBonus": {
-            "gold": 25
+            "gold": 40
         },
         "requiredBuilding": "Market",
         "requiredTech": "Banking"
