@@ -1568,7 +1568,6 @@
             "[This Unit] loses [1] movement <upon entering a [Mountain] tile>",
             "[-1] Movement <in [Mountain] tiles>",
 			"[This Unit] loses the [Mountain Guardians] promotion <upon turn end> <for [non-[Georgia]] Civilizations>",
-			"[Land] units gain the [Mountain Guardians] promotion <hidden from users>",
 			"[Target Unit] gains the [Mountain Guardians] promotion <for [Civilian] units>"],
         "outerColor": [255, 255, 255],
         "innerColor": [220, 0, 0]
