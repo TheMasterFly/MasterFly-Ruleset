@@ -886,26 +886,6 @@
         "attackSound": "horse"
     },
     {
-        "name": "Monaspa",
-        "unitType": "Mounted",
-        "replaces": "Knight",
-        "uniqueTo": "Georgia",
-        "movement": 4,
-        "strength": 22,
-        "cost": 120,
-        "requiredTech": "Chivalry",
-        "obsoleteTech": "Military Science",
-        "requiredResource": "Horses",
-        "upgradesTo": "Cavalry",
-        "uniques": [
-            "Can move after attacking",
-            "[-25]% Strength <vs cities> <when attacking>",
-            "[+25]% Strength <when adjacent to a [Monaspa] unit>",
-            "Never appears as a Barbarian unit"
-        ],
-        "attackSound": "horse"
-    },
-    {
         "name": "Naresuan's Elephant",
         "unitType": "Mounted",
         "replaces": "Knight",
@@ -1168,9 +1148,9 @@
         "unitType": "Sword",
         "replaces": "Longswordsman",
         "uniqueTo": "Denmark",
-        "movement": 3,
-        "strength": 17,
-        "cost": 95,
+        "movement": 2,
+        "strength": 18,
+        "cost": 100,
         "requiredTech": "Metal Casting",
         "upgradesTo": "Musketman",
         "obsoleteTech": "Metallurgy",
@@ -1195,6 +1175,23 @@
         "upgradesTo": "Musketman",
         "obsoleteTech": "Gunpowder",
         "uniques": ["Before engaging in combat performs an extra ranged attack with [50]% of melee combat strength"],
+        "attackSound": "metalhit"
+    },
+    {
+        "name": "Khevsur Warrior",
+        "unitType": "Sword",
+        "replaces": "Longswordsman",
+        "uniqueTo": "Georgia",
+        "movement": 2,
+        "strength": 16,
+        "cost": 100,
+        "requiredTech": "Metal Casting",
+        "upgradesTo": "Musketman",
+        "obsoleteTech": "Gunpowder",
+        "promotions": [
+            "Khridoli"
+        ],
+        "requiredResource": "Iron",
         "attackSound": "metalhit"
     },
     {
