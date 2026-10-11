@@ -1704,9 +1704,10 @@
         ]
     },
     {
-        "name": "Mountain Pass Guardians",
+        "name": "Khridoli",
         "uniques": [
-            "[+20]% Strength <within [2] tiles of a [Mountain]>"
+            "[+20]% Strength <within [2] tiles of a [Mountain]> <in [Friendly] tiles>",
+			"Earn [100]% of killed [{Military} {Land}] unit's [Cost] as [Culture] <during a Golden Age>"
         ]
     }
 ]
