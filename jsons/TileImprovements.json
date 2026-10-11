@@ -212,6 +212,8 @@
     },
     {
         "name": "Svan Tower",
+		"replaces": "Fort",
+		"uniqueTo": "Georgia",
         "terrainsCanBeBuiltOn": [
             "Plains",
             "Grassland",
