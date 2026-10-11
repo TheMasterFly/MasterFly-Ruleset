@@ -215,20 +215,19 @@
         "terrainsCanBeBuiltOn": [
             "Plains",
             "Grassland",
-            "Desert",
             "Hill",
             "Tundra",
             "Snow",
-            "Forest",
-            "Jungle"
+            "Forest"
         ],
-        "turnsToBuild": 6,
+        "turnsToBuild": 8,
+		"culture": 1,
+		"production": 1,
         "techRequired": "Engineering",
         "uniques": [
 			"[+1 Culture, +1 Production] <during a Golden Age>",
-			"[+5]% Golden Age length",
-            "Gives a defensive bonus of [120]% <vs [non-[Siege]] units>",
-            "Gives a defensive bonus of [60]% <vs [Siege] units>",
+            "Gives a defensive bonus of [100]% <vs [non-[Siege]] units>",
+            "Gives a defensive bonus of [50]% <vs [Siege] units>",
 			"Unavailable <within [2] tiles of a [Svan Tower]>"
         ],
         "shortcutKey": "O"
