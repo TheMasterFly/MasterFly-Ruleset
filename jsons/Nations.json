@@ -214,7 +214,7 @@
             95
         ],
         "uniqueName": "Mamikonian Resilience",
-		"uniqueText": "+20% Strength when fighting units from a Civilization with more Cities than you\nGain a large amount of [Faith], increasing with Era and game speed, upon losing a city\nGain the ability to purchase units with [Faith] for their equivalent [Production] cost for 1 turn after losing a city",
+		"uniqueText": "+20% Strength when fighting units from a Civilization with more Cities than you\nGain a large amount of [Faith], increasing with Era and game speed, upon losing a city\nGain the ability to purchase Military Land units with [Faith] for their equivalent [Production] cost for 1 turn after losing a city",
         "uniques": [
 			"Gain a free [Etchmiadzin Cathedral] [in capital]",
 			"[+20]% Strength <when fighting units from a Civilization with more Cities than you>",
