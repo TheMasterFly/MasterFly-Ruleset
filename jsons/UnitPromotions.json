@@ -1702,5 +1702,11 @@
             "[+10]% Strength <when attacking>",
 			"Earn [50]% of killed [{Military} {Land}] unit's [Cost] as [Faith]"
         ]
+    },
+    {
+        "name": "Mountain Pass Guardians",
+        "uniques": [
+            "[+20]% Strength <within [2] tiles of a [Mountain]>"
+        ]
     }
 ]
