@@ -211,6 +211,29 @@
         "shortcutKey": "O"
     },
     {
+        "name": "Svan Tower",
+        "terrainsCanBeBuiltOn": [
+            "Plains",
+            "Grassland",
+            "Desert",
+            "Hill",
+            "Tundra",
+            "Snow",
+            "Forest",
+            "Jungle"
+        ],
+        "turnsToBuild": 6,
+        "techRequired": "Engineering",
+        "uniques": [
+			"[+1 Culture, +1 Production] <during a Golden Age>",
+			"[+5]% Golden Age length",
+            "Gives a defensive bonus of [120]% <vs [non-[Siege]] units>",
+            "Gives a defensive bonus of [60]% <vs [Siege] units>",
+			"Unavailable <within [2] tiles of a [Svan Tower]>"
+        ],
+        "shortcutKey": "O"
+    },
+    {
         "name": "Canal Construction",
         "terrainsCanBeBuiltOn": [
             "Plains",
