@@ -1407,12 +1407,10 @@
         "tradeRequest": "This trade honors us both. Shall we proceed?",
         "outerColor": [255,255,255],
         "innerColor": [220,0,0],
-        "uniqueName": "Jewel of the Caucasus",
-        "uniques": [
-			"[+1 Food, +2 Production] from every [Mountain] <in tiles adjacent to [City center] tiles>",
-			"[+1 Faith] from every [Mountain] <starting from the [Classical era]> <in tiles adjacent to [City center] tiles>",
-            "Comment [Units may cross [Mountain] tiles when adjacent to city tiles]",
-			"Land units may cross [Mountain] tiles after the first [Scout] is earned <within [1] tiles of a [City center]>"
+        "uniqueName": "Qvevri Tradition/Ecclesiastical Architecture",
+        "uniqueText": "[Palace] provides 2 [Wine] and +50% Golden Age length\n[Faith]-providing buildings provide +1 [Culture] and [Production] during Golden Ages",
+		"uniques": [
+			 "[+1 Culture, +1 Production] from all [Faith] buildings <during a Golden Age>"
         ],
         "cities": [
             "Tbilisi","Kutaisi","Batumi","Sokhumi","Zugdidi","Rust'avi","P'ot'i","Gori","Ts'khinvali","Samtredia",
