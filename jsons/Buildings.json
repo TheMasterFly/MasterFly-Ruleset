@@ -16,8 +16,8 @@
             "Provides [1] [Oil] <after discovering [Biology]>",
             "Provides [1] [Aluminum] <after discovering [Electricity]>",
 			"Provides [1] [Lithium] <after discovering [Electronics]>",
-			"Provides [2] [Wine] <for [Georgia] Civilizations> <hidden from users>",
-			"[+50]% Golden Age length <for [Georgia] Civilizations> <hidden from users>"
+			"Provides [2] [Wine] <for [Georgia] Civilizations> <starting from the [Classical era]> <hidden from users>",
+			"[+50]% Golden Age length <for [Georgia] Civilizations> <starting from the [Classical era]> <hidden from users>"
         ]
     },
     {
