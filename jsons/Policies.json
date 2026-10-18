@@ -266,9 +266,9 @@
             {
                 "name": "Organized Religion",
                 "uniques": [
-					"[+1 Culture, +1 Faith] [in all cities]",
-                    "[+1 Culture, +1 Faith] from every [Shrine]",
-                    "[+1 Culture, +1 Faith] from every [Temple]"
+					"[+1 Culture] [in all cities]",
+                    "[+1 Culture] from every [Shrine]",
+                    "[+1 Culture] from every [Temple]"
                 ],
                 "row": 1,
                 "column": 3
@@ -276,7 +276,7 @@
             {
                 "name": "Mandate Of Heaven",
                 "uniques": [
-                    "[Faith] cost of purchasing items in cities [-15]%",
+					"[+25]% Natural religion spread [in all cities]",
 					"Comment [+1 [Culture] from all buildings purchased with [Faith]]",
 					"[+1 Culture] from every [Monastery] <hidden from users>",
 					"[+1 Culture] from every [Cathedral] <hidden from users>",
@@ -289,7 +289,7 @@
             {
                 "name": "Theocracy",
                 "uniques": [
-					"[+1 Culture] from every [Shrine]",
+					"[+1 Faith, +1 Gold] from every [Shrine]",
 					"[+1 Happiness] from every [Temple]",
 					"[+25]% [Gold] from every [Grand Temple]"
                 ],
@@ -325,7 +325,7 @@
                 "uniques": [
                     "Gain enough Faith for [100]% of a Great Prophet",
                     "[+3 Gold, +3 Culture] from every [Holy site]",
-					"[-10]% Culture cost of adopting new Policies"
+					"[Faith] cost of purchasing items in cities [-15]%"
                 ]
             }
         ]
@@ -357,7 +357,8 @@
             {
                 "name": "Aesthetics",
                 "uniques": [
-                    "Resting point for Influence with City-States is increased by [20]"
+                    "Resting point for Influence with City-States is increased by [10]",
+					"Resting point for Influence with City-States is increased by [10] <in cities following our religion>"
                 ],
                 "row": 1,
                 "column": 4
@@ -365,7 +366,7 @@
             {
                 "name": "Scholasticism",
                 "uniques": [
-                    "Allied City-States provide [Science] equal to [25]% of what they produce for themselves"
+                    "Allied City-States provide [Science] equal to [50]% of what they produce for themselves"
                 ],
                 "requires": [
                     "Philantropy"
@@ -479,7 +480,7 @@
         "name": "Commerce",
         "uniques": [
             "[+2 Gold] [in all cities]",
-            "Comment [Unlocks [Big Ben] and [Landsknecht]]"
+            "Comment [Unlocks [Big Ben]]"
         ],
         "era": "Medieval era",
         "policies": [
@@ -489,7 +490,8 @@
                     "[Great Merchant] is earned [33]% faster",
                     "[+50]% Production when constructing [Market] buildings [in all cities]",
                     "[+50]% Production when constructing [Bank] buildings [in all cities]",
-                    "[+50]% Production when constructing [Stock Exchange] buildings [in all cities]"
+                    "[+50]% Production when constructing [Stock Exchange] buildings [in all cities]",
+					"[+50]% Production when constructing [Digital Market] buildings [in all cities]"
                 ],
                 "row": 1,
                 "column": 3
@@ -497,7 +499,8 @@
             {
                 "name": "Mercenary Army",
                 "uniques": [
-                    "[Military] units gain the [Mercenary] promotion"
+					"Comment [All bought units may immediately move]",
+                    "[Military] units gain the [Mercenary] promotion <hidden from users>"
                 ],
                 "requires": ["Entrepreneurship"],
                 "row": 2,
@@ -506,9 +509,8 @@
             {
                 "name": "Silk Road",
                 "uniques": [
-                    "Retain [50]% of the happiness from a luxury after the last copy has been traded away",
-                    "[-33]% maintenance on road & railroads",
-                    "[+33]% [Gold] from Trade Routes"
+                    "[-40]% maintenance on road & railroads",
+                    "[+40]% [Gold] from Trade Routes"
                 ],
                 "requires": ["Entrepreneurship"],
                 "row": 2,
@@ -517,10 +519,10 @@
             {
                 "name": "Mercantilism",
                 "uniques": [
-                    "[Gold] cost of purchasing items in cities [-15]%",
                     "[+1 Happiness, +2 Gold] from every [Market]",
                     "[+1 Happiness, +2 Gold] from every [Bank]",
-                    "[+1 Happiness, +2 Gold] from every [Stock Exchange]"
+                    "[+1 Happiness, +2 Gold] from every [Stock Exchange]",
+					"[+1 Happiness, +2 Gold] from every [Digital Market]"
                 ],
                 "requires": ["Entrepreneurship"],
                 "row": 2,
@@ -529,9 +531,9 @@
             {
                 "name": "Protectionism",
                 "uniques": [
-                    "[+1 Gold, +1 Science] from every [Trading post]",
-                    "[+1 Science, +1 Culture, +4 Gold] from every [Customs house]",
-                    "[+1 Gold, +1 Culture] from every [Luxury resource]"
+                    "[+1 Science, +1 Culture] from every [Trading post]",
+                    "[+6 Gold] from every [Customs house]",
+                    "[+1 Production, +1 Gold] from every [Luxury resource]"
                 ],
                 "requires": ["Mercantilism"],
                 "row": 3,
@@ -540,8 +542,8 @@
             {
                 "name": "Commerce Complete",
                 "uniques": [
-                    "[2] free [Great Merchant] units appear",
-                    "[+12 Gold, +4 Happiness] from every [National Treasury]",
+                    "Free [Great Merchant] appears",
+					"[Gold] cost of purchasing items in cities [-15]%",
                     "May buy [Great Merchant] units for [1000] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([500]) <starting from the [Industrial era]>"
                 ]
             }
