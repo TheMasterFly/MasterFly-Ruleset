@@ -3922,7 +3922,7 @@
         "outerColor": [40, 40, 40],
         "innerColor": [255, 38, 0],
         "uniqueName": "Iron Will/Timurid Renaissance",
-        "uniqueText": "Cities are razed 2 times as fast\nAll units gain +5/4/3% Strength for first 1/2/3 cities conquered, then additional 2% for each conquered city thereafter\nGain +2 [Happiness], [Science] and [Culture] in capital per conquered city\nGain 40% [Production] towards [Monument], [Amphitheater], [Opera House], [Library], [University] and [Observatory] buildings for 15 turns upon conquering a city",
+        "uniqueText": "Cities are razed 2 times as fast\nAll units gain +5/4/3% Strength for first 1/2/3 cities conquered, then additional 2% for each conquered city thereafter\nGain +2 [Happiness], [Science] and [Culture] in capital per conquered city",
         "uniques": [
 			"Cities are razed [2] times as fast",
             "Instantly gain [1] [Skull Pyramids] <upon conquering a city>",
