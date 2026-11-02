@@ -3339,7 +3339,7 @@
         ],
         "favoredReligion": "Christianity",
         "uniqueName": "Center of the World",
-        "uniqueText": "May build [Cathedral], [Monastery], [Mosque] and [Pagoda] buildings without needing their respective religious belief, but gain +15 [Production] cost for each every time 1 is built\n+Cities gain +25% Strength when all 4 are built",
+        "uniqueText": "May build [Cathedral], [Monastery], [Mosque] and [Pagoda] buildings without needing their respective religious belief, but gain +15 [Production] cost for each respective building each time it is built\n+Cities gain +25% Strength when all 4 are built",
         "uniques": [
             "[+25]% Strength for cities <in cities with a [Cathedral]> <in cities with a [Monastery]> <in cities with a [Mosque]> <in cities with a [Pagoda]> <hidden from users>"
         ],
