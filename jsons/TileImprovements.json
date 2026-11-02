@@ -223,11 +223,11 @@
             "Forest"
         ],
         "turnsToBuild": 8,
-		"culture": 1,
 		"production": 1,
         "techRequired": "Engineering",
         "uniques": [
 			"[+1 Production] <during a Golden Age>",
+			"[+1 Culture] <after discovering [Chemistry]>",
             "Gives a defensive bonus of [100]% <vs [non-[Siege]] units>",
             "Gives a defensive bonus of [50]% <vs [Siege] units>",
 			"Unavailable <within [2] tiles of a [Svan Tower]>"
