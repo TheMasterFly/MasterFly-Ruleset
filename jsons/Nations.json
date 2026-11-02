@@ -3339,18 +3339,10 @@
         ],
         "favoredReligion": "Christianity",
         "uniqueName": "Center of the World",
-        "uniqueText": "May buy [Cathedral], [Monastery], [Mosque] and [Pagoda] buildings with [Faith] without needing their respective religious belief, but lose 1 [Faith] and [Culture] from each\n+Gain 10% [Science] in Capital when all 4 are built\nAll newly trained [Military] units gain the [Stratiotiki Ekpaidefsi] promotion in cities where all 4 are built",
+        "uniqueText": "May build [Cathedral], [Monastery], [Mosque] and [Pagoda] buildings without needing their respective religious belief, but gain +15 [Production] cost for each every time 1 is built\n+Cities gain +20% Strength when all 4 are built",
         "uniques": [
-            "May buy [Cathedral] buildings with [Faith] [in all cities]",
-			"May buy [Monastery] buildings with [Faith] [in all cities]",
-            "May buy [Mosque] buildings with [Faith] [in all cities]",
-            "May buy [Pagoda] buildings with [Faith] [in all cities]",
-            "[-1 Faith, -1 Culture] from all [Cathedral] buildings <hidden from users>",
-			"[-1 Faith, -1 Culture] from all [Monastery] buildings <hidden from users>",
-            "[-1 Faith, -1 Culture] from all [Mosque] buildings <hidden from users>",
-            "[-1 Faith, -1 Culture] from all [Pagoda] buildings <hidden from users>",
-            "[+10]% [Science] [in capital] <in cities with a [Cathedral]> <in cities with a [Monastery]> <in cities with a [Mosque]> <in cities with a [Pagoda]> <hidden from users>",
-			"All newly-trained [Military] units [in all cities] receive the [Stratiotiki Ekpaidefsi] promotion <in cities with a [Cathedral]> <in cities with a [Monastery]> <in cities with a [Mosque]> <in cities with a [Pagoda]> <hidden from users>"
+            "[+100]% Strength for cities <in cities with a [Cathedral]> <in cities with a [Monastery]> <in cities with a [Mosque]> <in cities with a [Pagoda]> <hidden from users>",
+			"[+200 Production] [in all cities]"
         ],
         "cities": [
             "Constantinople",
