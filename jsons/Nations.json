@@ -3342,7 +3342,8 @@
         "uniqueText": "May build [Cathedral], [Monastery], [Mosque] and [Pagoda] buildings without needing their respective religious belief, but gain +15 [Production] cost for each every time 1 is built\n+Cities gain +20% Strength when all 4 are built",
         "uniques": [
             "[+100]% Strength for cities <in cities with a [Cathedral]> <in cities with a [Monastery]> <in cities with a [Mosque]> <in cities with a [Pagoda]> <hidden from users>",
-			"[+200 Production] [in all cities]"
+			"[+200 Production] [in all cities]",
+			"Starts with [Masonry]"
         ],
         "cities": [
             "Constantinople",
