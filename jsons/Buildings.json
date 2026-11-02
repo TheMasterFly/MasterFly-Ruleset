@@ -2138,7 +2138,7 @@
     },
     {
         "name": "Cathedral",
-        "cost": 100,
+        "cost": 85,
         "faith": 1,
         "culture": 3,
         "happiness": 1,
@@ -2154,7 +2154,7 @@
     },
     {
         "name": "Monastery",
-        "cost": 100,
+        "cost": 85,
         "culture": 1,
         "faith": 1,
 		"happiness": 1,
@@ -2168,7 +2168,7 @@
     },
     {
         "name": "Mosque",
-        "cost": 100,
+        "cost": 85,
         "culture": 2,
         "faith": 3,
         "happiness": 1,
@@ -2181,7 +2181,7 @@
     },
     {
         "name": "Pagoda",
-        "cost": 100,
+        "cost": 85,
         "culture": 2,
         "faith": 2,
         "happiness": 2,
