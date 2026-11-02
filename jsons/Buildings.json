@@ -2138,7 +2138,7 @@
     },
     {
         "name": "Cathedral",
-        "cost": 0,
+        "cost": 100,
         "faith": 1,
         "culture": 3,
         "happiness": 1,
@@ -2146,41 +2146,41 @@
             "Artist": 1
         },
         "uniques": [
-            "Unbuildable",
+            "Unbuildable <for [non-[Byzantium]] Civilizations>",
             "Only available <when religion is enabled>"
         ]
     },
     {
         "name": "Monastery",
-        "cost": 0,
+        "cost": 100,
         "culture": 1,
         "faith": 1,
 		"happiness": 1,
 		"science": 1,
         "uniques": [
-            "Unbuildable",
+            "Unbuildable <for [non-[Byzantium]] Civilizations>",
             "Only available <when religion is enabled>"
         ]
     },
     {
         "name": "Mosque",
-        "cost": 0,
+        "cost": 100,
         "culture": 2,
         "faith": 3,
         "happiness": 1,
         "uniques": [
-            "Unbuildable",
+            "Unbuildable <for [non-[Byzantium]] Civilizations>",
             "Only available <when religion is enabled>"
         ]
     },
     {
         "name": "Pagoda",
-        "cost": 0,
+        "cost": 100,
         "culture": 2,
         "faith": 2,
         "happiness": 2,
         "uniques": [
-            "Unbuildable",
+            "Unbuildable <for [non-[Byzantium]] Civilizations>",
             "Only available <when religion is enabled>"
         ]
     },
