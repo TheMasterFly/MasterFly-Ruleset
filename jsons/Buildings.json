@@ -2146,7 +2146,9 @@
             "Artist": 1
         },
         "uniques": [
-            "Unbuildable <for [non-[Byzantium]] Civilizations>",
+			"Comment [Unbuildable]",
+            "Unbuildable <for [non-[Byzantium]] Civilizations> <hidden from users>",
+			"Cost increases by [15] when built <for [Byzantium] Civilizations> <hidden from users>",
             "Only available <when religion is enabled>"
         ]
     },
@@ -2158,7 +2160,9 @@
 		"happiness": 1,
 		"science": 1,
         "uniques": [
-            "Unbuildable <for [non-[Byzantium]] Civilizations>",
+			"Comment [Unbuildable]",
+            "Unbuildable <for [non-[Byzantium]] Civilizations> <hidden from users>",
+			"Cost increases by [15] when built <for [Byzantium] Civilizations> <hidden from users>",
             "Only available <when religion is enabled>"
         ]
     },
@@ -2169,7 +2173,9 @@
         "faith": 3,
         "happiness": 1,
         "uniques": [
-            "Unbuildable <for [non-[Byzantium]] Civilizations>",
+			"Comment [Unbuildable]",
+            "Unbuildable <for [non-[Byzantium]] Civilizations> <hidden from users>",
+			"Cost increases by [15] when built <for [Byzantium] Civilizations> <hidden from users>",
             "Only available <when religion is enabled>"
         ]
     },
@@ -2180,7 +2186,9 @@
         "faith": 2,
         "happiness": 2,
         "uniques": [
-            "Unbuildable <for [non-[Byzantium]] Civilizations>",
+			"Comment [Unbuildable]",
+            "Unbuildable <for [non-[Byzantium]] Civilizations> <hidden from users>",
+			"Cost increases by [15] when built <for [Byzantium] Civilizations> <hidden from users>",
             "Only available <when religion is enabled>"
         ]
     },
