@@ -306,9 +306,6 @@
             "Cannot enter ocean tiles",
             "[+50]% Strength <vs [Water] units>"
         ],
-        "promotions": [
-            "Stratiotiki Ekpaidefsi"
-        ],
         "upgradesTo": "Galleass",
         "obsoleteTech": "Navigation",
         "attackSound": "arrow"
@@ -605,9 +602,6 @@
         "uniques": [
             "Can move after attacking",
             "[+50]% Strength <vs [Spear Unit ability]>"
-        ],
-        "promotions": [
-            "Stratiotiki Ekpaidefsi"
         ],
         "hurryCostModifier": 20,
         "attackSound": "horse"
