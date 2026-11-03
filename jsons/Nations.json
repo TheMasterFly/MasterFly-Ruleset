@@ -306,8 +306,12 @@
         "favoredReligion": "Islam",
         "uniqueName": "Ingenuity",
         "uniques": [
-            "Free [Great Scientist] appears <upon discovering [Writing] technology>",
-            "[Great Scientist] is earned [50]% faster"
+			"Comment [Free [Great Scientist] appears upon discovering [Writing], [Education], [Scientific Theory] and [Plastics] technologies]",
+            "Free [Great Scientist] appears <upon discovering [Writing] technology> <hidden from users>",
+			"Free [Great Scientist] appears <upon discovering [Education] technology> <hidden from users>",
+			"Free [Great Scientist] appears <upon discovering [Scientific Theory] technology> <hidden from users>",
+			"Free [Great Scientist] appears <upon discovering [Plastics] technology> <hidden from users>",
+			"[+15]% Strength <when attacking> <for [Military] units> <upon entering a new era> <for [21] turns> <(modified by game speed)>"
         ],
         "cities": [
             "Babylon",
@@ -3128,10 +3132,13 @@
             3
         ],
         "favoredReligion": "Christianity",
-        "uniqueName": "Nobel Prize",
+        "uniqueName": "Nobel Prize/Carolean Tactics",
         "uniques": [
+			"[+20]% Great Person generation [in all cities]",
             "Gain [90] Influence with a [Great Person] gift to a City-State",
-            "When declaring friendship, both parties gain a [10]% boost to great person generation"
+            "When declaring friendship, both parties gain a [20]% boost to great person generation",
+			"[Great General] is earned [50]% faster",
+			"[+1] Movement <for [Military] units> <upon gaining a [Great General] unit> <for [15] turns> <(modified by game speed)>"
         ],
         "cities": [
             "Stockholm",
