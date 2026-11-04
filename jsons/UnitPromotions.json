@@ -1454,8 +1454,8 @@
     {
         "name": "[Mohawk Warrior] ability",
         "uniques": [
-            "[+15]% Strength <when fighting in [Forest] tiles>",
-            "[+15]% Strength <when fighting in [Jungle] tiles>"
+            "[+20]% Strength <when fighting in [Forest] tiles>",
+            "[+20]% Strength <when fighting in [Jungle] tiles>"
         ]
     },
     {
