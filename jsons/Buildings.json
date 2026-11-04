@@ -863,11 +863,10 @@
         "name": "Zen Rock Garden",
         "replaces": "Garden",
         "uniqueTo": "Japan",
-        "culture": 2,
+        "culture": 1,
         "uniques": [
             "[+25]% Great Person generation [in this city]",
-            "New [Military] units start with [10] XP [in this city]",
-			"[-20]% Culture cost of natural border growth [in this city]"
+            "New [Military] units start with [15] XP [in this city]"
         ],
         "hurryCostModifier": 25,
         "maintenance": 1,
