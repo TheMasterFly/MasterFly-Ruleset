@@ -758,7 +758,7 @@
         "uniqueTo": "Iroquois",
         "replaces": "Swordsman",
         "movement": 3,
-        "strength": 13,
+        "strength": 12,
         "cost": 70,
         "requiredTech": "Iron Working",
         "upgradesTo": "Longswordsman",
