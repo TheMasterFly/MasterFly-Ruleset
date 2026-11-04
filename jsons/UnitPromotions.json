@@ -1582,15 +1582,6 @@
         ]
     },
     {
-        "name": "Of The Land",
-        "uniques": [
-            "[+10]% Strength <when fighting in [Forest] tiles>",
-            "Double movement in [Forest]"
-        ],
-        "outerColor": [54, 54, 72],
-        "innerColor": [246, 205, 137]
-    },
-    {
         "name": "Spear Unit ability",
         "uniques": [
             "[+50]% Strength <vs [Mounted] units>",
