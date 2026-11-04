@@ -2166,7 +2166,8 @@
             "Enables embarkation for land units <starting from the [Ancient era]> <Suppress warning [*contains a conditional on a unit movement unique*]>",
             "Enables [All] units to enter ocean tiles <starting from the [Ancient era]>",
             "[+1] Sight <for [Embarked] units>",
-            "[+10]% Strength <within [2] tiles of a [Moai]>"
+			"[1] Movement point cost to embark <for [Civilian] units>",
+            "[+15]% Strength <within [2] tiles of a [Moai]>"
         ],
         "cities": [
             "Honolulu",
