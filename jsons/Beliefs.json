@@ -627,7 +627,8 @@
     {
         "name": "Inner Discipline",
         "type": "Enhancer",
-        "uniques": ["May buy [Military] units with [Faith] for [4] times their normal Production cost <before the [Industrial era]>",
+        "uniques": ["May buy [Military] units with [Faith] for [5] times their normal Production cost <before the [Medieval era]>",
+            "May buy [Military] units with [Faith] for [4] times their normal Production cost <starting from the [Medieval era]> <before the [Industrial era]>",
             "May buy [Military] units with [Faith] for [3] times their normal Production cost <starting from the [Industrial era]>",
             "Only available <after adopting [Reformation]>"]
     },
