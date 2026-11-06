@@ -1093,8 +1093,8 @@
         "movement": 2,
         "strength": 12,
         "rangedStrength": 14,
-        "cost": 120,
-        "requiredTech": "Physics",
+        "cost": 1,
+        "requiredTech": "Agriculture",
         "obsoleteTech": "Chemistry",
         "upgradesTo": "Cannon",
         "uniques": [
