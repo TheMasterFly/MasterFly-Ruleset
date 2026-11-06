@@ -652,7 +652,8 @@
             "[+2 Gold, +2 Culture, +2 Faith] from every [Monastery]",
             "[+2 Gold, +2 Culture, +2 Faith] from every [Mosque]",
             "[+2 Gold, +2 Culture, +2 Faith] from every [Pagoda]",
-            "Only available <after adopting [Reformation]>"
+            "Only available <after adopting [Reformation]>",
+            "[+100]% weight to this choice for AI decisions <for [Byzantium] Civilizations>"
         ]
     },
     {
