@@ -1103,10 +1103,11 @@
             "Must set up to ranged attack",
             "[-1] Sight",
             "Never appears as a Barbarian unit",
-			"Ignores terrain cost <in [River] tiles>",
+			"Double movement in [River]",
+			"Eliminates combat penalty for attacking over a river",
+            "Eliminates combat penalty for attacking across a coast",
 			"May travel on Water tiles without embarking"
         ],
-		"promotions": ["Amphibious"],
         "attackSound": "throw"
     },
     {
