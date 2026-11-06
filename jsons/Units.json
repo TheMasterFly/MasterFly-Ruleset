@@ -81,7 +81,7 @@
 			"Can move after attacking",
 			"[-25]% Strength <vs cities> <when attacking>"],
         "promotions": ["Ignore terrain cost"],
-		"upgradesTo": "Composite Bowman",
+		"upgradesTo": "Chariot Archer",
         "attackSound": "arrow"
     },
     {
