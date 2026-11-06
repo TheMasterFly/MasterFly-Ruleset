@@ -1106,8 +1106,7 @@
 			"Double movement in [{River} {Forest}]",
             "Double movement in [{River} {Jungle}]",
             "Double movement in [{River} {Hill}]",
-			"Eliminates combat penalty for attacking over a river",
-            "Eliminates combat penalty for attacking across a coast",
+			"Double movement in [{River} {Marsh}]",
 			"May travel on Water tiles without embarking"
         ],
         "attackSound": "throw"
