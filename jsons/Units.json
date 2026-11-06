@@ -1103,7 +1103,9 @@
             "Must set up to ranged attack",
             "[-1] Sight",
             "Never appears as a Barbarian unit",
-			"Double movement in [River]",
+			"Double movement in [{River} {Forest}]",
+            "Double movement in [{River} {Jungle}]",
+            "Double movement in [{River} {Hill}]",
 			"Eliminates combat penalty for attacking over a river",
             "Eliminates combat penalty for attacking across a coast",
 			"May travel on Water tiles without embarking"
