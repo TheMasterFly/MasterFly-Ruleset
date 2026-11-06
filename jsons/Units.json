@@ -814,35 +814,6 @@
         ],
         "attackSound": "arrow"
     },
-	{
-		"name": "Haiqiu",
-		"unitType": "Ranged",
-		"uniqueTo": "Song",
-		"cost": 1,
-        "strength": 17,
-        "rangedStrength": 14,
-        "range": 2,
-		"movement": 3,
-		"strength": 14,
-		"requiredTech": "Agriculture",
-		"uniques": ["Unbuildable <in tiles without [River]>",
-			"Cannot move <in tiles without [River]> <in [Land] tiles>",
-			"May travel on Water tiles without embarking",
-			"Ignores terrain cost <in [River] tiles>",
-			"Cannot enter ocean tiles",
-			"Comment [Cannot enter ocean tiles",
-            "[+50]% Strength <vs [Water] units> <when attacking>",
-			"[+200]% Strength <vs cities> <when attacking>",
-            "No defensive terrain bonus",
-			"Unbuildable <in tiles without [River]>",
-			"Cannot move <in tiles without [River]> <in [Land] tiles>",
-			"May travel on Water tiles without embarking",
-			"Ignores terrain cost <in [River] tiles>]"],
-		"promotions": ["Amphibious"],
-		"upgradesTo": "Frigate",
-		"obsoleteTech": "Astronomy",
-		"attackSound": "nonmetalhit"
-	},
     {
         "name": "Knight",
         "unitType": "Mounted",
@@ -1112,6 +1083,30 @@
             "[-1] Sight",
             "Never appears as a Barbarian unit"
         ],
+        "attackSound": "throw"
+    },
+    {
+        "name": "Haiqiu",
+        "unitType": "Siege",
+        "replaces": "Trebuchet",
+        "uniqueTo": "Song",
+        "movement": 2,
+        "strength": 12,
+        "rangedStrength": 14,
+        "cost": 120,
+        "requiredTech": "Physics",
+        "obsoleteTech": "Chemistry",
+        "upgradesTo": "Cannon",
+        "uniques": [
+            "[+200]% Strength <vs cities> <when attacking>",
+            "No defensive terrain bonus",
+            "Must set up to ranged attack",
+            "[-1] Sight",
+            "Never appears as a Barbarian unit",
+			"Ignores terrain cost <in [River] tiles>",
+			"May travel on Water tiles without embarking"
+        ],
+		"promotions": ["Amphibious"],
         "attackSound": "throw"
     },
     {
