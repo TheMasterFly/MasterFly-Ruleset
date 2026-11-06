@@ -815,6 +815,30 @@
         "attackSound": "arrow"
     },
     {
+        "name": "Haiqiu",
+        "unitType": "Ranged Water",
+        "uniqueTo": "Song",
+        "movement": 3,
+        "strength": 17,
+        "rangedStrength": 14,
+        "range": 2,
+        "cost": 1,
+        "requiredTech": "Agriculture",
+        "uniques": [
+            "Cannot enter ocean tiles",
+            "[+50]% Strength <vs [Water] units> <when attacking>",
+			"[+200]% Strength <vs cities> <when attacking>",
+            "No defensive terrain bonus",
+			"Unbuildable <in tiles without [River]>",
+			"Cannot move <in tiles without [River]> <in [Land] tiles>",
+			"May travel on Water tiles without embarking",
+			"Ignores terrain cost <in [River] tiles>"
+        ],
+        "upgradesTo": "Frigate",
+        "obsoleteTech": "Navigation",
+        "attackSound": "arrow"
+    },
+    {
         "name": "Knight",
         "unitType": "Mounted",
         "movement": 4,
