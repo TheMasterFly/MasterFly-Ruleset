@@ -76,7 +76,7 @@
 		"requiredResource": "Horses",
         "cost": 32,
         "obsoleteTech": "Civil Service",
-        "uniques": ["May upgrade to [Chariot Archer] through ruins-like effects",
+        "uniques": ["May upgrade to [Archer] through ruins-like effects",
 			"No defensive terrain bonus",
 			"Can move after attacking",
 			"[-25]% Strength <vs cities> <when attacking>"],
@@ -816,7 +816,7 @@
     },
     {
         "name": "Haiqiu",
-        "unitType": "Ranged Water",
+        "unitType": "Ranged",
         "uniqueTo": "Song",
         "movement": 3,
         "strength": 17,
@@ -834,6 +834,7 @@
 			"May travel on Water tiles without embarking",
 			"Ignores terrain cost <in [River] tiles>"
         ],
+		"promotions": ["Amphibious"],
         "upgradesTo": "Frigate",
         "obsoleteTech": "Navigation",
         "attackSound": "arrow"
