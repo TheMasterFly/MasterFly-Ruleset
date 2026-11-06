@@ -661,23 +661,6 @@
         "requiredTech": "Currency"
     },
     {
-        "name": "Tang Market",
-        "replaces": "Market",
-        "uniqueTo": "Tang",
-        "gold": 3,
-        "specialistSlots": {
-            "Merchant": 1
-        },
-        "hurryCostModifier": 25,
-        "percentStatBonus": {
-            "gold": 15
-        },
-        "uniques": [
-            "Provides 1 extra copy of each improved luxury resource near this City",
-			"[+4 Gold] from [Silk] tiles [in this city]"],
-        "requiredTech": "Currency"
-    },
-    {
         "name": "Satrap's Court",
         "replaces": "Market",
         "uniqueTo": "Persia",
@@ -1117,7 +1100,8 @@
     {
         "name": "Paper Maker",
 		"replaces": "Workshop",
-		"uniqueTo": "Song",
+		"uniqueTo": "Tang",
+		"cost": "105",
         "maintenance": 3,
         "production": 2,
 		"science": 2,
@@ -1126,8 +1110,7 @@
         },
         "hurryCostModifier": 25,
         "percentStatBonus": {
-            "production": 10,
-			"science": 10
+            "production": 10
         },
         "requiredTech": "Metal Casting"
     },
