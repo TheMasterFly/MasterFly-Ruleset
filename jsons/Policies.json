@@ -268,7 +268,8 @@
                 "uniques": [
 					"[+1 Culture] [in all cities]",
                     "[+1 Culture] from every [Shrine]",
-                    "[+1 Culture] from every [Temple]"
+                    "[+1 Culture] from every [Temple]",
+					"[+50]% weight to this choice for AI decisions"
                 ],
                 "row": 1,
                 "column": 3
@@ -300,7 +301,8 @@
                 "name": "Reformation",
                 "uniques": [
                     "May choose [1] additional [Enhancer] beliefs when [founding] a religion",
-                    "Gain a free [Enhancer] belief <after founding a religion>"
+                    "Gain a free [Enhancer] belief <after founding a religion>",
+					"[+50]% weight to this choice for AI decisions"
                 ],
                 "requires": [
                     "Organized Religion"
